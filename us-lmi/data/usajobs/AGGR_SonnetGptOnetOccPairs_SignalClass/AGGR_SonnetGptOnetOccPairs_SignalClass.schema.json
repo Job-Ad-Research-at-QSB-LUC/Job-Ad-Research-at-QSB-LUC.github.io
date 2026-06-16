@@ -1,0 +1,1 @@
+[{"name":"signal_class","evidenceType":"string","typeFidelity":"precise"},{"name":"corpus_provenance","evidenceType":"string","typeFidelity":"precise"},{"name":"n_pairs","evidenceType":"number","typeFidelity":"precise"},{"name":"pct_within_corpus","evidenceType":"number","typeFidelity":"precise"}]

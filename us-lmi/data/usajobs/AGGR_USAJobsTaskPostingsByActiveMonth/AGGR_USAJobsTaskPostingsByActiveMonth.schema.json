@@ -1,0 +1,1 @@
+[{"name":"month_year","evidenceType":"string","typeFidelity":"precise"},{"name":"month_start","evidenceType":"date","typeFidelity":"precise"},{"name":"task_id","evidenceType":"number","typeFidelity":"precise"},{"name":"n_active_postings_with_task","evidenceType":"number","typeFidelity":"precise"}]

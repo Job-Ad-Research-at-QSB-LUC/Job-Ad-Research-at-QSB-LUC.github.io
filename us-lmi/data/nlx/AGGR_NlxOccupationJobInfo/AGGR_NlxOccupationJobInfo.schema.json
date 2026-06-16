@@ -1,0 +1,1 @@
+[{"name":"month_start","evidenceType":"date","typeFidelity":"precise"},{"name":"month_year","evidenceType":"string","typeFidelity":"precise"},{"name":"month_id","evidenceType":"number","typeFidelity":"precise"},{"name":"occ8","evidenceType":"string","typeFidelity":"precise"},{"name":"active_jobs","evidenceType":"number","typeFidelity":"precise"}]

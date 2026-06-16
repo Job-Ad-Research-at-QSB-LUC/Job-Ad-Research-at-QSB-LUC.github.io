@@ -1,0 +1,10 @@
+file,description
+ai_intensity_validation_reviewed.csv,"Pair-level reviewed results with scores, strata, each judge top pick, consensus status, and whether consensus picked the higher AI-score posting."
+ai_intensity_validation_judge_responses.csv,"One row per model response with raw response, parsed ranking, prompt version/hash, token/cost fields, and error flags. Full prompt text is omitted here; templates are shown on the page."
+ai_intensity_validation_gatekeeping.csv,"Per-judge fixed-sequence tests by strict/lenient stratum and score-gap bin, including n, accuracy, p-value, alpha, and reject/fail status."
+ai_intensity_validation_provider_sign_tests.csv,"Per-judge exact sign tests for large-gap, >=0.05-gap, and overall validation sets."
+ai_intensity_validation_consensus_sign_tests.csv,Consensus-only exact sign tests plus the overall Claude-vs-GPT-4o Cohen kappa.
+ai_intensity_aggregation_reliability.csv,"Posting-level reliability fit parameters from pairwise judge observations, including probit/lapse estimates and observed concordance by gap band."
+ai_intensity_aggregation_variance.csv,"Aggregation variance decomposition by occupation-code and agency grouping, including within/between SD, ICC, reliability, duplicate-content adjustment, and MDD."
+ai_intensity_validation_prompt_rows_audit.csv,"Prompt construction audit rows for initial large/medium pairs: titles, token counts, cleaned text lengths, trimming flags, and score metadata."
+ai_intensity_validation_prompt_rows_stage3_lt03_audit.csv,Prompt construction audit rows for the very-small-gap stage.

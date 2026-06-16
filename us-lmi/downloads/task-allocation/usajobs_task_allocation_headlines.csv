@@ -1,0 +1,8 @@
+metric,value,display_value,note
+usajobs_random_noncanonical_two_model_yes_rate,0.6145583038869258,61.5%,Random reviewed USAJOBS-present noncanonical pairs passing the two-model YES rule.
+usajobs_retained_noncanonical_pairs,9152,"9,152",Agreement-retained USAJOBS-present pairs outside the exact O*NET occupation-task assignment.
+usajobs_volume_bearing_tasks_typed,5856,"5,856",O*NET task statements with at least 500 USAJOBS federal task mentions and a provisional spread/ownership label.
+task_type_general_task,1802,"1,802",USAJOBS volume-bearing tasks labeled General task.
+task_type_shared_cluster_task,1567,"1,567",USAJOBS volume-bearing tasks labeled Shared cluster task.
+task_type_specialized_owned_task,1128,"1,128",USAJOBS volume-bearing tasks labeled Specialized / owned task.
+task_type_uncertain_mixed_task,1359,"1,359",USAJOBS volume-bearing tasks labeled Uncertain / mixed task.

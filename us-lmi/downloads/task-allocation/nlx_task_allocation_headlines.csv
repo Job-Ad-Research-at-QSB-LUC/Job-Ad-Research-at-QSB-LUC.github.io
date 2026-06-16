@@ -1,0 +1,8 @@
+metric,value,display_value,note
+nlx_random_noncanonical_two_model_yes_rate,0.5478274709533663,54.8%,Random reviewed NLx-present noncanonical pairs passing the two-model YES rule.
+nlx_retained_noncanonical_pairs,9504,"9,504",Agreement-retained NLx-present pairs outside the exact O*NET occupation-task assignment.
+nlx_volume_bearing_tasks_typed,6965,"6,965",O*NET task statements with at least 500 NLx national task mentions and a provisional spread/ownership label.
+task_type_general_task,117,117,NLx volume-bearing tasks labeled General task.
+task_type_shared_cluster_task,1172,"1,172",NLx volume-bearing tasks labeled Shared cluster task.
+task_type_specialized_owned_task,5099,"5,099",NLx volume-bearing tasks labeled Specialized / owned task.
+task_type_uncertain_mixed_task,577,577,NLx volume-bearing tasks labeled Uncertain / mixed task.

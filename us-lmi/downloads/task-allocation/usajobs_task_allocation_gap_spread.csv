@@ -1,0 +1,4 @@
+spread_bucket,spread_rule,n_tasks,share_tasks,n_retained_noncanonical_pairs,share_pairs,usajobs_mentions
+generic-diffusion,Demanded by retained noncanonical occupations in five or more SOC-2 sectors.,181,0.05284671532846715,3312,0.3618881118881119,2192375
+mixed,Demanded by retained noncanonical occupations in three or four SOC-2 sectors.,324,0.0945985401459854,1521,0.16619318181818182,959232
+sector-concentrated,Demanded by retained noncanonical occupations in one or two SOC-2 sectors.,2920,0.8525547445255475,4319,0.4719187062937063,2624893

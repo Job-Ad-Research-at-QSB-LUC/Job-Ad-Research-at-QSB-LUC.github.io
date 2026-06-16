@@ -1,0 +1,27 @@
+file,description,bytes
+llm_as_judge_onet_occ_pairs_reviewed.csv,"Top RCA reviewed pair-level results with model verdicts, parsed quality flags, canonical flags, migration distance, and source evidence.",2639037
+llm_as_judge_onet_occ_pairs_validated.csv,Top RCA agreement-retained pair-level results used by downstream task profiles and migration figures.,1536200
+llm_as_judge_onet_occ_pairs_blocklist.csv,Top RCA reviewed pairs excluded under the two-model agreement rule or quality filters.,1102371
+llm_as_judge_onet_occ_pairs_volume_reviewed.csv,High-volume reviewed pair-level robustness batch.,1627215
+llm_as_judge_onet_occ_pairs_volume_validated.csv,High-volume agreement-retained robustness batch.,891952
+llm_as_judge_onet_occ_pairs_volume_blocklist.csv,High-volume excluded/blocklisted batch.,735635
+llm_as_judge_onet_occ_pairs_random_reviewed.csv,Random postings-derived reviewed pair-level prevalence batch.,2492871
+llm_as_judge_onet_occ_pairs_random_validated.csv,Random postings-derived agreement-retained batch.,1415260
+llm_as_judge_onet_occ_pairs_random_blocklist.csv,Random postings-derived excluded/blocklisted batch.,1077769
+llm_as_judge_onet_occ_pairs_null_reviewed.csv,Independent null-baseline reviewed occupation-task pairs.,134785
+llm_as_judge_onet_occ_pairs_null_validated.csv,Independent null-baseline pairs passing the two-model rule.,17187
+llm_as_judge_onet_occ_pairs_null_summary.csv,Summary of the independent null-baseline pass rates and confidence intervals.,510
+primary_inclusion_by_batch.csv,Batch-level inclusion counts and pass rates.,600
+reliability_by_batch.csv,Batch-level inter-model agreement and kappa statistics.,319
+rca_migration_gradient.csv,Top RCA migration-distance pass-rate gradient.,395
+volume_migration_gradient.csv,High-volume migration-distance pass-rate gradient.,384
+random_migration_gradient.csv,Random batch migration-distance pass-rate gradient.,394
+rca_consensus_histogram.csv,Top RCA verdict consensus histogram.,89
+volume_consensus_histogram.csv,High-volume verdict consensus histogram.,88
+random_consensus_histogram.csv,Random verdict consensus histogram.,93
+random_boundary_cases.csv,Random batch boundary cases for audit review.,3531
+onet_dwa_chord_distinctive.png,O*NET-native SOC-2 chord map based on distinctiveness-weighted shared Detailed Work Activities.,1289416
+onet_posting_residual_soc2_distinctive.png,SOC-2 flow residual diagnostic comparing posting-derived and O*NET shared-DWA maps.,65796
+onet_posting_centrality_distinctive.png,Per-occupation weighted-strength diagnostic comparing posting-derived and O*NET shared-DWA maps.,177879
+onet_interpersonal_inflow.png,Focused implication diagnostic showing review-retained interpersonal and management task inflow into SOC-15 and SOC-17 occupations.,2785124
+onet_interpersonal_inflow.py,Code used to recreate the interpersonal and management task inflow diagnostic.,8255

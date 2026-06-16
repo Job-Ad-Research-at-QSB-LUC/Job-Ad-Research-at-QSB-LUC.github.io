@@ -1,0 +1,1 @@
+[{"name":"ind2","evidenceType":"string","typeFidelity":"precise"},{"name":"naics_name","evidenceType":"string","typeFidelity":"precise"},{"name":"month_start","evidenceType":"date","typeFidelity":"precise"},{"name":"monthly_active_jobs","evidenceType":"number","typeFidelity":"precise"}]

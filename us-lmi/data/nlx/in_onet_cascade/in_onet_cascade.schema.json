@@ -1,0 +1,1 @@
+[{"name":"level","evidenceType":"string","typeFidelity":"precise"},{"name":"n_top10_pairs","evidenceType":"number","typeFidelity":"precise"},{"name":"n_in_onet","evidenceType":"number","typeFidelity":"precise"},{"name":"pct_in_onet","evidenceType":"number","typeFidelity":"precise"}]

@@ -1,0 +1,7 @@
+file,description
+stem_tasks_movie_edges.csv,Raw edge list used for the STEM task-map movie; rows are rolling-window occupation pairs with SOC cousin-distance labels.
+stem_related_occupations_movie_edges.csv,Raw edge list used for the STEM related-occupation movie; rows are rolling-window occupation pairs with relatedness rho scores.
+rca_rim_movie.py,Python script that renders detailed RCA and relatedness movie frames.
+make_movies.py,Python script that encodes rendered monthly PNG frames into MP4 movies.
+relatedness.py,Python source defining the RCA-screened occupation relatedness formula and top-partner trimming.
+timelapse_frame_gen.py,Python source for rolling-window frame data collection and timelapse rendering helpers.

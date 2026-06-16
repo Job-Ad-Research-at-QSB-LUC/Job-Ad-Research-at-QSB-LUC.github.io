@@ -1,0 +1,1 @@
+[{"name":"month_start","evidenceType":"date","typeFidelity":"precise"},{"name":"corpus","evidenceType":"string","typeFidelity":"precise"},{"name":"monthly_active_jobs","evidenceType":"number","typeFidelity":"precise"}]
