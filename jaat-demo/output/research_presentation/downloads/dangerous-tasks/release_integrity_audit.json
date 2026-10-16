@@ -1,0 +1,8 @@
+{
+  "original_input_hashes_unchanged": true,
+  "review_records": 6892,
+  "distinct_inspected_reports": 14741,
+  "distinct_task_report_pairs": 19328,
+  "inspected_source_hashes_valid": true,
+  "narrative_hash_normalization": "SHA256 of lowercased text with whitespace collapsed; empty text uses empty hash, inherited from prepare_incident_corpus.py"
+}

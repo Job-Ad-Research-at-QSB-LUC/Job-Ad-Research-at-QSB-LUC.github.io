@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+
+<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><title>External validation · occupational relatedness</title><style>body{margin:0;color:#193247;background:white;font:16px/1.65 Arial,sans-serif}main{max-width:1120px;margin:auto;padding:35px 28px 65px}h1,h2{font-family:Georgia,serif;line-height:1.2}h1{font-size:39px}h2{margin-top:40px;padding-top:24px;border-top:1px solid #d8e2e6}a{color:#247981}.tablewrap{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:14px}td,th{padding:11px;border-bottom:1px solid #dce5e8;text-align:left}th{background:#edf4f4}li{margin-bottom:10px}@media(max-width:600px){main{padding:24px 18px}h1{font-size:31px}}</style><style id="profile-filter-style">#profile-filter-comparison{margin:28px 0;padding:24px;border:1px solid #c7d7e1;border-radius:8px;background:#f5f8fb;color:#193247}#profile-filter-comparison h2{margin:0 0 16px;padding:0;border:0}#profile-filter-comparison label{display:block;font-weight:700;margin-bottom:8px}#profile-filter-comparison select{width:100%;max-width:650px;padding:12px;font-size:16px;background:white;color:#193247;border:1px solid #718b9e;border-radius:4px}#profile-filter-comparison p{max-width:85ch}#profile-filter-comparison .pf-table{overflow:auto}#profile-filter-comparison table{width:100%;border-collapse:collapse;font-size:14px}#profile-filter-comparison td,#profile-filter-comparison th{padding:10px;text-align:left;border-bottom:1px solid #ccd8e0}#profile-filter-comparison a{color:#245b91}.dd-task-explorer,.dd-selected-pipeline,.dd-picker,.dd-evidence-path,.dd-panel,.dd-review-bridge{min-width:0;max-width:100%}.dd-picker{box-sizing:border-box}.dd-task-explorer{overflow-wrap:anywhere}@media(max-width:600px){.dd-task-explorer{grid-template-columns:minmax(0,1fr)!important}.dd-evidence-path{grid-template-columns:minmax(0,1fr)!important}}</style><style id="presentation-accessibility-style">
+.skip-link{position:fixed;left:12px;top:-100px;z-index:10000;background:#fff;color:#123d56;padding:12px;border:3px solid #123d56}.skip-link:focus{top:12px} :focus-visible{outline:3px solid #a34300!important;outline-offset:3px} summary{cursor:pointer;min-height:24px} .tablewrap{overflow-x:auto;max-width:100%} caption{text-align:left;font-weight:bold;padding:10px 0;color:#193247} details{margin:18px 0;padding:12px;border:1px solid #b9c9cc;border-radius:5px} @media(max-width:600px){body{overflow-wrap:anywhere}main{min-width:0}table{font-size:14px}pre{overflow-x:auto;max-width:100%}}
+
+.tablewrap table{min-width:620px} .tablewrap:focus-visible{outline:3px solid #a34300} main{box-sizing:border-box} @media(max-width:600px){h1{font-size:30px!important;line-height:1.15!important} .tablewrap{width:100%;box-sizing:border-box}}</style><style>#companion-navigation{display:flex;gap:24px;flex-wrap:wrap;padding:12px 24px;border-bottom:1px solid #dce5e8;background:#fff;color:#193247;font:16px/1.5 Arial,sans-serif}#companion-navigation a{color:#245e66;text-decoration:underline}#companion-navigation a:focus-visible{outline:3px solid #a34300;outline-offset:3px}</style><style>#companion-navigation{display:flex;gap:24px;flex-wrap:wrap;padding:12px 24px;border-bottom:1px solid #dce5e8;background:#fff;color:#193247;font:16px/1.5 Arial,sans-serif}#companion-navigation a{color:#245e66;text-decoration:underline}#companion-navigation a:focus-visible{outline:3px solid #a34300;outline-offset:3px}</style></head><body><a class="skip-link" href="#main-content">Skip to main content</a><nav aria-label="Companion navigation" id="companion-navigation"><a href="../research_presentation/index.html">Home</a><a href="../research_presentation/index.html#page-index">Page index</a></nav><main id="main-content"><h1 data-presentation="reviewed" id="external-validation-shared-work-and-observed-mobility">External validation: shared work and observed mobility</h1>
+<p><a href="index.html">← Occupation navigator</a> · <a href="skills_abilities.html">Skills and abilities</a><br/>Updated 16 October 2026 · manuscript and SI comparisons</p>
+<h2 id="what-this-comparison-asks">What this comparison asks</h2>
+<p id="reader-validation-intro">How well do related-occupation recommendations recover observed occupational moves? <strong>Mean recovery</strong> averages recovery equally across starting occupations. SST uses career-history transition shares; EMSI uses overlap with its ranked list of twenty destinations. Their percentages answer different questions; compare models within each benchmark.</p><details><summary>What this comparison can and cannot establish</summary><p>Do posting-derived task profiles identify related occupations that also appear in independently sourced records of occupational movement? <strong>Observed transitions are one external check on shared work, not a complete measure of opportunity.</strong> Hiring practices, credentials, geography, wages, and other skills-related constraints—including required knowledge and abilities—can affect which occupational moves occur. Absence from a transition record is not evidence that a transition is impossible. Similarity is not a transition probability or a claim of readiness for a job.</p><p>Tasks are a form of skills data: they describe concrete activities performed at work. Task descriptions, broader skill categories, knowledge, and abilities capture distinct aspects of work requirements. This analysis distinguishes these representations and tests how well each identifies related occupations. Task vectors use the normalized square root of RCA (occupation task share divided by pooled task share), without an RCA cutoff. This page compares task and O*NET representations; it does not use transition frequency to train or weight the navigator's recommendations. Results do not establish better placements or the causal effectiveness of employment services.</p></details>
+<p><a href="#equal-length-comparisons">Main results</a> · <a href="#main-comparison-up-to-20">Up to 20 recommendations</a> · <a href="#public-replication">USAJOBS replication</a> · <a href="#survey-detail-and-pooling">Survey detail</a> · <a href="#methods-and-limits">Methods</a> · <a href="#sources-and-downloads">Sources</a></p>
+<p><span id="equal-length-recommendations"></span></p>
+<h2 id="equal-length-comparisons">Benchmark results</h2>
+<p>Both models use <strong>the same number of destinations for every origin and benchmark</strong>: the smaller available model list, capped at 20. Each list retains its original ranking. The common length is determined without consulting observed transition outcomes. Zero-length pairs are excluded from equal-length summaries (none in the six primary benchmarks).</p>
+<p></p>
+<div aria-label="Scrollable results table" class="tablewrap" id="presentation-reviewed" role="region" tabindex="0"><table><caption>NLx: the manuscript comparisons, with both occupation-task filters</caption><thead><tr><th scope="col">Benchmark</th><th scope="col">Origins</th><th scope="col">Posting tasks: mean recovery</th><th scope="col">O*NET lists: mean recovery</th><th scope="col">Higher recovery</th><th scope="col">Equal recovery</th><th scope="col">Lower recovery</th></tr></thead><tbody><tr><th scope="row">SST</th><td>604</td><td>15.68%</td><td>11.22%</td><td>467/604 (77.3%)</td><td>0/604 (0.0%)</td><td>137/604 (22.7%)</td></tr><tr><th scope="row">EMSI</th><td>429</td><td>27.41%</td><td>17.75%</td><td>319/429 (74.4%)</td><td>55/429 (12.8%)</td><td>55/429 (12.8%)</td></tr></tbody></table></div><p>Higher, equal and lower compare the posting-task model with O*NET for each origin. These counts are descriptive, not significance tests.</p><p><strong>Across SST and EMSI: 668 unique occupations.</strong> Posting tasks are favored for 495 (74.1%); O*NET for 130 (19.5%); 8 (1.2%) are tied and 35 (5.2%) have mixed evidence. An occupation favors a model if that model wins in at least one benchmark and loses in neither. Mixed means opposite directions across the two benchmarks.</p><section id="public-replication"><h2>Repeat the workflow with public USAJOBS data</h2><p>The public federal-posting database, three starter notebooks, figure and full benchmark results are available together. This repeats the workflow with a different corpus; it does not numerically reproduce NLx.</p><p><a href="../research_presentation/downloads/usajobs-notebooks/index.html">USAJOBS notebooks, data and results</a></p></section><details><summary>All six benchmarks: mean recovery and recommendation lengths</summary><div aria-label="Scrollable results table" class="tablewrap" role="region" tabindex="0"><table>
+<thead>
+<tr>
+<th scope="col" style="text-align: left;">Benchmark</th>
+<th scope="col" style="text-align: right;">Origins</th>
+<th scope="col" style="text-align: right;">O*NET available list length</th>
+<th scope="col" style="text-align: right;">Posting tasks (%)</th>
+<th scope="col" style="text-align: right;">O*NET published (%)</th>
+<th scope="col" style="text-align: left;">More recovery: count (%)</th>
+<th scope="col" style="text-align: right;">Ties</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">SST</td>
+<td style="text-align: right;">604</td>
+<td style="text-align: right;">15.73</td>
+<td style="text-align: right;">15.68</td>
+<td style="text-align: right;">11.22</td>
+<td style="text-align: left;">467/604 (77.3%)</td>
+<td style="text-align: right;">0</td>
+</tr>
+<tr>
+<td style="text-align: left;">EMSI</td>
+<td style="text-align: right;">429</td>
+<td style="text-align: right;">17.67</td>
+<td style="text-align: right;">27.41</td>
+<td style="text-align: right;">17.75</td>
+<td style="text-align: left;">319/429 (74.4%)</td>
+<td style="text-align: right;">55</td>
+</tr>
+<tr>
+<td style="text-align: left;">CPS + SIPP</td>
+<td style="text-align: right;">109</td>
+<td style="text-align: right;">14.31</td>
+<td style="text-align: right;">21.15</td>
+<td style="text-align: right;">19.22</td>
+<td style="text-align: left;">70/109 (64.2%)</td>
+<td style="text-align: right;">1</td>
+</tr>
+<tr>
+<td style="text-align: left;">NLSY97 + PSID · 3 years</td>
+<td style="text-align: right;">77</td>
+<td style="text-align: right;">12.87</td>
+<td style="text-align: right;">14.79</td>
+<td style="text-align: right;">12.31</td>
+<td style="text-align: left;">52/77 (67.5%)</td>
+<td style="text-align: right;">3</td>
+</tr>
+<tr>
+<td style="text-align: left;">NLSY97 + PSID · 5 years</td>
+<td style="text-align: right;">76</td>
+<td style="text-align: right;">12.87</td>
+<td style="text-align: right;">13.10</td>
+<td style="text-align: right;">10.55</td>
+<td style="text-align: left;">52/76 (68.4%)</td>
+<td style="text-align: right;">2</td>
+</tr>
+<tr>
+<td style="text-align: left;">NLSY97 + PSID · 10 years</td>
+<td style="text-align: right;">65</td>
+<td style="text-align: right;">12.80</td>
+<td style="text-align: right;">10.47</td>
+<td style="text-align: right;">8.26</td>
+<td style="text-align: left;">44/65 (67.7%)</td>
+<td style="text-align: right;">3</td>
+</tr>
+</tbody>
+</table></div></details>
+<p>The denominator remains the full observed transition mass for SST and surveys, and the original twenty ranked destinations for EMSI. We do not replace EMSI's denominator with the shortened recommendation count. Origins receive equal weight. “More recovery” counts strictly positive paired differences above 1e-12; ties remain in the denominator. This compares ranking performance at equal recommendation lengths; it does not remove crosswalk or candidate-population limitations.</p>
+<details><summary>Worked RN example: destinations, mapping and arithmetic</summary><h3 id="worked-example-registered-nurses">Worked example: Registered Nurses</h3>
+<div aria-label="Scrollable results table" class="tablewrap" role="region" tabindex="0"><table>
+<thead>
+<tr>
+<th scope="col" style="text-align: left;">Benchmark</th>
+<th scope="col" style="text-align: left;">Original lengths: tasks / O*NET</th>
+<th scope="col" style="text-align: left;">Equal length</th>
+<th scope="col" style="text-align: left;">Original scores: tasks / O*NET</th>
+<th scope="col" style="text-align: left;">Equal-length scores: tasks / O*NET</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">SST</td>
+<td style="text-align: left;">20 / 19</td>
+<td style="text-align: left;">19 each</td>
+<td style="text-align: left;">27.5% / 9.5%</td>
+<td style="text-align: left;">27.4% / 9.5%</td>
+</tr>
+<tr>
+<td style="text-align: left;">EMSI</td>
+<td style="text-align: left;">20 / 18</td>
+<td style="text-align: left;">18 each</td>
+<td style="text-align: left;">30.0% / 20.0%</td>
+<td style="text-align: left;">30.0% / 20.0%</td>
+</tr>
+<tr>
+<td style="text-align: left;">CPS + SIPP</td>
+<td style="text-align: left;">20 / 9</td>
+<td style="text-align: left;">9 each</td>
+<td style="text-align: left;">38.9% / 27.5%</td>
+<td style="text-align: left;">27.9% / 27.5%</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Why SST uses 19 rather than 20.</strong> The broader SOC6 illustration and the SST evaluation use different candidate populations. Four destinations in the broader published-O*NET top 20 cannot pass our one-to-one SOC2010–SOC2018 crosswalk: <strong>Paramedics, Emergency Medical Technicians, Pediatric Surgeons, and Neurologists</strong>. Three destinations below that broader top-20 cutoff remain eligible—<strong>Psychologists, All Other; Obstetricians and Gynecologists; and Physical Therapists</strong>—so the full mapped O*NET ranking supplies <strong>19 distinct destinations</strong>. The ranking combines published lists for the five RN specialties; this is not simply deleting one entry from the generic RN occupation's original list.</p>
+<p>To match that length, we retain the first 19 posting-task recommendations and drop its rank-20 destination, <strong>Respiratory Therapists (29-1126)</strong>. Respiratory Therapists are still an eligible SST destination and remain in O*NET's list. We remove them only from the posting-task recommendation list for this equal-length comparison—not from observed outcomes or the candidate pool. That changes RN posting-task capture from <strong>27.50% to 27.42%</strong>. The rule is based on model ranks and available list lengths, not on whether that last recommendation helps the score.</p>
+<p><strong>Why CPS + SIPP uses nine.</strong> Its Census occupation groups are broader than SST's SOC occupations. Tracking the 19 eligible SST O*NET destinations into the CPS + SIPP candidate mapping gives:</p>
+<div aria-label="Scrollable results table" class="tablewrap" role="region" tabindex="0"><table>
+<thead>
+<tr>
+<th scope="col">Mapping step</th>
+<th scope="col" style="text-align: right;">Effect on the 19 destinations</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Six physician occupations fall in “Physicians and surgeons,” a Census group excluded by our conservative SOC-vintage crosswalk rule</td>
+<td style="text-align: right;">−6</td>
+</tr>
+<tr>
+<td>“Psychologists, All Other” and “Psychiatric Technicians” fall in other excluded Census groups with non-one-to-one SOC-vintage mappings</td>
+<td style="text-align: right;">−2</td>
+</tr>
+<tr>
+<td>“Mental Health Counselors” falls in a broader counselors group not fully represented in the fixed model population</td>
+<td style="text-align: right;">−1</td>
+</tr>
+<tr>
+<td>“Nursing Assistants” and “Psychiatric Aides” merge into one nursing, psychiatric, and home health aides category</td>
+<td style="text-align: right;">−1</td>
+</tr>
+<tr>
+<td><strong>Distinct eligible destinations remaining</strong></td>
+<td style="text-align: right;"><strong>9</strong></td>
+</tr>
+</tbody>
+</table></div>
+<p>These are classification and candidate-population restrictions, <strong>not a low destination-frequency threshold or evidence that those occupations are absent from the surveys</strong>. The mapping rule requires unambiguous SOC-vintage correspondences and complete representation of each retained Census group. It is a conservative analysis choice; nine is not an inherent limit of O*NET. We then apply the equal-length rule separately within this benchmark.</p>
+<p>For <strong>CPS + SIPP</strong>, start with 400 eligible candidate destinations and the same 262 observed RN occupation-change records. After occupation mapping, the posting-task ranking supplies 20 recommendations and published O*NET supplies nine. We take the <strong>first nine destinations from each ranking</strong>, without using transition outcomes to choose them.</p>
+<p>For each list, add the supplied survey weights of RN transitions into its recommended destinations, then divide by the weight of <strong>all 262 RN changes</strong>, including transitions to destinations outside the candidate pool. These percentages are weighted shares, not counts divided by 262.</p>
+<ul>
+<li><strong>Posting tasks, first 9:</strong> capture <strong>27.85%</strong> of observed transition weight.</li>
+<li><strong>Published O*NET, all 9:</strong> capture <strong>27.45%</strong>.</li>
+<li><strong>Difference:</strong> <strong>0.40 percentage points</strong>, compared with <strong>11.49 points</strong> under the original 20-versus-9 comparison.</li>
+</ul>
+<p>The additional posting-task recommendations at ranks 10–20 capture another <strong>11.09 percentage points</strong>. They explain almost all of the larger original RN CPS + SIPP gap. Equal lengths reveal a small descriptive difference here, not evidence of a statistically significant advantage for RN. SST and EMSI retain larger gaps in the table above.</p>
+<details>
+<summary>See the nine destinations and their contributions</summary>
+<div aria-label="Scrollable results table" class="tablewrap" role="region" tabindex="0"><table>
+<thead>
+<tr>
+<th scope="col" style="text-align: right;">Rank</th>
+<th scope="col" style="text-align: left;">Posting-task destination</th>
+<th scope="col" style="text-align: left;">Captured share (tasks)</th>
+<th scope="col" style="text-align: left;">O*NET destination</th>
+<th scope="col" style="text-align: left;">Captured share (O*NET)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: right;">1</td>
+<td style="text-align: left;">Nurse practitioners</td>
+<td style="text-align: left;">4.22%</td>
+<td style="text-align: left;">Nurse practitioners</td>
+<td style="text-align: left;">4.22%</td>
+</tr>
+<tr>
+<td style="text-align: right;">2</td>
+<td style="text-align: left;">Licensed practical and licensed vocational nurses</td>
+<td style="text-align: left;">3.68%</td>
+<td style="text-align: left;">Nurse midwives</td>
+<td style="text-align: left;">0.00%</td>
+</tr>
+<tr>
+<td style="text-align: right;">3</td>
+<td style="text-align: left;">Medical and health services managers</td>
+<td style="text-align: left;">3.88%</td>
+<td style="text-align: left;">Licensed practical and licensed vocational nurses</td>
+<td style="text-align: left;">3.68%</td>
+</tr>
+<tr>
+<td style="text-align: right;">4</td>
+<td style="text-align: left;">Medical assistants</td>
+<td style="text-align: left;">0.64%</td>
+<td style="text-align: left;">Respiratory therapists</td>
+<td style="text-align: left;">3.62%</td>
+</tr>
+<tr>
+<td style="text-align: right;">5</td>
+<td style="text-align: left;">Pharmacists</td>
+<td style="text-align: left;">0.00%</td>
+<td style="text-align: left;">Nurse anesthetists</td>
+<td style="text-align: left;">0.50%</td>
+</tr>
+<tr>
+<td style="text-align: right;">6</td>
+<td style="text-align: left;">Nursing, psychiatric, and home health aides</td>
+<td style="text-align: left;">9.67%</td>
+<td style="text-align: left;">Physician assistants</td>
+<td style="text-align: left;">1.01%</td>
+</tr>
+<tr>
+<td style="text-align: right;">7</td>
+<td style="text-align: left;">Physician assistants</td>
+<td style="text-align: left;">1.01%</td>
+<td style="text-align: left;">Nursing, psychiatric, and home health aides</td>
+<td style="text-align: left;">9.67%</td>
+</tr>
+<tr>
+<td style="text-align: right;">8</td>
+<td style="text-align: left;">Physical therapists</td>
+<td style="text-align: left;">4.76%</td>
+<td style="text-align: left;">Computer systems analysts</td>
+<td style="text-align: left;">0.00%</td>
+</tr>
+<tr>
+<td style="text-align: right;">9</td>
+<td style="text-align: left;">Nurse midwives</td>
+<td style="text-align: left;">0.00%</td>
+<td style="text-align: left;">Physical therapists</td>
+<td style="text-align: left;">4.76%</td>
+</tr>
+</tbody>
+</table></div>
+<p>Each entry is that destination's share of all observed RN transition weight. Columns sum to 27.85% and 27.45%, subject to rounding. A zero indicates no observed RN transition weight to that destination in this sample. Occupation names are the broader Census categories used for the survey comparison.</p>
+</details>
+<p><a href="validation_rn_worked_example.csv">Download RN destination-level contributions</a></p>
+</details><h3 id="reading-the-two-summary-charts">How to read these comparisons</h3>
+<p><strong>Mean capture / recovery</strong> asks how much observed mobility the recommendations recover, averaged equally across origins. <strong>Share of origins with more recovery</strong> asks how widespread a positive difference is; a tiny positive difference and a large one each count as one origin. Ties stay in the denominator. The two panels complement each other: one shows the average amount recovered, the other the prevalence of greater recovery.</p>
+<details class="reader-detail"><summary>Alternative rule: up to 20 recommendations</summary><h3 id="original-maximum-of-20-recommendations">Original maximum of 20 recommendations</h3>
+<div aria-label="Scrollable results table" class="tablewrap" role="region" tabindex="0"><table>
+<thead>
+<tr>
+<th scope="col" style="text-align: left;">Benchmark</th>
+<th scope="col" style="text-align: right;">Origins</th>
+<th scope="col" style="text-align: right;">O*NET available list length</th>
+<th scope="col" style="text-align: right;">Posting tasks (%)</th>
+<th scope="col" style="text-align: right;">O*NET published (%)</th>
+<th scope="col" style="text-align: left;">More recovery: count (%)</th>
+<th scope="col" style="text-align: right;">Ties</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">SST</td>
+<td style="text-align: right;">604</td>
+<td style="text-align: right;">15.73</td>
+<td style="text-align: right;">19.00</td>
+<td style="text-align: right;">11.22</td>
+<td style="text-align: left;">538/604 (89.1%)</td>
+<td style="text-align: right;">0</td>
+</tr>
+<tr>
+<td style="text-align: left;">EMSI</td>
+<td style="text-align: right;">429</td>
+<td style="text-align: right;">17.67</td>
+<td style="text-align: right;">30.29</td>
+<td style="text-align: right;">17.75</td>
+<td style="text-align: left;">347/429 (80.9%)</td>
+<td style="text-align: right;">43</td>
+</tr>
+<tr>
+<td style="text-align: left;">CPS + SIPP</td>
+<td style="text-align: right;">109</td>
+<td style="text-align: right;">14.31</td>
+<td style="text-align: right;">25.45</td>
+<td style="text-align: right;">19.22</td>
+<td style="text-align: left;">86/109 (78.9%)</td>
+<td style="text-align: right;">0</td>
+</tr>
+<tr>
+<td style="text-align: left;">NLSY97 + PSID · 3 years</td>
+<td style="text-align: right;">77</td>
+<td style="text-align: right;">12.87</td>
+<td style="text-align: right;">18.69</td>
+<td style="text-align: right;">12.31</td>
+<td style="text-align: left;">68/77 (88.3%)</td>
+<td style="text-align: right;">1</td>
+</tr>
+<tr>
+<td style="text-align: left;">NLSY97 + PSID · 5 years</td>
+<td style="text-align: right;">76</td>
+<td style="text-align: right;">12.87</td>
+<td style="text-align: right;">17.33</td>
+<td style="text-align: right;">10.55</td>
+<td style="text-align: left;">69/76 (90.8%)</td>
+<td style="text-align: right;">0</td>
+</tr>
+<tr>
+<td style="text-align: left;">NLSY97 + PSID · 10 years</td>
+<td style="text-align: right;">65</td>
+<td style="text-align: right;">12.80</td>
+<td style="text-align: right;">14.69</td>
+<td style="text-align: right;">8.26</td>
+<td style="text-align: left;">60/65 (92.3%)</td>
+<td style="text-align: right;">0</td>
+</tr>
+</tbody>
+</table></div>
+<p>Here each model may return up to twenty destinations. Counts can differ even though the maximum is the same. Results are reported separately for each benchmark.</p>
+<p><a href="validation_equal_length_summary.csv">Results for both recommendation rules</a> · <a href="validation_equal_length_by_origin.csv">Occupation-level paired results, including separate surveys</a></p>
+<p><span id="main-comparison-up-to-20"></span></p>
+</details><details><summary>Sensitivity to occupation-task filtering</summary><section aria-labelledby="profile-filter-title" data-application="relatedness" id="profile-filter-comparison"><h2 id="profile-filter-title">How does filtering affect the results?</h2><label for="profile-filter-choice">Occupation-task profile filters</label><select id="profile-filter-choice"><option value="current">Paper filters · review exclusions + at least 5 observations</option><option value="no_review">No review exclusions · at least 5 observations</option><option value="all_links">No review or frequency exclusions · all observed links</option></select><p aria-live="polite" data-filter-status=""></p><p>This selector compares benchmark recovery. Occupation recommendations and task examples elsewhere on this page retain the paper’s profiles. Candidate occupations and recommendation lengths are fixed across variants; RCA is recomputed for each profile.</p><div class="pf-table"><table><thead><tr><th scope="col">Benchmark</th><th scope="col">Occupations / groups</th><th scope="col">Posting profiles · Mean recovery</th><th scope="col">O*NET · Mean recovery</th></tr></thead><tbody></tbody></table></div><p><small>Filter comparison. “No exclusions” restores occupation-task profile links; it does not remove the OSHA evidence review. The paper’s filters retain eligible unreviewed links and canonical assignments. An observation is a sampled job-month.</small></p><p><a download="" href="profile_filters/summary.csv">Comparison results · CSV</a> · <a href="profile_filters/README.txt">Definitions and scope</a> · <a download="" href="profile_filters/build.py">Analysis code</a></p></section></details><h2 id="which-source-is-which">Which source is which?</h2>
+<div aria-label="Scrollable results table" class="tablewrap" role="region" tabindex="0"><table>
+<thead>
+<tr>
+<th scope="col">Source</th>
+<th scope="col">Observations and score</th>
+<th scope="col">Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SST — Schubert, Stansbury and Taska</td>
+<td>Career-history transitions; captured transition share</td>
+<td>Separate historical mobility benchmark</td>
+</tr>
+<tr>
+<td>CTOT–EMSI</td>
+<td>Career-profile occupation-pair ranks; recovery of the original top 20 destinations</td>
+<td>Rank recovery, not a worker-flow percentage; the DOL dashboard transition summary is derivative</td>
+</tr>
+<tr>
+<td>CPS</td>
+<td>CTOT occupation-change records, supplied weights</td>
+<td>Distinct survey source; released ID cannot identify respondents</td>
+</tr>
+<tr>
+<td>SIPP</td>
+<td>CTOT job-change records, supplied weights</td>
+<td>Same-occupation records excluded; repeated records possible</td>
+</tr>
+<tr>
+<td>NLSY97</td>
+<td>Start-to-end occupations at 3, 5 and 10 years</td>
+<td>Same survey across overlapping horizons</td>
+</tr>
+<tr>
+<td>PSID</td>
+<td>Start-to-end occupations at 3, 5 and 10 years</td>
+<td>Same survey across overlapping horizons</td>
+</tr>
+</tbody>
+</table></div>
+<p>CTOT is the Department of Labor's Career Trajectories and Occupational Transitions study. <strong>EMSI is not a combination of the surveys.</strong> Four distinct survey sources do not become eight independent replications when horizons are repeated. All share CTOT processing and harmonization; observations and people can recur.</p>
+<details><summary>Survey benchmarks: coverage and pooling</summary><h2 id="survey-detail-and-pooling">Survey detail and pooling</h2>
+<p>CPS and SIPP are pooled by stacking their records and preserving supplied weights. NLSY97 and PSID are pooled separately for each horizon. This is not an average of separate-source headline percentages. Pooling increases eligible origins but does not resolve crosswalk exclusions, unequal source contributions or repeated observations. Trajectory weights can be dominated by NLSY97; they are not an equal-source consensus.</p>
+<div aria-label="Scrollable results table" class="tablewrap" role="region" tabindex="0"><table>
+<thead>
+<tr>
+<th scope="col" style="text-align: left;">Pool</th>
+<th scope="col" style="text-align: right;">Origins</th>
+<th scope="col" style="text-align: right;">Change records</th>
+<th scope="col" style="text-align: right;">Mapped destination weight (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">CPS_SIPP</td>
+<td style="text-align: right;">109</td>
+<td style="text-align: right;">26812</td>
+<td style="text-align: right;">72.18</td>
+</tr>
+<tr>
+<td style="text-align: left;">NLSY97_PSID_3y</td>
+<td style="text-align: right;">77</td>
+<td style="text-align: right;">15984</td>
+<td style="text-align: right;">56.97</td>
+</tr>
+<tr>
+<td style="text-align: left;">NLSY97_PSID_5y</td>
+<td style="text-align: right;">76</td>
+<td style="text-align: right;">16742</td>
+<td style="text-align: right;">54.55</td>
+</tr>
+<tr>
+<td style="text-align: left;">NLSY97_PSID_10y</td>
+<td style="text-align: right;">65</td>
+<td style="text-align: right;">13688</td>
+<td style="text-align: right;">51.04</td>
+</tr>
+</tbody>
+</table></div>
+<p>The table reports retained change records, not unique people. Mapping coverage is the share of evaluated destination weight represented in the model candidate pool. Unmapped destinations remain in the overall capture denominator. These are CTOT's supplied-weight analyses, not newly recalibrated national survey estimates.</p>
+<h3 id="separate-source-sensitivity">Separate-source sensitivity</h3>
+<div aria-label="Scrollable results table" class="tablewrap" role="region" tabindex="0"><table>
+<thead>
+<tr>
+<th scope="col" style="text-align: left;">dataset</th>
+<th scope="col" style="text-align: right;">Origins</th>
+<th scope="col" style="text-align: right;">O*NET published (%)</th>
+<th scope="col" style="text-align: right;">O*NET quantitative (%)</th>
+<th scope="col" style="text-align: right;">Posting tasks (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">CPS</td>
+<td style="text-align: right;">62</td>
+<td style="text-align: right;">23.42</td>
+<td style="text-align: right;">26.58</td>
+<td style="text-align: right;">28.97</td>
+</tr>
+<tr>
+<td style="text-align: left;">NLSY97_10y</td>
+<td style="text-align: right;">55</td>
+<td style="text-align: right;">7.70</td>
+<td style="text-align: right;">10.35</td>
+<td style="text-align: right;">14.39</td>
+</tr>
+<tr>
+<td style="text-align: left;">NLSY97_3y</td>
+<td style="text-align: right;">65</td>
+<td style="text-align: right;">11.76</td>
+<td style="text-align: right;">14.00</td>
+<td style="text-align: right;">18.22</td>
+</tr>
+<tr>
+<td style="text-align: left;">NLSY97_5y</td>
+<td style="text-align: right;">66</td>
+<td style="text-align: right;">9.81</td>
+<td style="text-align: right;">12.39</td>
+<td style="text-align: right;">16.98</td>
+</tr>
+<tr>
+<td style="text-align: left;">PSID_10y</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">12.82</td>
+<td style="text-align: right;">16.15</td>
+<td style="text-align: right;">17.44</td>
+</tr>
+<tr>
+<td style="text-align: left;">PSID_3y</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">18.26</td>
+<td style="text-align: right;">21.47</td>
+<td style="text-align: right;">22.90</td>
+</tr>
+<tr>
+<td style="text-align: left;">PSID_5y</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">16.81</td>
+<td style="text-align: right;">18.93</td>
+<td style="text-align: right;">21.76</td>
+</tr>
+<tr>
+<td style="text-align: left;">SIPP</td>
+<td style="text-align: right;">82</td>
+<td style="text-align: right;">15.70</td>
+<td style="text-align: right;">17.41</td>
+<td style="text-align: right;">23.99</td>
+</tr>
+</tbody>
+</table></div>
+<p>Keeping the separate sources visible prevents pooling from hiding heterogeneity. The primary survey comparison requires at least 40 observed changes per origin; this is our analysis threshold, not a claim that every survey record or occupation is represented. Different survey designs, horizons, occupations and retained samples can change absolute recovery. These results do not justify a blanket conclusion that surveys are poor benchmarks.</p>
+</details><h2 id="from-posting-titles-and-tasks-to-related-occupations">Code and worked example</h2><p><a href="../research_presentation/methods.html#worked-notebooks">Three worked USAJOBS notebooks</a> · <a href="rn_figure/index.html">Paper figure and workbook</a>. <a href="../research_presentation/downloads/usajobs-notebooks/index.html">USAJOBS figure, benchmark results and downloads</a>. The USAJOBS example uses a different corpus; the results on this page are the paper’s NLx analysis.</p><h2 id="methods-and-limits">Methods and limits</h2>
+<p>Posting profiles retain the corrected research task assignments with a support floor of five sampled job-months and the frozen representation. Similarities are aggregated to benchmark occupation codes using the audited mappings. The original task/DWA crosswalks are labeled O*NET 27.2; the official 2025 relatedness algorithm used O*NET 30.0 inputs, and the published comparator uses released 31.0 lists. Do not interpret this as a synchronized latest-vintage experiment.</p>
+<p>CPS/SIPP use Census2010 codes. The trajectories use Census2002, conservatively mapped through accepted unchanged-scope correspondences. Self-transitions are excluded, ties are deterministic, and outcomes outside the candidate pool remain in overall denominators. For example, RN has 262 eligible CPS–SIPP changes (Census2010 3255), but its older Census2002 3130 code is excluded by the audited correspondence, so the three-year focal RN result is unavailable—not zero.</p>
+<p>RN's published O*NET list contains 20 detailed occupations, but Census aggregation absorbs four RN specialties into the origin itself. Conservative SOC-vintage crosswalk rules exclude physician and EMT/paramedic groups with non-one-to-one mappings. Combining the lists of all five RN specialties leaves nine eligible Census destinations. This is a mapping restriction, not a low destination-frequency threshold. CPS–SIPP comparisons use Census groups; for example, nursing assistants and orderlies share the broader nursing, psychiatric, and home health aides category. A missing badge can reflect mapping or a rank outside the observed top twenty.</p>
+<p>Descriptive intervals condition on fixed profiles, outcomes, weights and crosswalks; they are not full survey-design intervals and omit several sources of measurement uncertainty. Overlapping horizons are not independent evidence. Posting data describe advertised demand, which differs from all work actually performed. Shared tasks can suggest a connection while licensing, training and other requirements still matter.</p>
+<h3 id="skills-and-abilities">Skills and abilities</h3>
+<p><a href="skills_abilities.html">Compare tasks, work activities, skills and abilities</a> using the representations listed in SI Tables S17 and S19.</p>
+<h2 id="sources-and-downloads">Sources and downloads</h2>
+<ul>
+<li><a href="validation_summary.csv">Aggregate main results</a>, <a href="validation_separate_surveys.csv">separate survey results</a>, and . Downloads contain occupation-level summary statistics, no individual survey records or restricted task assignments.</li>
+<li><a href="https://github.com/gschubert/occ-mobility-data">SST occupational-mobility data</a>.</li>
+<li><a href="https://www.dol.gov/sites/dolgov/files/OASP/evaluation/pdf/CTOT%20PUD%20Documentation_all.pdf">DOL CTOT public-use documentation</a> and <a href="https://www.dol.gov/sites/dolgov/files/ETA/publications/Building%20Better%20Pathways_CTOT_Final%20Report.pdf">Building Better Pathways methods report</a>.</li>
+<li><a href="https://www.dol.gov/agencies/oasp/evaluation/data-repo/career-pathways-da-data">Original CTOT data landing page</a>. Some downloads required archive recovery. The original DOL study and datasets are the sources; the Internet Archive supplied recovered downloads. File horizons and recovered snapshots are recorded in the research provenance. Supplied CPS/SIPP and three-year files matched recovered copies; the supplied five-year file matched the recovered analytical fields.</li>
+<li><a href="https://www2.census.gov/programs-surveys/demo/guidance/industry-occupation/2010-occ-codes-with-crosswalk-from-2002-2011.xls">Official Census occupation crosswalk</a>.</li>
+<li><a href="https://www.onetcenter.org/dl_files/Related_2025.pdf">O*NET Related Occupations 2025 methodology</a>. O*NET data are developed by the U.S. Department of Labor/Employment and Training Administration and used under <a href="https://www.onetcenter.org/license_db.html">CC BY 4.0</a>; these transformed research comparisons are not an O*NET endorsement.</li>
+</ul>
+<p>The public edition presents aggregate evaluation results from the full research model. Its task explorer reveals O*NET-linked, reviewed, or retained support-above-200 assignments, with additional parent/specialty complementary suppression; other assignments remain anonymous. This page adds no task-level disclosure.</p><details class="reader-detail"><summary>Benchmark methods and audit</summary><section id="benchmark-audit-pointer"><h2>Construction choices and audit</h2><p><a href="methods.html#benchmark-audit">Read the benchmark construction and audit disclosure</a>: populations, survey pooling, crosswalks, denominators and reproduction limits. OpenAI Codex performed the 6 October 2026 audit and generated its reports; it is not independent human review.</p></section></details><details class="reader-detail"><summary>Model construction: code, data and review decisions</summary><section id="paper-reproduction"><p><a href="../research_presentation/methods.html#worked-notebooks">Worked notebooks</a> · <a href="reproduction/index.html">Paper code and released scores</a> · <a href="reproduction/excluded_task_occupation_pairs.csv.gz">Excluded task–occupation links (CSV)</a> · <a href="methods.html#benchmark-audit">Methods and audit</a></p></section></details></main><script id="reader-details-script">function openReaderDetails(){const id=decodeURIComponent(location.hash.slice(1));if(!id)return;const target=document.getElementById(id);if(!target)return;for(let n=target.parentElement;n;n=n.parentElement)if(n.tagName==='DETAILS')n.open=true;}addEventListener('hashchange',openReaderDetails);openReaderDetails();</script><p id="generated-copy-notice" style="font-size:0.85rem;line-height:1.5;color:#526570;margin-top:2rem">Website layout and explanatory text were prepared with generative AI (Codex). <a href="methods.html#ai-use">Data sources, model methods and code</a>.<br/><br/><span class="nlx-disclaimer">The National Labor Exchange (NLx) Data Trust bears no responsibility for the analyses or interpretations of the data presented here. The opinions expressed herein, including any implications for policy, are those of the authors and not of the NLx Data Trust members or others.</span></p><script data-profile-filter="true" src="profile_filters/results.js?v=6fff018fde0d"></script><script data-profile-filter="true" src="profile_filters/control.js?v=c34703d2a86d"></script></body></html>

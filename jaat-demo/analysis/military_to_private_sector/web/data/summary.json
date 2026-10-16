@@ -1,0 +1,30 @@
+{
+  "branches": {
+    "army": {
+      "records": 269,
+      "general_standard_records": 0,
+      "with_tasks": 266,
+      "accepted_statements": 6105,
+      "distinct_tasks_sum": 4900
+    },
+    "marines": {
+      "records": 857,
+      "general_standard_records": 0,
+      "with_tasks": 808,
+      "accepted_statements": 4735,
+      "distinct_tasks_sum": 4250
+    },
+    "navy": {
+      "records": 261,
+      "general_standard_records": 9,
+      "with_tasks": 261,
+      "accepted_statements": 21709,
+      "distinct_tasks_sum": 15740
+    }
+  },
+  "documents": 1387,
+  "classifier_decisions": 53430,
+  "accepted_statement_matches": 32549,
+  "status": "Complete native task coding; military-to-NLx destination matching pending confirmation of private-employer profiles.",
+  "scope": "Army enlisted/warrant, Navy enlisted, Marine officer/enlisted manual entries; not a census of all military jobs."
+}

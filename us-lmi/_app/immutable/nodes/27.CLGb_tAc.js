@@ -60,8 +60,8 @@ order by term`;s.dei_term_options_data&&(s.dei_term_options_data instanceof Erro
   mentions_per_posting
 from usajobs.AGGR_DEIKeyTermsByMonth
 where term = case
-  when '${m.dei_term.value}' in ('deia', 'diversity', 'equity', 'inclusion')
-    then '${m.dei_term.value}'
+  when '${m.dei_term}' in ('deia', 'diversity', 'equity', 'inclusion')
+    then '${m.dei_term}'
   else 'diversity'
 end
 order by month_start`,se=`select
@@ -74,8 +74,8 @@ order by month_start`,se=`select
   mentions_per_posting
 from usajobs.AGGR_DEIKeyTermsByMonth
 where term = case
-  when '${m.dei_term.value}' in ('deia', 'diversity', 'equity', 'inclusion')
-    then '${m.dei_term.value}'
+  when '${m.dei_term}' in ('deia', 'diversity', 'equity', 'inclusion')
+    then '${m.dei_term}'
   else 'diversity'
 end
 order by month_start`;s.dei_term_monthly_data&&(s.dei_term_monthly_data instanceof Error?_e.initialError=s.dei_term_monthly_data:_e.initialData=s.dei_term_monthly_data,s.dei_term_monthly_columns&&(_e.knownColumns=s.dei_term_monthly_columns));let Se,F=!1;const ye=it.createReactive({callback:L=>{i(4,Se=L)},execFn:_},{id:"dei_term_monthly",..._e});ye(se,{noResolve:T,..._e}),globalThis[Symbol.for("dei_term_monthly")]={get value(){return Se}};let De={initialData:void 0,initialError:void 0},we=oe`with latest_month as (
@@ -188,8 +188,8 @@ order by month_start`),l.$$.dirty[0]&7864320&&(J||!N?J||(ee(ge,{noResolve:J,...a
   mentions_per_posting
 from usajobs.AGGR_DEIKeyTermsByMonth
 where term = case
-  when '${m.dei_term.value}' in ('deia', 'diversity', 'equity', 'inclusion')
-    then '${m.dei_term.value}'
+  when '${m.dei_term}' in ('deia', 'diversity', 'equity', 'inclusion')
+    then '${m.dei_term}'
   else 'diversity'
 end
 order by month_start`),l.$$.dirty[0]&1024&&i(29,se=`select
@@ -202,8 +202,8 @@ order by month_start`),l.$$.dirty[0]&1024&&i(29,se=`select
   mentions_per_posting
 from usajobs.AGGR_DEIKeyTermsByMonth
 where term = case
-  when '${m.dei_term.value}' in ('deia', 'diversity', 'equity', 'inclusion')
-    then '${m.dei_term.value}'
+  when '${m.dei_term}' in ('deia', 'diversity', 'equity', 'inclusion')
+    then '${m.dei_term}'
   else 'diversity'
 end
 order by month_start`),l.$$.dirty[0]&2013265920&&(T||!F?T||(ye(se,{noResolve:T,..._e}),i(30,F=!0)):ye(se,{noResolve:T})),l.$$.dirty[1]&15&&(we||!ve?we||(ot(be,{noResolve:we,...De}),i(34,ve=!0)):ot(be,{noResolve:we})),l.$$.dirty[0]&1024&&i(36,ie=oe`select

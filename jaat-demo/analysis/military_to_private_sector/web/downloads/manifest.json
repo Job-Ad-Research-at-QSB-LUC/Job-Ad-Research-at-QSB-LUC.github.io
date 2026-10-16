@@ -1,0 +1,70 @@
+{
+  "nlx_manifest.json": {
+    "bytes": 2531,
+    "sha256": "ceaa663c0efe24777b37a4d9030a17e751e1aff3b6f03c225c5f3414bc5a60ee"
+  },
+  "military_pathway_pilot.zip": {
+    "bytes": 865031,
+    "sha256": "1ff71d071698e82500c11239c33e2b01925a103a7353a3b91d56b9f558a9258a"
+  },
+  "nlx_task_coding_review.csv": {
+    "bytes": 1211,
+    "sha256": "ec016f7c16733c5f546706e91c16c6263ade0a7a3eb106d3b74a348dc91f3ddf"
+  },
+  "nlx_comparison_results.zip": {
+    "bytes": 9674005,
+    "sha256": "c5200386b595b905909aa5d4b9734eeef6305c59c3fcf8eb64a1664f91f75981"
+  },
+  "accepted_task_statements.csv": {
+    "bytes": 7989468,
+    "sha256": "f3de5c490fd0e5fa505035011fac277eb593ff10c8f7d757ddde5250dac811c4"
+  },
+  "nlx_reference_comparison_summary.csv": {
+    "bytes": 1484,
+    "sha256": "c004c3d61e211066ada48d47fe47b407841409ff37fb558b08679d585c26c9ba"
+  },
+  "military_sources_and_coding.zip": {
+    "bytes": 36369378,
+    "sha256": "b04d9f198b681badac388d306bbf599e5d6f40e1d746018faccfe18140635c1b"
+  },
+  "reviewed_military_pathways.json": {
+    "bytes": 381640,
+    "sha256": "fcaf9bf30d72f50b880cdf3be393fce4fd6d68fedbec055cd3675edf220bda35"
+  },
+  "military_task_profiles.csv": {
+    "bytes": 3457123,
+    "sha256": "9fba2a6f17496a7d6180bf77f22ad899626384718dc3516b3b8e4f0e6e5712fe"
+  },
+  "military_coverage.csv": {
+    "bytes": 548143,
+    "sha256": "ba0a09b692fd59182695b7e520f7f33ecd22e1deaea0b58eb6d2b54ceaace1d1"
+  },
+  "military_repair_evidence.zip": {
+    "bytes": 17067786,
+    "sha256": "a993ea7de98c6f6d642e186d98493e6fb9df415153e6ecb1e55e1427ff2ee6f4"
+  },
+  "military_task_review.json": {
+    "bytes": 49460,
+    "sha256": "407ae3128a10463e341eaec2b328a200b3627e22bf047ad86fa2e8e5b5d1bcab"
+  },
+  "nlx_reference_comparison_by_entry.csv": {
+    "bytes": 570143,
+    "sha256": "5d16fcc6272b3f7944097446a6fd385d083ace345f26fbb15e1782aa9ff0a2fd"
+  },
+  "military_pipeline_code.zip": {
+    "bytes": 78517,
+    "sha256": "82fe81b4759ae0724a3f834d6773acd0e153ad7e444d383592e3c8f0eaddaa63"
+  },
+  "run_manifest.json": {
+    "bytes": 2588,
+    "sha256": "7bcc61510f75e8828ba03cd96ec67508de80b4df43f0b15cd1608749d58fc29d"
+  },
+  "reviewed_military_pathways.csv": {
+    "bytes": 218902,
+    "sha256": "be2ee58a01a4e3fe61c23b9b3b3f84ebf23ac9210ce04c199a782dbf5cca8fda"
+  },
+  "nlx_top20_soc_destinations.csv": {
+    "bytes": 9102504,
+    "sha256": "d82d97517fcbd4fe64a2e486cc55b87b7e7701d278489dea2f1902dc792fc360"
+  }
+}

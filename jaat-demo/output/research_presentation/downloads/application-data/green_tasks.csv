@@ -1,0 +1,1057 @@
+task_id,task_text,signal,in_canonical_onet,claude_sonnet_4_6_verdict,gpt_4o_verdict,included,prompt_version
+155,Conduct studies of traffic patterns or environmental conditions to identify engineering problems and assess potential project impact.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+229,"Keep informed about economic or legal issues involved in zoning codes, building codes, or environmental regulations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+232,Review and evaluate environmental impact reports pertaining to private or public planning projects or programs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+1366,"Prepare, review, or update environmental investigation or recommendation reports.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+1369,"Provide technical support for environmental remediation or litigation projects, including remediation system design or determination of regulatory applicability.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+1370,Monitor progress of environmental improvement programs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+1371,Inspect industrial or municipal facilities or programs to evaluate operational effectiveness or ensure compliance with environmental regulations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+1374,Advise corporations or government agencies of procedures to follow in cleaning up contaminated sites to protect people and the environment.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+1375,Advise industries or government agencies about environmental policies and standards.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+1376,Inform company employees or other interested parties of environmental issues.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+1377,"Assess the existing or potential environmental impact of land use projects on air, water, or land.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+1379,"Develop site-specific health and safety protocols, such as spill contingency plans or methods for loading or transporting waste.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+1380,"Coordinate or manage environmental protection programs or projects, assigning or evaluating work.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+1381,"Serve as liaison with federal, state, or local agencies or officials on issues pertaining to solid or hazardous waste program requirements.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+1383,Prepare hazardous waste manifests or land disposal restriction notifications.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+1385,Develop or present environmental compliance training or orientation sessions.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+1387,"Develop, implement, or manage plans or programs related to conservation or management of natural resources.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+1390,"Provide environmental engineering assistance in network analysis, regulatory analysis, or planning or reviewing database development.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+1550,"Collect samples of gases, soils, water, industrial wastewater, or asbestos products to conduct tests on pollutant levels or identify sources of pollution.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+1552,"Provide information or technical or program assistance to government representatives, employers, or the general public on the issues of public health, environmental protection, or workplace safety.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+1557,"Calculate amount of pollutant in samples or compute air pollution or gas flow in industrial processes, using chemical and mathematical formulas.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+1558,Initiate procedures to close down or fine establishments violating environmental or health regulations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+1561,"Maintain files, such as hazardous waste databases, chemical usage data, personnel exposure information, or diagrams showing equipment locations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+1562,Perform statistical analysis of environmental data.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+1563,"Set up equipment or stations to monitor and collect pollutants from sites, such as smoke stacks, manufacturing plants, or mechanical equipment.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+1566,"Weigh, analyze, or measure collected sample particles, such as lead, coal dust, or rock to determine concentration of pollutants.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+1567,"Examine and analyze material for presence and concentration of contaminants, such as asbestos, using variety of microscopes.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+1570,Develop or implement programs for monitoring of environmental pollution or radiation.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+3643,Perform environmental quality work in field or office settings.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+3648,"Arrange for the disposal of lead, asbestos, or other hazardous materials.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+3649,"Inspect facilities to monitor compliance with regulations governing substances such as asbestos, lead, or wastewater.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+3650,"Provide technical engineering support in the planning of projects, such as wastewater treatment plants, to ensure compliance with environmental regulations and policies.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+3651,Improve chemical processes to reduce toxic emissions.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+3653,Assist in the cleanup of hazardous material spills.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+3654,"Produce environmental assessment reports, tabulating data and preparing charts, graphs, or sketches.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+3656,Work with customers to assess the environmental impact of proposed construction or to develop pollution prevention programs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+3657,Perform statistical analysis and correction of air or water pollution data submitted by industry or other agencies.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+3707,"Assess ground or surface water movement to provide advice regarding issues such as waste management, route and site selection, or the restoration of contaminated sites.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+5382,"Perform experiments that will provide information about acceptable methods of nuclear material usage, nuclear fuel reclamation, or waste disposal.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+7180,Tag garbage or recycling containers to inform customers of problems such as excess garbage or inclusion of items that are not permitted.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+7182,Sort items set out for recycling and throw materials into designated truck compartments.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+9024,Develop methods of conserving or managing soil that can be applied by farmers or forestry companies.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+9026,Investigate soil problems or poor water quality to determine sources and effects.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+9028,"Develop improved measurement techniques, soil conservation methods, soil sampling devices, or related technology.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+9030,"Identify degraded or contaminated soils and develop plans to improve their chemical, biological, or physical characteristics.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+9031,"Survey undisturbed or disturbed lands for classification, inventory, mapping, environmental impact assessments, environmental protection planning, conservation planning, or reclamation planning.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+9034,Provide advice regarding the development of regulatory standards for land reclamation or soil conservation.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+9043,"Apply principles of specialized fields of science, such as agronomy, soil science, forestry, or agriculture, to achieve conservation objectives.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+9045,"Plan soil management or conservation practices, such as crop rotation, reforestation, permanent vegetation, contour plowing, or terracing, to maintain soil or conserve water.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+9051,Analyze results of investigations to determine measures needed to maintain or restore proper soil management.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+9055,"Compute cost estimates of different conservation practices, based on needs of land users, maintenance requirements, or life expectancy of practices.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+9056,"Provide information, knowledge, expertise, or training to government agencies at all levels to solve water or soil management problems or to assure coordination of resource protection activities.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+9061,Review or approve amendments to comprehensive local water plans or conservation district plans.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+9062,Review proposed wetland restoration easements or provide technical recommendations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+9066,Provide access to programs or training to assist in completion of government groundwater protection plans.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+9180,Assess the environmental impacts of development projects on subsurface materials.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+11082,Maintain all required environmental records and documentation.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+11584,Comply with prescribed safety procedures or federal laws regulating waste disposal methods.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+11586,Drive trucks or other heavy equipment to convey contaminated waste to designated sea or ground locations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+11589,"Clean contaminated equipment or areas for re-use, using detergents or solvents, sandblasters, filter pumps, or steam cleaners.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+11591,"Remove asbestos or lead from surfaces, using hand or power tools such as scrapers, vacuums, or high-pressure sprayers.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+11594,"Identify asbestos, lead, or other hazardous materials to be removed, using monitoring devices.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+11597,Organize or track the locations of hazardous items in landfills.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+13581,Install vapor barriers or layers of insulation on flat roofs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15210,"Design or supervise the design of systems, processes, or equipment for control, management, or remediation of water, air, or soil quality.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15367,"Identify educational, training, or other development opportunities for sustainability employees or volunteers.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15368,Identify and evaluate pilot projects or programs to enhance the sustainability research agenda.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15369,Conduct sustainability- or environment-related risk assessments.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15370,"Create and maintain sustainability program documents, such as schedules and budgets.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15371,"Write project proposals, grant applications, or other documents to pursue funding for environmental initiatives.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15372,Supervise employees or volunteers working on sustainability projects.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15374,"Review sustainability program objectives, progress, or status to ensure compliance with policies, standards, regulations, or laws.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15375,Formulate or implement sustainability campaign or marketing strategies.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15376,"Research environmental sustainability issues, concerns, or stakeholder interests.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15377,"Evaluate and approve proposals for sustainability projects, considering factors such as cost effectiveness, technical feasibility, and integration with other initiatives.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15378,"Develop sustainability reports, presentations, or proposals for supplier, employee, academia, media, government, public interest, or other groups.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15379,"Develop, or oversee the development of, sustainability evaluation or monitoring systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15380,"Develop, or oversee the development of, marketing or outreach media for sustainability projects or events.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15381,Develop methodologies to assess the viability or success of sustainability initiatives.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15382,Monitor and evaluate effectiveness of sustainability programs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15383,Direct sustainability program operations to ensure compliance with environmental or governmental regulations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15384,"Develop or execute strategies to address issues such as energy use, resource conservation, recycling, pollution reduction, waste elimination, transportation, education, and building design.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15433,Select and implement corrosion control or mitigation systems for geothermal plants.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15435,Troubleshoot and make minor repairs to geothermal plant instrumentation or electrical systems.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15437,Prepare environmental permit applications or compliance reports.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15438,"Obtain permits for constructing, upgrading, or operating geothermal power plants.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15439,Perform or direct the performance of preventative maintenance on geothermal plant equipment.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15441,"Monitor geothermal operations, using programmable logic controllers.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15443,"Identify and evaluate equipment, procedural, or conditional inefficiencies involving geothermal plant systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15444,Develop operating plans and schedules for geothermal operations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15445,Develop or manage budgets for geothermal operations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15446,Supervise employees in geothermal power plants or well fields.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15447,"Oversee geothermal plant operations, maintenance, and repairs to ensure compliance with applicable standards or regulations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15448,Inspect geothermal plant or injection well fields to verify proper equipment operations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15449,Provide training to subordinate or new employees to improve biofuels plant safety or increase the production of biofuels.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15450,"Provide direction to employees to ensure compliance with biofuels plant safety, environmental, or operational standards and regulations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15452,Draw samples of biofuels products or secondary by-products for quality control testing.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15454,"Supervise production employees in the manufacturing of biofuels, such as biodiesel or ethanol.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15456,"Review logs, datasheets, or reports to ensure adequate production levels or to identify abnormalities with biofuels production equipment or processes.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15458,"Monitor meters, flow gauges, or other real-time data to ensure proper operation of biofuels production equipment, implementing corrective measures as needed.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15459,"Conduct cost, material, and efficiency studies for biofuels production plants or operations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15460,"Approve proposals for the acquisition, replacement, or repair of biofuels processing equipment or the implementation of new production processes.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15461,"Adjust temperature, pressure, vacuum, level, flow rate, or transfer of biofuels to maintain processes at required levels.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15462,"Manage operations at biofuels power generation facilities, including production, shipping, maintenance, or quality assurance activities.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15468,"Supervise operations or maintenance employees in the production of power from biomass such as wood, coal, paper sludge, or other waste or refuse.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15471,Review biomass operations performance specifications to ensure compliance with regulatory requirements.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15475,"Operate controls to start, stop, or regulate biomass-fueled generators, generator units, boilers, engines, or auxiliary systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15476,"Inspect biomass gasification processes, equipment, and facilities for ways to maximize capacity and minimize operating costs.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15477,Evaluate power production or demand trends to identify opportunities for improved operations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15479,"Monitor the operating status of biomass plants by observing control system parameters, distributed control systems, switchboard gauges, dials, or other indicators.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15481,Track volume and weight of landfill waste.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15483,Prepare reports on landfill operations and gas collection system productivity or efficiency.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15488,Prepare and manage landfill gas collection system budgets.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15490,"Oversee landfill gas collection system construction, maintenance, and repair activities.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15491,Optimize gas collection landfill operational costs and productivity consistent with safety and environmental rules and regulations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15492,Monitor landfill permit requirements for updates.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15494,"Monitor gas collection systems emissions data, including biomethane or nitrous oxide levels.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15495,"Maintain records for landfill gas collection systems to demonstrate compliance with safety and environmental laws, regulations, or policies.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15496,Inspect landfill or conduct site audits to ensure adherence to safety and environmental regulations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15498,"Develop or enforce procedures for normal operation, start-up, or shut-down of methane gas collection systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15499,Evaluate landfill gas collection service requirements to meet operational plans and productivity goals.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15500,"Oversee gas collection landfill operations, including leachate and gas management or rail operations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15501,Monitor and control liquid or gas landfill extraction systems.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15502,Develop or implement policy evaluation procedures for hydroelectric generation activities.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15503,Provide technical direction in the erection or commissioning of hydroelectric equipment or supporting electrical or mechanical systems.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15504,"Develop or implement projects to improve efficiency, economy, or effectiveness of hydroelectric plant operations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15505,"Supervise hydropower plant equipment installations, upgrades, or maintenance.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15507,Plan or manage hydroelectric plant upgrades.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15508,Plan or coordinate hydroelectric production operations to meet customer requirements.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15509,Perform or direct preventive or corrective containment or cleanup to protect the environment.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15510,"Operate energized high- or low-voltage hydroelectric power transmission system substations, according to procedures and safety requirements.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15513,"Monitor or inspect hydroelectric equipment, such as hydro-turbines, generators, or control systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15518,"Check hydroelectric operations for compliance with prescribed operating limits, such as loads, voltages, temperatures, lines, or equipment.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15519,Supervise or monitor hydroelectric facility operations to ensure that generation or mechanical equipment conform to applicable regulations or standards.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15520,"Direct operations, maintenance, or repair of hydroelectric power facilities.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15564,Develop computational tools or approaches to improve biofuels research and development activities.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15565,Develop carbohydrates arrays and associated methods for screening enzymes involved in biomass conversion.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15566,Provide technical or scientific guidance to technical staff in the conduct of biofuels research or development.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15567,"Prepare, or oversee the preparation of, experimental plans for biofuels research or development.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15568,Prepare biofuels research and development reports for senior management or technical professionals.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15569,Perform protein functional analysis and engineering for processing of feedstock and creation of biofuels.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15570,Develop separation processes to recover biofuels.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15571,Develop methods to recover ethanol or other fuels from complex bioreactor liquid and gas streams.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15572,Develop methods to estimate the efficiency of biomass pretreatments.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15574,"Design or conduct applied biodiesel or biofuels research projects on topics such as transport, thermodynamics, mixing, filtration, distillation, fermentation, extraction, and separation.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15576,Conduct experiments on biomass or pretreatment technologies.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15578,"Analyze data from biofuels studies, such as fluid dynamics, water treatments, or solvent extraction and recovery processes.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15579,Oversee biodiesel/biofuels prototyping or development projects.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15580,"Propose new biofuels products, processes, technologies or applications based on findings from applied biofuels or biomass research projects.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15581,"Conduct research to breed or develop energy crops with improved biomass yield, environmental adaptability, pest resistance, production efficiency, bioprocessing characteristics, or reduced environmental impacts.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15621,"Write proposals, project reports, informational brochures, or other documents on wastewater purification, water supply and demand, or other water resource subjects.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15622,"Recommend new or revised policies, procedures, or regulations to support water resource or conservation goals.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15623,Provide technical expertise to assist communities in the development or implementation of storm water monitoring or other water programs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15625,"Identify methods for distributing purified wastewater into rivers, streams, or oceans.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15626,"Monitor water use, demand, or quality in a particular geographic area.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15627,Identify and characterize specific causes or sources of water pollution.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15628,Develop plans to protect watershed health or rehabilitate watersheds.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15630,Conduct technical studies for water resources on topics such as pollutants and water treatment options.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15631,"Conduct, or oversee the conduct of, investigations on matters such as water storage, wastewater discharge, pollutants, permits, or other compliance and regulatory issues.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15632,Conduct cost-benefit studies for watershed improvement projects or water management alternatives.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15633,Analyze storm water systems to identify opportunities for water resource improvements.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15634,Develop strategies for watershed operations to meet water supply and conservation goals or to ensure regulatory compliance with clean water laws or regulations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15635,"Conduct, or oversee the conduct of, chemical, physical, and biological water quality monitoring or sampling to ensure compliance with water quality standards.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15809,"Track and maintain records for wind operations, such as site performance, downtime events, parts usage, or substation events.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15812,"Order parts, tools, or equipment needed to maintain, restore, or improve wind field operations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15814,"Review, negotiate, or approve wind farm contracts.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15818,"Establish goals, objectives, or priorities for wind field operations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15820,"Develop processes or procedures for wind operations, including transitioning from construction to commercial operations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15823,"Oversee the maintenance of wind field equipment or structures, such as towers, transformers, electrical collector systems, roadways, or other site assets.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15825,Prepare requests for proposals (RFPs) for wind project construction or equipment acquisition.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15826,Manage site assessments or environmental studies for wind fields.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15828,"Update schedules, estimates, forecasts, or budgets for wind projects.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15832,"Provide technical support for the design, construction, or commissioning of wind farm projects.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15833,"Prepare wind project documentation, including diagrams or layouts.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15835,"Develop scope of work for wind project functions, such as design, site assessment, environmental studies, surveying, or field support services.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15836,"Coordinate or direct development, energy assessment, engineering, or construction activities to ensure that wind project needs and objectives are met.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15838,"Create wind energy project plans, including project scope, goals, tasks, resources, schedules, costs, contingencies, or other project information.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15839,Review or evaluate environmental remediation project proposals.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15840,Review or evaluate designs for contaminant treatment or disposal facilities.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15841,Provide training on hazardous material or waste cleanup procedures and technologies.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15842,"Provide expert witness testimony on issues such as soil, air, or water contamination and associated cleanup measures.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15843,"Prepare reports or presentations to communicate brownfield redevelopment needs, status, or progress.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15844,Negotiate contracts for services or materials needed for environmental remediation.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15846,"Maintain records of decisions, actions, and progress related to environmental redevelopment projects.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15847,Inspect sites to assess environmental damage or monitor cleanup progress.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15848,"Plan or implement brownfield redevelopment projects to ensure safety, quality, and compliance with applicable standards or requirements.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15849,Identify environmental contamination sources.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15850,Estimate costs for environmental cleanup and remediation of land redevelopment projects.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15851,Develop or implement plans for revegetation of brownfield sites.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15852,Design or implement plans for surface or ground water remediation.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15854,"Design or implement measures to improve the water, air, and soil quality of military test sites, abandoned mine land, or other contaminated sites.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15855,Design or conduct environmental restoration studies.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15856,Coordinate the disposal of hazardous waste.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15857,"Coordinate on-site activities for environmental cleanup or remediation projects to ensure compliance with environmental laws, standards, regulations, or other requirements.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15859,Conduct feasibility or cost-benefit studies for environmental remediation projects.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15860,Develop or implement plans for the sustainable regeneration of brownfield sites to ensure regeneration of a wider area by providing environmental protection or economic and social benefits.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15968,Review and revise sustainability proposals or policies.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15969,"Research or review regulatory, technical, or market issues related to sustainability.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15970,"Identify or investigate violations of natural resources, waste management, recycling, or other environmental policies.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15971,Identify or create new sustainability indicators.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15972,"Write grant applications, rebate applications, or project proposals to secure funding for sustainability projects.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15973,Provide technical or administrative support for sustainability programs or issues.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15974,Identify or procure needed resources to implement sustainability programs or projects.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15975,Create or maintain plans or other documents related to sustainability projects.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15976,Develop reports or presentations to communicate the effectiveness of sustainability initiatives.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15977,"Create marketing or outreach media, such as brochures or web sites, to communicate sustainability issues, procedures, or objectives.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15978,Collect information about waste stream management or green building practices to inform decision-makers.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+15979,"Assess or propose sustainability initiatives, considering factors such as cost effectiveness, technical feasibility, and acceptance.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15980,"Monitor or track sustainability indicators, such as energy usage, natural resource usage, waste generation, and recycling.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+15981,"Develop sustainability project goals, objectives, initiatives, or strategies in collaboration with other sustainability professionals.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16321,Analyze environmental impact statements for transportation projects.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16324,Write technical reports or publications related to water resources development or water use efficiency.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16325,"Review and critique proposals, plans, or designs related to water or wastewater treatment systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16326,Provide technical support on water resource or treatment issues to government agencies.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16329,Develop plans for new water resources or water efficiency programs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16330,Design or select equipment for use in wastewater processing to ensure compliance with government standards.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16331,Conduct water quality studies to identify and characterize water pollutant sources.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16333,"Perform hydrological analyses, using three-dimensional simulation software, to model the movement of water or forecast the dispersion of chemical pollutants in the water supply.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16335,"Oversee the construction of decentralized or on-site wastewater treatment systems, including reclaimed water facilities.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16336,Gather and analyze water use data to forecast water demand.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16337,"Conduct feasibility studies for the construction of facilities, such as water supply systems, run-off collection networks, water and wastewater treatment plants, or wastewater collection systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16338,"Conduct environmental impact studies related to water and wastewater collection, treatment, or distribution.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16340,"Analyze the efficiency of water delivery structures, such as dams, tainter gates, canals, pipes, penstocks, or cofferdams.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16341,"Analyze storm water or floodplain drainage systems to control erosion, stabilize river banks, repair channel streams, or design bridges.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16342,Analyze and recommend sludge treatment or disposal methods.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16343,"Analyze and recommend chemical, biological, or other wastewater treatment methods to prepare water for industrial or domestic use.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16345,"Design water run-off collection networks, water supply channels, or water supply system networks.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16348,Design sludge treatment plants.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16350,"Design domestic or industrial water or wastewater treatment plants, including advanced facilities with sequencing batch reactors (SBR), membranes, lift stations, headworks, surge overflow basins, ultraviolet disinfection systems, aerobic digesters, sludge lagoons, or control buildings.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16403,"Validate design of fuel cells, fuel cell components, or fuel cell systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16405,"Simulate or model fuel cell, motor, or other system information, using simulation software programs.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16406,Recommend or implement changes to fuel cell system designs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16407,Provide technical consultation or direction related to the development or production of fuel cell systems.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16410,Integrate electric drive subsystems with other vehicle systems to optimize performance or mitigate faults.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16411,Identify or define vehicle and system integration challenges for fuel cell vehicles.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16412,"Fabricate prototypes of fuel cell components, assemblies, stacks, or systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16413,Develop fuel cell materials or fuel cell test equipment.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16415,Design or implement fuel cell testing or development programs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16417,"Characterize component or fuel cell performances by generating operating maps, defining operating conditions, identifying design refinements, or executing durability assessments.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16418,Calculate the efficiency or power output of a fuel cell system or process.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16419,"Analyze fuel cell or related test data, using statistical software.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16420,"Design fuel cell systems, subsystems, stacks, assemblies, or components, such as electric traction motors or power electronics.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16439,"Design control systems or algorithms for purposes such as automotive energy management, emissions management, or increased operational safety or performance.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16459,"Devise scalable recovery, purification, or fermentation processes for producing proteins or other biological substances for human or animal therapeutic use, food production or processing, biofuels, or effluent treatment.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16547,Write reports to document wind farm collector system test results.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16548,Oversee the work activities of wind farm consultants or subcontractors.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16549,"Recommend process or infrastructure changes to improve wind turbine performance, reduce operational costs, or comply with regulations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16550,"Investigate experimental wind turbines or wind turbine technologies for properties such as aerodynamics, production, noise, and load.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16551,Test wind turbine equipment to determine effects of stress or fatigue.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16552,"Test wind turbine components, using mechanical or electronic testing equipment.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16553,Provide engineering technical support to designers of prototype wind turbines.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16554,Perform root cause analysis on wind turbine tower component failures.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16555,Monitor wind farm construction to ensure compliance with regulatory standards or environmental requirements.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16557,"Develop specifications for wind technology components, such as gearboxes, blades, generators, frequency converters, and pad transformers.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16558,"Develop active control algorithms, electronics, software, electromechanical, or electrohydraulic systems for wind turbines.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16559,"Create or maintain wind farm layouts, schematics, or other visual documentation for wind farms.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16560,"Create models to optimize the layout of wind farm access roads, crane pads, crane paths, collection systems, substations, switchyards, or transmission lines.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16561,Design underground or overhead wind farm collector systems.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16562,"Analyze operation of wind farms or wind farm components to determine reliability, performance, and compliance with specifications.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16563,Test or evaluate photovoltaic (PV) cells or modules.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16564,Review specifications and recommend engineering or manufacturing changes to achieve solar design objectives.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16565,"Perform thermal, stress, or cost reduction analyses for solar systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16566,Develop standard operation procedures and quality or safety standards for solar installation work.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16567,Design or develop vacuum tube collector systems for solar applications.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16569,Perform computer simulation of solar photovoltaic (PV) generation system performance or energy production to optimize efficiency.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16570,"Develop design specifications and functional requirements for residential, commercial, or industrial solar energy systems or components.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16571,"Create plans for solar energy system development, monitoring, and evaluation activities.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16572,"Create electrical single-line diagrams, panel schedules, or connection diagrams for solar electric systems, using computer-aided design (CAD) software.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16573,Create checklists for review or inspection of completed solar installation projects.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16574,"Design or coordinate design of photovoltaic (PV) or solar thermal systems, including system components, for residential and commercial buildings.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16575,"Conduct engineering site audits to collect structural, electrical, and related site information for use in the design of residential or commercial solar power systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16734,Recommend improvements to fuel cell design or performance.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16741,"Document or analyze fuel cell test data, using spreadsheets or other computer software.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16742,Collect or maintain fuel cell test data.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16743,Calibrate equipment used for fuel cell testing.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16745,"Test fuel cells or fuel cell stacks, using complex electronic equipment.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16746,Assemble fuel cells or fuel cell stacks according to mechanical or electrical assembly documents or schematics.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16841,Write reports or academic papers to communicate findings of climate-related studies.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16842,Promote initiatives to mitigate climate change with government or environmental groups.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16843,"Present climate-related information at public interest, governmental, or other meetings.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16844,Present and defend proposals for climate change research projects.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16845,"Prepare grant applications to obtain funding for programs related to climate change, environmental management, or sustainability.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16846,"Gather and review climate-related studies from government agencies, research laboratories, and other organizations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16847,"Develop, or contribute to the development of, educational or outreach programs on the environment or climate change.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16848,Review existing policies or legislation to identify environmental impacts.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16849,"Provide analytical support for policy briefs related to renewable energy, energy efficiency, or climate change.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16850,"Prepare study reports, memoranda, briefs, testimonies, or other written materials to inform government or environmental groups on environmental issues such as climate change.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16851,"Make legislative recommendations related to climate change or environmental management, based on climate change policies, principles, programs, practices, and processes.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16852,"Research policies, practices, or procedures for climate or environmental management.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16853,"Propose new or modified policies involving use of traditional and alternative fuels, transportation of goods, and other factors relating to climate and climate change.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16854,"Analyze and distill climate-related research findings to inform legislators, regulatory agencies, or other stakeholders.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16855,Notify regulatory or permitting agencies of deviations from implemented remediation plans.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16856,Develop environmental restoration project schedules and budgets.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16857,Develop and communicate recommendations for landowners to maintain or restore environmental conditions.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16858,"Create diagrams to communicate environmental remediation planning using geographic information systems (GIS), computer-aided design (CAD), or other mapping or diagramming software.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16859,Apply for permits required for the implementation of environmental remediation projects.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16860,Review existing environmental remediation designs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16861,"Supervise and provide technical guidance, training, or assistance to employees working in the field to restore habitats.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16862,"Provide technical direction on environmental planning to energy engineers, biologists, geologists, or other professionals working to develop restoration plans or strategies.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16863,"Plan or supervise environmental studies to achieve compliance with environmental regulations in construction, modification, operation, acquisition, or divestiture of facilities such as power plants.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16864,"Inspect active remediation sites to ensure compliance with environmental or safety policies, standards, or regulations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16865,"Plan environmental restoration projects, using biological databases, environmental strategies, and planning software.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16866,Identify short- and long-term impacts of environmental remediation activities.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16867,"Identify environmental mitigation alternatives, ensuring compliance with applicable standards, laws, or regulations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16868,"Create environmental models or simulations, using geographic information system (GIS) data and knowledge of particular ecosystems or ecological regions.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16869,Conduct feasibility and cost-benefit studies for environmental remediation projects.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16870,"Conduct environmental impact studies to examine the ecological effects of pollutants, disease, human activities, nature, and climate change.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16871,Communicate findings of environmental studies or proposals for environmental remediation to other restoration professionals.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16872,Collect and analyze data to determine environmental conditions and restoration needs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16873,"Develop natural resource management plans, using knowledge of environmental planning or state and federal environmental regulatory requirements.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16874,"Develop environmental management or restoration plans for sites with power transmission lines, natural gas pipelines, fuel refineries, geothermal plants, wind farms, or solar farms.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16875,"Create habitat management or restoration plans, such as native tree restoration and weed control.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16876,Conduct site assessments to certify a habitat or to ascertain environmental damage or restoration needs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16879,Investigate accidents affecting the environment to assess ecological impact.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16881,"Review industrial practices, such as the methods and materials used in construction or production, to identify potential liabilities and environmental hazards.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16882,Research sources of pollution to determine environmental impact or to develop methods of pollution abatement or control.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16883,"Provide industrial managers with technical materials on environmental issues, regulatory guidelines, or compliance actions.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16884,Plan or conduct studies of the ecological implications of historic or projected changes in industrial processes or development.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16885,"Plan or conduct field research on topics such as industrial production, industrial ecology, population ecology, and environmental production or sustainability.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16886,"Monitor the environmental impact of development activities, pollution, or land degradation.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16888,Identify or develop strategies or methods to minimize the environmental impact of industrial production processes.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16889,Investigate the impact of changed land management or land use practices on ecosystems.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16892,"Conduct scientific protection, mitigation, or restoration projects to prevent resource damage, maintain the integrity of critical habitats, and minimize the impact of human activities.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16893,"Carry out environmental assessments in accordance with applicable standards, regulations, or laws.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16894,"Build and maintain databases of information about energy alternatives, pollutants, natural environments, industrial processes, and other information related to ecological change.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16895,"Forecast future status or condition of ecosystems, based on changing industrial practices or environmental conditions.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16897,"Prepare and deliver presentations to communicate economic and environmental study results, to present policy recommendations, or to raise awareness of environmental consequences.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16899,Interpret indicators to ascertain the overall health of an environment.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16900,Identify and recommend environmentally-friendly business practices.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16901,Demonstrate or promote the economic benefits of sound environmental regulations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16903,"Write social, legal, or economic impact statements to inform decision-makers for natural resource policies, standards, or programs.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16904,Write research proposals and grant applications to obtain private or public funding for environmental and economic studies.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16905,Examine the exhaustibility of natural resources or the long-term costs of environmental rehabilitation.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16906,"Develop systems for collecting, analyzing, and interpreting environmental and economic data.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16908,"Develop environmental research project plans, including information on budgets, goals, deliverables, timelines, and resource requirements.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16909,"Develop economic models, forecasts, or scenarios to predict future economic and environmental outcomes.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16910,Collect and analyze data to compare the environmental implications of economic policy or practice alternatives.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16913,"Perform complex, dynamic, and integrated mathematical modeling of ecological, environmental, or economic systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16914,Conduct research to study the relationships among environmental problems and patterns of economic production and consumption.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+16915,"Conduct research on economic and environmental topics, such as alternative fuel use, public and private land use, soil conservation, air and water pollution control, and endangered species protection.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16944,"Produce environmental documents, such as environmental assessments or environmental impact statements.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+16954,"Analyze information related to transportation, such as land use policies, environmental impact of projects, or long-range planning needs.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17645,"Answer customer questions related to energy sales procedures, energy markets, or alternative energy sources.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17647,Forecast energy supply and demand to minimize costs and maximize availability.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17648,Negotiate prices or contracts for energy sales or purchases.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17653,Monitor the flow of energy in response to changes in consumer demand.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17654,Generate solar energy customer leads to develop new accounts.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17655,"Prepare proposals, quotes, contracts, or presentations for potential solar customers.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17656,"Select solar energy products, systems, or services for customers based on electrical energy requirements, site conditions, price, or other factors.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17657,"Assess sites to determine suitability for solar equipment, using equipment such as tape measures, compasses, and computer software.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17658,"Calculate potential solar resources or solar array production for a particular site considering issues such as climate, shading, and roof orientation.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17659,Create customized energy management packages to satisfy customer needs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17661,Gather information from prospective customers to identify their solar energy needs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17662,"Prepare or review detailed design drawings, specifications, or lists related to solar installations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17664,"Provide technical information about solar power, solar systems, equipment, and services to potential customers or dealers.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17666,Demonstrate use of solar and related equipment to customers or dealers.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17725,Plan and coordinate installations of photovoltaic (PV) solar and solar thermal systems to ensure conformance to codes.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17726,"Supervise solar installers, technicians, and subcontractors for solar installation projects to ensure compliance with safety standards.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17727,Assess potential solar installation sites to determine feasibility and design requirements.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17729,Coordinate or schedule building inspections for solar installation projects.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17732,"Provide technical assistance to installers, technicians, or other solar professionals in areas such as solar electric systems, solar thermal systems, electrical systems, and mechanical systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17733,"Visit customer sites to determine solar system needs, requirements, or specifications.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17735,"Estimate materials, equipment, and personnel needed for residential or commercial solar installation projects.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17737,"Identify means to reduce costs, minimize risks, or increase efficiency of solar installation projects.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17738,"Prepare solar installation project proposals, quotes, budgets, or schedules.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17739,Purchase or rent equipment for solar energy system installation.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17740,"Assemble solar modules, panels, or support structures, as specified.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17741,"Install active solar systems, including solar collectors, concentrators, pumps, or fans.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17742,"Install photovoltaic (PV) systems in accordance with codes and standards using drawings, schematics, and instructions.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17743,"Perform routine photovoltaic (PV) system maintenance on modules, arrays, batteries, power conditioning equipment, safety systems, structural systems, weather sealing, or balance of systems equipment.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17744,Activate photovoltaic (PV) systems to verify system functionality and conformity to performance expectations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17745,"Apply weather sealing to array, building, or support mechanisms.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17748,Determine connection interfaces for additional subpanels or for connecting photovoltaic (PV) systems with utility services or other power generation sources.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17749,"Determine photovoltaic (PV) system designs or configurations based on factors such as customer needs, expectations, and site conditions.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17750,"Diagram layouts and locations for photovoltaic (PV) arrays and equipment, including existing building or site features.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17751,Examine designs to determine current requirements for all parts of the photovoltaic (PV) system electrical circuit.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17752,Identify and resolve any deficiencies in photovoltaic (PV) system installation or materials.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17753,"Identify electrical, environmental, and safety hazards associated with photovoltaic (PV) installations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17754,"Identify installation locations with proper orientation, area, solar access, or structural integrity for photovoltaic (PV) arrays.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17756,"Install module array interconnect wiring, implementing measures to disable arrays during installation.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17757,Install required labels on solar system components and hardware.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17761,"Test operating voltages to ensure operation within acceptable limits for power conditioning equipment, such as inverters and controllers.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17762,Visually inspect and test photovoltaic (PV) modules or systems.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17766,"Design active direct or indirect, passive direct or indirect, or pool solar systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17767,Perform routine maintenance or repairs to restore solar thermal systems to baseline operating conditions.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17769,Assess collector sites to ensure structural integrity of potential mounting surfaces or the best orientation and tilt for solar collectors.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17771,"Determine locations for installing solar subsystem components, including piping, water heaters, valves, and ancillary equipment.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17773,"Identify plumbing, electrical, environmental, or safety hazards associated with solar thermal installations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17776,"Install flat-plat, evacuated glass, or concentrating solar collectors on mounting devices, using brackets or struts.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17780,"Install solar collector mounting devices on tile, asphalt, shingle, or built-up gravel roofs, using appropriate materials and penetration methods.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17781,Install solar thermal system controllers and sensors.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17787,"Inspect buildings to identify required weatherization measures, including repair work, modification, or replacement.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17788,"Recommend weatherization techniques to clients in accordance with needs and applicable energy regulations, codes, policies, or statutes.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17789,"Test and diagnose air flow systems, using furnace efficiency analysis equipment.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17790,"Apply insulation materials such as loose, blanket, board, and foam insulation to attics, crawl spaces, basements, or walls.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17791,"Explain energy conservation measures, such as the use of low flow showerheads and energy efficient lighting.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17792,"Install and seal air ducts, combustion air openings, or ventilation openings to improve heating and cooling efficiency.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17795,"Prepare and apply weather-stripping, glazing, caulking, or door sweeps to reduce energy losses.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17796,Prepare cost estimates or specifications for rehabilitation or weatherization services.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17797,"Wrap air ducts and water lines with insulating materials, such as duct wrap and pipe insulation.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17798,Wrap water heaters with water heater blankets.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17804,"Prepare or assist in the preparation of bids, contracts, or written reports related to weatherization work.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17805,Inspect or repair fiberglass turbine blades.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17806,"Troubleshoot or repair mechanical, hydraulic, or electrical malfunctions related to variable pitch systems, variable speed control systems, converter systems, or related components.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17807,"Climb wind turbine towers to inspect, maintain, or repair equipment.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17808,Diagnose problems involving wind turbine generators or control systems.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17810,Start or restart wind turbine generator systems to ensure proper operations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17811,"Test electrical components of wind systems with devices such as voltage testers, multimeters, oscilloscopes, infrared testers, or fiber optic equipment.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17813,Assist in assembly of individual wind generators or construction of wind farms.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17814,Collect turbine data for testing or research and analysis.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17816,Operate manufacturing equipment to fabricate wind turbines.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17817,"Train end-users, distributors, installers, or other technicians in wind commissioning, testing, or other technical procedures.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17818,"Calculate, measure, load, or mix refined feedstock used in biofuels production.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17819,Operate chemical processing equipment for the production of biofuels.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17820,"Operate equipment, such as a centrifuge, to extract biofuels products and secondary by-products or reusable fractions.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17821,"Operate valves, pumps, engines, or generators to control and adjust biofuels production.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17823,Assess the quality of biofuels additives for reprocessing.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17825,Collect biofuels samples and perform routine laboratory tests or analyses to assess biofuels quality.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17826,"Inspect biofuels plant or processing equipment regularly, recording or reporting damage and mechanical problems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17827,Measure and monitor raw biofuels feedstock.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17828,Monitor and record biofuels processing data.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17830,"Monitor batch, continuous flow, or hybrid biofuels production processes.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17831,Monitor stored biofuels products or secondary by-products until reused or transferred to users.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17832,"Preprocess feedstock in preparation for physical, chemical, or biological fuel production processes.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17836,"Rebuild, repair, or replace biofuels processing equipment components.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17837,"Operate landfill gas, methane, or natural gas fueled electrical generation systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17838,"Perform routine maintenance or minor repairs to landfill gas collection and power generation systems, including equipment such as pneumatic pumps, blower or flare systems, and condensate management systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17839,Balance individual gas extraction wells at landfill gas facilities.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17840,Diagnose or troubleshoot problems with methane or landfill gas collection systems.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17841,Download landfill gas well field monitoring data.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17842,"Measure landfill gas vegetative covering, installing additional covering as required.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17843,Measure liquid levels in landfill gas extraction wells.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17844,Monitor landfill well fields periodically to ensure proper functioning and performance.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17848,Verify that well field monitoring data conforms to applicable regulations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17850,Monitor landfill gas perimeter probes to identify landfill gas migration.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17851,Perform landfill surface scans to determine overall effectiveness of the landfill gas site.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17852,Repair or replace landfill gas piping.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17853,Trace electrical circuitry for landfill gas buildings to ensure compliance of electrical systems with applicable codes or laws.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17854,"Measure and monitor raw biomass feedstock, including wood, waste, or refuse materials.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17855,"Operate valves, pumps, engines, or generators to control and adjust production of biofuels or biomass-fueled power.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17857,Assess quality of biomass feedstock.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17858,"Calculate, measure, load, or mix biomass feedstock for power generation.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17860,"Inspect biomass power plant or processing equipment, recording or reporting damage and mechanical problems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17861,Operate biomass fuel-burning boiler or biomass fuel gasification system equipment in accordance with specifications or instructions.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17862,"Operate equipment to heat biomass, using knowledge of controls, combustion, and firing mechanisms.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17863,"Operate equipment to start, stop, or regulate biomass-fueled generators, generator units, boilers, engines, or auxiliary systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17865,Preprocess feedstock to prepare for biochemical or thermochemical production processes.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17869,Read and interpret instruction manuals or technical drawings related to biomass-fueled power or biofuels production equipment or processes.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17871,"Extract chemicals from discarded appliances, such as air conditioners or refrigerators, using specialized machinery, such as refrigerant recovery equipment.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17872,"Sort materials, such as metals, glass, wood, paper or plastics, into appropriate containers for recycling.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17873,Collect recyclable materials from curbside for delivery to designated facilities.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17876,Operate automated refuse or manual recycling collection vehicles.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17877,Operate balers to compress recyclable materials into bundles or bales.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17878,"Operate forklifts, pallet jacks, power lifts, or front-end loaders to load bales, bundles, or other heavy items onto trucks for shipping to smelters or other recycled materials processing facilities.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17879,"Operate processing equipment, such as fiber-sorters and grinders, to sort, crush, or grind recyclable materials.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17880,Operate shredders to reclaim steel from discarded appliances.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17881,Record logs of recycled materials or waste chemicals removed from products.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17882,"Sort metals to separate high-grade metals, such as copper, brass, and aluminum, for recycling.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17883,"Clean materials, such as metals, according to recycling requirements.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17884,"Clean recycling yard by sweeping, raking, picking up broken glass and loose paper debris, or moving barrels and bins.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17885,"Collect and sort recyclable construction materials, such as concrete, drywall, plastics, or wood, into containers.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17886,"Clean, inspect, or lubricate recyclable collection equipment or perform routine maintenance or minor repairs on recycling equipment, such as star gears, finger sorters, destoners, belts, and grinders.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17888,Oversee recycling pick-up or drop-off programs to ensure compliance with community ordinances.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17889,"Supervise recycling technicians, community service workers, or other recycling operations employees or volunteers.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17890,Assign truck drivers or recycling technicians to routes.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17891,Coordinate recycling collection schedules to optimize service and efficiency.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17892,Coordinate shipments of recycling materials with shipping brokers or processing companies.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17893,Create or manage recycling operations budgets.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17894,Design community solid and hazardous waste management programs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17895,Develop community or corporate recycling plans and goals to minimize waste and conform to resource constraints.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17897,Investigate violations of solid waste or recycling ordinances.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17898,Make presentations to educate the public on how to recycle or on the environmental advantages of recycling.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17900,"Operate fork lifts, skid loaders, or trucks to move or store recyclable materials.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17901,"Operate recycling processing equipment, such as sorters, balers, crushers, and granulators to sort and process materials.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17902,Oversee campaigns to promote recycling or waste reduction programs in communities or private companies.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17903,Prepare grant applications to fund recycling programs or program enhancements.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17904,Schedule movement of recycling materials into and out of storage areas.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17905,Identify or investigate new opportunities for materials to be collected and recycled.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17906,"Inspect physical condition of recycling or hazardous waste facility for compliance with safety, quality, and service standards.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17907,Maintain logs of recycling materials received or shipped to processing companies.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17908,"Prepare bills of lading, statements of shipping records, or customer receipts related to recycling or hazardous material services.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17909,"Provide training to recycling technicians or community service workers on topics such as safety, solid waste processing, or general recycling operations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17911,"Identify or address malfunctions of hydroelectric plant operational equipment, such as generators, transformers, or turbines.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17912,"Monitor hydroelectric power plant equipment operation and performance, adjusting to performance specifications, as necessary.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17913,"Start, adjust, or stop generating units, operating valves, gates, or auxiliary equipment in hydroelectric power generating plants.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17916,Inspect water-powered electric generators or auxiliary equipment in hydroelectric plants to verify proper operation or to determine maintenance or repair needs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17919,"Maintain or repair hydroelectric plant electrical, mechanical, or electronic equipment, such as motors, transformers, voltage regulators, generators, relays, battery systems, air compressors, sump pumps, gates, or valves.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17920,Operate high voltage switches or related devices in hydropower stations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17921,"Operate hydroelectric plant equipment, such as turbines, pumps, valves, gates, fans, electric control boards, or battery banks.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17926,"Cut, bend, or shape metal for applications in hydroelectric plants, using equipment such as hydraulic benders or pipe threaders.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17928,"Lift and move loads, using cranes, hoists, and rigging, to install or repair hydroelectric system equipment or infrastructure.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17929,Perform preventive or corrective containment or cleanup measures in hydroelectric plants to prevent environmental contamination.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17930,Perform tunnel or field inspections of hydroelectric plant facilities or resources.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17931,Splice or terminate cables or electrical wiring in hydroelectric plants.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17932,"Identify and correct malfunctions of geothermal plant equipment, electrical systems, instrumentation, or controls.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17933,"Install, maintain, or repair ground or water source-coupled heat pumps to heat and cool residential or commercial building air or water.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17934,Monitor and adjust operations of geothermal power plant equipment or systems.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17937,Calculate heat loss and heat gain factors for residential properties to determine heating and cooling required by installed geothermal systems.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17938,"Design and lay out geothermal heat systems according to property characteristics, heating and cooling requirements, piping and equipment requirements, applicable regulations, or other factors.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17939,Determine the type of geothermal loop system most suitable to a specific property and its heating and cooling needs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17941,"Prepare newly installed geothermal heat systems for operation by flushing, purging, or other actions.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17943,Install and maintain geothermal system instrumentation or controls.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17944,"Maintain electrical switchgear, process controls, transmitters, gauges, and control equipment in accordance with geothermal plant procedures.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17945,"Maintain, calibrate, or repair plant instrumentation, control, and electronic devices in geothermal plants.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17946,"Perform pre- and post-installation pressure, flow, and related tests of vertical and horizontal geothermal loop piping.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+17949,Apply coatings or operate systems to mitigate corrosion of geothermal plant equipment or structures.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17950,Collect and record data associated with operating geothermal power plants or well fields.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17952,Install and maintain geothermal plant electrical protection equipment.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17953,Integrate hot water heater systems with geothermal heat exchange systems.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+17956,Test water sources for factors such as flow volume and contaminant presence.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+18071,"Measure energy usage with devices such as data loggers, universal data recorders, light meters, sling psychrometers, psychrometric charts, flue gas analyzers, amp probes, watt meters, volt meters, thermometers, or utility meters.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+18072,Perform tests such as blower-door tests to locate air leaks.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+18073,"Inspect or evaluate building envelopes, mechanical systems, electrical systems, or process systems to determine the energy consumption of each system.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+18074,Prepare audit reports containing energy analysis results or recommendations for energy cost savings.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+18075,Analyze energy bills including utility rates or tariffs to gather historical energy usage data.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+18076,"Analyze technical feasibility of energy saving measures using knowledge of engineering, energy production, energy use, construction, maintenance, system operation, or process systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+18077,Calculate potential for energy savings.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+18078,Collect and analyze field data related to energy usage.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+18079,Compare existing energy consumption levels to normative data.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+18080,"Determine patterns of building use to show annual or monthly needs for heating, cooling, lighting, or other energy needs.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+18081,Educate customers on energy efficiency or answer questions on topics such as the costs of running household appliances or the selection of energy efficient appliances.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+18082,Identify and prioritize energy saving measures.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+18083,"Identify opportunities to improve the operation, maintenance, or energy efficiency of building or process systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+18084,Quantify energy consumption to establish baselines for energy use or need.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+18085,"Oversee installation of equipment such as water heater wraps, pipe insulation, weatherstripping, door sweeps, or low flow showerheads to improve energy efficiency.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+18086,"Prepare job specification sheets for home energy improvements, such as attic insulation, window retrofits, or heating system upgrades.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+18087,Recommend energy efficient technologies or alternate energy sources.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+18147,"Conduct jobsite observations, field inspections, or sub-metering to collect data for energy conservation analyses.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+18148,"Perform energy modeling, measurement, verification, commissioning, or retro-commissioning.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+18149,Consult with construction or renovation clients or other engineers on topics such as Leadership in Energy and Environmental Design (LEED) or Green Buildings.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+18150,"Inspect or monitor energy systems, including heating, ventilating, and air conditioning (HVAC) or daylighting systems to determine energy use or potential energy savings.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+18151,"Manage the development, design, or construction of energy conservation projects to ensure acceptability of budgets and time lines, conformance to federal and state laws, or adherence to approved specifications.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+18152,"Oversee design or construction aspects related to energy such as energy engineering, energy management, and sustainable design.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+18153,Direct the work of contractors or staff in the implementation of energy management projects.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+18155,Identify energy savings opportunities and make recommendations to achieve more energy efficient operation.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+18156,Monitor and analyze energy consumption.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+18157,Promote awareness or use of alternative or renewable energy sources.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+18158,"Review architectural, mechanical, or electrical plans and specifications to evaluate energy efficiency or determine economic, service, or engineering feasibility.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+18159,"Analyze, interpret, or create graphical representations of energy data, using engineering software.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+18160,"Conduct energy audits to evaluate energy use, costs, or conservation measures.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+18161,Conduct research or collect data on renewable or alternative energy systems or technologies such as solar thermal and photovoltaic energy.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+18162,Make recommendations regarding energy fuel selection.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+18164,"Provide consultation to clients or other engineers on topics such as climate control systems, energy modeling, data logging, energy management control systems, lighting or daylighting design, sustainable design, and energy auditing.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+18165,Review or negotiate energy purchase agreements.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+18166,Train personnel or clients on topics such as energy management.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+18230,Collect hazardous or non-hazardous waste in correctly labeled barrels or other containers and transfer them to collection areas.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+18811,"Monitor pasture or grazing land use to ensure that livestock are properly fed or that conservation methods, such as rotational grazing, are used.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+18824,Direct livestock or crop waste recycling operations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+18827,Monitor and adjust irrigation systems to distribute water according to crop needs and to avoid wasting water.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+18829,"Replace chemical insecticides with environmentally friendly practices, such as adding pest-repelling plants to fields.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19501,"Implement or oversee environmental management or sustainability programs addressing issues such as recycling, conservation, or waste management.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19502,Consult with buying personnel to gain advice regarding environmentally sound or sustainable products.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19503,Develop business cases for environmental marketing strategies.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19504,"Integrate environmental information into product or company marketing strategies, policies, or activities.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19505,"Recommend modifications to products, packaging, production processes, or other characteristics to improve the environmental soundness or sustainability of products.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19508,Evaluate transportation vehicles or auxiliary equipment for purchase by considering factors such as fuel economy or aerodynamics.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19509,Identify or select transportation and communications system technologies to reduce costs or environmental impacts.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19510,"Plan or implement energy saving changes to transportation services, such as reducing routes, optimizing capacities, employing alternate modes of transportation, or minimizing idling.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19511,"Develop or implement plans for storage and distribution activities that emphasize technological solutions for sustainability, such as investment in smart or eco-friendly containers, dynamic distribution networks, warehouse renovations, or fuel efficient fleets.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19512,"Develop storage and distribution models that include factors such as warehouse locations, customer locations, or available transportation modes to maximize operational efficiency or sustainability.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19513,Evaluate contractors or business partners for operational efficiency or safety or environmental performance records.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19514,Evaluate the environmental implications of new warehouses or distribution networks.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19515,"Identify and implement carbon minimization activities to offset carbon emissions, such as by planting trees, purchasing carbon credits, or purchasing green technologies, such as air filtration or alternative energy vehicles or power.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19516,Plan or implement environmental training programs and activities.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19517,"Select modes of transportation for the distribution of goods that minimize pollution, such as carbon output or other environmental impacts.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19518,Apply green building strategies to reduce energy costs or minimize carbon output or other sources of harm to the environment.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19519,"Develop construction budgets that compare green and non-green construction alternatives in terms of short-term costs, long-term costs, or environmental impacts.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19520,Develop or implement environmental protection programs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19521,Implement training programs on environmentally responsible building topics to update employee skills and knowledge.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19522,Inspect or review projects to monitor compliance with environmental regulations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19523,"Perform or contract others to perform prebuilding assessments, such as conceptual cost estimating, rough order of magnitude estimating, feasibility, or energy efficiency, environmental, and sustainability assessments.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19524,Procure Leadership in Energy Efficient Design (LEED) or other environmentally certified professionals to ensure responsible design and building activities or to achieve favorable LEED ratings for building projects.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19525,Develop or implement programs to improve sustainability or reduce the environmental impacts of engineering or architecture activities or operations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19526,Evaluate environmental regulations or social pressures related to environmental issues to inform strategic or operational decision-making.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19527,"Evaluate the environmental impacts of engineering, architecture, or research and development activities.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19528,Identify environmental threats or opportunities associated with the development and launch of new technologies.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19529,Develop relationships with state or federal environmental regulatory agencies to learn about and analyze the potential impacts of proposed environmental policy regulations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19530,"Evaluate regulatory affairs aspects that are specifically green, such as the use of toxic substances in packaging, carbon footprinting issues, or green policy implementation.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19531,Monitor regulatory affairs activities to ensure that they are aligned with corporate sustainability or green initiatives.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19532,Monitor regulatory affairs trends that are related to environmental issues.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19533,Advise technical professionals on the development or use of environmental compliance or reporting tools.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19534,Conduct environmental audits to ensure adherence to environmental standards.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19535,"Develop or implement environmental compliance plans for programs, such as air quality, storm water, wastewater treatment, hazardous waste management, pollution prevention, or solid waste management.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19536,"Direct environmental programs, such as air or water compliance, aboveground or underground storage tanks, spill prevention or control, hazardous waste or materials management, solid waste recycling, medical waste management, indoor air quality, integrated pest management, employee training, or disaster preparedness.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19537,Evaluate testing procedures to meet the specifications of environmental monitoring programs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19538,Review or modify policies or operating guidelines to comply with changes to environmental standards or regulations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19539,"Conduct or oversee the conduct of life cycle analyses to determine the environmental impacts of products, processes, or systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19540,Design or implement supply chains that support environmental policies.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19541,"Design, implement, or oversee product take back or reverse logistics programs to ensure products are recycled, reused, or responsibly disposed.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19543,"Identify opportunities to reuse or recycle materials to minimize consumption of new materials, minimize waste, or to convert wastes to by-products.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19544,Investigate or review the carbon footprints and environmental performance records of current or potential storage and distribution service providers.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19545,"Locate or select biodegradable, non-toxic, or other environmentally friendly raw materials for manufacturing processes.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19546,"Review or update supply chain practices in accordance with new or changing environmental policies, standards, regulations, or laws.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19547,Analyze environmental aspects of competing merchandise when making buying decisions.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19548,Compare transportation options to determine the most energy efficient options.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19549,Develop strategies to advertise green products or merchandise to consumers.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19550,"Identify opportunities to buy green commodities, such as alternative energy, water, or carbon-neutral products for resale to consumers.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19551,Monitor consumer preferences or environmental trends to determine the best way to introduce new green products.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19552,"Determine regulations or procedures related to the management, collection, reuse, recovery, or recycling of packaging waste.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19553,"Determine requirements applying to treatment, storage, shipment, or disposal of potentially hazardous production-related waste.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19554,"Determine the effects of legal requirements related to the production, supply, or use of ozone-depleting substances or equipment containing such substances.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19555,Monitor national or international legislation on ozone-depleting substances or global warming.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19556,Obtain clearances for the use of recycled plastics in product packaging.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19558,"Develop or implement training programs related to efficiency, recycling, or other issues with environmental impacts.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19559,"Evaluate modes of training delivery, such as in-person or virtual to optimize training effectiveness, training costs, or environmental impacts.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19560,Examine commercial sites to determine the feasibility of installing equipment that allows building management systems to reduce electricity consumption during peak demand periods.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19561,Identify any health or safety issues related to planned weatherization projects.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19562,Inspect newly installed energy-efficient equipment to ensure that it was installed properly and is performing according to specifications.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19564,Conduct financial analyses related to investments in green construction or green retrofitting projects.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19565,"Determine the financial viability of alternative energy generation or fuel production systems, based on power source or feedstock quality, financing costs, potential revenue, and total project costs.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19566,Evaluate financial viability and potential environmental benefits of cleantech innovations to secure capital investments from sources such as venture capital firms and government green fund grants.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19567,"Forecast or analyze financial costs associated with climate change or other environmental factors, such as clean water supply and demand.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19568,"Identify potential financial investments that are environmentally sound, considering issues such as carbon emissions and biodiversity.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19569,"Research and recommend environmentally-related financial products, such as energy futures, water rights, carbon credits, government environmental funds, and cleantech industry funds and company stocks.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19570,"Inform clients about tax benefits, government rebates, or other financial benefits of alternative fuel vehicle purchases or energy efficient home construction, improvements, or remodeling.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19571,"Recommend environmentally responsible investments, such as cleantech, alternative energy, or conservation technologies, companies, or funds.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19572,Analyze pricing or risks of carbon trading products.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19574,"Develop methods of assessing or measuring corporate performance in terms of environmental, social, and governance (ESG) issues.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19575,Develop solutions to help clients hedge carbon exposure or risk.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19576,"Develop tools to assess green technologies or green financial products, such as green hedge funds or social responsibility investment funds.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19577,Determine potential environmental impacts of new products or processes on long-term growth and profitability.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19578,"Determine potential liability related to the use of more sustainable methods of product packaging, such as biodegradable food containers.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19579,Evaluate the risks and benefits involved in implementing green building technologies.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19580,"Evaluate the risks related to green investments, such as renewable energy company stocks.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19581,"Arrange deals involving green investments in areas such as alternative energy product development, green technologies, or sustainable agriculture.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19582,"Specialize in green financial instruments, such as socially responsible mutual funds or exchange-traded funds (ETF) that are comprised of green companies.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19584,"Develop new applications for geospatial technology in areas such as farmland preservation, pollution measurement, or utilities operations management.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19585,Analyze Geographic Information Systems (GIS) data for use in urban planning applications that promote better land use or reduce environmental impacts of development.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19586,"Analyze Geographic Information Systems (GIS) data to determine the best locations for renewable energy sites, including solar or wind energy installations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19587,Apply Geographic Information Systems (GIS) data in transportation routing settings to determine the best routing to reduce pollution or energy consumption.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19589,"Participate in projects that map changes in carbon emissions levels across different geographic locations, using Geographic Information Systems (GIS) data.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19590,Calculate potential energy savings by comparing estimated energy consumption of proposed design to baseline standards.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19591,"Design environmentally sound structural upgrades to existing buildings, such as natural lighting systems, green roofs, or rainwater collection systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19592,Design or plan construction of green building projects to minimize adverse environmental impact or conserve energy.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19593,"Design structures that incorporate environmentally friendly building practices or concepts, such as Leadership in Energy and Environmental Design (LEED) standards.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19594,Gather information related to projects' environmental sustainability or operational efficiency.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19595,"Perform predesign services, such as feasibility or environmental impact studies.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19597,Collaborate with architects or related professionals on whole building design to maximize the aesthetic features of structures or surrounding land and to improve energy efficiency.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19598,Create landscapes that minimize water consumption such as by incorporating drought-resistant grasses or indigenous plants.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19599,Design and integrate rainwater harvesting or gray and reclaimed water systems to conserve water into building or land designs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19600,"Identify and select appropriate sustainable materials for use in landscape designs, such as using recycled wood or recycled concrete boards for structural elements or recycled tires for playground bedding.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19601,"Design new or modify existing aerospace systems to reduce polluting emissions, such as nitrogen oxide, carbon monoxide, or smoke emissions.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19602,Design or engineer filtration systems that reduce harmful emissions.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19603,Evaluate biofuel performance specifications to determine feasibility for aerospace applications.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19604,Research new materials to determine quality or conformance to environmental standards.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19605,Review aerospace engineering designs to determine how to reduce negative environmental impacts.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19606,Analyze manufacturing processes or byproducts to identify engineering solutions to minimize the output of carbon or other pollutants.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19607,Design energy efficient or environmentally sound civil structures.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19608,"Design or engineer systems to efficiently dispose of chemical, biological, or other toxic wastes.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19609,Develop or implement engineering solutions to clean up industrial accidents or other contaminated sites.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19610,"Direct engineering activities ensuring compliance with environmental, safety, or other governmental regulations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19611,Identify environmental risks and develop risk management strategies for civil engineering projects.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19612,"Design or engineer drainage, erosion, or sedimentation control systems for transportation projects.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19613,"Design transportation systems or structures using sustainable materials or products, such as porous pavement or bioretention structures.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19614,Develop plans to deconstruct damaged or obsolete roadways or other transportation structures in a manner that is environmentally sound or prepares the land for sustainable development.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19615,Evaluate construction project materials for compliance with environmental standards.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19616,Inspect completed transportation projects to ensure compliance with environmental regulations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19617,"Design electrical systems or components that minimize electric energy requirements, such as lighting systems designed to account for natural lighting.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19618,"Develop systems that produce electricity using renewable energy sources, such as wind, solar, or biofuels.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19619,Integrate electrical systems with renewable energy systems to improve overall efficiency.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19620,"Develop solar photovoltaic products, such as inverters or energy management systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19621,"Investigate green consumer electronics applications for consumer electronic devices, power saving devices for computers or televisions, or energy efficient power chargers.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19622,Research or develop electronics technologies for use in electric-drive vehicles.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19623,"Research or develop new green electronics technologies, such as lighting, optical data storage devices, or energy efficient televisions.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19624,Direct installation or operation of environmental monitoring devices or supervise related data collection programs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19625,Prepare or present public briefings on the status of environmental engineering projects.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19626,Write reports or articles for Web sites or newsletters related to environmental engineering issues.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19627,"Calculate energy losses for buildings, using equipment such as computers, combustion analyzers, or pressure gauges.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19628,"Design integrated mechanical or alternative systems, such as mechanical cooling systems with natural ventilation systems, to improve energy efficiency.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19629,"Direct the installation, operation, maintenance, or repair of renewable energy equipment, such as heating, ventilating, and air conditioning (HVAC) or water systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19630,Evaluate mechanical designs or prototypes for energy performance or environmental impact.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19631,Recommend the use of utility or energy services that minimize carbon footprints.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19632,"Select or install combined heat units, power units, cogeneration equipment, or trigeneration equipment that reduces energy use or pollution.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19633,"Create design alternatives for vehicle components, such as camless or dual-clutch engines or alternative air-conditioning systems, to increase fuel efficiency.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19634,"Design vehicles for increased recyclability or use of natural, renewable, or recycled materials in vehicle construction.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19635,"Design vehicles that use lighter materials, such as aluminum, magnesium alloy, or plastic, to improve fuel efficiency.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19636,Develop specifications for vehicles powered by alternative fuels or alternative power methods.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19638,"Research or implement green automotive technologies involving alternative fuels, electric or hybrid cars, or lighter or more fuel-efficient vehicles.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19639,"Conduct environmental studies related to topics such as nuclear power generation, nuclear waste disposal, or nuclear weapon deployment.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19640,Design fuel cycle models or processes to reduce the quantity of radioactive waste generated from nuclear activities.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19641,"Develop or contribute to the development of plans to remediate or restore environments affected by nuclear radiation, such as waste disposal sites.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19642,Direct environmental compliance activities associated with nuclear plant operations or maintenance.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19643,"Prepare environmental impact statements, reports, or presentations for regulatory or other agencies.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19644,Develop experiments to determine production methods that minimize pollution or waste.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19645,Review existing biomanufacturing processes to ensure compliance with environmental regulations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19646,"Plan or conduct validation testing of alternative energy products, such as synthetic jet fuels or energy storage systems, such as fuel cells.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19647,"Validate or characterize sustainable or environmentally friendly products, using electronic testing platforms.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19648,Write or install energy management routines for building automation systems.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19649,Analyze the financial impacts of sustainable manufacturing such as by implementing sustainable manufacturing processes or manufacturing sustainable products.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19650,"Develop sustainable manufacturing technologies to reduce greenhouse gas emissions, minimize raw material use, replace toxic materials with non-toxic materials, replace non-renewable materials with renewable materials, or reduce waste.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19651,"Evaluate current or proposed manufacturing processes or practices for environmental sustainability, considering factors such as green house gas emissions, air pollution, water pollution, energy use, or waste creation.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19652,Redesign packaging for manufactured products to minimize raw material use or waste.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19653,"Design or develop automated control systems for environmental applications, such as waste processing, air quality, or water quality systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19656,Consider environmental issues when proposing product designs involving microelectromechanical systems (MEMS) technology.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19657,"Design or develop energy products using nanomaterials or nanoprocesses, such as micro-nano machining.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19658,"Design or develop industrial air quality microsystems, such as carbon dioxide fixing devices.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19659,"Design or develop sensors to reduce the energy or resource requirements to operate appliances, such as washing machines or dishwashing machines.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19660,Design sensors or switches that require little or no power to operate for environmental monitoring or industrial metering applications.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19661,"Research or develop emerging microelectromechanical (MEMS) systems to convert nontraditional energy sources into power, such as ambient energy harvesters that convert environmental vibrations into usable energy.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19663,Design or redesign optical fibers to minimize energy loss.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19664,"Design photonics products, such as light sources, displays, or photovoltaics to achieve increased energy efficiency.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19665,Design solar energy photonics or other materials or devices to generate energy.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19667,Design or program robotics systems for environmental clean-up applications to minimize human exposure to toxic or hazardous materials or to improve the quality or speed of clean-up operations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19668,"Design robotics applications for manufacturers of green products, such as wind turbines or solar panels to increase production time, eliminate waste, or reduce costs.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19669,"Apply nanotechnology to improve the performance or reduce the environmental impact of energy products, such as fuel cells or solar cells.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19670,"Design nano-based manufacturing processes to minimize water, chemical, or energy use, as well as to reduce waste production.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19671,"Design nano-enabled products with reduced toxicity, increased durability, or improved energy efficiency.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19672,"Design nanoparticle catalysts to detect or remove chemical or other pollutants from water, soil, or air.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19673,Design nanosystems with components such as nanocatalysts or nanofiltration devices to clean specific pollutants from hazardous waste sites.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19674,"Develop catalysis or other green chemistry methods to synthesize nanomaterials, such as nanotubes, nanocrystals, nanorods, or nanowires.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19675,"Develop green building nanocoatings, such as self-cleaning, anti-stain, depolluting, anti-fogging, anti-icing, antimicrobial, moisture-resistant, or ultraviolet protectant coatings.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19677,Reengineer nanomaterials to improve biodegradability.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19678,"Assemble or test solar photovoltaic products, such as inverters or energy management systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19679,"Assess electrical components for consumer electronics applications, such as fuel cells for consumer electronic devices, power saving devices for computers or televisions, or energy efficient power chargers.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19680,Build or test electrical components of electric-drive vehicles or prototype vehicles.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19681,Create or modify electrical components to be used in renewable energy generation.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19682,"Participate in the development or testing of electrical aspects of new green technologies, such as lighting, optical data storage devices, or energy efficient televisions.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19683,"Operate, test, or maintain robotic equipment used for green production applications, such as waste-to-energy conversion systems, minimization of material waste, or replacement of human operators in dangerous work environments.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19685,"Operate robots to perform customized tasks, such as environmental cleanup or explosive detection operations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19686,"Assess the ability of environments to naturally remove or reduce conventional or emerging contaminants from air, water, or soil.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19687,Create models to demonstrate or predict the process by which pollutants move through or impact an environment.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19688,"Decontaminate or test field equipment used to clean or test pollutants from soil, air, or water.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19689,"Evaluate and select technologies to clean up polluted sites, restore polluted air, water, or soil, or rehabilitate degraded ecosystems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19690,"Model biological, chemical, or physical treatment processes to remove or degrade pollutants.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19691,Prepare and package environmental samples for shipping or testing.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19692,"Evaluate industrial operations for compliance with permits or regulations related to the generation, storage, treatment, transportation, or disposal of hazardous materials or waste.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19694,"Monitor environmental management systems for compliance with environmental policies, programs, or regulations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19696,"Analyze performance of vehicles or components that have been redesigned to increase fuel efficiency, such as camless or dual-clutch engines or alternative types of air-conditioning systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19697,"Improve fuel efficiency by testing vehicles or components that use lighter materials, such as aluminum, magnesium alloy, or plastic.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19699,"Test performance of vehicles that use alternative fuels, such as alcohol blends, natural gas, liquefied petroleum gas, biodiesel, nano diesel, or alternative power methods, such as solar energy or hydrogen fuel cells.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19700,"Assemble or test solar photovoltaic products, such as inverters or energy management systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19701,Build or test electrical components of electric-drive vehicles or prototype vehicles.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19702,Conduct statistical studies to analyze or compare production costs for sustainable or nonsustainable designs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19703,"Construct and evaluate electrical components for consumer electronics applications such as fuel cells for consumer electronic devices, power saving devices for computers or televisions, and energy efficient power chargers.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19704,Create or modify electrical components to be used in renewable energy generation.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19705,Evaluate electrical engineering plans to determine whether they comply with applicable environmental standards.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19706,"Participate in the development or testing of electrical aspects of new green technologies, such as lighting, optical data storage devices, or energy efficient televisions.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19707,Test sustainable materials for their applicability to electrical engineering systems or system designs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19708,Conduct statistical studies to analyze or compare production costs for sustainable and nonsustainable designs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19709,Determine whether selected electromechanical components comply with environmental standards and regulations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19710,Develop or implement programs related to the environmental impact of engineering activities.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19711,"Identify energy-conserving production or fabrication methods, such as by bending metal rather than cutting and welding or casting metal.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19712,"Test and analyze thermodynamic systems for renewable energy applications, such as solar or wind, to maximize energy production.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19713,Assemble or analyze electronics technologies to be used in electric-drive vehicles.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19714,"Evaluate operational aspects of green consumer electronics applications, such as fuel cells for consumer electronic devices, power saving devices for computers or televisions, or energy efficient power chargers.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19715,"Participate in the development or testing of new green electronics technologies, such as lighting, optical data storage devices, or energy efficient televisions.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19716,"Test solar photovoltaic products, such as inverters or energy management systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19717,Analyze material flows or supply chains to identify opportunities to improve efficiency and conserve energy.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19718,Conduct statistical studies to analyze or compare production costs for sustainable and nonsustainable designs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19722,Design plant or production layouts that minimize environmental impacts.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19723,"Develop processes to recover, recycle, or reuse waste or scrap materials from manufacturing operations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19724,"Develop sustainable manufacturing technologies to reduce greenhouse gas emissions, minimize raw material use, replace toxic materials with non-toxic materials, replace non-renewable materials with renewable materials, or reduce waste.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19725,"Evaluate current or proposed manufacturing processes or practices for environmental sustainability, considering factors such as green house gas emissions, air pollution, water pollution, energy use, or waste creation.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19726,Monitor manufacturing operations to ensure adherence to environmental policies and practices.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19727,Train manufacturing technicians on environmental protection topics.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19728,"Analyze energy requirements and distribution systems to maximize the use of intermittent or inflexible renewable energy sources, such as wind or nuclear.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19729,"Assist engineers to design or develop electrochemical devices, such as solid oxide membranes or other products for sustainable applications.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19730,Conduct statistical studies to analyze or compare production costs for sustainable and nonsustainable designs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19731,"Assemble components of energy-efficient optical communications systems involving photonic switches, optical backplanes, or optoelectronic interfaces.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19732,"Assemble devices or equipment to be used in green technology applications, including solar energy, high efficiency solid state lighting, energy management, smart buildings, or green processes.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19734,Develop solar power sources for lasers used in fiber optics.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19735,Fabricate sensors to be used to control wind turbines.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19737,"Clean scrap materials for recycling or reuse, such as preparing aluminum scrap for cold-bonding processes or preparing paper for pulping or ink removal processes.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19738,Conduct environmental safety inspections in accordance with standard protocols to ensure production activities comply with environmental regulations or standards.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19739,"Separate scrap or waste materials for recycling, reuse, or environmentally sound disposal.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19740,"Transfer hazardous or non-hazardous waste materials to collection areas for disposal, recycling, or reuse.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19741,Analyze the life cycle of nanomaterials or nano-enabled products to determine environmental impact.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19742,"Capture nanoparticle contaminants, using techniques such as electrical fields or electrospinning.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19743,"Compare the performance or environmental impact of nanomaterials by nanoparticle size, shape, or organization.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19745,Monitor hazardous waste cleanup procedures to ensure proper application of nanocomposites or accomplishment of objectives.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19747,"Measure emission of nanodust or nanoparticles during nanocomposite or other nano-scale production processes, using systems such as aerosol detection systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19748,Measure or report toxicity of engineered nanoparticles.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19750,Conduct research into the use of plant species as green fuels or in the production of green fuels.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19751,"Develop environmentally safe methods or products for controlling or eliminating weeds, crop diseases, or insect pests.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19752,Investigate responses of soils to specific management practices to determine the effects of alternative practices on the environment.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19753,"Research technical requirements or environmental impacts of urban green spaces, such as green roof installations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19754,"Study ways to improve agricultural sustainability, such as the use of new methods of composting.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19756,"Conduct wind assessment, integration, or validation studies.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19758,Estimate or predict the effects of global warming over time for specific geographic regions.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19761,Determine methods to incorporate geo-methane or methane hydrates into global energy production or evaluate the potential environmental impacts of such incorporation.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19762,Determine ways to mitigate the negative consequences of mineral dust dispersion.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19763,Develop strategies for more environmentally friendly resource extraction and reclamation.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19764,Develop ways to capture or use gases that are currently burned off as waste during oil production processes.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19765,"Identify new sources for Platinum Group Elements necessary for industrial uses, such as automotive fuel cells or pollution abatement systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19766,Identify possible sites for carbon sequestration projects.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19767,Locate potential sources of geothermal energy.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19768,Provide advice on the safe siting of new nuclear reactor projects or methods of nuclear waste management.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19769,Research geomechanical or geochemical processes to be used in carbon sequestration projects.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19770,Research ways to reduce the ecological footprint of increasingly prevalent megacities.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19771,Review environmental cleanup work plans to determine the effectiveness of the remedial activities for mitigating soil or groundwater contamination.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19772,Study historical climate change indicators found in locations such as ice sheets or rock formations to develop models related to current climate changes.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19773,"Apply remote sensing data or techniques to address environmental issues, such as surface water modeling or dust cloud detection.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19774,Use remote sensing data for forest or carbon tracking activities involved in assessing the impact of environmental change.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19775,"Advocate for sustainability to community groups, government agencies, the general public, or special interest groups.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19776,Develop plans for public or alternative transportation systems for urban or regional locations to reduce carbon output associated with transportation.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19777,Evaluate proposals for infrastructure projects or other development for environmental impact or sustainability.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19778,"Identify opportunities or develop plans for sustainability projects or programs to improve energy efficiency, minimize pollution or waste, or restore natural systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19779,"Collaborate with other professionals to develop sustainable transportation strategies at the local, regional, or national levels.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19780,"Assess comparative soil erosion from various planting or tillage systems, such as conservation tillage with mulch or ridge till systems, no-till systems, or conventional tillage systems with or without moldboard plows.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19781,"Conduct studies of nitrogen or alternative fertilizer application methods, quantities, or timing to ensure satisfaction of crop needs and minimization of leaching, runoff, or denitrification.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19782,"Record environmental data from field samples of soil, air, water, or pests to monitor the effectiveness of integrated pest management (IPM) practices.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19784,"Collect data on underground areas, such as reservoirs, that could be used in carbon sequestration operations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19785,Collect geological data from potential geothermal energy plant sites.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19786,"Compile data used to address environmental issues, such as the suitability of potential landfill sites.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19787,Conduct geophysical surveys of potential sites for wind farms or solar installations to determine their suitability.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19788,Participate in the evaluation of possible geothermal energy plant locations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19789,Test and analyze samples from potential underground carbon sequestration sites.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19792,Follow nuclear equipment operational policies and procedures that ensure environmental safety.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19796,"Prepare reports to communicate information such as contamination test results, decontamination results, or decontamination procedures.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19797,Analyze potential environmental impacts of production process changes and recommend steps to mitigate negative impacts.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19798,Develop or implement site recycling or hazardous waste stream programs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19799,Monitor emission control devices to ensure they are operating properly and are in compliance with state and federal regulations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19801,Apply precision agriculture information to specifically reduce the negative environmental impacts of farming practices.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19802,"Participate in efforts to advance precision agriculture technology, such as developing advanced weed identification or automated spot spraying systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19803,Provide advice on the development or application of better boomspray technology to limit the overapplication of chemicals and to reduce the migration of chemicals to areas other than the fields being treated.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19804,Collaborate with agricultural workers to apply remote sensing information to efforts to reduce negative environmental impacts of farming practices.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19805,Collect remote sensing data for forest or carbon tracking activities involved in assessing the impact of environmental change.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19806,"Provide remote sensing data for use in addressing environmental issues, such as surface water modeling or dust cloud detection.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19807,Specialize in the negotiation and resolution of environmental conflicts involving issues such as natural resource allocation or regional development planning.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19809,Coordinate public responses to environmental management incidents or conflicts.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19810,Develop marketing campaigns for environmental technologies or services.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19811,"Develop plans or materials to communicate activities undertaken by organizations that are beneficial to the environment, public safety, or other important social issues.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19813,Collect data regarding potential hazards from new equipment or products linked to green practices.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19814,Collect data related to ecological or human health risks at brownfield sites.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19815,Examine practices at green building sites to determine whether adherence to green building standards alters risks to workers.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19816,Perform tests to identify any potential hazards related to recycled products used at green building sites.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19818,"Train workers in safety procedures related to green jobs, such as the use of fall protection devices or maintenance of proper ventilation during wind turbine construction.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19819,"Buy, sell, or trade carbon emissions permits.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19820,"Identify or pursue investment strategies related to the green economy, including green hedge funds, renewable energy markets, or clean technology investment opportunities.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19821,Analyze and evaluate energy supply bids to determine the best options.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19822,Monitor energy supply contracts to ensure proper implementation and execution by suppliers.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19824,"Research and recommend new products or services, such as alternative energy sources or renewable energy credits.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19825,"Inform customers about issues related to responsible use and disposal of products, such as waste reduction or product or byproduct recycling or disposal.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19826,Present information to customers about the energy efficiency or environmental impact of scientific or technical products.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19827,"Research and convey information to customers about tax benefits or government rebates associated with energy-efficient scientific or technical products, such as solar panels.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19828,Sell technical and scientific products that are environmentally sound or designed for environmental remediation.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19829,Analyze shipping routes to determine how to minimize environmental impact.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19830,"Arrange for transport, using a variety of modes, such as rail, short sea shipping, air, or roadways, to minimize carbon emissions or other environmental impacts.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19831,Consider environmental sustainability factors when determining merchandise packing methods.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19832,Recommend shipping solutions to minimize cost or environmental impacts.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19833,Review the environmental records of freight carriers to inform shipping decisions.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19834,Compare shipping routes or methods to determine which have the least environmental impact.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19835,Apply weather-stripping to reduce energy loss.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19836,"Perform building weatherization tasks, such as repairing windows, adding insulation, or applying weather-stripping materials.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19837,"Perform construction laborer duties at green building sites, such as renewable energy plants or wind turbine installations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19838,"Perform site activities required of green certified construction practices, such as implementing waste management procedures, identifying materials for reuse, or installing erosion or sedimentation control mechanisms.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19839,"Install fixtures, appliances, or equipment designed to reduce water or energy consumption.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19840,"Install or test gray water systems, such as recycling, treatment, or irrigation systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19841,"Install pipe systems to support alternative energy-fueled systems, such as geothermal heating and cooling systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19842,Calculate costs or savings for water- or energy-efficient appliances or systems.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19843,Compile information on governmental incentive programs related to the installation of energy or water saving plumbing systems or devices.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19844,"Determine sizing requirements for solar hot water heating systems, taking into account factors such as site orientation, load calculations, or storage capacity requirements.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19845,"Install alternative water sources, such as rainwater harvesting systems or graywater reuse systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19846,"Install green plumbing equipment, such as faucet flow restrictors, dual-flush or pressure-assisted flush toilets, or tankless hot water heaters.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19847,"Install, test, or commission solar thermal or solar photovoltaic hot water heating systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19848,Perform domestic plumbing audits to identify ways in which customers might reduce consumption of water or energy.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19849,"Recommend energy or water saving products, such as low-flow faucets or shower heads, water-saving toilets, or high-efficiency hot water heaters.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19850,Apply modular soil- and plant-containing grids over existing roof membranes to create green roofs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19851,"Apply reflective roof coatings, such as special paints or single-ply roofing sheets, to existing roofs to reduce solar heat absorption.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19852,"Attach solar panels to existing roofs, according to specifications and without damaging roofing materials or the structural integrity of buildings.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19854,"Install layers of vegetation-based green roofs, including protective membranes, drainage, aeration, water retention and filter layers, soil substrates, irrigation materials, and plants.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19855,Install skylights on roofs to increase natural light inside structures or to reduce energy costs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19856,"Install solar roofing systems that have energy-collecting photovoltaic panels built into roofing membranes, shingles, or tiles.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19857,Construct components for high-performance wind turbine systems.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19858,"Fabricate ducts for high efficiency heating, ventilating, and air conditioning (HVAC) systems to maximize efficiency of systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19859,"Install green architectural sheet metal components, such as cool roofs or hot or cold walls.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19861,Perform sheet metal work necessary for solar panel installations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19862,"Verify that heating, ventilating, and air conditioning (HVAC) systems are designed, installed, and calibrated in accordance with green certification standards, such as those of Leadership in Energy and Environmental Design (LEED).",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19863,"Conduct environmental hazard inspections to identify or quantify problems such as asbestos, poor air quality, water contamination, or other environmental hazards.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19864,Evaluate project details to ensure adherence to environmental regulations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19865,Inspect facilities or installations to determine their environmental impact.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19866,Monitor construction activities to ensure that environmental regulations are not violated.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19867,"Sample and test air to identify gasses, such as bromine, ozone, or sulfur dioxide, or particulates, such as mold, dust, or allergens.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19868,Apply bioremediation techniques to hazardous wastes to allow naturally occurring bacteria to break down toxic substances.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19870,Identify or separate waste products or materials for recycling or reuse.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19871,"Process e-waste, such as computer components containing lead or mercury.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19872,Remove or limit contamination following emergencies involving hazardous substances.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19873,"Sort specialized hazardous waste at landfills or disposal centers, following proper disposal procedures.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19875,Apply new technologies developed to minimize the environmental impact of coal mining.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19876,"Scrape or wash conveyors, using belt scrapers or belt washers, to minimize dust production.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19877,"Change spark plugs, fuel filters, air filters, and batteries in hybrid electric vehicles.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19879,Diagnose and repair regenerative braking systems or hydraulic systems in hybrid vehicles.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19882,"Replace hydraulically assisted systems with electric-powered systems, such as power steering pumps or air conditioning compressors, to improve fuel economy.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19883,"Retrofit vehicle fuel systems with aftermarket products, such as vapor transfer devices, evaporation control devices, swirlers, lean burn devices, or friction reduction devices, to enhance combustion and fuel efficiency.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19884,"Service biodiesel fuel tanks for algae or sludge accumulation by cleaning, changing filters, or adding algaecides.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19886,Adjust or repair computer controlled exhaust emissions devices.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19887,Follow green operational practices involving conservation of water or energy or reduction of solid waste.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19888,"Maintain or repair vehicles with alternative fuel systems, including biodiesel, hybrid, or compressed natural gas vehicles.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19889,Measure vehicle emissions to determine whether they are within acceptable limits.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19890,"Install and test automatic, programmable, or wireless thermostats in residential or commercial buildings to minimize energy usage for heating or cooling.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19893,"Install or repair air purification systems, such as specialized filters or ultraviolet (UV) light purification systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19894,Install or repair self-contained ground source heat pumps or hybrid ground or air source heat pumps to minimize carbon-based energy consumption and reduce carbon emissions.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19895,Install radiator controls for room-level zone control heating of residential or commercial buildings.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19896,"Repair or service heating, ventilating, and air conditioning (HVAC) systems to improve efficiency, such as by changing filters, cleaning ducts, or refilling non-toxic refrigerants.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19898,Install equipment to improve the energy or operational efficiency of residential or commercial buildings.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19900,"Position, attach, or blow insulating materials to prevent energy losses from buildings, pipes, or other structures or objects.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19901,Assemble prototypes or integrated-technology demonstrators of new or emerging environmental technologies for aircraft.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19902,"Capture or segregate waste material, such as aluminum swarf, machine cutting fluid, or solvents, for recycling or environmentally responsible disposal.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19903,"Clean aircraft structures, parts, or components, using aqueous, semi-aqueous, aliphatic hydrocarbon, or organic solvent cleaning products or techniques to reduce carbon or other harmful emissions.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19905,Dispose of scrap or waste material in accordance with company policies and environmental regulations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19906,"Separate scrap waste and related materials for reuse, recycling, or disposal.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19907,Authorize actions to correct identified operational inefficiencies or hazards so that operating efficiency is maximized and potential environmental issues are minimized.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19911,Operate nuclear power reactors in accordance with policies and procedures to protect workers from radiation and to ensure environmental safety.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19913,"Inspect thermal barrier coatings on integrated gasification combined cycle (IGCC) equipment for sintering, phase destabilization, or temperature variances to ensure compliance with standards and insulation efficiency.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19914,"Operate or maintain distributed power generation equipment, including fuel cells or microturbines, to produce energy on-site for manufacturing or other commercial purposes.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19915,"Operate, control, or monitor equipment, such as acid or gas carbon dioxide removal units, carbon dioxide compressors, and pipelines, to capture, store, or transport carbon dioxide exhaust.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19918,"Operate machines to process materials in compliance with applicable safety, energy, or environmental regulations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19919,"Inspect or test cleantech or green technology parts, products, or installations, such as fuel cells, solar panels, or air quality devices, for conformance to specifications or standards.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19920,"Inspect or test raw materials, parts, or products to determine compliance with environmental standards.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19921,"Drive electric or hybrid-electric powered trucks or alternative fuel-powered trucks to transport and deliver products, livestock, or other materials.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19922,"Operate idle reduction systems or auxiliary power systems to generate power from alternative sources, such as fuel cells, to reduce idling time, to heat or cool truck cabins, or to provide power for other equipment.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19923,"Plan or adjust routes based on changing conditions, using computer equipment, global positioning systems (GPS) equipment, or other navigation devices to minimize fuel consumption and carbon emissions.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19924,Attach onboard diagnostics (OBD) scanner cables to vehicles to conduct emissions inspections.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19925,Compare emissions findings with applicable emissions standards.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19927,Conduct visual inspections of emission control equipment and smoke emitted from gasoline or diesel vehicles.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19928,Identify emissions testing procedures and standards appropriate for the age and technology of vehicles.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19929,"Identify modifications to engines, fuel systems, emissions control equipment, or other vehicle systems to determine the impact of modifications on inspection procedures or conclusions.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19931,Perform low-pressure fuel evaluative tests (LPFET) to test for harmful emissions from vehicles without onboard diagnostics (OBD) equipment.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19932,"Make special pickups of recyclable materials, such as food scraps, used oil, discarded computers, or other electronic items.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19933,Monitor green-related industry statistics or literature to identify trends.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19934,Generate or identify sales leads for green products and technologies.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19935,"Write marketing content for green product web sites, brochures, or other communication media.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19936,"Revise existing marketing plans or campaigns for green products, technologies, or services.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19937,Identify marketing channels for green products or services.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19938,"Develop communications materials, advertisements, presentations, or public relations initiatives to promote awareness of green products and technologies.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19939,"Conduct research on consumer opinions and buying habits, and identify target audiences for green products, services, or technologies.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19940,"Attend or participate in conferences, community events, and promotional events related to green products or technologies.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19941,Analyze green product marketing or sales trends to forecast future conditions.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19942,"Develop branding or sales initiatives for green products, such as solar energy systems, green cleaning products, or products using renewable or recycled materials.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19943,"Develop comprehensive marketing strategies, using knowledge of green products and technologies, markets, and regulations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19945,"Prepare test stations, instrumentation, or data acquisition systems for use in specific tests of fuel cell components or systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19946,"Plan or implement fuel cell cost reduction or product improvement projects in collaboration with other engineers, suppliers, support personnel, or customers.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19947,"Coordinate fuel cell engineering or test schedules with departments outside engineering, such as manufacturing.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19949,"Manage fuel cell battery hybrid system architecture, including sizing of components, such as fuel cells, energy storage units, or electric drives.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19950,"Conduct fuel cell testing projects, using fuel cell test stations, analytical instruments, or electrochemical diagnostics, such as cyclic voltammetry or impedance spectroscopy.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19951,Define specifications for fuel cell materials.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19952,Develop or evaluate systems or methods of hydrogen storage for fuel cell applications.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19953,"Evaluate the power output, system cost, or environmental impact of new hydrogen or non-hydrogen fuel cell system designs.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19958,"Build fuel cell prototypes, following engineering specifications.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19959,Conduct tests or provide technical support for tests of prototype fuel cell engines or thermal management systems.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19961,"Install, calibrate, or operate emissions analyzers, cell assist software, fueling systems, or air conditioning systems in engine testing systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19962,Perform electrochemical performance or durability testing of solid oxide fuel cells.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19963,Recommend methods to protect the environment or minimize environmental damage from industrial production practices.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19964,Develop alternative energy investment scenarios to compare economic and environmental costs and benefits.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19965,Analyze changes designed to improve the environmental performance of complex systems to avoid unintended negative consequences.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19966,Apply new or existing research about natural ecosystems to understand economic and industrial systems in the context of the environment.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19967,"Conduct analyses to determine the maximum amount of work that can be accomplished for a given amount of energy in a system, such as industrial production systems and waste treatment systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19968,"Conduct environmental sustainability assessments, using material flow analysis (MFA) or substance flow analysis (SFA) techniques.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19969,Evaluate the effectiveness of industrial ecology programs using statistical analysis and applications.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19970,"Examine local, regional or global use and flow of materials or energy in industrial production processes.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19971,Examine societal issues and their relationship with both technical systems and the environment.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19972,"Identify environmental impacts caused by products, systems, or projects.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19974,Identify sustainable alternatives to industrial or waste management practices.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19976,Perform environmentally extended input-output (EE I-O) analyses.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19977,Prepare plans to manage renewable resources.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19978,"Prepare technical and research reports such as environmental impact reports, and communicate the results to individuals in industry, government, or the general public.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19979,Promote use of environmental management systems (EMS) to reduce waste or to improve environmentally sound use of natural resources.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19980,"Redesign linear, or open loop, systems into cyclical, or closed loop, systems so that waste products become inputs for new processes, modeling natural ecosystems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19981,Research environmental effects of land and water used to determine methods of improving environmental conditions or increasing outputs such as crop yields.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19982,"Review research literature to maintain knowledge on topics related to industrial ecology, such as physical science, technology, economy, and public policy.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19983,Translate the theories of industrial ecology into eco-industrial practices.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19984,Develop programs or policy recommendations to achieve environmental goals in cost-effective ways.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19985,"Assess the costs and benefits of various activities, policies, or regulations that affect the environment or natural resource stocks.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19986,Develop programs or policy recommendations to promote sustainability and sustainable development.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19987,"Direct or coordinate comprehensive logistical or reverse logistical functions for product life cycles, including acquisition, distribution, internal allocation, delivery, recycling, reuse, or final disposal of resources.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19988,Negotiate with suppliers or customers to improve supply chain efficiency or sustainability.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19990,"Review global, national, or regional transportation or logistics reports for ways to improve efficiency or minimize the environmental impact of logistics activities.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19991,Prepare or file environmental certification applications.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19992,"Conduct or review environmental audits for logistics activities, such as storage, distribution, or transportation.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19993,"Implement or monitor carbon or environmental management, accounting, or audit systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+19994,Develop plans or set goals to reduce carbon emissions associated with storage or transport activities.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+19998,"Evaluate the use of technologies, such as global positioning systems (GPS), radio-frequency identification (RFID), route navigation software, or satellite linkup systems, to improve transportation efficiency.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20000,Design comprehensive supply chains that minimize environmental impacts or costs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+20001,"Develop or document reverse logistics management processes to ensure maximal efficiency of product recycling, reuse, or final disposal.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20002,"Conduct environmental audits for logistics activities, such as storage, distribution, or transportation.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20003,"Create models or scenarios to predict the impact of changing circumstances, such as fuel costs, road pricing, energy taxes, or carbon emissions legislation.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20004,"Review global, national, or regional transportation or logistics reports for ways to improve efficiency or minimize the environmental impact of logistics activities.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20005,Determine requirements for compliance with environmental certification standards.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+20007,Develop or document procedures to minimize or mitigate carbon output resulting from the movement of materials or products.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+20008,"Assess the environmental impact or energy efficiency of logistics activities, using carbon mitigation software.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20010,"Reorganize shipping schedules to consolidate loads, maximize vehicle usage, or limit the movement of empty vehicles or containers.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20013,Compare locations or environmental policies of carriers or suppliers to make transportation decisions with lower environmental impact.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+20014,Enter carbon-output or environmental-impact data into spreadsheets or environmental management or auditing software programs.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+20017,"Develop biocatalytic processes to convert biomass to fuels or fine chemicals, using enzymes of bacteria, yeast, or other microorganisms.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20026,"Develop bioremediation processes to reduce pollution, protect the environment, or treat waste products.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20029,Develop toxicological or environmental testing processes to measure chemical toxicity or environmental impact.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+20030,"Develop processes or products, such as natural recovery monitoring, in situ capping or treatment, or sediment removal, to treat contamination of subaqueous sediment.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20031,"Create simulations or models to predict the impact of environmental factors, such as pollutants, climate change, or environmental remediation efforts.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20032,"Design products to measure or monitor airborne pollutants, such as carbon monoxide, nitrogen dioxide, ozone, or particulate matter.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20033,Prepare permit applications or review compliance with environmental permits.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+20035,"Calculate or compare efficiencies associated with changing from low-precision irrigation technologies, such as furrow irrigation, to high-precision technologies, such as computer-controlled systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20036,"Implement soil or water management techniques, such as nutrient management, erosion control, buffers, or filter strips, in accordance with conservation plans.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20037,"Enter local soil, water, or other environmental data into adaptive or web-based decision tools to identify appropriate analyses or techniques.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20038,"Evaluate or recommend geographic information systems (GIS) applications to address issues such as surface water quality, groundwater quality, ecological risk assessments, air quality, or environmental contamination.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20039,"Compute design specifications for implementation of conservation practices, using survey or field information technical guides or engineering manuals.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20040,Compile or interpret biodata to determine extent or type of wetlands or to aid in program formulation.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+20041,"Advise land users, such as farmers or ranchers, on plans, problems, or alternative conservation solutions.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20044,Visit areas affected by erosion problems to identify causes or determine solutions.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+20046,"Develop water conservation or harvest plans, using weather information systems, irrigation information management systems, or other sources of daily evapotranspiration (ET) data.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20047,"Develop or conduct environmental studies, such as plant material field trials or wildlife habitat impact studies.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20048,"Participate on work teams to plan, develop, or implement programs or policies for improving environmental habitats, wetlands, or groundwater or soil resources.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20195,"Collaborate with environmental scientists, planners, hazardous waste technicians, engineers, experts in law or business, or other specialists to address environmental problems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20198,Plan or supervise waste management programs for composting or farming.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+20199,Plan or supervise land conservation or reclamation programs for industrial development projects.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+20207,"Apply meteorological knowledge to issues such as global warming, pollution control, or ozone depletion.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20212,"Research the impact of industrial projects or pollution on climate, air quality, or weather phenomena.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20250,Recommend corrective measures to be applied based on results of environmental contaminant analyses.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+20313,Dump refuse or recyclable materials at disposal sites.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+20371,"Analyze data on conditions such as site location, drainage, or structure location for environmental reports or landscaping plans.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20460,"Convert vehicle fuel systems from gasoline to butane gas, ethanol, methane, or other alternative or biofuel systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20514,"Collect and analyze pollution samples, such as air or ground water.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20650,"Service or repair butane gas, ethanol, methane, or other alternative or biofuel systems.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20712,"Examine, select, order, or purchase merchandise consistent with quality, quantity, specification requirements, or other factors, such as environmental soundness.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20724,Formulate conceptual design of aeronautical or aerospace products or systems to meet customer requirements or conform to environmental regulations.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+20731,"Inspect completed installations and observe operations to ensure conformance to design and equipment specifications and compliance with operational, safety, or environmental standards.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20736,"Specify system components or direct modification of products to ensure conformance with engineering design, performance specifications, or environmental regulations.",green,1,YES,YES,1,v2_few_shot_2026_05_18
+20796,Build containment areas prior to beginning abatement or decontamination work.,green,1,YES,YES,1,v2_few_shot_2026_05_18
+191,Prepare plans for management of renewable resources.,green,0,YES,YES,1,v2_few_shot_2026_05_18
+196,Establish short- and long-term plans for management of forest lands and forest resources.,green,0,YES,YES,1,v2_few_shot_2026_05_18
+202,Determine methods of cutting and removing timber with minimum waste and environmental damage.,green,0,YES,YES,1,v2_few_shot_2026_05_18
+205,Plan and implement projects for conservation of wildlife habitats and soil and water quality.,green,0,YES,YES,1,v2_few_shot_2026_05_18
+1517,"Review and implement environmental technical standards, guidelines, policies, and formal regulations that meet all appropriate requirements.",green,0,YES,YES,1,v2_few_shot_2026_05_18
+3822,"Perform tests and examinations to establish storage and conservation requirements, policies, and procedures.",green,0,YES,YES,1,v2_few_shot_2026_05_18
+5570,"Provide information about, and enforce, regulations, such as those concerning environmental protection, resource utilization, fire safety, and accident prevention.",green,0,YES,YES,1,v2_few_shot_2026_05_18
+5578,"Perform reforestation or forest renewal, including nursery and silviculture operations, site preparation, seeding and tree planting programs, cone collection, and tree improvement.",green,0,YES,YES,1,v2_few_shot_2026_05_18
+7497,"Measure and assess vegetation resources for biological assessment companies, environmental impact statements, and rangeland monitoring programs.",green,0,YES,YES,1,v2_few_shot_2026_05_18
+7504,"Tailor conservation plans to landowners' goals, such as livestock support, wildlife, or recreation.",green,0,YES,YES,1,v2_few_shot_2026_05_18
+7505,"Develop technical standards and specifications used to manage, protect, and improve the natural resources of range lands and related grazing lands.",green,0,YES,YES,1,v2_few_shot_2026_05_18
+7507,Plan and implement revegetation of disturbed sites.,green,0,YES,YES,1,v2_few_shot_2026_05_18
+7925,"Collect and report information on populations or conditions of fish and wildlife in their habitats, availability of game food or cover, or suspected pollution.",green,0,YES,YES,1,v2_few_shot_2026_05_18
+9104,Design and conduct scientific hydrogeological investigations to ensure that accurate and appropriate information is available for use in water resource management decisions.,green,0,YES,YES,1,v2_few_shot_2026_05_18
+9105,"Study public water supply issues, including flood and drought risks, water quality, wastewater, and impacts on wetland habitats.",green,0,YES,YES,1,v2_few_shot_2026_05_18
+9106,Collect and analyze water samples as part of field investigations or to validate data from automatic monitors.,green,0,YES,YES,1,v2_few_shot_2026_05_18
+10840,Research and keep informed of pertinent information and developments in areas such as EPA laws and regulations.,green,0,YES,YES,1,v2_few_shot_2026_05_18
+11396,Inspect incoming loads of waste to identify contents and to screen for the presence of specific regulated or hazardous wastes.,green,0,YES,YES,1,v2_few_shot_2026_05_18
+11468,Operate or maintain air monitoring or other sampling devices in confined or hazardous environments.,green,0,YES,YES,1,v2_few_shot_2026_05_18
+13805,"Conserve, recover, and recycle refrigerants used in cooling systems.",green,0,YES,YES,1,v2_few_shot_2026_05_18
+15213,"Monitor and perform tests on water, food, and the environment to detect harmful microorganisms or to obtain information about sources of pollution, contamination, or infection.",green,0,YES,YES,1,v2_few_shot_2026_05_18
+16816,"Conduct applied research aimed at improvements in areas such as disease testing, crop quality, pharmaceuticals, and the harnessing of microbes to recycle waste.",green,0,YES,YES,1,v2_few_shot_2026_05_18
+20854,Identify and recommend energy savings strategies to achieve more energy-efficient operation.,green,0,YES,YES,1,v2_few_shot_2026_05_18
+20855,Conduct energy audits to evaluate energy use and to identify conservation and cost reduction measures.,green,0,YES,YES,1,v2_few_shot_2026_05_18
+20860,"Review architectural, mechanical, or electrical plans or specifications to evaluate energy efficiency.",green,0,YES,YES,1,v2_few_shot_2026_05_18
+20862,Direct the implementation of energy management projects.,green,0,YES,YES,1,v2_few_shot_2026_05_18
+20867,Develop environmental educational programs and curricula for schools.,green,0,YES,YES,1,v2_few_shot_2026_05_18
+21332,Conduct site audits to ensure adherence to safety and environmental regulations.,green,0,YES,YES,1,v2_few_shot_2026_05_18
+21335,"Maintain records to demonstrate compliance with safety and environmental laws, regulations, or policies.",green,0,YES,YES,1,v2_few_shot_2026_05_18
+21619,Evaluate the risks and benefits involved in implementing green building technologies.,green,0,YES,YES,1,v2_few_shot_2026_05_18
+21890,Perform monitoring activities to ensure that ships comply with international regulations and standards for life-saving equipment and pollution preventatives.,green,0,YES,YES,1,v2_few_shot_2026_05_18
+22010,Develop or implement programs related to the environmental impact of engineering activities.,green,0,YES,YES,1,v2_few_shot_2026_05_18
+22133,"Implement soil or water management techniques, such as nutrient management, erosion control, buffers, or filter strips, in accordance with conservation plans.",green,0,YES,YES,1,v2_few_shot_2026_05_18
+22138,"Apply principles of specialized fields of science, such as agronomy, soil science, forestry, or agriculture, to achieve conservation objectives.",green,0,YES,YES,1,v2_few_shot_2026_05_18
+22140,"Compute design specifications for implementation of conservation practices, using survey or field information, technical guides or engineering manuals.",green,0,YES,YES,1,v2_few_shot_2026_05_18
+22153,"Plan soil management or conservation practices, such as crop rotation, reforestation, permanent vegetation, contour plowing, or terracing, to maintain soil or conserve water.",green,0,YES,YES,1,v2_few_shot_2026_05_18
+23564,Perform mechanical overhauls and refrigerant reclaiming.,green,0,YES,YES,1,v2_few_shot_2026_05_18
+23580,"Repair or service heating, ventilating, and air conditioning (HVAC) systems to improve efficiency, such as by changing filters, cleaning ducts, and refilling non-toxic refrigerants.",green,0,YES,YES,1,v2_few_shot_2026_05_18
+23656,Dispose of hazardous waste in an appropriate manner.,green,0,YES,YES,1,v2_few_shot_2026_05_18

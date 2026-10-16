@@ -1,0 +1,46 @@
+{
+  "versions": {
+    "JAAT": "1.1.3",
+    "torch": "2.11.0",
+    "transformers": "5.3.0",
+    "sentence-transformers": "5.4.1",
+    "nltk": "3.9.3"
+  },
+  "embedding": "/Users/pnorlander/.cache/huggingface/hub/models--thenlper--gte-small/snapshots/17e1f347d17fe144873b1201da91788898c639cd",
+  "embedding_revision": "17e1f347d17fe144873b1201da91788898c639cd",
+  "classifier": "/Users/pnorlander/.cache/huggingface/hub/models--loyoladatamining--task-classifier-mini-v3/snapshots/ca7fe8aeea6825f0c765edf2fca47ad10e972639",
+  "classifier_revision": "ca7fe8aeea6825f0c765edf2fca47ad10e972639",
+  "input_sha256": "57c758a8b57524933f2742f37154d8c9af3f605fc00983dca27dbc1ecc0b4324",
+  "task_threshold": 0.87,
+  "inference": "Native JAAT task and title tools; no SOC crosswalk text provided to models.",
+  "started": "2026-09-29 20:41:26",
+  "title_models": {
+    "loyoladatamining/title_value": "aad836a1d751959bb70d2a0f42083a075b3a994c",
+    "loyoladatamining/title_feature": "6476c245dad55df0ee6088bb9401c3ecabd66c95"
+  },
+  "title_feature_threshold": 0.95,
+  "code_sha256": {
+    "run_jaat.py": "34d0ff242f2d0c64b39e2fbbf9e768600085d819506250df351f8fdd9648ef87",
+    "jaat_provenance.py": "0c5153c1d8e2e96bafa1a534f1ad445b68a7748abecb528b4a94834557412a5b",
+    "extract_descriptions.py": "40ae0699e7dc5effd4ebd69cc31f883651cd2f1de819950f36f5130e7508c12e"
+  },
+  "completed": "2026-09-29 23:52:11",
+  "documents": 1387,
+  "repair": {
+    "changed_bodies": 131,
+    "unchanged_bodies_reused": 1256,
+    "script_sha256": "5ce3871b2d118d6faf412389f02246ff98b663ff788ed3b976ea5ff4401930d0",
+    "before_manifest_sha256": "3e7723156243ee8546f85393c3f186cef5412a50ac6a707c200bbd93e2fb133f",
+    "policy": "Changed bodies rerun through same frozen native models; original title coding and byte-identical task bodies reused.",
+    "post_run_cache_hardening": {
+      "date": "2026-09-30",
+      "change": "Resume requires both current body hash and frozen model/config fingerprint. Legacy entries lacking fingerprint fail closed; no cache provenance is inferred.",
+      "current_script_sha256": "54393161f8b8d6d54a0fdc0d2392f046652f6f094a7dc7e2ebaea5e431b345a3",
+      "regression_test_sha256": "74fc395c371fc78e546675098a318142bdadcb12697873ab197387f523e0a86b",
+      "executed_script_sha256": "5ce3871b2d118d6faf412389f02246ff98b663ff788ed3b976ea5ff4401930d0",
+      "inference_rerun": false,
+      "coded_outputs_sha256": "a42dd0ee1f9402815aa9f79c8ad5d1bdf94eac3399e6b1f586befda8b5de340c",
+      "legacy_cache_sha256": "8857dc36db6f931748a1af88afba446c3c228331ab8251e28bd305799c23643a"
+    }
+  }
+}

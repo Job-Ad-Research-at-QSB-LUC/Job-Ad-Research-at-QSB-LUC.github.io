@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-08",
+  "primary": "R100 DART Total rate, exact SOC6; no model fitting",
+  "selection": "Case-type and event/nature sensitivities exploratory; do not select task bundle based on outcomes",
+  "sources": {
+    "case-and-demographic-characteristics-table-r98-2023-2024.xlsx": "https://www.bls.gov/iif/nonfatal-injuries-and-illnesses-tables/case-and-demographic-characteristics-table-r98-2023-2024.xlsx",
+    "case-and-demographic-characteristics-table-r100-2023-2024.xlsx": "https://www.bls.gov/iif/nonfatal-injuries-and-illnesses-tables/case-and-demographic-characteristics-table-r100-2023-2024.xlsx"
+  },
+  "sha256": {
+    "data/release/occupation_task_marginals.csv.gz": "9714170d597cb9b835b6723a9647a83eea98b1be7a3157535ea2237712b85709",
+    "analysis/relatedness_refresh_20260922/validation/reconciled_prior_decisions.csv": "6815831e43ebf46e5c0f164177c89d58b2c884b023fcddda272f555af2064fe7",
+    "crosswalks/onet_task_statements_27_2.csv": "71c56529e7616ac1abbc9a1bb6e5f4a3f9a89cbbd4d95ab1ce8dc67798e2765d",
+    "output/research_presentation/downloads/dangerous-tasks/dangerous_tasks.csv": "bd47c3d47bc4cecab5098a6fb25cd0ffb8fb15359599e77064daa4d6af9bed2f",
+    "analysis/occupation_relatedness/results/similarity_matrices.npz": "e8ce2f50eb5b9e4a12d954944812034eb40d0c4c0f4be8b9c1a9051cf0332bbc",
+    "analysis/soii_task_benchmark_20261008/inputs/case-and-demographic-characteristics-table-r98-2023-2024.xlsx": "1e7bd880414b6b53669e9c2f1e55ecc1102dbd2a44e5475e79a88a53a30b1004",
+    "analysis/soii_task_benchmark_20261008/inputs/case-and-demographic-characteristics-table-r100-2023-2024.xlsx": "bfd515e997a11755669e181a68f32bd2a433aa86f329a85448677a0d3b4e565f"
+  }
+}

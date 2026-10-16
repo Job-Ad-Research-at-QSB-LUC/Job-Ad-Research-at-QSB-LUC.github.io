@@ -1,0 +1,21 @@
+bundle,outcome,sample,score,n,rho,zero_share,distinct_scores
+reference_610,CFOI 2024 nonmajor,matched,nlx_binary,41,0.6654760892923316,0.0,41
+reference_610,CFOI 2024 nonmajor,matched,nlx_incidence,41,0.5173795646429058,0.0,41
+reference_610,CFOI 2024 nonmajor,matched,usajobs_binary,41,0.5273978589574257,0.0,41
+reference_610,CFOI 2024 nonmajor,matched,usajobs_incidence,41,0.4503876661397243,0.0,41
+reference_610,CFOI 2024 nonmajor,matched,onet_binary,41,0.2300055489397452,0.2682926829268293,26
+reference_610,SOII DART: Total rate,matched,nlx_binary,386,0.5583423536448195,0.005181347150259,376
+reference_610,SOII DART: Total rate,matched,nlx_incidence,386,0.5610456533648422,0.005181347150259,385
+reference_610,SOII DART: Total rate,matched,usajobs_binary,386,0.6216230088807059,0.0103626943005181,372
+reference_610,SOII DART: Total rate,matched,usajobs_incidence,386,0.4951405606099309,0.0103626943005181,383
+reference_610,SOII DART: Total rate,matched,onet_binary,386,0.4881327095877609,0.6373056994818653,63
+reference_610,SOII DART: Contact incidents / Total,matched,nlx_binary,304,0.6425710209169703,0.0032894736842105,299
+reference_610,SOII DART: Contact incidents / Total,matched,nlx_incidence,304,0.6522354349446607,0.0032894736842105,304
+reference_610,SOII DART: Contact incidents / Total,matched,usajobs_binary,304,0.6681993473944159,0.0032894736842105,299
+reference_610,SOII DART: Contact incidents / Total,matched,usajobs_incidence,304,0.5113724036422831,0.0032894736842105,304
+reference_610,SOII DART: Contact incidents / Total,matched,onet_binary,304,0.4908697537777239,0.569078947368421,62
+reference_610,"SOII DART: Falls, slips, trips / Total",matched,nlx_binary,326,0.4743692543356783,0.0030674846625766,322
+reference_610,"SOII DART: Falls, slips, trips / Total",matched,nlx_incidence,326,0.5070841369844418,0.0030674846625766,326
+reference_610,"SOII DART: Falls, slips, trips / Total",matched,usajobs_binary,326,0.5154505315501888,0.0030674846625766,318
+reference_610,"SOII DART: Falls, slips, trips / Total",matched,usajobs_incidence,326,0.475969560673435,0.0030674846625766,326
+reference_610,"SOII DART: Falls, slips, trips / Total",matched,onet_binary,326,0.425592667415115,0.6165644171779141,62

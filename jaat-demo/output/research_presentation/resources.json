@@ -1,0 +1,189 @@
+[
+  {
+    "id": "M1",
+    "anchor": "extraction-validation",
+    "title": "Extraction and model validation",
+    "scope": "Evaluate sentence detection, taxonomy matching, title coding and assignment review separately. Agreement with model judges is not equivalent to worker or expert validation.",
+    "reproduction": "Model documentation and validation resources; exact versions must accompany each application.",
+    "links": [
+      {
+        "label": "JAAT code and documentation",
+        "url": "https://github.com/Job-Ad-Research-at-QSB-LUC/JAAT"
+      },
+      {
+        "label": "Model and dataset repositories",
+        "url": "https://huggingface.co/loyoladatamining"
+      },
+      {
+        "label": "Posting-model review procedure",
+        "url": "../public_occupation_dashboard/methods.html"
+      }
+    ]
+  },
+  {
+    "id": "M2",
+    "anchor": "national-relatedness",
+    "title": "National occupational relatedness",
+    "scope": "Inspect equal-length comparisons, origin and destination populations, and benchmark definitions. These results assess historical alignment, not placement effects.",
+    "reproduction": "Released aggregate evidence; full upstream analysis needs its documented inputs.",
+    "links": [
+      {
+        "label": "Equal-length comparison",
+        "url": "connect.html#equal-length"
+      },
+      {
+        "label": "Full benchmark detail",
+        "url": "../public_occupation_dashboard/external_validation.html"
+      }
+    ]
+  },
+  {
+    "id": "M3",
+    "anchor": "figure",
+    "title": "Registered Nurses and Figure 1",
+    "scope": "Use the worked example to understand the calculation, then render the public figure from its released aggregate workbook.",
+    "reproduction": "Runnable public figure package; not reconstruction of private task profiles.",
+    "links": [
+      {
+        "label": "RN worked comparison",
+        "url": "../public_occupation_dashboard/external_validation.html#worked-example-registered-nurses"
+      },
+      {
+        "label": "Workbook, rendering code and outputs",
+        "url": "../public_occupation_dashboard/rn_figure/index.html"
+      }
+    ]
+  },
+  {
+    "id": "M4",
+    "anchor": "alternative-representations",
+    "title": "Alternative representations",
+    "scope": "Distinguish task profiles, activity-linked skills/abilities and directly extracted skills. Do not generalize one comparison to all representations.",
+    "reproduction": "Existing comparison outputs; direct SkillMatch analysis is a separate workflow.",
+    "links": [
+      {
+        "label": "Representation results",
+        "url": "../public_occupation_dashboard/skills_abilities.html"
+      }
+    ]
+  },
+  {
+    "id": "A1",
+    "anchor": "institutional-profiles",
+    "title": "Institutional demand profiles",
+    "scope": "Construct a profile of advertised demand at the occupation or agency level, using a stated corpus and denominator.",
+    "reproduction": "Worked examples in the earlier Evidence dashboard.",
+    "links": [
+      {
+        "label": "Profile construction and examples",
+        "url": "change.html#profiles"
+      }
+    ]
+  },
+  {
+    "id": "A2",
+    "anchor": "military",
+    "title": "Military-to-civilian connections",
+    "scope": "Separate title mappings, task evidence, documented correspondences and exploratory suggestions. Role descriptions are not individual skill assessments.",
+    "reproduction": "Public-source demonstration with limited pathway review coverage.",
+    "links": [
+      {
+        "label": "Military example",
+        "url": "connect.html#military"
+      },
+      {
+        "label": "Source methods and downloads",
+        "url": "../../analysis/public_source_replication/web/methods.html"
+      }
+    ]
+  },
+  {
+    "id": "A4",
+    "anchor": "task-bundles",
+    "title": "Evidence-grounded task bundles",
+    "scope": "Compare concept-led STEM selection, incident-supported activities and emerging-language taxonomy construction. A matching gap is a review candidate; incident membership is not an injury rate.",
+    "reproduction": "Worked extensions with domain-specific evidence and review.",
+    "links": [
+      {
+        "label": "Bundle examples",
+        "url": "bundles.html"
+      },
+      {
+        "label": "TaxonomyBuilder example",
+        "url": "https://job-ad-research-at-qsb-luc.github.io/us-lmi/building-new-maps/"
+      }
+    ]
+  },
+  {
+    "id": "R1",
+    "anchor": "reproduce",
+    "title": "Choose a reproduction path",
+    "scope": "Rendering a public figure, repeating downstream analysis from frozen outputs, and rerunning source extraction require different inputs.",
+    "reproduction": "Public code does not remove data access restrictions.",
+    "links": [
+      {
+        "label": "Public figure package",
+        "url": "../public_occupation_dashboard/rn_figure/index.html"
+      },
+      {
+        "label": "Broader source-only notebook",
+        "url": "../public_occupation_dashboard/analysis_notebook.html"
+      },
+      {
+        "label": "Sampling, weights and access",
+        "url": "../public_occupation_dashboard/methods.html"
+      }
+    ]
+  },
+  {
+    "id": "T1",
+    "anchor": "tools",
+    "title": "Build with JAAT",
+    "scope": "Reuse the extraction tools and record code, model and taxonomy versions. A common vocabulary supports local extensions without requiring identical aggregation rules.",
+    "reproduction": "Open tools; source-data access is separate.",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Job-Ad-Research-at-QSB-LUC/JAAT"
+      },
+      {
+        "label": "Python package",
+        "url": "https://pypi.org/project/JAAT/"
+      },
+      {
+        "label": "Interactive JAAT app",
+        "url": "https://jaat.app"
+      }
+    ]
+  },
+  {
+    "id": "H1",
+    "anchor": "earlier-dashboard",
+    "title": "Earlier Evidence dashboard",
+    "scope": "Explore existing agency/occupation profiles, AI measures and dynamic maps. These retain their own source periods, formulas and release records.",
+    "reproduction": "Separate existing collection; not a replacement for the new relatedness comparison.",
+    "links": [
+      {
+        "label": "Evidence dashboard",
+        "url": "https://job-ad-research-at-qsb-luc.github.io/us-lmi/"
+      },
+      {
+        "label": "Earlier audit trail",
+        "url": "https://job-ad-research-at-qsb-luc.github.io/us-lmi/methodology/audit-trail/"
+      }
+    ]
+  },
+  {
+    "id": "F1",
+    "anchor": "future-evaluation",
+    "title": "Workforce information and its uses",
+    "scope": "Use occupational connections and demand profiles to investigate career pathways, recruitment pools and training needs. Keep task commonality distinct from credentials, licensing and other requirements.",
+    "reproduction": "Occupational measures inform these investigations; they do not establish individual eligibility.",
+    "links": [
+      {
+        "label": "Relatedness walkthrough",
+        "url": "index.html#relatedness-story"
+      }
+    ]
+  }
+]

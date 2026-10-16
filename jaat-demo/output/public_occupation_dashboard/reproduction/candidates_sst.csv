@@ -1,0 +1,1723 @@
+universe,soc2010,soc2018,title,is_origin,n_specialties,specialties
+principal,11-1011,11-1011,Chief executives,True,2,11-1011.00;11-1011.03
+principal,11-1021,11-1021,General and operations managers,True,1,11-1021.00
+principal,11-1031,11-1031,Legislators,False,1,11-1031.00
+principal,11-2011,11-2011,Advertising and promotions managers,True,1,11-2011.00
+principal,11-2021,11-2021,Marketing managers,True,1,11-2021.00
+principal,11-2022,11-2022,Sales managers,True,1,11-2022.00
+principal,11-3021,11-3021,Computer and information systems managers,True,1,11-3021.00
+principal,11-3051,11-3051,Industrial production managers,True,6,11-3051.00;11-3051.01;11-3051.02;11-3051.03;11-3051.04;11-3051.06
+principal,11-3061,11-3061,Purchasing managers,True,1,11-3061.00
+principal,11-3111,11-3111,Compensation and benefits managers,True,1,11-3111.00
+principal,11-3121,11-3121,Human resources managers,True,1,11-3121.00
+principal,11-3131,11-3131,Training and development managers,True,1,11-3131.00
+principal,11-9013,11-9013,"Farmers, ranchers, and other agricultural managers",True,1,11-9013.00
+principal,11-9021,11-9021,Construction managers,True,1,11-9021.00
+principal,11-9031,11-9031,"Education administrators, preschool and childcare center/program",True,1,11-9031.00
+principal,11-9032,11-9032,"Education administrators, elementary and secondary school",True,1,11-9032.00
+principal,11-9033,11-9033,"Education administrators, postsecondary",True,1,11-9033.00
+principal,11-9041,11-9041,Architectural and engineering managers,True,2,11-9041.00;11-9041.01
+principal,11-9051,11-9051,Food service managers,True,1,11-9051.00
+principal,11-9061,11-9171,Funeral service managers,True,1,11-9171.00
+principal,11-9071,11-9071,Gaming managers,True,1,11-9071.00
+principal,11-9081,11-9081,Lodging managers,True,1,11-9081.00
+principal,11-9111,11-9111,Medical and health services managers,True,1,11-9111.00
+principal,11-9121,11-9121,Natural sciences managers,True,3,11-9121.00;11-9121.01;11-9121.02
+principal,11-9131,11-9131,Postmasters and mail superintendents,True,1,11-9131.00
+principal,11-9141,11-9141,"Property, real estate, and community association managers",True,1,11-9141.00
+principal,11-9151,11-9151,Social and community service managers,True,1,11-9151.00
+principal,11-9161,11-9161,Emergency management directors,True,1,11-9161.00
+principal,13-1011,13-1011,"Agents and business managers of artists, performers, and athletes",True,1,13-1011.00
+principal,13-1021,13-1021,"Buyers and purchasing agents, farm products",True,1,13-1021.00
+principal,13-1022,13-1022,"Wholesale and retail buyers, except farm products",True,1,13-1022.00
+principal,13-1023,13-1023,"Purchasing agents, except wholesale, retail, and farm products",True,1,13-1023.00
+principal,13-1031,13-1031,"Claims adjusters, examiners, and investigators",True,1,13-1031.00
+principal,13-1032,13-1032,"Insurance appraisers, auto damage",True,1,13-1032.00
+principal,13-1051,13-1051,Cost estimators,True,1,13-1051.00
+principal,13-1071,13-1071,Human resources specialists,True,1,13-1071.00
+principal,13-1074,13-1074,Farm labor contractors,True,1,13-1074.00
+principal,13-1075,13-1075,Labor relations specialists,True,1,13-1075.00
+principal,13-1081,13-1081,Logisticians,True,3,13-1081.00;13-1081.01;13-1081.02
+principal,13-1111,13-1111,Management analysts,True,1,13-1111.00
+principal,13-1121,13-1121,"Meeting, convention, and event planners",True,1,13-1121.00
+principal,13-1131,13-1131,Fundraisers,True,1,13-1131.00
+principal,13-1141,13-1141,"Compensation, benefits, and job analysis specialists",True,1,13-1141.00
+principal,13-1151,13-1151,Training and development specialists,True,1,13-1151.00
+principal,13-2011,13-2011,Accountants and auditors,True,1,13-2011.00
+principal,13-2031,13-2031,Budget analysts,True,1,13-2031.00
+principal,13-2041,13-2041,Credit analysts,True,1,13-2041.00
+principal,13-2052,13-2052,Personal financial advisors,True,1,13-2052.00
+principal,13-2053,13-2053,Insurance underwriters,True,1,13-2053.00
+principal,13-2061,13-2061,Financial examiners,True,1,13-2061.00
+principal,13-2081,13-2081,"Tax examiners and collectors, and revenue agents",True,1,13-2081.00
+principal,13-2082,13-2082,Tax preparers,True,1,13-2082.00
+principal,15-1111,15-1221,Computer and information research scientists,True,1,15-1221.00
+principal,15-1121,15-1211,Computer systems analysts,True,2,15-1211.00;15-1211.01
+principal,15-1122,15-1212,Information security analysts,True,1,15-1212.00
+principal,15-1131,15-1251,Computer programmers,True,1,15-1251.00
+principal,15-1142,15-1244,Network and computer systems administrators,True,1,15-1244.00
+principal,15-1143,15-1241,Computer network architects,True,2,15-1241.00;15-1241.01
+principal,15-1151,15-1232,Computer user support specialists,True,1,15-1232.00
+principal,15-1152,15-1231,Computer network support specialists,True,1,15-1231.00
+principal,15-2011,15-2011,Actuaries,True,1,15-2011.00
+principal,15-2021,15-2021,Mathematicians,True,1,15-2021.00
+principal,15-2031,15-2031,Operations research analysts,True,1,15-2031.00
+principal,17-1011,17-1011,"Architects, except landscape and naval",True,1,17-1011.00
+principal,17-1012,17-1012,Landscape architects,True,1,17-1012.00
+principal,17-1021,17-1021,Cartographers and photogrammetrists,False,1,17-1021.00
+principal,17-1022,17-1022,Surveyors,True,2,17-1022.00;17-1022.01
+principal,17-2011,17-2011,Aerospace engineers,True,1,17-2011.00
+principal,17-2021,17-2021,Agricultural engineers,True,1,17-2021.00
+principal,17-2041,17-2041,Chemical engineers,True,1,17-2041.00
+principal,17-2061,17-2061,Computer hardware engineers,True,1,17-2061.00
+principal,17-2071,17-2071,Electrical engineers,True,1,17-2071.00
+principal,17-2072,17-2072,"Electronics engineers, except computer",True,2,17-2072.00;17-2072.01
+principal,17-2111,17-2111,"Health and safety engineers, except mining safety engineers and inspectors",True,2,17-2111.00;17-2111.02
+principal,17-2121,17-2121,Marine engineers and naval architects,True,1,17-2121.00
+principal,17-2131,17-2131,Materials engineers,True,1,17-2131.00
+principal,17-2141,17-2141,Mechanical engineers,True,3,17-2141.00;17-2141.01;17-2141.02
+principal,17-2151,17-2151,"Mining and geological engineers, including mining safety engineers",True,1,17-2151.00
+principal,17-2161,17-2161,Nuclear engineers,True,1,17-2161.00
+principal,17-2171,17-2171,Petroleum engineers,True,1,17-2171.00
+principal,17-3011,17-3011,Architectural and civil drafters,True,1,17-3011.00
+principal,17-3012,17-3012,Electrical and electronics drafters,True,1,17-3012.00
+principal,17-3013,17-3013,Mechanical drafters,True,1,17-3013.00
+principal,17-3021,17-3021,Aerospace engineering and operations technicians,True,1,17-3021.00
+principal,17-3022,17-3022,Civil engineering technicians,True,1,17-3022.00
+principal,17-3025,17-3025,Environmental engineering technicians,True,1,17-3025.00
+principal,17-3031,17-3031,Surveying and mapping technicians,True,1,17-3031.00
+principal,19-1011,19-1011,Animal scientists,True,1,19-1011.00
+principal,19-1012,19-1012,Food scientists and technologists,True,1,19-1012.00
+principal,19-1013,19-1013,Soil and plant scientists,True,1,19-1013.00
+principal,19-1021,19-1021,Biochemists and biophysicists,True,1,19-1021.00
+principal,19-1022,19-1022,Microbiologists,True,1,19-1022.00
+principal,19-1023,19-1023,Zoologists and wildlife biologists,True,1,19-1023.00
+principal,19-1031,19-1031,Conservation scientists,True,3,19-1031.00;19-1031.02;19-1031.03
+principal,19-1032,19-1032,Foresters,True,1,19-1032.00
+principal,19-1041,19-1041,Epidemiologists,True,1,19-1041.00
+principal,19-1042,19-1042,"Medical scientists, except epidemiologists",True,1,19-1042.00
+principal,19-2011,19-2011,Astronomers,True,1,19-2011.00
+principal,19-2012,19-2012,Physicists,True,1,19-2012.00
+principal,19-2021,19-2021,Atmospheric and space scientists,True,1,19-2021.00
+principal,19-2031,19-2031,Chemists,True,1,19-2031.00
+principal,19-2032,19-2032,Materials scientists,True,1,19-2032.00
+principal,19-2041,19-2041,"Environmental scientists and specialists, including health",True,4,19-2041.00;19-2041.01;19-2041.02;19-2041.03
+principal,19-2042,19-2042,"Geoscientists, except hydrologists and geographers",True,1,19-2042.00
+principal,19-2043,19-2043,Hydrologists,True,1,19-2043.00
+principal,19-2099,19-2099,"Physical scientists, all other",True,1,19-2099.01
+principal,19-3011,19-3011,Economists,True,2,19-3011.00;19-3011.01
+principal,19-3022,19-3022,Survey researchers,True,1,19-3022.00
+principal,19-3032,19-3032,Industrial-organizational psychologists,True,1,19-3032.00
+principal,19-3039,19-3039,"Psychologists, all other",True,2,19-3039.02;19-3039.03
+principal,19-3041,19-3041,Sociologists,True,1,19-3041.00
+principal,19-3091,19-3091,Anthropologists and archeologists,True,1,19-3091.00
+principal,19-3092,19-3092,Geographers,True,1,19-3092.00
+principal,19-3093,19-3093,Historians,True,1,19-3093.00
+principal,19-3094,19-3094,Political scientists,True,1,19-3094.00
+principal,19-3099,19-3099,"Social scientists and related workers, all other",True,1,19-3099.01
+principal,19-4021,19-4021,Biological technicians,True,1,19-4021.00
+principal,19-4031,19-4031,Chemical technicians,True,1,19-4031.00
+principal,19-4051,19-4051,Nuclear technicians,True,2,19-4051.00;19-4051.02
+principal,19-4091,19-4042,"Environmental science and protection technicians, including health",True,1,19-4042.00
+principal,19-4092,19-4092,Forensic science technicians,True,1,19-4092.00
+principal,19-4093,19-4071,Forest and conservation technicians,True,1,19-4071.00
+principal,21-1011,21-1011,Substance abuse and behavioral disorder counselors,True,1,21-1011.00
+principal,21-1012,21-1012,"Educational, guidance, school, and vocational counselors",True,1,21-1012.00
+principal,21-1013,21-1013,Marriage and family therapists,True,1,21-1013.00
+principal,21-1014,21-1014,Mental health counselors,True,1,21-1014.00
+principal,21-1015,21-1015,Rehabilitation counselors,True,1,21-1015.00
+principal,21-1021,21-1021,"Child, family, and school social workers",True,1,21-1021.00
+principal,21-1022,21-1022,Healthcare social workers,True,1,21-1022.00
+principal,21-1023,21-1023,Mental health and substance abuse social workers,True,1,21-1023.00
+principal,21-1091,21-1091,Health educators,True,1,21-1091.00
+principal,21-1092,21-1092,Probation officers and correctional treatment specialists,True,1,21-1092.00
+principal,21-1093,21-1093,Social and human service assistants,True,1,21-1093.00
+principal,21-1094,21-1094,Community health workers,True,1,21-1094.00
+principal,21-2011,21-2011,Clergy,True,1,21-2011.00
+principal,21-2021,21-2021,"Directors, religious activities and education",True,1,21-2021.00
+principal,23-1011,23-1011,Lawyers,True,1,23-1011.00
+principal,23-1012,23-1012,Judicial law clerks,True,1,23-1012.00
+principal,23-1021,23-1021,"Administrative law judges, adjudicators, and hearing officers",True,1,23-1021.00
+principal,23-1022,23-1022,"Arbitrators, mediators, and conciliators",True,1,23-1022.00
+principal,23-1023,23-1023,"Judges, magistrate judges, and magistrates",True,1,23-1023.00
+principal,23-2011,23-2011,Paralegals and legal assistants,True,1,23-2011.00
+principal,23-2091,27-3092,Court reporters,True,1,27-3092.00
+principal,23-2093,23-2093,"Title examiners, abstractors, and searchers",True,1,23-2093.00
+principal,25-1011,25-1011,"Business teachers, postsecondary",True,1,25-1011.00
+principal,25-1021,25-1021,"Computer science teachers, postsecondary",True,1,25-1021.00
+principal,25-1022,25-1022,"Mathematical science teachers, postsecondary",True,1,25-1022.00
+principal,25-1031,25-1031,"Architecture teachers, postsecondary",True,1,25-1031.00
+principal,25-1032,25-1032,"Engineering teachers, postsecondary",True,1,25-1032.00
+principal,25-1041,25-1041,"Agricultural sciences teachers, postsecondary",False,1,25-1041.00
+principal,25-1042,25-1042,"Biological science teachers, postsecondary",True,1,25-1042.00
+principal,25-1043,25-1043,"Forestry and conservation science teachers, postsecondary",False,1,25-1043.00
+principal,25-1051,25-1051,"Atmospheric, earth, marine, and space sciences teachers, postsecondary",False,1,25-1051.00
+principal,25-1052,25-1052,"Chemistry teachers, postsecondary",True,1,25-1052.00
+principal,25-1053,25-1053,"Environmental science teachers, postsecondary",True,1,25-1053.00
+principal,25-1054,25-1054,"Physics teachers, postsecondary",True,1,25-1054.00
+principal,25-1061,25-1061,"Anthropology and archeology teachers, postsecondary",True,1,25-1061.00
+principal,25-1062,25-1062,"Area, ethnic, and cultural studies teachers, postsecondary",True,1,25-1062.00
+principal,25-1063,25-1063,"Economics teachers, postsecondary",True,1,25-1063.00
+principal,25-1064,25-1064,"Geography teachers, postsecondary",False,1,25-1064.00
+principal,25-1065,25-1065,"Political science teachers, postsecondary",True,1,25-1065.00
+principal,25-1066,25-1066,"Psychology teachers, postsecondary",True,1,25-1066.00
+principal,25-1067,25-1067,"Sociology teachers, postsecondary",True,1,25-1067.00
+principal,25-1071,25-1071,"Health specialties teachers, postsecondary",True,1,25-1071.00
+principal,25-1072,25-1072,"Nursing instructors and teachers, postsecondary",True,1,25-1072.00
+principal,25-1081,25-1081,"Education teachers, postsecondary",True,1,25-1081.00
+principal,25-1082,25-1082,"Library science teachers, postsecondary",False,1,25-1082.00
+principal,25-1111,25-1111,"Criminal justice and law enforcement teachers, postsecondary",True,1,25-1111.00
+principal,25-1112,25-1112,"Law teachers, postsecondary",True,1,25-1112.00
+principal,25-1113,25-1113,"Social work teachers, postsecondary",True,1,25-1113.00
+principal,25-1121,25-1121,"Art, drama, and music teachers, postsecondary",True,1,25-1121.00
+principal,25-1122,25-1122,"Communications teachers, postsecondary",True,1,25-1122.00
+principal,25-1123,25-1123,"English language and literature teachers, postsecondary",True,1,25-1123.00
+principal,25-1124,25-1124,"Foreign language and literature teachers, postsecondary",True,1,25-1124.00
+principal,25-1125,25-1125,"History teachers, postsecondary",True,1,25-1125.00
+principal,25-1126,25-1126,"Philosophy and religion teachers, postsecondary",True,1,25-1126.00
+principal,25-1191,25-9044,Graduate teaching assistants,True,1,25-9044.00
+principal,25-1192,25-1192,"Home economics teachers, postsecondary",True,1,25-1192.00
+principal,25-1193,25-1193,"Recreation and fitness studies teachers, postsecondary",True,1,25-1193.00
+principal,25-1194,25-1194,"Vocational education teachers, postsecondary",True,1,25-1194.00
+principal,25-2011,25-2011,"Preschool teachers, except special education",True,1,25-2011.00
+principal,25-2012,25-2012,"Kindergarten teachers, except special education",True,1,25-2012.00
+principal,25-2021,25-2021,"Elementary school teachers, except special education",True,1,25-2021.00
+principal,25-2022,25-2022,"Middle school teachers, except special and career/technical education",True,1,25-2022.00
+principal,25-2023,25-2023,"Career/technical education teachers, middle school",False,1,25-2023.00
+principal,25-2031,25-2031,"Secondary school teachers, except special and career/technical education",True,1,25-2031.00
+principal,25-2032,25-2032,"Career/technical education teachers, secondary school",True,1,25-2032.00
+principal,25-2051,25-2051,"Special education teachers, preschool",True,1,25-2051.00
+principal,25-2053,25-2057,"Special education teachers, middle school",True,1,25-2057.00
+principal,25-2054,25-2058,"Special education teachers, secondary school",True,1,25-2058.00
+principal,25-2059,25-2059,"Special education teachers, all other",True,1,25-2059.01
+principal,25-3011,25-3011,Adult basic and secondary education and literacy teachers and instructors,True,1,25-3011.00
+principal,25-3021,25-3021,Self-enrichment education teachers,True,1,25-3021.00
+principal,25-4011,25-4011,Archivists,True,1,25-4011.00
+principal,25-4012,25-4012,Curators,True,1,25-4012.00
+principal,25-4013,25-4013,Museum technicians and conservators,True,1,25-4013.00
+principal,25-4031,25-4031,Library technicians,True,1,25-4031.00
+principal,25-9021,25-9021,Farm and home management advisors,True,1,25-9021.00
+principal,25-9031,25-9031,Instructional coordinators,True,1,25-9031.00
+principal,27-1011,27-1011,Art directors,True,1,27-1011.00
+principal,27-1012,27-1012,Craft artists,True,1,27-1012.00
+principal,27-1013,27-1013,"Fine artists, including painters, sculptors, and illustrators",True,1,27-1013.00
+principal,27-1014,27-1014,Multimedia artists and animators,True,1,27-1014.00
+principal,27-1021,27-1021,Commercial and industrial designers,True,1,27-1021.00
+principal,27-1022,27-1022,Fashion designers,True,1,27-1022.00
+principal,27-1023,27-1023,Floral designers,True,1,27-1023.00
+principal,27-1024,27-1024,Graphic designers,True,1,27-1024.00
+principal,27-1025,27-1025,Interior designers,True,1,27-1025.00
+principal,27-1026,27-1026,Merchandise displayers and window trimmers,True,1,27-1026.00
+principal,27-1027,27-1027,Set and exhibit designers,True,1,27-1027.00
+principal,27-2011,27-2011,Actors,True,1,27-2011.00
+principal,27-2012,27-2012,Producers and directors,True,4,27-2012.00;27-2012.03;27-2012.04;27-2012.05
+principal,27-2021,27-2021,Athletes and sports competitors,True,1,27-2021.00
+principal,27-2022,27-2022,Coaches and scouts,True,1,27-2022.00
+principal,27-2023,27-2023,"Umpires, referees, and other sports officials",True,1,27-2023.00
+principal,27-2041,27-2041,Music directors and composers,True,1,27-2041.00
+principal,27-2042,27-2042,Musicians and singers,True,1,27-2042.00
+principal,27-3011,27-3011,Radio and television announcers,True,1,27-3011.00
+principal,27-3031,27-3031,Public relations specialists,True,1,27-3031.00
+principal,27-3041,27-3041,Editors,True,1,27-3041.00
+principal,27-3042,27-3042,Technical writers,True,1,27-3042.00
+principal,27-3043,27-3043,Writers and authors,True,2,27-3043.00;27-3043.05
+principal,27-3091,27-3091,Interpreters and translators,True,1,27-3091.00
+principal,27-4011,27-4011,Audio and video equipment technicians,True,1,27-4011.00
+principal,27-4012,27-4012,Broadcast technicians,True,1,27-4012.00
+principal,27-4014,27-4014,Sound engineering technicians,True,1,27-4014.00
+principal,27-4021,27-4021,Photographers,True,1,27-4021.00
+principal,27-4031,27-4031,"Camera operators, television, video, and motion picture",True,1,27-4031.00
+principal,27-4032,27-4032,Film and video editors,True,1,27-4032.00
+principal,29-1011,29-1011,Chiropractors,True,1,29-1011.00
+principal,29-1021,29-1021,"Dentists, general",True,1,29-1021.00
+principal,29-1022,29-1022,Oral and maxillofacial surgeons,False,1,29-1022.00
+principal,29-1024,29-1024,Prosthodontists,False,1,29-1024.00
+principal,29-1031,29-1031,Dietitians and nutritionists,True,1,29-1031.00
+principal,29-1041,29-1041,Optometrists,True,1,29-1041.00
+principal,29-1051,29-1051,Pharmacists,True,1,29-1051.00
+principal,29-1061,29-1211,Anesthesiologists,True,1,29-1211.00
+principal,29-1062,29-1215,Family and general practitioners,True,1,29-1215.00
+principal,29-1063,29-1216,"Internists, general",True,1,29-1216.00
+principal,29-1064,29-1218,Obstetricians and gynecologists,True,1,29-1218.00
+principal,29-1065,29-1221,"Pediatricians, general",True,1,29-1221.00
+principal,29-1066,29-1223,Psychiatrists,True,1,29-1223.00
+principal,29-1071,29-1071,Physician assistants,True,2,29-1071.00;29-1071.01
+principal,29-1081,29-1081,Podiatrists,False,1,29-1081.00
+principal,29-1122,29-1122,Occupational therapists,True,2,29-1122.00;29-1122.01
+principal,29-1123,29-1123,Physical therapists,True,1,29-1123.00
+principal,29-1124,29-1124,Radiation therapists,True,1,29-1124.00
+principal,29-1126,29-1126,Respiratory therapists,True,1,29-1126.00
+principal,29-1127,29-1127,Speech-language pathologists,True,1,29-1127.00
+principal,29-1128,29-1128,Exercise physiologists,True,1,29-1128.00
+principal,29-1131,29-1131,Veterinarians,True,1,29-1131.00
+principal,29-1141,29-1141,Registered nurses,True,5,29-1141.00;29-1141.01;29-1141.02;29-1141.03;29-1141.04
+principal,29-1151,29-1151,Nurse anesthetists,True,1,29-1151.00
+principal,29-1161,29-1161,Nurse midwives,False,1,29-1161.00
+principal,29-1171,29-1171,Nurse practitioners,True,1,29-1171.00
+principal,29-1181,29-1181,Audiologists,True,1,29-1181.00
+principal,29-2021,29-1292,Dental hygienists,True,1,29-1292.00
+principal,29-2031,29-2031,Cardiovascular technologists and technicians,True,1,29-2031.00
+principal,29-2032,29-2032,Diagnostic medical sonographers,True,1,29-2032.00
+principal,29-2033,29-2033,Nuclear medicine technologists,True,1,29-2033.00
+principal,29-2035,29-2035,Magnetic resonance imaging technologists,True,1,29-2035.00
+principal,29-2051,29-2051,Dietetic technicians,True,1,29-2051.00
+principal,29-2052,29-2052,Pharmacy technicians,True,1,29-2052.00
+principal,29-2053,29-2053,Psychiatric technicians,True,1,29-2053.00
+principal,29-2055,29-2055,Surgical technologists,True,1,29-2055.00
+principal,29-2056,29-2056,Veterinary technologists and technicians,True,1,29-2056.00
+principal,29-2057,29-2057,Ophthalmic medical technicians,True,1,29-2057.00
+principal,29-2061,29-2061,Licensed practical and licensed vocational nurses,True,1,29-2061.00
+principal,29-2081,29-2081,"Opticians, dispensing",True,1,29-2081.00
+principal,29-2091,29-2091,Orthotists and prosthetists,True,1,29-2091.00
+principal,29-2092,29-2092,Hearing aid specialists,True,1,29-2092.00
+principal,29-9011,19-5011,Occupational health and safety specialists,True,1,19-5011.00
+principal,29-9012,19-5012,Occupational health and safety technicians,True,1,19-5012.00
+principal,29-9091,29-9091,Athletic trainers,True,1,29-9091.00
+principal,29-9092,29-9092,Genetic counselors,False,1,29-9092.00
+principal,31-1011,31-1121,Home health aides,True,1,31-1121.00
+principal,31-1013,31-1133,Psychiatric aides,True,1,31-1133.00
+principal,31-1014,31-1131,Nursing assistants,True,1,31-1131.00
+principal,31-1015,31-1132,Orderlies,True,1,31-1132.00
+principal,31-2011,31-2011,Occupational therapy assistants,True,1,31-2011.00
+principal,31-2012,31-2012,Occupational therapy aides,True,1,31-2012.00
+principal,31-2021,31-2021,Physical therapist assistants,True,1,31-2021.00
+principal,31-2022,31-2022,Physical therapist aides,True,1,31-2022.00
+principal,31-9011,31-9011,Massage therapists,True,1,31-9011.00
+principal,31-9091,31-9091,Dental assistants,True,1,31-9091.00
+principal,31-9092,31-9092,Medical assistants,True,1,31-9092.00
+principal,31-9093,31-9093,Medical equipment preparers,True,1,31-9093.00
+principal,31-9094,31-9094,Medical transcriptionists,True,1,31-9094.00
+principal,31-9095,31-9095,Pharmacy aides,True,1,31-9095.00
+principal,31-9096,31-9096,Veterinary assistants and laboratory animal caretakers,True,1,31-9096.00
+principal,31-9097,31-9097,Phlebotomists,True,1,31-9097.00
+principal,31-9099,31-9099,"Healthcare support workers, all other",True,2,31-9099.01;31-9099.02
+principal,33-1011,33-1011,First-line supervisors of correctional officers,True,1,33-1011.00
+principal,33-1012,33-1012,First-line supervisors of police and detectives,True,1,33-1012.00
+principal,33-1021,33-1021,First-line supervisors of fire fighting and prevention workers,True,1,33-1021.00
+principal,33-2011,33-2011,Firefighters,True,1,33-2011.00
+principal,33-2021,33-2021,Fire inspectors and investigators,True,1,33-2021.00
+principal,33-2022,33-2022,Forest fire inspectors and prevention specialists,True,1,33-2022.00
+principal,33-3011,33-3011,Bailiffs,True,1,33-3011.00
+principal,33-3012,33-3012,Correctional officers and jailers,True,1,33-3012.00
+principal,33-3031,33-3031,Fish and game wardens,True,1,33-3031.00
+principal,33-3041,33-3041,Parking enforcement workers,True,1,33-3041.00
+principal,33-3052,33-3052,Transit and railroad police,True,1,33-3052.00
+principal,33-9011,33-9011,Animal control workers,True,1,33-9011.00
+principal,33-9021,33-9021,Private detectives and investigators,True,1,33-9021.00
+principal,33-9031,33-9031,Gaming surveillance officers and gaming investigators,True,1,33-9031.00
+principal,33-9032,33-9032,Security guards,True,1,33-9032.00
+principal,33-9091,33-9091,Crossing guards,True,1,33-9091.00
+principal,33-9092,33-9092,"Lifeguards, ski patrol, and other recreational protective service workers",True,1,33-9092.00
+principal,33-9093,33-9093,Transportation security screeners,True,1,33-9093.00
+principal,35-1011,35-1011,Chefs and head cooks,True,1,35-1011.00
+principal,35-1012,35-1012,First-line supervisors of food preparation and serving workers,True,1,35-1012.00
+principal,35-2011,35-2011,"Cooks, fast food",True,1,35-2011.00
+principal,35-2012,35-2012,"Cooks, institution and cafeteria",True,1,35-2012.00
+principal,35-2013,35-2013,"Cooks, private household",True,1,35-2013.00
+principal,35-2014,35-2014,"Cooks, restaurant",True,1,35-2014.00
+principal,35-2015,35-2015,"Cooks, short order",True,1,35-2015.00
+principal,35-2021,35-2021,Food preparation workers,True,1,35-2021.00
+principal,35-3011,35-3011,Bartenders,True,1,35-3011.00
+principal,35-3031,35-3031,Waiters and waitresses,True,1,35-3031.00
+principal,35-3041,35-3041,"Food servers, nonrestaurant",True,1,35-3041.00
+principal,35-9011,35-9011,Dining room and cafeteria attendants and bartender helpers,True,1,35-9011.00
+principal,35-9021,35-9021,Dishwashers,True,1,35-9021.00
+principal,35-9031,35-9031,"Hosts and hostesses, restaurant, lounge, and coffee shop",True,1,35-9031.00
+principal,37-1011,37-1011,First-line supervisors of housekeeping and janitorial workers,True,1,37-1011.00
+principal,37-1012,37-1012,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",True,1,37-1012.00
+principal,37-2011,37-2011,"Janitors and cleaners, except maids and housekeeping cleaners",True,1,37-2011.00
+principal,37-2012,37-2012,Maids and housekeeping cleaners,True,1,37-2012.00
+principal,37-2021,37-2021,Pest control workers,True,1,37-2021.00
+principal,37-3011,37-3011,Landscaping and groundskeeping workers,True,1,37-3011.00
+principal,37-3012,37-3012,"Pesticide handlers, sprayers, and applicators, vegetation",True,1,37-3012.00
+principal,37-3013,37-3013,Tree trimmers and pruners,True,1,37-3013.00
+principal,39-2011,39-2011,Animal trainers,True,1,39-2011.00
+principal,39-2021,39-2021,Nonfarm animal caretakers,True,1,39-2021.00
+principal,39-3011,39-3011,Gaming dealers,True,1,39-3011.00
+principal,39-3012,39-3012,Gaming and sports book writers and runners,True,1,39-3012.00
+principal,39-3021,39-3021,Motion picture projectionists,True,1,39-3021.00
+principal,39-3031,39-3031,"Ushers, lobby attendants, and ticket takers",True,1,39-3031.00
+principal,39-3091,39-3091,Amusement and recreation attendants,True,1,39-3091.00
+principal,39-3092,39-3092,Costume attendants,True,1,39-3092.00
+principal,39-3093,39-3093,"Locker room, coatroom, and dressing room attendants",True,1,39-3093.00
+principal,39-4011,39-4011,Embalmers,False,1,39-4011.00
+principal,39-4021,39-4021,Funeral attendants,True,1,39-4021.00
+principal,39-4031,39-4031,"Morticians, undertakers, and funeral directors",True,1,39-4031.00
+principal,39-5011,39-5011,Barbers,True,1,39-5011.00
+principal,39-5012,39-5012,"Hairdressers, hairstylists, and cosmetologists",True,1,39-5012.00
+principal,39-5091,39-5091,"Makeup artists, theatrical and performance",True,1,39-5091.00
+principal,39-5092,39-5092,Manicurists and pedicurists,True,1,39-5092.00
+principal,39-5093,39-5093,Shampooers,True,1,39-5093.00
+principal,39-5094,39-5094,Skincare specialists,True,1,39-5094.00
+principal,39-6011,39-6011,Baggage porters and bellhops,True,1,39-6011.00
+principal,39-6012,39-6012,Concierges,True,1,39-6012.00
+principal,39-7011,39-7011,Tour guides and escorts,True,1,39-7011.00
+principal,39-7012,39-7012,Travel guides,True,1,39-7012.00
+principal,39-9011,39-9011,Childcare workers,True,2,39-9011.00;39-9011.01
+principal,39-9021,31-1122,Personal care aides,True,1,31-1122.00
+principal,39-9031,39-9031,Fitness trainers and aerobics instructors,True,1,39-9031.00
+principal,39-9032,39-9032,Recreation workers,True,1,39-9032.00
+principal,39-9041,39-9041,Residential advisors,True,1,39-9041.00
+principal,41-1011,41-1011,First-line supervisors of retail sales workers,True,1,41-1011.00
+principal,41-1012,41-1012,First-line supervisors of non-retail sales workers,True,1,41-1012.00
+principal,41-2011,41-2011,Cashiers,True,1,41-2011.00
+principal,41-2012,41-2012,Gaming change persons and booth cashiers,False,1,41-2012.00
+principal,41-2021,41-2021,Counter and rental clerks,True,1,41-2021.00
+principal,41-2022,41-2022,Parts salespersons,True,1,41-2022.00
+principal,41-2031,41-2031,Retail salespersons,True,1,41-2031.00
+principal,41-3011,41-3011,Advertising sales agents,True,1,41-3011.00
+principal,41-3021,41-3021,Insurance sales agents,True,1,41-3021.00
+principal,41-3041,41-3041,Travel agents,True,1,41-3041.00
+principal,41-4011,41-4011,"Sales representatives, wholesale and manufacturing, technical and scientific products",True,2,41-4011.00;41-4011.07
+principal,41-4012,41-4012,"Sales representatives, wholesale and manufacturing, except technical and scientific products",True,1,41-4012.00
+principal,41-9011,41-9011,Demonstrators and product promoters,True,1,41-9011.00
+principal,41-9012,41-9012,Models,True,1,41-9012.00
+principal,41-9021,41-9021,Real estate brokers,True,1,41-9021.00
+principal,41-9022,41-9022,Real estate sales agents,True,1,41-9022.00
+principal,41-9031,41-9031,Sales engineers,True,1,41-9031.00
+principal,41-9041,41-9041,Telemarketers,True,1,41-9041.00
+principal,41-9091,41-9091,"Door-to-door sales workers, news and street vendors, and related workers",True,1,41-9091.00
+principal,43-1011,43-1011,First-line supervisors of office and administrative support workers,True,1,43-1011.00
+principal,43-2011,43-2011,"Switchboard operators, including answering service",True,1,43-2011.00
+principal,43-2021,43-2021,Telephone operators,True,1,43-2021.00
+principal,43-3011,43-3011,Bill and account collectors,True,1,43-3011.00
+principal,43-3021,43-3021,Billing and posting clerks,True,1,43-3021.00
+principal,43-3031,43-3031,"Bookkeeping, accounting, and auditing clerks",True,1,43-3031.00
+principal,43-3041,43-3041,Gaming cage workers,True,1,43-3041.00
+principal,43-3051,43-3051,Payroll and timekeeping clerks,True,1,43-3051.00
+principal,43-3061,43-3061,Procurement clerks,True,1,43-3061.00
+principal,43-3071,43-3071,Tellers,True,1,43-3071.00
+principal,43-4011,43-4011,Brokerage clerks,True,1,43-4011.00
+principal,43-4021,43-4021,Correspondence clerks,True,1,43-4021.00
+principal,43-4031,43-4031,"Court, municipal, and license clerks",True,1,43-4031.00
+principal,43-4041,43-4041,"Credit authorizers, checkers, and clerks",True,1,43-4041.00
+principal,43-4061,43-4061,"Eligibility interviewers, government programs",True,1,43-4061.00
+principal,43-4071,43-4071,File clerks,True,1,43-4071.00
+principal,43-4081,43-4081,"Hotel, motel, and resort desk clerks",True,1,43-4081.00
+principal,43-4111,43-4111,"Interviewers, except eligibility and loan",True,1,43-4111.00
+principal,43-4121,43-4121,"Library assistants, clerical",True,1,43-4121.00
+principal,43-4131,43-4131,Loan interviewers and clerks,True,1,43-4131.00
+principal,43-4141,43-4141,New accounts clerks,True,1,43-4141.00
+principal,43-4151,43-4151,Order clerks,True,1,43-4151.00
+principal,43-4161,43-4161,"Human resources assistants, except payroll and timekeeping",True,1,43-4161.00
+principal,43-4171,43-4171,Receptionists and information clerks,True,1,43-4171.00
+principal,43-4181,43-4181,Reservation and transportation ticket agents and travel clerks,True,1,43-4181.00
+principal,43-5011,43-5011,Cargo and freight agents,True,2,43-5011.00;43-5011.01
+principal,43-5021,43-5021,Couriers and messengers,True,1,43-5021.00
+principal,43-5031,43-5031,"Police, fire, and ambulance dispatchers",True,1,43-5031.00
+principal,43-5032,43-5032,"Dispatchers, except police, fire, and ambulance",True,1,43-5032.00
+principal,43-5041,43-5041,"Meter readers, utilities",True,1,43-5041.00
+principal,43-5051,43-5051,Postal service clerks,True,1,43-5051.00
+principal,43-5052,43-5052,Postal service mail carriers,True,1,43-5052.00
+principal,43-5053,43-5053,"Postal service mail sorters, processors, and processing machine operators",True,1,43-5053.00
+principal,43-5061,43-5061,"Production, planning, and expediting clerks",True,1,43-5061.00
+principal,43-5071,43-5071,"Shipping, receiving, and traffic clerks",True,1,43-5071.00
+principal,43-5081,53-7065,Stock clerks and order fillers,True,1,53-7065.00
+principal,43-5111,43-5111,"Weighers, measurers, checkers, and samplers, recordkeeping",True,1,43-5111.00
+principal,43-6011,43-6011,Executive secretaries and executive administrative assistants,True,1,43-6011.00
+principal,43-6012,43-6012,Legal secretaries,True,1,43-6012.00
+principal,43-6013,43-6013,Medical secretaries,True,1,43-6013.00
+principal,43-6014,43-6014,"Secretaries and administrative assistants, except legal, medical, and executive",True,1,43-6014.00
+principal,43-9021,43-9021,Data entry keyers,True,1,43-9021.00
+principal,43-9022,43-9022,Word processors and typists,True,1,43-9022.00
+principal,43-9031,43-9031,Desktop publishers,True,1,43-9031.00
+principal,43-9041,43-9041,Insurance claims and policy processing clerks,True,1,43-9041.00
+principal,43-9051,43-9051,"Mail clerks and mail machine operators, except postal service",True,1,43-9051.00
+principal,43-9061,43-9061,"Office clerks, general",True,1,43-9061.00
+principal,43-9071,43-9071,"Office machine operators, except computer",True,1,43-9071.00
+principal,43-9081,43-9081,Proofreaders and copy markers,True,1,43-9081.00
+principal,45-1011,45-1011,"First-line supervisors of farming, fishing, and forestry workers",True,1,45-1011.00
+principal,45-2011,45-2011,Agricultural inspectors,False,1,45-2011.00
+principal,45-2021,45-2021,Animal breeders,True,1,45-2021.00
+principal,45-2041,45-2041,"Graders and sorters, agricultural products",True,1,45-2041.00
+principal,45-2091,45-2091,Agricultural equipment operators,True,1,45-2091.00
+principal,45-2092,45-2092,"Farmworkers and laborers, crop, nursery, and greenhouse",True,1,45-2092.00
+principal,45-2093,45-2093,"Farmworkers, farm, ranch, and aquacultural animals",True,1,45-2093.00
+principal,45-4011,45-4011,Forest and conservation workers,True,1,45-4011.00
+principal,45-4021,45-4021,Fallers,True,1,45-4021.00
+principal,45-4022,45-4022,Logging equipment operators,False,1,45-4022.00
+principal,45-4023,45-4023,Log graders and scalers,False,1,45-4023.00
+principal,47-1011,47-1011,First-line supervisors of construction trades and extraction workers,True,2,47-1011.00;47-1011.03
+principal,47-2011,47-2011,Boilermakers,True,1,47-2011.00
+principal,47-2021,47-2021,Brickmasons and blockmasons,True,1,47-2021.00
+principal,47-2022,47-2022,Stonemasons,True,1,47-2022.00
+principal,47-2031,47-2031,Carpenters,True,1,47-2031.00
+principal,47-2041,47-2041,Carpet installers,True,1,47-2041.00
+principal,47-2042,47-2042,"Floor layers, except carpet, wood, and hard tiles",True,1,47-2042.00
+principal,47-2043,47-2043,Floor sanders and finishers,False,1,47-2043.00
+principal,47-2044,47-2044,Tile and marble setters,True,1,47-2044.00
+principal,47-2051,47-2051,Cement masons and concrete finishers,True,1,47-2051.00
+principal,47-2053,47-2053,Terrazzo workers and finishers,False,1,47-2053.00
+principal,47-2061,47-2061,Construction laborers,True,1,47-2061.00
+principal,47-2071,47-2071,"Paving, surfacing, and tamping equipment operators",True,1,47-2071.00
+principal,47-2072,47-2072,Pile-driver operators,False,1,47-2072.00
+principal,47-2073,47-2073,Operating engineers and other construction equipment operators,True,1,47-2073.00
+principal,47-2081,47-2081,Drywall and ceiling tile installers,True,1,47-2081.00
+principal,47-2111,47-2111,Electricians,True,1,47-2111.00
+principal,47-2121,47-2121,Glaziers,True,1,47-2121.00
+principal,47-2131,47-2131,"Insulation workers, floor, ceiling, and wall",True,1,47-2131.00
+principal,47-2132,47-2132,"Insulation workers, mechanical",False,1,47-2132.00
+principal,47-2141,47-2141,"Painters, construction and maintenance",True,1,47-2141.00
+principal,47-2142,47-2142,Paperhangers,False,1,47-2142.00
+principal,47-2151,47-2151,Pipelayers,False,1,47-2151.00
+principal,47-2161,47-2161,Plasterers and stucco masons,True,1,47-2161.00
+principal,47-2171,47-2171,Reinforcing iron and rebar workers,False,1,47-2171.00
+principal,47-2181,47-2181,Roofers,True,1,47-2181.00
+principal,47-2211,47-2211,Sheet metal workers,True,1,47-2211.00
+principal,47-2221,47-2221,Structural iron and steel workers,True,1,47-2221.00
+principal,47-2231,47-2231,Solar photovoltaic installers,True,1,47-2231.00
+principal,47-3011,47-3011,"Helpers--brickmasons, blockmasons, stonemasons, and tile and marble setters",False,1,47-3011.00
+principal,47-3012,47-3012,Helpers--carpenters,True,1,47-3012.00
+principal,47-3013,47-3013,Helpers--electricians,True,1,47-3013.00
+principal,47-3014,47-3014,"Helpers--painters, paperhangers, plasterers, and stucco masons",False,1,47-3014.00
+principal,47-3015,47-3015,"Helpers--pipelayers, plumbers, pipefitters, and steamfitters",True,1,47-3015.00
+principal,47-3016,47-3016,Helpers--roofers,False,1,47-3016.00
+principal,47-4021,47-4021,Elevator installers and repairers,True,1,47-4021.00
+principal,47-4031,47-4031,Fence erectors,True,1,47-4031.00
+principal,47-4041,47-4041,Hazardous materials removal workers,True,1,47-4041.00
+principal,47-4051,47-4051,Highway maintenance workers,True,1,47-4051.00
+principal,47-4061,47-4061,Rail-track laying and maintenance equipment operators,True,1,47-4061.00
+principal,47-4071,47-4071,Septic tank servicers and sewer pipe cleaners,False,1,47-4071.00
+principal,47-4091,47-4091,Segmental pavers,False,1,47-4091.00
+principal,47-5011,47-5011,"Derrick operators, oil and gas",False,1,47-5011.00
+principal,47-5012,47-5012,"Rotary drill operators, oil and gas",True,1,47-5012.00
+principal,47-5013,47-5013,"Service unit operators, oil, gas, and mining",True,1,47-5013.00
+principal,47-5041,47-5041,Continuous mining machine operators,False,1,47-5041.00
+principal,47-5051,47-5051,"Rock splitters, quarry",False,1,47-5051.00
+principal,47-5061,47-5043,"Roof bolters, mining",False,1,47-5043.00
+principal,47-5071,47-5071,"Roustabouts, oil and gas",True,1,47-5071.00
+principal,47-5081,47-5081,Helpers--extraction workers,False,1,47-5081.00
+principal,49-1011,49-1011,"First-line supervisors of mechanics, installers, and repairers",True,1,49-1011.00
+principal,49-2011,49-2011,"Computer, automated teller, and office machine repairers",True,1,49-2011.00
+principal,49-2021,49-2021,"Radio, cellular, and tower equipment installers and repairs",True,1,49-2021.00
+principal,49-2022,49-2022,"Telecommunications equipment installers and repairers, except line installers",True,1,49-2022.00
+principal,49-2091,49-2091,Avionics technicians,True,1,49-2091.00
+principal,49-2092,49-2092,"Electric motor, power tool, and related repairers",True,1,49-2092.00
+principal,49-2093,49-2093,"Electrical and electronics installers and repairers, transportation equipment",False,1,49-2093.00
+principal,49-2094,49-2094,"Electrical and electronics repairers, commercial and industrial equipment",True,1,49-2094.00
+principal,49-2095,49-2095,"Electrical and electronics repairers, powerhouse, substation, and relay",True,1,49-2095.00
+principal,49-2096,49-2096,"Electronic equipment installers and repairers, motor vehicles",True,1,49-2096.00
+principal,49-2097,49-2097,Electronic home entertainment equipment installers and repairers,True,1,49-2097.00
+principal,49-2098,49-2098,Security and fire alarm systems installers,True,1,49-2098.00
+principal,49-3011,49-3011,Aircraft mechanics and service technicians,True,1,49-3011.00
+principal,49-3021,49-3021,Automotive body and related repairers,True,1,49-3021.00
+principal,49-3022,49-3022,Automotive glass installers and repairers,True,1,49-3022.00
+principal,49-3023,49-3023,Automotive service technicians and mechanics,True,1,49-3023.00
+principal,49-3031,49-3031,Bus and truck mechanics and diesel engine specialists,True,1,49-3031.00
+principal,49-3041,49-3041,Farm equipment mechanics and service technicians,True,1,49-3041.00
+principal,49-3042,49-3042,"Mobile heavy equipment mechanics, except engines",True,1,49-3042.00
+principal,49-3043,49-3043,Rail car repairers,True,1,49-3043.00
+principal,49-3051,49-3051,Motorboat mechanics and service technicians,False,1,49-3051.00
+principal,49-3052,49-3052,Motorcycle mechanics,True,1,49-3052.00
+principal,49-3053,49-3053,Outdoor power equipment and other small engine mechanics,True,1,49-3053.00
+principal,49-3091,49-3091,Bicycle repairers,True,1,49-3091.00
+principal,49-3092,49-3092,Recreational vehicle service technicians,True,1,49-3092.00
+principal,49-3093,49-3093,Tire repairers and changers,True,1,49-3093.00
+principal,49-9011,49-9011,Mechanical door repairers,True,1,49-9011.00
+principal,49-9012,49-9012,"Control and valve installers and repairers, except mechanical door",True,1,49-9012.00
+principal,49-9021,49-9021,"Heating, air conditioning, and refrigeration mechanics and installers",True,1,49-9021.00
+principal,49-9031,49-9031,Home appliance repairers,True,1,49-9031.00
+principal,49-9041,49-9041,Industrial machinery mechanics,True,1,49-9041.00
+principal,49-9043,49-9043,"Maintenance workers, machinery",True,1,49-9043.00
+principal,49-9044,49-9044,Millwrights,True,1,49-9044.00
+principal,49-9045,49-9045,"Refractory materials repairers, except brickmasons",False,1,49-9045.00
+principal,49-9051,49-9051,Electrical power-line installers and repairers,True,1,49-9051.00
+principal,49-9052,49-9052,Telecommunications line installers and repairers,True,1,49-9052.00
+principal,49-9061,49-9061,Camera and photographic equipment repairers,True,1,49-9061.00
+principal,49-9062,49-9062,Medical equipment repairers,True,1,49-9062.00
+principal,49-9063,49-9063,Musical instrument repairers and tuners,True,1,49-9063.00
+principal,49-9064,49-9064,Watch repairers,False,1,49-9064.00
+principal,49-9071,49-9071,"Maintenance and repair workers, general",True,1,49-9071.00
+principal,49-9081,49-9081,Wind turbine service technicians,True,1,49-9081.00
+principal,49-9091,49-9091,"Coin, vending, and amusement machine servicers and repairers",True,1,49-9091.00
+principal,49-9092,49-9092,Commercial divers,True,1,49-9092.00
+principal,49-9094,49-9094,Locksmiths and safe repairers,True,1,49-9094.00
+principal,49-9095,49-9095,Manufactured building and mobile home installers,True,1,49-9095.00
+principal,49-9096,49-9096,Riggers,True,1,49-9096.00
+principal,49-9097,49-9097,Signal and track switch repairers,False,1,49-9097.00
+principal,49-9098,49-9098,"Helpers--installation, maintenance, and repair workers",True,1,49-9098.00
+principal,51-1011,51-1011,First-line supervisors of production and operating workers,True,1,51-1011.00
+principal,51-2011,51-2011,"Aircraft structure, surfaces, rigging, and systems assemblers",True,1,51-2011.00
+principal,51-2021,51-2021,"Coil winders, tapers, and finishers",False,1,51-2021.00
+principal,51-2022,51-2022,Electrical and electronic equipment assemblers,True,1,51-2022.00
+principal,51-2023,51-2023,Electromechanical equipment assemblers,True,1,51-2023.00
+principal,51-2031,51-2031,Engine and other machine assemblers,True,1,51-2031.00
+principal,51-2041,51-2041,Structural metal fabricators and fitters,False,1,51-2041.00
+principal,51-2091,51-2051,Fiberglass laminators and fabricators,False,1,51-2051.00
+principal,51-2092,51-2092,Team assemblers,True,1,51-2092.00
+principal,51-2093,51-2061,Timing device assemblers and adjusters,False,1,51-2061.00
+principal,51-3011,51-3011,Bakers,True,1,51-3011.00
+principal,51-3021,51-3021,Butchers and meat cutters,True,1,51-3021.00
+principal,51-3022,51-3022,"Meat, poultry, and fish cutters and trimmers",True,1,51-3022.00
+principal,51-3023,51-3023,Slaughterers and meat packers,True,1,51-3023.00
+principal,51-3091,51-3091,"Food and tobacco roasting, baking, and drying machine operators and tenders",False,1,51-3091.00
+principal,51-3092,51-3092,Food batchmakers,True,1,51-3092.00
+principal,51-3093,51-3093,Food cooking machine operators and tenders,True,1,51-3093.00
+principal,51-4021,51-4021,"Extruding and drawing machine setters, operators, and tenders, metal and plastic",True,1,51-4021.00
+principal,51-4022,51-4022,"Forging machine setters, operators, and tenders, metal and plastic",False,1,51-4022.00
+principal,51-4023,51-4023,"Rolling machine setters, operators, and tenders, metal and plastic",True,1,51-4023.00
+principal,51-4031,51-4031,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",True,1,51-4031.00
+principal,51-4032,51-4032,"Drilling and boring machine tool setters, operators, and tenders, metal and plastic",True,1,51-4032.00
+principal,51-4033,51-4033,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",True,1,51-4033.00
+principal,51-4034,51-4034,"Lathe and turning machine tool setters, operators, and tenders, metal and plastic",False,1,51-4034.00
+principal,51-4035,51-4035,"Milling and planing machine setters, operators, and tenders, metal and plastic",True,1,51-4035.00
+principal,51-4041,51-4041,Machinists,True,1,51-4041.00
+principal,51-4051,51-4051,Metal-refining furnace operators and tenders,True,1,51-4051.00
+principal,51-4052,51-4052,"Pourers and casters, metal",False,1,51-4052.00
+principal,51-4061,51-4061,"Model makers, metal and plastic",True,1,51-4061.00
+principal,51-4062,51-4062,"Patternmakers, metal and plastic",False,1,51-4062.00
+principal,51-4071,51-4071,Foundry mold and coremakers,True,1,51-4071.00
+principal,51-4072,51-4072,"Molding, coremaking, and casting machine setters, operators, and tenders, metal and plastic",True,1,51-4072.00
+principal,51-4081,51-4081,"Multiple machine tool setters, operators, and tenders, metal and plastic",True,1,51-4081.00
+principal,51-4111,51-4111,Tool and die makers,True,1,51-4111.00
+principal,51-4121,51-4121,"Welders, cutters, solderers, and brazers",True,1,51-4121.00
+principal,51-4122,51-4122,"Welding, soldering, and brazing machine setters, operators, and tenders",True,1,51-4122.00
+principal,51-4191,51-4191,"Heat treating equipment setters, operators, and tenders, metal and plastic",True,1,51-4191.00
+principal,51-4192,51-4192,"Layout workers, metal and plastic",True,1,51-4192.00
+principal,51-4193,51-4193,"Plating and coating machine setters, operators, and tenders, metal and plastic",False,1,51-4193.00
+principal,51-4194,51-4194,"Tool grinders, filers, and sharpeners",True,1,51-4194.00
+principal,51-5111,51-5111,Prepress technicians and workers,True,1,51-5111.00
+principal,51-5112,51-5112,Printing press operators,True,1,51-5112.00
+principal,51-5113,51-5113,Print binding and finishing workers,True,1,51-5113.00
+principal,51-6011,51-6011,Laundry and dry-cleaning workers,True,1,51-6011.00
+principal,51-6021,51-6021,"Pressers, textile, garment, and related materials",False,1,51-6021.00
+principal,51-6031,51-6031,Sewing machine operators,True,1,51-6031.00
+principal,51-6041,51-6041,Shoe and leather workers and repairers,False,1,51-6041.00
+principal,51-6042,51-6042,Shoe machine operators and tenders,True,1,51-6042.00
+principal,51-6051,51-6051,"Sewers, hand",False,1,51-6051.00
+principal,51-6052,51-6052,"Tailors, dressmakers, and custom sewers",True,1,51-6052.00
+principal,51-6061,51-6061,Textile bleaching and dyeing machine operators and tenders,True,1,51-6061.00
+principal,51-6062,51-6062,"Textile cutting machine setters, operators, and tenders",True,1,51-6062.00
+principal,51-6063,51-6063,"Textile knitting and weaving machine setters, operators, and tenders",False,1,51-6063.00
+principal,51-6064,51-6064,"Textile winding, twisting, and drawing out machine setters, operators, and tenders",True,1,51-6064.00
+principal,51-6091,51-6091,"Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers",True,1,51-6091.00
+principal,51-6092,51-6092,Fabric and apparel patternmakers,True,1,51-6092.00
+principal,51-6093,51-6093,Upholsterers,True,1,51-6093.00
+principal,51-7011,51-7011,Cabinetmakers and bench carpenters,True,1,51-7011.00
+principal,51-7021,51-7021,Furniture finishers,True,1,51-7021.00
+principal,51-7031,51-7031,"Model makers, wood",False,1,51-7031.00
+principal,51-7041,51-7041,"Sawing machine setters, operators, and tenders, wood",True,1,51-7041.00
+principal,51-7042,51-7042,"Woodworking machine setters, operators, and tenders, except sawing",True,1,51-7042.00
+principal,51-8011,51-8011,Nuclear power reactor operators,True,1,51-8011.00
+principal,51-8012,51-8012,Power distributors and dispatchers,True,1,51-8012.00
+principal,51-8021,51-8021,Stationary engineers and boiler operators,True,1,51-8021.00
+principal,51-8031,51-8031,Water and wastewater treatment plant and system operators,True,1,51-8031.00
+principal,51-8091,51-8091,Chemical plant and system operators,False,1,51-8091.00
+principal,51-8092,51-8092,Gas plant operators,True,1,51-8092.00
+principal,51-8093,51-8093,"Petroleum pump system operators, refinery operators, and gaugers",True,1,51-8093.00
+principal,51-9011,51-9011,Chemical equipment operators and tenders,True,1,51-9011.00
+principal,51-9012,51-9012,"Separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders",True,1,51-9012.00
+principal,51-9021,51-9021,"Crushing, grinding, and polishing machine setters, operators, and tenders",True,1,51-9021.00
+principal,51-9022,51-9022,"Grinding and polishing workers, hand",False,1,51-9022.00
+principal,51-9023,51-9023,"Mixing and blending machine setters, operators, and tenders",True,1,51-9023.00
+principal,51-9031,51-9031,"Cutters and trimmers, hand",False,1,51-9031.00
+principal,51-9032,51-9032,"Cutting and slicing machine setters, operators, and tenders",True,1,51-9032.00
+principal,51-9041,51-9041,"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",True,1,51-9041.00
+principal,51-9051,51-9051,"Furnace, kiln, oven, drier, and kettle operators and tenders",True,1,51-9051.00
+principal,51-9061,51-9061,"Inspectors, testers, sorters, samplers, and weighers",True,1,51-9061.00
+principal,51-9071,51-9071,Jewelers and precious stone and metal workers,True,1,51-9071.00
+principal,51-9081,51-9081,Dental laboratory technicians,True,1,51-9081.00
+principal,51-9082,51-9082,Medical appliance technicians,True,1,51-9082.00
+principal,51-9083,51-9083,Ophthalmic laboratory technicians,True,1,51-9083.00
+principal,51-9111,51-9111,Packaging and filling machine operators and tenders,True,1,51-9111.00
+principal,51-9123,51-9123,"Painting, coating, and decorating workers",True,1,51-9123.00
+principal,51-9141,51-9141,Semiconductor processors,True,1,51-9141.00
+principal,51-9151,51-9151,Photographic process workers and processing machine operators,True,1,51-9151.00
+principal,51-9191,51-9191,Adhesive bonding machine operators and tenders,True,1,51-9191.00
+principal,51-9192,51-9192,"Cleaning, washing, and metal pickling equipment operators and tenders",False,1,51-9192.00
+principal,51-9193,51-9193,Cooling and freezing equipment operators and tenders,False,1,51-9193.00
+principal,51-9194,51-9194,Etchers and engravers,True,1,51-9194.00
+principal,51-9195,51-9195,"Molders, shapers, and casters, except metal and plastic",True,3,51-9195.00;51-9195.03;51-9195.04
+principal,51-9196,51-9196,"Paper goods machine setters, operators, and tenders",False,1,51-9196.00
+principal,51-9197,51-9197,Tire builders,True,1,51-9197.00
+principal,51-9198,51-9198,Helpers--production workers,True,1,51-9198.00
+principal,53-1011,53-1041,Aircraft cargo handling supervisors,True,1,53-1041.00
+principal,53-1021,53-1042,"First-line supervisors of helpers, laborers, and material movers, hand",True,2,53-1042.00;53-1042.01
+principal,53-2011,53-2011,"Airline pilots, copilots, and flight engineers",True,1,53-2011.00
+principal,53-2012,53-2012,Commercial pilots,True,1,53-2012.00
+principal,53-2021,53-2021,Air traffic controllers,True,1,53-2021.00
+principal,53-2022,53-2022,Airfield operations specialists,True,1,53-2022.00
+principal,53-2031,53-2031,Flight attendants,True,1,53-2031.00
+principal,53-3011,53-3011,"Ambulance drivers and attendants, except emergency medical technicians",True,1,53-3011.00
+principal,53-3021,53-3052,"Bus drivers, transit and intercity",True,1,53-3052.00
+principal,53-3031,53-3031,Driver/sales workers,True,1,53-3031.00
+principal,53-3032,53-3032,Heavy and tractor-trailer truck drivers,True,1,53-3032.00
+principal,53-3033,53-3033,Light truck or delivery services drivers,True,1,53-3033.00
+principal,53-4011,53-4011,Locomotive engineers,True,1,53-4011.00
+principal,53-4013,53-4013,"Rail yard engineers, dinkey operators, and hostlers",False,1,53-4013.00
+principal,53-4031,53-4031,Railroad conductors and yardmasters,True,1,53-4031.00
+principal,53-4041,53-4041,Subway and streetcar operators,True,1,53-4041.00
+principal,53-5011,53-5011,Sailors and marine oilers,True,1,53-5011.00
+principal,53-5021,53-5021,"Captains, mates, and pilots of water vessels",True,1,53-5021.00
+principal,53-5022,53-5022,Motorboat operators,False,1,53-5022.00
+principal,53-5031,53-5031,Ship engineers,True,1,53-5031.00
+principal,53-6011,53-6011,Bridge and lock tenders,False,1,53-6011.00
+principal,53-6021,53-6021,Parking lot attendants,True,1,53-6021.00
+principal,53-6031,53-6031,Automotive and watercraft service attendants,True,1,53-6031.00
+principal,53-6041,53-6041,Traffic technicians,True,1,53-6041.00
+principal,53-6051,53-6051,Transportation inspectors,True,3,53-6051.00;53-6051.01;53-6051.07
+principal,53-6061,53-6061,"Transportation attendants, except flight attendants",True,1,53-6061.00
+principal,53-7011,53-7011,Conveyor operators and tenders,True,1,53-7011.00
+principal,53-7021,53-7021,Crane and tower operators,True,1,53-7021.00
+principal,53-7031,53-7031,Dredge operators,False,1,53-7031.00
+principal,53-7041,53-7041,Hoist and winch operators,True,1,53-7041.00
+principal,53-7051,53-7051,Industrial truck and tractor operators,True,1,53-7051.00
+principal,53-7061,53-7061,Cleaners of vehicles and equipment,True,1,53-7061.00
+principal,53-7063,53-7063,Machine feeders and offbearers,True,1,53-7063.00
+principal,53-7064,53-7064,"Packers and packagers, hand",True,1,53-7064.00
+principal,53-7071,53-7071,Gas compressor and gas pumping station operators,False,1,53-7071.00
+principal,53-7072,53-7072,"Pump operators, except wellhead pumpers",True,1,53-7072.00
+principal,53-7073,53-7073,Wellhead pumpers,False,1,53-7073.00
+principal,53-7081,53-7081,Refuse and recyclable material collectors,True,1,53-7081.00
+principal,53-7121,53-7121,"Tank car, truck, and ship loaders",True,1,53-7121.00
+single_specialty,11-1021,11-1021,General and operations managers,True,1,11-1021.00
+single_specialty,11-1031,11-1031,Legislators,False,1,11-1031.00
+single_specialty,11-2011,11-2011,Advertising and promotions managers,True,1,11-2011.00
+single_specialty,11-2021,11-2021,Marketing managers,True,1,11-2021.00
+single_specialty,11-2022,11-2022,Sales managers,True,1,11-2022.00
+single_specialty,11-3021,11-3021,Computer and information systems managers,True,1,11-3021.00
+single_specialty,11-3061,11-3061,Purchasing managers,True,1,11-3061.00
+single_specialty,11-3111,11-3111,Compensation and benefits managers,True,1,11-3111.00
+single_specialty,11-3121,11-3121,Human resources managers,True,1,11-3121.00
+single_specialty,11-3131,11-3131,Training and development managers,True,1,11-3131.00
+single_specialty,11-9013,11-9013,"Farmers, ranchers, and other agricultural managers",True,1,11-9013.00
+single_specialty,11-9021,11-9021,Construction managers,True,1,11-9021.00
+single_specialty,11-9031,11-9031,"Education administrators, preschool and childcare center/program",True,1,11-9031.00
+single_specialty,11-9032,11-9032,"Education administrators, elementary and secondary school",True,1,11-9032.00
+single_specialty,11-9033,11-9033,"Education administrators, postsecondary",True,1,11-9033.00
+single_specialty,11-9051,11-9051,Food service managers,True,1,11-9051.00
+single_specialty,11-9061,11-9171,Funeral service managers,True,1,11-9171.00
+single_specialty,11-9071,11-9071,Gaming managers,True,1,11-9071.00
+single_specialty,11-9081,11-9081,Lodging managers,True,1,11-9081.00
+single_specialty,11-9111,11-9111,Medical and health services managers,True,1,11-9111.00
+single_specialty,11-9131,11-9131,Postmasters and mail superintendents,True,1,11-9131.00
+single_specialty,11-9141,11-9141,"Property, real estate, and community association managers",True,1,11-9141.00
+single_specialty,11-9151,11-9151,Social and community service managers,True,1,11-9151.00
+single_specialty,11-9161,11-9161,Emergency management directors,True,1,11-9161.00
+single_specialty,13-1011,13-1011,"Agents and business managers of artists, performers, and athletes",True,1,13-1011.00
+single_specialty,13-1021,13-1021,"Buyers and purchasing agents, farm products",True,1,13-1021.00
+single_specialty,13-1022,13-1022,"Wholesale and retail buyers, except farm products",True,1,13-1022.00
+single_specialty,13-1023,13-1023,"Purchasing agents, except wholesale, retail, and farm products",True,1,13-1023.00
+single_specialty,13-1031,13-1031,"Claims adjusters, examiners, and investigators",True,1,13-1031.00
+single_specialty,13-1032,13-1032,"Insurance appraisers, auto damage",True,1,13-1032.00
+single_specialty,13-1051,13-1051,Cost estimators,True,1,13-1051.00
+single_specialty,13-1071,13-1071,Human resources specialists,True,1,13-1071.00
+single_specialty,13-1074,13-1074,Farm labor contractors,True,1,13-1074.00
+single_specialty,13-1075,13-1075,Labor relations specialists,True,1,13-1075.00
+single_specialty,13-1111,13-1111,Management analysts,True,1,13-1111.00
+single_specialty,13-1121,13-1121,"Meeting, convention, and event planners",True,1,13-1121.00
+single_specialty,13-1131,13-1131,Fundraisers,True,1,13-1131.00
+single_specialty,13-1141,13-1141,"Compensation, benefits, and job analysis specialists",True,1,13-1141.00
+single_specialty,13-1151,13-1151,Training and development specialists,True,1,13-1151.00
+single_specialty,13-2011,13-2011,Accountants and auditors,True,1,13-2011.00
+single_specialty,13-2031,13-2031,Budget analysts,True,1,13-2031.00
+single_specialty,13-2041,13-2041,Credit analysts,True,1,13-2041.00
+single_specialty,13-2052,13-2052,Personal financial advisors,True,1,13-2052.00
+single_specialty,13-2053,13-2053,Insurance underwriters,True,1,13-2053.00
+single_specialty,13-2061,13-2061,Financial examiners,True,1,13-2061.00
+single_specialty,13-2081,13-2081,"Tax examiners and collectors, and revenue agents",True,1,13-2081.00
+single_specialty,13-2082,13-2082,Tax preparers,True,1,13-2082.00
+single_specialty,15-1111,15-1221,Computer and information research scientists,True,1,15-1221.00
+single_specialty,15-1122,15-1212,Information security analysts,True,1,15-1212.00
+single_specialty,15-1131,15-1251,Computer programmers,True,1,15-1251.00
+single_specialty,15-1142,15-1244,Network and computer systems administrators,True,1,15-1244.00
+single_specialty,15-1151,15-1232,Computer user support specialists,True,1,15-1232.00
+single_specialty,15-1152,15-1231,Computer network support specialists,True,1,15-1231.00
+single_specialty,15-2011,15-2011,Actuaries,True,1,15-2011.00
+single_specialty,15-2021,15-2021,Mathematicians,True,1,15-2021.00
+single_specialty,15-2031,15-2031,Operations research analysts,True,1,15-2031.00
+single_specialty,17-1011,17-1011,"Architects, except landscape and naval",True,1,17-1011.00
+single_specialty,17-1012,17-1012,Landscape architects,True,1,17-1012.00
+single_specialty,17-1021,17-1021,Cartographers and photogrammetrists,False,1,17-1021.00
+single_specialty,17-2011,17-2011,Aerospace engineers,True,1,17-2011.00
+single_specialty,17-2021,17-2021,Agricultural engineers,True,1,17-2021.00
+single_specialty,17-2041,17-2041,Chemical engineers,True,1,17-2041.00
+single_specialty,17-2061,17-2061,Computer hardware engineers,True,1,17-2061.00
+single_specialty,17-2071,17-2071,Electrical engineers,True,1,17-2071.00
+single_specialty,17-2121,17-2121,Marine engineers and naval architects,True,1,17-2121.00
+single_specialty,17-2131,17-2131,Materials engineers,True,1,17-2131.00
+single_specialty,17-2151,17-2151,"Mining and geological engineers, including mining safety engineers",True,1,17-2151.00
+single_specialty,17-2161,17-2161,Nuclear engineers,True,1,17-2161.00
+single_specialty,17-2171,17-2171,Petroleum engineers,True,1,17-2171.00
+single_specialty,17-3011,17-3011,Architectural and civil drafters,True,1,17-3011.00
+single_specialty,17-3012,17-3012,Electrical and electronics drafters,True,1,17-3012.00
+single_specialty,17-3013,17-3013,Mechanical drafters,True,1,17-3013.00
+single_specialty,17-3021,17-3021,Aerospace engineering and operations technicians,True,1,17-3021.00
+single_specialty,17-3022,17-3022,Civil engineering technicians,True,1,17-3022.00
+single_specialty,17-3025,17-3025,Environmental engineering technicians,True,1,17-3025.00
+single_specialty,17-3031,17-3031,Surveying and mapping technicians,True,1,17-3031.00
+single_specialty,19-1011,19-1011,Animal scientists,True,1,19-1011.00
+single_specialty,19-1012,19-1012,Food scientists and technologists,True,1,19-1012.00
+single_specialty,19-1013,19-1013,Soil and plant scientists,True,1,19-1013.00
+single_specialty,19-1021,19-1021,Biochemists and biophysicists,True,1,19-1021.00
+single_specialty,19-1022,19-1022,Microbiologists,True,1,19-1022.00
+single_specialty,19-1023,19-1023,Zoologists and wildlife biologists,True,1,19-1023.00
+single_specialty,19-1032,19-1032,Foresters,True,1,19-1032.00
+single_specialty,19-1041,19-1041,Epidemiologists,True,1,19-1041.00
+single_specialty,19-1042,19-1042,"Medical scientists, except epidemiologists",True,1,19-1042.00
+single_specialty,19-2011,19-2011,Astronomers,True,1,19-2011.00
+single_specialty,19-2012,19-2012,Physicists,True,1,19-2012.00
+single_specialty,19-2021,19-2021,Atmospheric and space scientists,True,1,19-2021.00
+single_specialty,19-2031,19-2031,Chemists,True,1,19-2031.00
+single_specialty,19-2032,19-2032,Materials scientists,True,1,19-2032.00
+single_specialty,19-2042,19-2042,"Geoscientists, except hydrologists and geographers",True,1,19-2042.00
+single_specialty,19-2043,19-2043,Hydrologists,True,1,19-2043.00
+single_specialty,19-2099,19-2099,"Physical scientists, all other",True,1,19-2099.01
+single_specialty,19-3022,19-3022,Survey researchers,True,1,19-3022.00
+single_specialty,19-3032,19-3032,Industrial-organizational psychologists,True,1,19-3032.00
+single_specialty,19-3041,19-3041,Sociologists,True,1,19-3041.00
+single_specialty,19-3091,19-3091,Anthropologists and archeologists,True,1,19-3091.00
+single_specialty,19-3092,19-3092,Geographers,True,1,19-3092.00
+single_specialty,19-3093,19-3093,Historians,True,1,19-3093.00
+single_specialty,19-3094,19-3094,Political scientists,True,1,19-3094.00
+single_specialty,19-3099,19-3099,"Social scientists and related workers, all other",True,1,19-3099.01
+single_specialty,19-4021,19-4021,Biological technicians,True,1,19-4021.00
+single_specialty,19-4031,19-4031,Chemical technicians,True,1,19-4031.00
+single_specialty,19-4091,19-4042,"Environmental science and protection technicians, including health",True,1,19-4042.00
+single_specialty,19-4092,19-4092,Forensic science technicians,True,1,19-4092.00
+single_specialty,19-4093,19-4071,Forest and conservation technicians,True,1,19-4071.00
+single_specialty,21-1011,21-1011,Substance abuse and behavioral disorder counselors,True,1,21-1011.00
+single_specialty,21-1012,21-1012,"Educational, guidance, school, and vocational counselors",True,1,21-1012.00
+single_specialty,21-1013,21-1013,Marriage and family therapists,True,1,21-1013.00
+single_specialty,21-1014,21-1014,Mental health counselors,True,1,21-1014.00
+single_specialty,21-1015,21-1015,Rehabilitation counselors,True,1,21-1015.00
+single_specialty,21-1021,21-1021,"Child, family, and school social workers",True,1,21-1021.00
+single_specialty,21-1022,21-1022,Healthcare social workers,True,1,21-1022.00
+single_specialty,21-1023,21-1023,Mental health and substance abuse social workers,True,1,21-1023.00
+single_specialty,21-1091,21-1091,Health educators,True,1,21-1091.00
+single_specialty,21-1092,21-1092,Probation officers and correctional treatment specialists,True,1,21-1092.00
+single_specialty,21-1093,21-1093,Social and human service assistants,True,1,21-1093.00
+single_specialty,21-1094,21-1094,Community health workers,True,1,21-1094.00
+single_specialty,21-2011,21-2011,Clergy,True,1,21-2011.00
+single_specialty,21-2021,21-2021,"Directors, religious activities and education",True,1,21-2021.00
+single_specialty,23-1011,23-1011,Lawyers,True,1,23-1011.00
+single_specialty,23-1012,23-1012,Judicial law clerks,True,1,23-1012.00
+single_specialty,23-1021,23-1021,"Administrative law judges, adjudicators, and hearing officers",True,1,23-1021.00
+single_specialty,23-1022,23-1022,"Arbitrators, mediators, and conciliators",True,1,23-1022.00
+single_specialty,23-1023,23-1023,"Judges, magistrate judges, and magistrates",True,1,23-1023.00
+single_specialty,23-2011,23-2011,Paralegals and legal assistants,True,1,23-2011.00
+single_specialty,23-2091,27-3092,Court reporters,True,1,27-3092.00
+single_specialty,23-2093,23-2093,"Title examiners, abstractors, and searchers",True,1,23-2093.00
+single_specialty,25-1011,25-1011,"Business teachers, postsecondary",True,1,25-1011.00
+single_specialty,25-1021,25-1021,"Computer science teachers, postsecondary",True,1,25-1021.00
+single_specialty,25-1022,25-1022,"Mathematical science teachers, postsecondary",True,1,25-1022.00
+single_specialty,25-1031,25-1031,"Architecture teachers, postsecondary",True,1,25-1031.00
+single_specialty,25-1032,25-1032,"Engineering teachers, postsecondary",True,1,25-1032.00
+single_specialty,25-1041,25-1041,"Agricultural sciences teachers, postsecondary",False,1,25-1041.00
+single_specialty,25-1042,25-1042,"Biological science teachers, postsecondary",True,1,25-1042.00
+single_specialty,25-1043,25-1043,"Forestry and conservation science teachers, postsecondary",False,1,25-1043.00
+single_specialty,25-1051,25-1051,"Atmospheric, earth, marine, and space sciences teachers, postsecondary",False,1,25-1051.00
+single_specialty,25-1052,25-1052,"Chemistry teachers, postsecondary",True,1,25-1052.00
+single_specialty,25-1053,25-1053,"Environmental science teachers, postsecondary",True,1,25-1053.00
+single_specialty,25-1054,25-1054,"Physics teachers, postsecondary",True,1,25-1054.00
+single_specialty,25-1061,25-1061,"Anthropology and archeology teachers, postsecondary",True,1,25-1061.00
+single_specialty,25-1062,25-1062,"Area, ethnic, and cultural studies teachers, postsecondary",True,1,25-1062.00
+single_specialty,25-1063,25-1063,"Economics teachers, postsecondary",True,1,25-1063.00
+single_specialty,25-1064,25-1064,"Geography teachers, postsecondary",False,1,25-1064.00
+single_specialty,25-1065,25-1065,"Political science teachers, postsecondary",True,1,25-1065.00
+single_specialty,25-1066,25-1066,"Psychology teachers, postsecondary",True,1,25-1066.00
+single_specialty,25-1067,25-1067,"Sociology teachers, postsecondary",True,1,25-1067.00
+single_specialty,25-1071,25-1071,"Health specialties teachers, postsecondary",True,1,25-1071.00
+single_specialty,25-1072,25-1072,"Nursing instructors and teachers, postsecondary",True,1,25-1072.00
+single_specialty,25-1081,25-1081,"Education teachers, postsecondary",True,1,25-1081.00
+single_specialty,25-1082,25-1082,"Library science teachers, postsecondary",False,1,25-1082.00
+single_specialty,25-1111,25-1111,"Criminal justice and law enforcement teachers, postsecondary",True,1,25-1111.00
+single_specialty,25-1112,25-1112,"Law teachers, postsecondary",True,1,25-1112.00
+single_specialty,25-1113,25-1113,"Social work teachers, postsecondary",True,1,25-1113.00
+single_specialty,25-1121,25-1121,"Art, drama, and music teachers, postsecondary",True,1,25-1121.00
+single_specialty,25-1122,25-1122,"Communications teachers, postsecondary",True,1,25-1122.00
+single_specialty,25-1123,25-1123,"English language and literature teachers, postsecondary",True,1,25-1123.00
+single_specialty,25-1124,25-1124,"Foreign language and literature teachers, postsecondary",True,1,25-1124.00
+single_specialty,25-1125,25-1125,"History teachers, postsecondary",True,1,25-1125.00
+single_specialty,25-1126,25-1126,"Philosophy and religion teachers, postsecondary",True,1,25-1126.00
+single_specialty,25-1191,25-9044,Graduate teaching assistants,True,1,25-9044.00
+single_specialty,25-1192,25-1192,"Home economics teachers, postsecondary",True,1,25-1192.00
+single_specialty,25-1193,25-1193,"Recreation and fitness studies teachers, postsecondary",True,1,25-1193.00
+single_specialty,25-1194,25-1194,"Vocational education teachers, postsecondary",True,1,25-1194.00
+single_specialty,25-2011,25-2011,"Preschool teachers, except special education",True,1,25-2011.00
+single_specialty,25-2012,25-2012,"Kindergarten teachers, except special education",True,1,25-2012.00
+single_specialty,25-2021,25-2021,"Elementary school teachers, except special education",True,1,25-2021.00
+single_specialty,25-2022,25-2022,"Middle school teachers, except special and career/technical education",True,1,25-2022.00
+single_specialty,25-2023,25-2023,"Career/technical education teachers, middle school",False,1,25-2023.00
+single_specialty,25-2031,25-2031,"Secondary school teachers, except special and career/technical education",True,1,25-2031.00
+single_specialty,25-2032,25-2032,"Career/technical education teachers, secondary school",True,1,25-2032.00
+single_specialty,25-2051,25-2051,"Special education teachers, preschool",True,1,25-2051.00
+single_specialty,25-2053,25-2057,"Special education teachers, middle school",True,1,25-2057.00
+single_specialty,25-2054,25-2058,"Special education teachers, secondary school",True,1,25-2058.00
+single_specialty,25-2059,25-2059,"Special education teachers, all other",True,1,25-2059.01
+single_specialty,25-3011,25-3011,Adult basic and secondary education and literacy teachers and instructors,True,1,25-3011.00
+single_specialty,25-3021,25-3021,Self-enrichment education teachers,True,1,25-3021.00
+single_specialty,25-4011,25-4011,Archivists,True,1,25-4011.00
+single_specialty,25-4012,25-4012,Curators,True,1,25-4012.00
+single_specialty,25-4013,25-4013,Museum technicians and conservators,True,1,25-4013.00
+single_specialty,25-4031,25-4031,Library technicians,True,1,25-4031.00
+single_specialty,25-9021,25-9021,Farm and home management advisors,True,1,25-9021.00
+single_specialty,25-9031,25-9031,Instructional coordinators,True,1,25-9031.00
+single_specialty,27-1011,27-1011,Art directors,True,1,27-1011.00
+single_specialty,27-1012,27-1012,Craft artists,True,1,27-1012.00
+single_specialty,27-1013,27-1013,"Fine artists, including painters, sculptors, and illustrators",True,1,27-1013.00
+single_specialty,27-1014,27-1014,Multimedia artists and animators,True,1,27-1014.00
+single_specialty,27-1021,27-1021,Commercial and industrial designers,True,1,27-1021.00
+single_specialty,27-1022,27-1022,Fashion designers,True,1,27-1022.00
+single_specialty,27-1023,27-1023,Floral designers,True,1,27-1023.00
+single_specialty,27-1024,27-1024,Graphic designers,True,1,27-1024.00
+single_specialty,27-1025,27-1025,Interior designers,True,1,27-1025.00
+single_specialty,27-1026,27-1026,Merchandise displayers and window trimmers,True,1,27-1026.00
+single_specialty,27-1027,27-1027,Set and exhibit designers,True,1,27-1027.00
+single_specialty,27-2011,27-2011,Actors,True,1,27-2011.00
+single_specialty,27-2021,27-2021,Athletes and sports competitors,True,1,27-2021.00
+single_specialty,27-2022,27-2022,Coaches and scouts,True,1,27-2022.00
+single_specialty,27-2023,27-2023,"Umpires, referees, and other sports officials",True,1,27-2023.00
+single_specialty,27-2041,27-2041,Music directors and composers,True,1,27-2041.00
+single_specialty,27-2042,27-2042,Musicians and singers,True,1,27-2042.00
+single_specialty,27-3011,27-3011,Radio and television announcers,True,1,27-3011.00
+single_specialty,27-3031,27-3031,Public relations specialists,True,1,27-3031.00
+single_specialty,27-3041,27-3041,Editors,True,1,27-3041.00
+single_specialty,27-3042,27-3042,Technical writers,True,1,27-3042.00
+single_specialty,27-3091,27-3091,Interpreters and translators,True,1,27-3091.00
+single_specialty,27-4011,27-4011,Audio and video equipment technicians,True,1,27-4011.00
+single_specialty,27-4012,27-4012,Broadcast technicians,True,1,27-4012.00
+single_specialty,27-4014,27-4014,Sound engineering technicians,True,1,27-4014.00
+single_specialty,27-4021,27-4021,Photographers,True,1,27-4021.00
+single_specialty,27-4031,27-4031,"Camera operators, television, video, and motion picture",True,1,27-4031.00
+single_specialty,27-4032,27-4032,Film and video editors,True,1,27-4032.00
+single_specialty,29-1011,29-1011,Chiropractors,True,1,29-1011.00
+single_specialty,29-1021,29-1021,"Dentists, general",True,1,29-1021.00
+single_specialty,29-1022,29-1022,Oral and maxillofacial surgeons,False,1,29-1022.00
+single_specialty,29-1024,29-1024,Prosthodontists,False,1,29-1024.00
+single_specialty,29-1031,29-1031,Dietitians and nutritionists,True,1,29-1031.00
+single_specialty,29-1041,29-1041,Optometrists,True,1,29-1041.00
+single_specialty,29-1051,29-1051,Pharmacists,True,1,29-1051.00
+single_specialty,29-1061,29-1211,Anesthesiologists,True,1,29-1211.00
+single_specialty,29-1062,29-1215,Family and general practitioners,True,1,29-1215.00
+single_specialty,29-1063,29-1216,"Internists, general",True,1,29-1216.00
+single_specialty,29-1064,29-1218,Obstetricians and gynecologists,True,1,29-1218.00
+single_specialty,29-1065,29-1221,"Pediatricians, general",True,1,29-1221.00
+single_specialty,29-1066,29-1223,Psychiatrists,True,1,29-1223.00
+single_specialty,29-1081,29-1081,Podiatrists,False,1,29-1081.00
+single_specialty,29-1123,29-1123,Physical therapists,True,1,29-1123.00
+single_specialty,29-1124,29-1124,Radiation therapists,True,1,29-1124.00
+single_specialty,29-1126,29-1126,Respiratory therapists,True,1,29-1126.00
+single_specialty,29-1127,29-1127,Speech-language pathologists,True,1,29-1127.00
+single_specialty,29-1128,29-1128,Exercise physiologists,True,1,29-1128.00
+single_specialty,29-1131,29-1131,Veterinarians,True,1,29-1131.00
+single_specialty,29-1151,29-1151,Nurse anesthetists,True,1,29-1151.00
+single_specialty,29-1161,29-1161,Nurse midwives,False,1,29-1161.00
+single_specialty,29-1171,29-1171,Nurse practitioners,True,1,29-1171.00
+single_specialty,29-1181,29-1181,Audiologists,True,1,29-1181.00
+single_specialty,29-2021,29-1292,Dental hygienists,True,1,29-1292.00
+single_specialty,29-2031,29-2031,Cardiovascular technologists and technicians,True,1,29-2031.00
+single_specialty,29-2032,29-2032,Diagnostic medical sonographers,True,1,29-2032.00
+single_specialty,29-2033,29-2033,Nuclear medicine technologists,True,1,29-2033.00
+single_specialty,29-2035,29-2035,Magnetic resonance imaging technologists,True,1,29-2035.00
+single_specialty,29-2051,29-2051,Dietetic technicians,True,1,29-2051.00
+single_specialty,29-2052,29-2052,Pharmacy technicians,True,1,29-2052.00
+single_specialty,29-2053,29-2053,Psychiatric technicians,True,1,29-2053.00
+single_specialty,29-2055,29-2055,Surgical technologists,True,1,29-2055.00
+single_specialty,29-2056,29-2056,Veterinary technologists and technicians,True,1,29-2056.00
+single_specialty,29-2057,29-2057,Ophthalmic medical technicians,True,1,29-2057.00
+single_specialty,29-2061,29-2061,Licensed practical and licensed vocational nurses,True,1,29-2061.00
+single_specialty,29-2081,29-2081,"Opticians, dispensing",True,1,29-2081.00
+single_specialty,29-2091,29-2091,Orthotists and prosthetists,True,1,29-2091.00
+single_specialty,29-2092,29-2092,Hearing aid specialists,True,1,29-2092.00
+single_specialty,29-9011,19-5011,Occupational health and safety specialists,True,1,19-5011.00
+single_specialty,29-9012,19-5012,Occupational health and safety technicians,True,1,19-5012.00
+single_specialty,29-9091,29-9091,Athletic trainers,True,1,29-9091.00
+single_specialty,29-9092,29-9092,Genetic counselors,False,1,29-9092.00
+single_specialty,31-1011,31-1121,Home health aides,True,1,31-1121.00
+single_specialty,31-1013,31-1133,Psychiatric aides,True,1,31-1133.00
+single_specialty,31-1014,31-1131,Nursing assistants,True,1,31-1131.00
+single_specialty,31-1015,31-1132,Orderlies,True,1,31-1132.00
+single_specialty,31-2011,31-2011,Occupational therapy assistants,True,1,31-2011.00
+single_specialty,31-2012,31-2012,Occupational therapy aides,True,1,31-2012.00
+single_specialty,31-2021,31-2021,Physical therapist assistants,True,1,31-2021.00
+single_specialty,31-2022,31-2022,Physical therapist aides,True,1,31-2022.00
+single_specialty,31-9011,31-9011,Massage therapists,True,1,31-9011.00
+single_specialty,31-9091,31-9091,Dental assistants,True,1,31-9091.00
+single_specialty,31-9092,31-9092,Medical assistants,True,1,31-9092.00
+single_specialty,31-9093,31-9093,Medical equipment preparers,True,1,31-9093.00
+single_specialty,31-9094,31-9094,Medical transcriptionists,True,1,31-9094.00
+single_specialty,31-9095,31-9095,Pharmacy aides,True,1,31-9095.00
+single_specialty,31-9096,31-9096,Veterinary assistants and laboratory animal caretakers,True,1,31-9096.00
+single_specialty,31-9097,31-9097,Phlebotomists,True,1,31-9097.00
+single_specialty,33-1011,33-1011,First-line supervisors of correctional officers,True,1,33-1011.00
+single_specialty,33-1012,33-1012,First-line supervisors of police and detectives,True,1,33-1012.00
+single_specialty,33-1021,33-1021,First-line supervisors of fire fighting and prevention workers,True,1,33-1021.00
+single_specialty,33-2011,33-2011,Firefighters,True,1,33-2011.00
+single_specialty,33-2021,33-2021,Fire inspectors and investigators,True,1,33-2021.00
+single_specialty,33-2022,33-2022,Forest fire inspectors and prevention specialists,True,1,33-2022.00
+single_specialty,33-3011,33-3011,Bailiffs,True,1,33-3011.00
+single_specialty,33-3012,33-3012,Correctional officers and jailers,True,1,33-3012.00
+single_specialty,33-3031,33-3031,Fish and game wardens,True,1,33-3031.00
+single_specialty,33-3041,33-3041,Parking enforcement workers,True,1,33-3041.00
+single_specialty,33-3052,33-3052,Transit and railroad police,True,1,33-3052.00
+single_specialty,33-9011,33-9011,Animal control workers,True,1,33-9011.00
+single_specialty,33-9021,33-9021,Private detectives and investigators,True,1,33-9021.00
+single_specialty,33-9031,33-9031,Gaming surveillance officers and gaming investigators,True,1,33-9031.00
+single_specialty,33-9032,33-9032,Security guards,True,1,33-9032.00
+single_specialty,33-9091,33-9091,Crossing guards,True,1,33-9091.00
+single_specialty,33-9092,33-9092,"Lifeguards, ski patrol, and other recreational protective service workers",True,1,33-9092.00
+single_specialty,33-9093,33-9093,Transportation security screeners,True,1,33-9093.00
+single_specialty,35-1011,35-1011,Chefs and head cooks,True,1,35-1011.00
+single_specialty,35-1012,35-1012,First-line supervisors of food preparation and serving workers,True,1,35-1012.00
+single_specialty,35-2011,35-2011,"Cooks, fast food",True,1,35-2011.00
+single_specialty,35-2012,35-2012,"Cooks, institution and cafeteria",True,1,35-2012.00
+single_specialty,35-2013,35-2013,"Cooks, private household",True,1,35-2013.00
+single_specialty,35-2014,35-2014,"Cooks, restaurant",True,1,35-2014.00
+single_specialty,35-2015,35-2015,"Cooks, short order",True,1,35-2015.00
+single_specialty,35-2021,35-2021,Food preparation workers,True,1,35-2021.00
+single_specialty,35-3011,35-3011,Bartenders,True,1,35-3011.00
+single_specialty,35-3031,35-3031,Waiters and waitresses,True,1,35-3031.00
+single_specialty,35-3041,35-3041,"Food servers, nonrestaurant",True,1,35-3041.00
+single_specialty,35-9011,35-9011,Dining room and cafeteria attendants and bartender helpers,True,1,35-9011.00
+single_specialty,35-9021,35-9021,Dishwashers,True,1,35-9021.00
+single_specialty,35-9031,35-9031,"Hosts and hostesses, restaurant, lounge, and coffee shop",True,1,35-9031.00
+single_specialty,37-1011,37-1011,First-line supervisors of housekeeping and janitorial workers,True,1,37-1011.00
+single_specialty,37-1012,37-1012,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",True,1,37-1012.00
+single_specialty,37-2011,37-2011,"Janitors and cleaners, except maids and housekeeping cleaners",True,1,37-2011.00
+single_specialty,37-2012,37-2012,Maids and housekeeping cleaners,True,1,37-2012.00
+single_specialty,37-2021,37-2021,Pest control workers,True,1,37-2021.00
+single_specialty,37-3011,37-3011,Landscaping and groundskeeping workers,True,1,37-3011.00
+single_specialty,37-3012,37-3012,"Pesticide handlers, sprayers, and applicators, vegetation",True,1,37-3012.00
+single_specialty,37-3013,37-3013,Tree trimmers and pruners,True,1,37-3013.00
+single_specialty,39-2011,39-2011,Animal trainers,True,1,39-2011.00
+single_specialty,39-2021,39-2021,Nonfarm animal caretakers,True,1,39-2021.00
+single_specialty,39-3011,39-3011,Gaming dealers,True,1,39-3011.00
+single_specialty,39-3012,39-3012,Gaming and sports book writers and runners,True,1,39-3012.00
+single_specialty,39-3021,39-3021,Motion picture projectionists,True,1,39-3021.00
+single_specialty,39-3031,39-3031,"Ushers, lobby attendants, and ticket takers",True,1,39-3031.00
+single_specialty,39-3091,39-3091,Amusement and recreation attendants,True,1,39-3091.00
+single_specialty,39-3092,39-3092,Costume attendants,True,1,39-3092.00
+single_specialty,39-3093,39-3093,"Locker room, coatroom, and dressing room attendants",True,1,39-3093.00
+single_specialty,39-4011,39-4011,Embalmers,False,1,39-4011.00
+single_specialty,39-4021,39-4021,Funeral attendants,True,1,39-4021.00
+single_specialty,39-4031,39-4031,"Morticians, undertakers, and funeral directors",True,1,39-4031.00
+single_specialty,39-5011,39-5011,Barbers,True,1,39-5011.00
+single_specialty,39-5012,39-5012,"Hairdressers, hairstylists, and cosmetologists",True,1,39-5012.00
+single_specialty,39-5091,39-5091,"Makeup artists, theatrical and performance",True,1,39-5091.00
+single_specialty,39-5092,39-5092,Manicurists and pedicurists,True,1,39-5092.00
+single_specialty,39-5093,39-5093,Shampooers,True,1,39-5093.00
+single_specialty,39-5094,39-5094,Skincare specialists,True,1,39-5094.00
+single_specialty,39-6011,39-6011,Baggage porters and bellhops,True,1,39-6011.00
+single_specialty,39-6012,39-6012,Concierges,True,1,39-6012.00
+single_specialty,39-7011,39-7011,Tour guides and escorts,True,1,39-7011.00
+single_specialty,39-7012,39-7012,Travel guides,True,1,39-7012.00
+single_specialty,39-9021,31-1122,Personal care aides,True,1,31-1122.00
+single_specialty,39-9031,39-9031,Fitness trainers and aerobics instructors,True,1,39-9031.00
+single_specialty,39-9032,39-9032,Recreation workers,True,1,39-9032.00
+single_specialty,39-9041,39-9041,Residential advisors,True,1,39-9041.00
+single_specialty,41-1011,41-1011,First-line supervisors of retail sales workers,True,1,41-1011.00
+single_specialty,41-1012,41-1012,First-line supervisors of non-retail sales workers,True,1,41-1012.00
+single_specialty,41-2011,41-2011,Cashiers,True,1,41-2011.00
+single_specialty,41-2012,41-2012,Gaming change persons and booth cashiers,False,1,41-2012.00
+single_specialty,41-2021,41-2021,Counter and rental clerks,True,1,41-2021.00
+single_specialty,41-2022,41-2022,Parts salespersons,True,1,41-2022.00
+single_specialty,41-2031,41-2031,Retail salespersons,True,1,41-2031.00
+single_specialty,41-3011,41-3011,Advertising sales agents,True,1,41-3011.00
+single_specialty,41-3021,41-3021,Insurance sales agents,True,1,41-3021.00
+single_specialty,41-3041,41-3041,Travel agents,True,1,41-3041.00
+single_specialty,41-4012,41-4012,"Sales representatives, wholesale and manufacturing, except technical and scientific products",True,1,41-4012.00
+single_specialty,41-9011,41-9011,Demonstrators and product promoters,True,1,41-9011.00
+single_specialty,41-9012,41-9012,Models,True,1,41-9012.00
+single_specialty,41-9021,41-9021,Real estate brokers,True,1,41-9021.00
+single_specialty,41-9022,41-9022,Real estate sales agents,True,1,41-9022.00
+single_specialty,41-9031,41-9031,Sales engineers,True,1,41-9031.00
+single_specialty,41-9041,41-9041,Telemarketers,True,1,41-9041.00
+single_specialty,41-9091,41-9091,"Door-to-door sales workers, news and street vendors, and related workers",True,1,41-9091.00
+single_specialty,43-1011,43-1011,First-line supervisors of office and administrative support workers,True,1,43-1011.00
+single_specialty,43-2011,43-2011,"Switchboard operators, including answering service",True,1,43-2011.00
+single_specialty,43-2021,43-2021,Telephone operators,True,1,43-2021.00
+single_specialty,43-3011,43-3011,Bill and account collectors,True,1,43-3011.00
+single_specialty,43-3021,43-3021,Billing and posting clerks,True,1,43-3021.00
+single_specialty,43-3031,43-3031,"Bookkeeping, accounting, and auditing clerks",True,1,43-3031.00
+single_specialty,43-3041,43-3041,Gaming cage workers,True,1,43-3041.00
+single_specialty,43-3051,43-3051,Payroll and timekeeping clerks,True,1,43-3051.00
+single_specialty,43-3061,43-3061,Procurement clerks,True,1,43-3061.00
+single_specialty,43-3071,43-3071,Tellers,True,1,43-3071.00
+single_specialty,43-4011,43-4011,Brokerage clerks,True,1,43-4011.00
+single_specialty,43-4021,43-4021,Correspondence clerks,True,1,43-4021.00
+single_specialty,43-4031,43-4031,"Court, municipal, and license clerks",True,1,43-4031.00
+single_specialty,43-4041,43-4041,"Credit authorizers, checkers, and clerks",True,1,43-4041.00
+single_specialty,43-4061,43-4061,"Eligibility interviewers, government programs",True,1,43-4061.00
+single_specialty,43-4071,43-4071,File clerks,True,1,43-4071.00
+single_specialty,43-4081,43-4081,"Hotel, motel, and resort desk clerks",True,1,43-4081.00
+single_specialty,43-4111,43-4111,"Interviewers, except eligibility and loan",True,1,43-4111.00
+single_specialty,43-4121,43-4121,"Library assistants, clerical",True,1,43-4121.00
+single_specialty,43-4131,43-4131,Loan interviewers and clerks,True,1,43-4131.00
+single_specialty,43-4141,43-4141,New accounts clerks,True,1,43-4141.00
+single_specialty,43-4151,43-4151,Order clerks,True,1,43-4151.00
+single_specialty,43-4161,43-4161,"Human resources assistants, except payroll and timekeeping",True,1,43-4161.00
+single_specialty,43-4171,43-4171,Receptionists and information clerks,True,1,43-4171.00
+single_specialty,43-4181,43-4181,Reservation and transportation ticket agents and travel clerks,True,1,43-4181.00
+single_specialty,43-5021,43-5021,Couriers and messengers,True,1,43-5021.00
+single_specialty,43-5031,43-5031,"Police, fire, and ambulance dispatchers",True,1,43-5031.00
+single_specialty,43-5032,43-5032,"Dispatchers, except police, fire, and ambulance",True,1,43-5032.00
+single_specialty,43-5041,43-5041,"Meter readers, utilities",True,1,43-5041.00
+single_specialty,43-5051,43-5051,Postal service clerks,True,1,43-5051.00
+single_specialty,43-5052,43-5052,Postal service mail carriers,True,1,43-5052.00
+single_specialty,43-5053,43-5053,"Postal service mail sorters, processors, and processing machine operators",True,1,43-5053.00
+single_specialty,43-5061,43-5061,"Production, planning, and expediting clerks",True,1,43-5061.00
+single_specialty,43-5071,43-5071,"Shipping, receiving, and traffic clerks",True,1,43-5071.00
+single_specialty,43-5081,53-7065,Stock clerks and order fillers,True,1,53-7065.00
+single_specialty,43-5111,43-5111,"Weighers, measurers, checkers, and samplers, recordkeeping",True,1,43-5111.00
+single_specialty,43-6011,43-6011,Executive secretaries and executive administrative assistants,True,1,43-6011.00
+single_specialty,43-6012,43-6012,Legal secretaries,True,1,43-6012.00
+single_specialty,43-6013,43-6013,Medical secretaries,True,1,43-6013.00
+single_specialty,43-6014,43-6014,"Secretaries and administrative assistants, except legal, medical, and executive",True,1,43-6014.00
+single_specialty,43-9021,43-9021,Data entry keyers,True,1,43-9021.00
+single_specialty,43-9022,43-9022,Word processors and typists,True,1,43-9022.00
+single_specialty,43-9031,43-9031,Desktop publishers,True,1,43-9031.00
+single_specialty,43-9041,43-9041,Insurance claims and policy processing clerks,True,1,43-9041.00
+single_specialty,43-9051,43-9051,"Mail clerks and mail machine operators, except postal service",True,1,43-9051.00
+single_specialty,43-9061,43-9061,"Office clerks, general",True,1,43-9061.00
+single_specialty,43-9071,43-9071,"Office machine operators, except computer",True,1,43-9071.00
+single_specialty,43-9081,43-9081,Proofreaders and copy markers,True,1,43-9081.00
+single_specialty,45-1011,45-1011,"First-line supervisors of farming, fishing, and forestry workers",True,1,45-1011.00
+single_specialty,45-2011,45-2011,Agricultural inspectors,False,1,45-2011.00
+single_specialty,45-2021,45-2021,Animal breeders,True,1,45-2021.00
+single_specialty,45-2041,45-2041,"Graders and sorters, agricultural products",True,1,45-2041.00
+single_specialty,45-2091,45-2091,Agricultural equipment operators,True,1,45-2091.00
+single_specialty,45-2092,45-2092,"Farmworkers and laborers, crop, nursery, and greenhouse",True,1,45-2092.00
+single_specialty,45-2093,45-2093,"Farmworkers, farm, ranch, and aquacultural animals",True,1,45-2093.00
+single_specialty,45-4011,45-4011,Forest and conservation workers,True,1,45-4011.00
+single_specialty,45-4021,45-4021,Fallers,True,1,45-4021.00
+single_specialty,45-4022,45-4022,Logging equipment operators,False,1,45-4022.00
+single_specialty,45-4023,45-4023,Log graders and scalers,False,1,45-4023.00
+single_specialty,47-2011,47-2011,Boilermakers,True,1,47-2011.00
+single_specialty,47-2021,47-2021,Brickmasons and blockmasons,True,1,47-2021.00
+single_specialty,47-2022,47-2022,Stonemasons,True,1,47-2022.00
+single_specialty,47-2031,47-2031,Carpenters,True,1,47-2031.00
+single_specialty,47-2041,47-2041,Carpet installers,True,1,47-2041.00
+single_specialty,47-2042,47-2042,"Floor layers, except carpet, wood, and hard tiles",True,1,47-2042.00
+single_specialty,47-2043,47-2043,Floor sanders and finishers,False,1,47-2043.00
+single_specialty,47-2044,47-2044,Tile and marble setters,True,1,47-2044.00
+single_specialty,47-2051,47-2051,Cement masons and concrete finishers,True,1,47-2051.00
+single_specialty,47-2053,47-2053,Terrazzo workers and finishers,False,1,47-2053.00
+single_specialty,47-2061,47-2061,Construction laborers,True,1,47-2061.00
+single_specialty,47-2071,47-2071,"Paving, surfacing, and tamping equipment operators",True,1,47-2071.00
+single_specialty,47-2072,47-2072,Pile-driver operators,False,1,47-2072.00
+single_specialty,47-2073,47-2073,Operating engineers and other construction equipment operators,True,1,47-2073.00
+single_specialty,47-2081,47-2081,Drywall and ceiling tile installers,True,1,47-2081.00
+single_specialty,47-2111,47-2111,Electricians,True,1,47-2111.00
+single_specialty,47-2121,47-2121,Glaziers,True,1,47-2121.00
+single_specialty,47-2131,47-2131,"Insulation workers, floor, ceiling, and wall",True,1,47-2131.00
+single_specialty,47-2132,47-2132,"Insulation workers, mechanical",False,1,47-2132.00
+single_specialty,47-2141,47-2141,"Painters, construction and maintenance",True,1,47-2141.00
+single_specialty,47-2142,47-2142,Paperhangers,False,1,47-2142.00
+single_specialty,47-2151,47-2151,Pipelayers,False,1,47-2151.00
+single_specialty,47-2161,47-2161,Plasterers and stucco masons,True,1,47-2161.00
+single_specialty,47-2171,47-2171,Reinforcing iron and rebar workers,False,1,47-2171.00
+single_specialty,47-2181,47-2181,Roofers,True,1,47-2181.00
+single_specialty,47-2211,47-2211,Sheet metal workers,True,1,47-2211.00
+single_specialty,47-2221,47-2221,Structural iron and steel workers,True,1,47-2221.00
+single_specialty,47-2231,47-2231,Solar photovoltaic installers,True,1,47-2231.00
+single_specialty,47-3011,47-3011,"Helpers--brickmasons, blockmasons, stonemasons, and tile and marble setters",False,1,47-3011.00
+single_specialty,47-3012,47-3012,Helpers--carpenters,True,1,47-3012.00
+single_specialty,47-3013,47-3013,Helpers--electricians,True,1,47-3013.00
+single_specialty,47-3014,47-3014,"Helpers--painters, paperhangers, plasterers, and stucco masons",False,1,47-3014.00
+single_specialty,47-3015,47-3015,"Helpers--pipelayers, plumbers, pipefitters, and steamfitters",True,1,47-3015.00
+single_specialty,47-3016,47-3016,Helpers--roofers,False,1,47-3016.00
+single_specialty,47-4021,47-4021,Elevator installers and repairers,True,1,47-4021.00
+single_specialty,47-4031,47-4031,Fence erectors,True,1,47-4031.00
+single_specialty,47-4041,47-4041,Hazardous materials removal workers,True,1,47-4041.00
+single_specialty,47-4051,47-4051,Highway maintenance workers,True,1,47-4051.00
+single_specialty,47-4061,47-4061,Rail-track laying and maintenance equipment operators,True,1,47-4061.00
+single_specialty,47-4071,47-4071,Septic tank servicers and sewer pipe cleaners,False,1,47-4071.00
+single_specialty,47-4091,47-4091,Segmental pavers,False,1,47-4091.00
+single_specialty,47-5011,47-5011,"Derrick operators, oil and gas",False,1,47-5011.00
+single_specialty,47-5012,47-5012,"Rotary drill operators, oil and gas",True,1,47-5012.00
+single_specialty,47-5013,47-5013,"Service unit operators, oil, gas, and mining",True,1,47-5013.00
+single_specialty,47-5041,47-5041,Continuous mining machine operators,False,1,47-5041.00
+single_specialty,47-5051,47-5051,"Rock splitters, quarry",False,1,47-5051.00
+single_specialty,47-5061,47-5043,"Roof bolters, mining",False,1,47-5043.00
+single_specialty,47-5071,47-5071,"Roustabouts, oil and gas",True,1,47-5071.00
+single_specialty,47-5081,47-5081,Helpers--extraction workers,False,1,47-5081.00
+single_specialty,49-1011,49-1011,"First-line supervisors of mechanics, installers, and repairers",True,1,49-1011.00
+single_specialty,49-2011,49-2011,"Computer, automated teller, and office machine repairers",True,1,49-2011.00
+single_specialty,49-2021,49-2021,"Radio, cellular, and tower equipment installers and repairs",True,1,49-2021.00
+single_specialty,49-2022,49-2022,"Telecommunications equipment installers and repairers, except line installers",True,1,49-2022.00
+single_specialty,49-2091,49-2091,Avionics technicians,True,1,49-2091.00
+single_specialty,49-2092,49-2092,"Electric motor, power tool, and related repairers",True,1,49-2092.00
+single_specialty,49-2093,49-2093,"Electrical and electronics installers and repairers, transportation equipment",False,1,49-2093.00
+single_specialty,49-2094,49-2094,"Electrical and electronics repairers, commercial and industrial equipment",True,1,49-2094.00
+single_specialty,49-2095,49-2095,"Electrical and electronics repairers, powerhouse, substation, and relay",True,1,49-2095.00
+single_specialty,49-2096,49-2096,"Electronic equipment installers and repairers, motor vehicles",True,1,49-2096.00
+single_specialty,49-2097,49-2097,Electronic home entertainment equipment installers and repairers,True,1,49-2097.00
+single_specialty,49-2098,49-2098,Security and fire alarm systems installers,True,1,49-2098.00
+single_specialty,49-3011,49-3011,Aircraft mechanics and service technicians,True,1,49-3011.00
+single_specialty,49-3021,49-3021,Automotive body and related repairers,True,1,49-3021.00
+single_specialty,49-3022,49-3022,Automotive glass installers and repairers,True,1,49-3022.00
+single_specialty,49-3023,49-3023,Automotive service technicians and mechanics,True,1,49-3023.00
+single_specialty,49-3031,49-3031,Bus and truck mechanics and diesel engine specialists,True,1,49-3031.00
+single_specialty,49-3041,49-3041,Farm equipment mechanics and service technicians,True,1,49-3041.00
+single_specialty,49-3042,49-3042,"Mobile heavy equipment mechanics, except engines",True,1,49-3042.00
+single_specialty,49-3043,49-3043,Rail car repairers,True,1,49-3043.00
+single_specialty,49-3051,49-3051,Motorboat mechanics and service technicians,False,1,49-3051.00
+single_specialty,49-3052,49-3052,Motorcycle mechanics,True,1,49-3052.00
+single_specialty,49-3053,49-3053,Outdoor power equipment and other small engine mechanics,True,1,49-3053.00
+single_specialty,49-3091,49-3091,Bicycle repairers,True,1,49-3091.00
+single_specialty,49-3092,49-3092,Recreational vehicle service technicians,True,1,49-3092.00
+single_specialty,49-3093,49-3093,Tire repairers and changers,True,1,49-3093.00
+single_specialty,49-9011,49-9011,Mechanical door repairers,True,1,49-9011.00
+single_specialty,49-9012,49-9012,"Control and valve installers and repairers, except mechanical door",True,1,49-9012.00
+single_specialty,49-9021,49-9021,"Heating, air conditioning, and refrigeration mechanics and installers",True,1,49-9021.00
+single_specialty,49-9031,49-9031,Home appliance repairers,True,1,49-9031.00
+single_specialty,49-9041,49-9041,Industrial machinery mechanics,True,1,49-9041.00
+single_specialty,49-9043,49-9043,"Maintenance workers, machinery",True,1,49-9043.00
+single_specialty,49-9044,49-9044,Millwrights,True,1,49-9044.00
+single_specialty,49-9045,49-9045,"Refractory materials repairers, except brickmasons",False,1,49-9045.00
+single_specialty,49-9051,49-9051,Electrical power-line installers and repairers,True,1,49-9051.00
+single_specialty,49-9052,49-9052,Telecommunications line installers and repairers,True,1,49-9052.00
+single_specialty,49-9061,49-9061,Camera and photographic equipment repairers,True,1,49-9061.00
+single_specialty,49-9062,49-9062,Medical equipment repairers,True,1,49-9062.00
+single_specialty,49-9063,49-9063,Musical instrument repairers and tuners,True,1,49-9063.00
+single_specialty,49-9064,49-9064,Watch repairers,False,1,49-9064.00
+single_specialty,49-9071,49-9071,"Maintenance and repair workers, general",True,1,49-9071.00
+single_specialty,49-9081,49-9081,Wind turbine service technicians,True,1,49-9081.00
+single_specialty,49-9091,49-9091,"Coin, vending, and amusement machine servicers and repairers",True,1,49-9091.00
+single_specialty,49-9092,49-9092,Commercial divers,True,1,49-9092.00
+single_specialty,49-9094,49-9094,Locksmiths and safe repairers,True,1,49-9094.00
+single_specialty,49-9095,49-9095,Manufactured building and mobile home installers,True,1,49-9095.00
+single_specialty,49-9096,49-9096,Riggers,True,1,49-9096.00
+single_specialty,49-9097,49-9097,Signal and track switch repairers,False,1,49-9097.00
+single_specialty,49-9098,49-9098,"Helpers--installation, maintenance, and repair workers",True,1,49-9098.00
+single_specialty,51-1011,51-1011,First-line supervisors of production and operating workers,True,1,51-1011.00
+single_specialty,51-2011,51-2011,"Aircraft structure, surfaces, rigging, and systems assemblers",True,1,51-2011.00
+single_specialty,51-2021,51-2021,"Coil winders, tapers, and finishers",False,1,51-2021.00
+single_specialty,51-2022,51-2022,Electrical and electronic equipment assemblers,True,1,51-2022.00
+single_specialty,51-2023,51-2023,Electromechanical equipment assemblers,True,1,51-2023.00
+single_specialty,51-2031,51-2031,Engine and other machine assemblers,True,1,51-2031.00
+single_specialty,51-2041,51-2041,Structural metal fabricators and fitters,False,1,51-2041.00
+single_specialty,51-2091,51-2051,Fiberglass laminators and fabricators,False,1,51-2051.00
+single_specialty,51-2092,51-2092,Team assemblers,True,1,51-2092.00
+single_specialty,51-2093,51-2061,Timing device assemblers and adjusters,False,1,51-2061.00
+single_specialty,51-3011,51-3011,Bakers,True,1,51-3011.00
+single_specialty,51-3021,51-3021,Butchers and meat cutters,True,1,51-3021.00
+single_specialty,51-3022,51-3022,"Meat, poultry, and fish cutters and trimmers",True,1,51-3022.00
+single_specialty,51-3023,51-3023,Slaughterers and meat packers,True,1,51-3023.00
+single_specialty,51-3091,51-3091,"Food and tobacco roasting, baking, and drying machine operators and tenders",False,1,51-3091.00
+single_specialty,51-3092,51-3092,Food batchmakers,True,1,51-3092.00
+single_specialty,51-3093,51-3093,Food cooking machine operators and tenders,True,1,51-3093.00
+single_specialty,51-4021,51-4021,"Extruding and drawing machine setters, operators, and tenders, metal and plastic",True,1,51-4021.00
+single_specialty,51-4022,51-4022,"Forging machine setters, operators, and tenders, metal and plastic",False,1,51-4022.00
+single_specialty,51-4023,51-4023,"Rolling machine setters, operators, and tenders, metal and plastic",True,1,51-4023.00
+single_specialty,51-4031,51-4031,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",True,1,51-4031.00
+single_specialty,51-4032,51-4032,"Drilling and boring machine tool setters, operators, and tenders, metal and plastic",True,1,51-4032.00
+single_specialty,51-4033,51-4033,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",True,1,51-4033.00
+single_specialty,51-4034,51-4034,"Lathe and turning machine tool setters, operators, and tenders, metal and plastic",False,1,51-4034.00
+single_specialty,51-4035,51-4035,"Milling and planing machine setters, operators, and tenders, metal and plastic",True,1,51-4035.00
+single_specialty,51-4041,51-4041,Machinists,True,1,51-4041.00
+single_specialty,51-4051,51-4051,Metal-refining furnace operators and tenders,True,1,51-4051.00
+single_specialty,51-4052,51-4052,"Pourers and casters, metal",False,1,51-4052.00
+single_specialty,51-4061,51-4061,"Model makers, metal and plastic",True,1,51-4061.00
+single_specialty,51-4062,51-4062,"Patternmakers, metal and plastic",False,1,51-4062.00
+single_specialty,51-4071,51-4071,Foundry mold and coremakers,True,1,51-4071.00
+single_specialty,51-4072,51-4072,"Molding, coremaking, and casting machine setters, operators, and tenders, metal and plastic",True,1,51-4072.00
+single_specialty,51-4081,51-4081,"Multiple machine tool setters, operators, and tenders, metal and plastic",True,1,51-4081.00
+single_specialty,51-4111,51-4111,Tool and die makers,True,1,51-4111.00
+single_specialty,51-4121,51-4121,"Welders, cutters, solderers, and brazers",True,1,51-4121.00
+single_specialty,51-4122,51-4122,"Welding, soldering, and brazing machine setters, operators, and tenders",True,1,51-4122.00
+single_specialty,51-4191,51-4191,"Heat treating equipment setters, operators, and tenders, metal and plastic",True,1,51-4191.00
+single_specialty,51-4192,51-4192,"Layout workers, metal and plastic",True,1,51-4192.00
+single_specialty,51-4193,51-4193,"Plating and coating machine setters, operators, and tenders, metal and plastic",False,1,51-4193.00
+single_specialty,51-4194,51-4194,"Tool grinders, filers, and sharpeners",True,1,51-4194.00
+single_specialty,51-5111,51-5111,Prepress technicians and workers,True,1,51-5111.00
+single_specialty,51-5112,51-5112,Printing press operators,True,1,51-5112.00
+single_specialty,51-5113,51-5113,Print binding and finishing workers,True,1,51-5113.00
+single_specialty,51-6011,51-6011,Laundry and dry-cleaning workers,True,1,51-6011.00
+single_specialty,51-6021,51-6021,"Pressers, textile, garment, and related materials",False,1,51-6021.00
+single_specialty,51-6031,51-6031,Sewing machine operators,True,1,51-6031.00
+single_specialty,51-6041,51-6041,Shoe and leather workers and repairers,False,1,51-6041.00
+single_specialty,51-6042,51-6042,Shoe machine operators and tenders,True,1,51-6042.00
+single_specialty,51-6051,51-6051,"Sewers, hand",False,1,51-6051.00
+single_specialty,51-6052,51-6052,"Tailors, dressmakers, and custom sewers",True,1,51-6052.00
+single_specialty,51-6061,51-6061,Textile bleaching and dyeing machine operators and tenders,True,1,51-6061.00
+single_specialty,51-6062,51-6062,"Textile cutting machine setters, operators, and tenders",True,1,51-6062.00
+single_specialty,51-6063,51-6063,"Textile knitting and weaving machine setters, operators, and tenders",False,1,51-6063.00
+single_specialty,51-6064,51-6064,"Textile winding, twisting, and drawing out machine setters, operators, and tenders",True,1,51-6064.00
+single_specialty,51-6091,51-6091,"Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers",True,1,51-6091.00
+single_specialty,51-6092,51-6092,Fabric and apparel patternmakers,True,1,51-6092.00
+single_specialty,51-6093,51-6093,Upholsterers,True,1,51-6093.00
+single_specialty,51-7011,51-7011,Cabinetmakers and bench carpenters,True,1,51-7011.00
+single_specialty,51-7021,51-7021,Furniture finishers,True,1,51-7021.00
+single_specialty,51-7031,51-7031,"Model makers, wood",False,1,51-7031.00
+single_specialty,51-7041,51-7041,"Sawing machine setters, operators, and tenders, wood",True,1,51-7041.00
+single_specialty,51-7042,51-7042,"Woodworking machine setters, operators, and tenders, except sawing",True,1,51-7042.00
+single_specialty,51-8011,51-8011,Nuclear power reactor operators,True,1,51-8011.00
+single_specialty,51-8012,51-8012,Power distributors and dispatchers,True,1,51-8012.00
+single_specialty,51-8021,51-8021,Stationary engineers and boiler operators,True,1,51-8021.00
+single_specialty,51-8031,51-8031,Water and wastewater treatment plant and system operators,True,1,51-8031.00
+single_specialty,51-8091,51-8091,Chemical plant and system operators,False,1,51-8091.00
+single_specialty,51-8092,51-8092,Gas plant operators,True,1,51-8092.00
+single_specialty,51-8093,51-8093,"Petroleum pump system operators, refinery operators, and gaugers",True,1,51-8093.00
+single_specialty,51-9011,51-9011,Chemical equipment operators and tenders,True,1,51-9011.00
+single_specialty,51-9012,51-9012,"Separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders",True,1,51-9012.00
+single_specialty,51-9021,51-9021,"Crushing, grinding, and polishing machine setters, operators, and tenders",True,1,51-9021.00
+single_specialty,51-9022,51-9022,"Grinding and polishing workers, hand",False,1,51-9022.00
+single_specialty,51-9023,51-9023,"Mixing and blending machine setters, operators, and tenders",True,1,51-9023.00
+single_specialty,51-9031,51-9031,"Cutters and trimmers, hand",False,1,51-9031.00
+single_specialty,51-9032,51-9032,"Cutting and slicing machine setters, operators, and tenders",True,1,51-9032.00
+single_specialty,51-9041,51-9041,"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",True,1,51-9041.00
+single_specialty,51-9051,51-9051,"Furnace, kiln, oven, drier, and kettle operators and tenders",True,1,51-9051.00
+single_specialty,51-9061,51-9061,"Inspectors, testers, sorters, samplers, and weighers",True,1,51-9061.00
+single_specialty,51-9071,51-9071,Jewelers and precious stone and metal workers,True,1,51-9071.00
+single_specialty,51-9081,51-9081,Dental laboratory technicians,True,1,51-9081.00
+single_specialty,51-9082,51-9082,Medical appliance technicians,True,1,51-9082.00
+single_specialty,51-9083,51-9083,Ophthalmic laboratory technicians,True,1,51-9083.00
+single_specialty,51-9111,51-9111,Packaging and filling machine operators and tenders,True,1,51-9111.00
+single_specialty,51-9123,51-9123,"Painting, coating, and decorating workers",True,1,51-9123.00
+single_specialty,51-9141,51-9141,Semiconductor processors,True,1,51-9141.00
+single_specialty,51-9151,51-9151,Photographic process workers and processing machine operators,True,1,51-9151.00
+single_specialty,51-9191,51-9191,Adhesive bonding machine operators and tenders,True,1,51-9191.00
+single_specialty,51-9192,51-9192,"Cleaning, washing, and metal pickling equipment operators and tenders",False,1,51-9192.00
+single_specialty,51-9193,51-9193,Cooling and freezing equipment operators and tenders,False,1,51-9193.00
+single_specialty,51-9194,51-9194,Etchers and engravers,True,1,51-9194.00
+single_specialty,51-9196,51-9196,"Paper goods machine setters, operators, and tenders",False,1,51-9196.00
+single_specialty,51-9197,51-9197,Tire builders,True,1,51-9197.00
+single_specialty,51-9198,51-9198,Helpers--production workers,True,1,51-9198.00
+single_specialty,53-1011,53-1041,Aircraft cargo handling supervisors,True,1,53-1041.00
+single_specialty,53-2011,53-2011,"Airline pilots, copilots, and flight engineers",True,1,53-2011.00
+single_specialty,53-2012,53-2012,Commercial pilots,True,1,53-2012.00
+single_specialty,53-2021,53-2021,Air traffic controllers,True,1,53-2021.00
+single_specialty,53-2022,53-2022,Airfield operations specialists,True,1,53-2022.00
+single_specialty,53-2031,53-2031,Flight attendants,True,1,53-2031.00
+single_specialty,53-3011,53-3011,"Ambulance drivers and attendants, except emergency medical technicians",True,1,53-3011.00
+single_specialty,53-3021,53-3052,"Bus drivers, transit and intercity",True,1,53-3052.00
+single_specialty,53-3031,53-3031,Driver/sales workers,True,1,53-3031.00
+single_specialty,53-3032,53-3032,Heavy and tractor-trailer truck drivers,True,1,53-3032.00
+single_specialty,53-3033,53-3033,Light truck or delivery services drivers,True,1,53-3033.00
+single_specialty,53-4011,53-4011,Locomotive engineers,True,1,53-4011.00
+single_specialty,53-4013,53-4013,"Rail yard engineers, dinkey operators, and hostlers",False,1,53-4013.00
+single_specialty,53-4031,53-4031,Railroad conductors and yardmasters,True,1,53-4031.00
+single_specialty,53-4041,53-4041,Subway and streetcar operators,True,1,53-4041.00
+single_specialty,53-5011,53-5011,Sailors and marine oilers,True,1,53-5011.00
+single_specialty,53-5021,53-5021,"Captains, mates, and pilots of water vessels",True,1,53-5021.00
+single_specialty,53-5022,53-5022,Motorboat operators,False,1,53-5022.00
+single_specialty,53-5031,53-5031,Ship engineers,True,1,53-5031.00
+single_specialty,53-6011,53-6011,Bridge and lock tenders,False,1,53-6011.00
+single_specialty,53-6021,53-6021,Parking lot attendants,True,1,53-6021.00
+single_specialty,53-6031,53-6031,Automotive and watercraft service attendants,True,1,53-6031.00
+single_specialty,53-6041,53-6041,Traffic technicians,True,1,53-6041.00
+single_specialty,53-6061,53-6061,"Transportation attendants, except flight attendants",True,1,53-6061.00
+single_specialty,53-7011,53-7011,Conveyor operators and tenders,True,1,53-7011.00
+single_specialty,53-7021,53-7021,Crane and tower operators,True,1,53-7021.00
+single_specialty,53-7031,53-7031,Dredge operators,False,1,53-7031.00
+single_specialty,53-7041,53-7041,Hoist and winch operators,True,1,53-7041.00
+single_specialty,53-7051,53-7051,Industrial truck and tractor operators,True,1,53-7051.00
+single_specialty,53-7061,53-7061,Cleaners of vehicles and equipment,True,1,53-7061.00
+single_specialty,53-7063,53-7063,Machine feeders and offbearers,True,1,53-7063.00
+single_specialty,53-7064,53-7064,"Packers and packagers, hand",True,1,53-7064.00
+single_specialty,53-7071,53-7071,Gas compressor and gas pumping station operators,False,1,53-7071.00
+single_specialty,53-7072,53-7072,"Pump operators, except wellhead pumpers",True,1,53-7072.00
+single_specialty,53-7073,53-7073,Wellhead pumpers,False,1,53-7073.00
+single_specialty,53-7081,53-7081,Refuse and recyclable material collectors,True,1,53-7081.00
+single_specialty,53-7121,53-7121,"Tank car, truck, and ship loaders",True,1,53-7121.00
+pair_matched,11-1011,11-1011,Chief executives,True,1,11-1011.00
+pair_matched,11-1021,11-1021,General and operations managers,True,1,11-1021.00
+pair_matched,11-1031,11-1031,Legislators,False,1,11-1031.00
+pair_matched,11-2011,11-2011,Advertising and promotions managers,True,1,11-2011.00
+pair_matched,11-2021,11-2021,Marketing managers,True,1,11-2021.00
+pair_matched,11-2022,11-2022,Sales managers,True,1,11-2022.00
+pair_matched,11-3021,11-3021,Computer and information systems managers,True,1,11-3021.00
+pair_matched,11-3051,11-3051,Industrial production managers,True,3,11-3051.00;11-3051.01;11-3051.02
+pair_matched,11-3061,11-3061,Purchasing managers,True,1,11-3061.00
+pair_matched,11-3111,11-3111,Compensation and benefits managers,True,1,11-3111.00
+pair_matched,11-3121,11-3121,Human resources managers,True,1,11-3121.00
+pair_matched,11-3131,11-3131,Training and development managers,True,1,11-3131.00
+pair_matched,11-9013,11-9013,"Farmers, ranchers, and other agricultural managers",True,1,11-9013.00
+pair_matched,11-9021,11-9021,Construction managers,True,1,11-9021.00
+pair_matched,11-9031,11-9031,"Education administrators, preschool and childcare center/program",True,1,11-9031.00
+pair_matched,11-9033,11-9033,"Education administrators, postsecondary",True,1,11-9033.00
+pair_matched,11-9041,11-9041,Architectural and engineering managers,True,2,11-9041.00;11-9041.01
+pair_matched,11-9051,11-9051,Food service managers,True,1,11-9051.00
+pair_matched,11-9061,11-9171,Funeral service managers,True,1,11-9171.00
+pair_matched,11-9071,11-9071,Gaming managers,True,1,11-9071.00
+pair_matched,11-9081,11-9081,Lodging managers,True,1,11-9081.00
+pair_matched,11-9111,11-9111,Medical and health services managers,True,1,11-9111.00
+pair_matched,11-9121,11-9121,Natural sciences managers,True,2,11-9121.00;11-9121.01
+pair_matched,11-9131,11-9131,Postmasters and mail superintendents,True,1,11-9131.00
+pair_matched,11-9141,11-9141,"Property, real estate, and community association managers",True,1,11-9141.00
+pair_matched,11-9151,11-9151,Social and community service managers,True,1,11-9151.00
+pair_matched,11-9161,11-9161,Emergency management directors,True,1,11-9161.00
+pair_matched,13-1011,13-1011,"Agents and business managers of artists, performers, and athletes",True,1,13-1011.00
+pair_matched,13-1021,13-1021,"Buyers and purchasing agents, farm products",True,1,13-1021.00
+pair_matched,13-1023,13-1023,"Purchasing agents, except wholesale, retail, and farm products",True,1,13-1023.00
+pair_matched,13-1031,13-1031,"Claims adjusters, examiners, and investigators",True,1,13-1031.00
+pair_matched,13-1032,13-1032,"Insurance appraisers, auto damage",True,1,13-1032.00
+pair_matched,13-1051,13-1051,Cost estimators,True,1,13-1051.00
+pair_matched,13-1071,13-1071,Human resources specialists,True,1,13-1071.00
+pair_matched,13-1075,13-1075,Labor relations specialists,True,1,13-1075.00
+pair_matched,13-1081,13-1081,Logisticians,True,3,13-1081.00;13-1081.01;13-1081.02
+pair_matched,13-1111,13-1111,Management analysts,True,1,13-1111.00
+pair_matched,13-1121,13-1121,"Meeting, convention, and event planners",True,1,13-1121.00
+pair_matched,13-1131,13-1131,Fundraisers,True,1,13-1131.00
+pair_matched,13-1141,13-1141,"Compensation, benefits, and job analysis specialists",True,1,13-1141.00
+pair_matched,13-1151,13-1151,Training and development specialists,True,1,13-1151.00
+pair_matched,13-2011,13-2011,Accountants and auditors,True,1,13-2011.00
+pair_matched,13-2031,13-2031,Budget analysts,True,1,13-2031.00
+pair_matched,13-2041,13-2041,Credit analysts,True,1,13-2041.00
+pair_matched,13-2052,13-2052,Personal financial advisors,True,1,13-2052.00
+pair_matched,13-2053,13-2053,Insurance underwriters,True,1,13-2053.00
+pair_matched,13-2061,13-2061,Financial examiners,True,1,13-2061.00
+pair_matched,13-2081,13-2081,"Tax examiners and collectors, and revenue agents",True,1,13-2081.00
+pair_matched,13-2082,13-2082,Tax preparers,True,1,13-2082.00
+pair_matched,15-1111,15-1221,Computer and information research scientists,True,1,15-1221.00
+pair_matched,15-1121,15-1211,Computer systems analysts,True,2,15-1211.00;15-1211.01
+pair_matched,15-1122,15-1212,Information security analysts,True,1,15-1212.00
+pair_matched,15-1131,15-1251,Computer programmers,True,1,15-1251.00
+pair_matched,15-1142,15-1244,Network and computer systems administrators,True,1,15-1244.00
+pair_matched,15-1143,15-1241,Computer network architects,True,2,15-1241.00;15-1241.01
+pair_matched,15-1151,15-1232,Computer user support specialists,True,1,15-1232.00
+pair_matched,15-1152,15-1231,Computer network support specialists,True,1,15-1231.00
+pair_matched,15-2011,15-2011,Actuaries,True,1,15-2011.00
+pair_matched,15-2031,15-2031,Operations research analysts,True,1,15-2031.00
+pair_matched,17-1011,17-1011,"Architects, except landscape and naval",True,1,17-1011.00
+pair_matched,17-1012,17-1012,Landscape architects,True,1,17-1012.00
+pair_matched,17-2011,17-2011,Aerospace engineers,True,1,17-2011.00
+pair_matched,17-2021,17-2021,Agricultural engineers,True,1,17-2021.00
+pair_matched,17-2041,17-2041,Chemical engineers,True,1,17-2041.00
+pair_matched,17-2061,17-2061,Computer hardware engineers,True,1,17-2061.00
+pair_matched,17-2071,17-2071,Electrical engineers,True,1,17-2071.00
+pair_matched,17-2072,17-2072,"Electronics engineers, except computer",True,1,17-2072.00
+pair_matched,17-2111,17-2111,"Health and safety engineers, except mining safety engineers and inspectors",True,1,17-2111.00
+pair_matched,17-2121,17-2121,Marine engineers and naval architects,True,1,17-2121.00
+pair_matched,17-2141,17-2141,Mechanical engineers,True,1,17-2141.00
+pair_matched,17-2151,17-2151,"Mining and geological engineers, including mining safety engineers",True,1,17-2151.00
+pair_matched,17-2161,17-2161,Nuclear engineers,True,1,17-2161.00
+pair_matched,17-3011,17-3011,Architectural and civil drafters,True,1,17-3011.00
+pair_matched,17-3013,17-3013,Mechanical drafters,True,1,17-3013.00
+pair_matched,17-3022,17-3022,Civil engineering technicians,True,1,17-3022.00
+pair_matched,17-3031,17-3031,Surveying and mapping technicians,True,1,17-3031.00
+pair_matched,19-1011,19-1011,Animal scientists,True,1,19-1011.00
+pair_matched,19-1013,19-1013,Soil and plant scientists,True,1,19-1013.00
+pair_matched,19-1021,19-1021,Biochemists and biophysicists,True,1,19-1021.00
+pair_matched,19-1022,19-1022,Microbiologists,True,1,19-1022.00
+pair_matched,19-1042,19-1042,"Medical scientists, except epidemiologists",True,1,19-1042.00
+pair_matched,19-2041,19-2041,"Environmental scientists and specialists, including health",True,1,19-2041.03
+pair_matched,19-2042,19-2042,"Geoscientists, except hydrologists and geographers",True,1,19-2042.00
+pair_matched,19-3011,19-3011,Economists,True,2,19-3011.00;19-3011.01
+pair_matched,19-3032,19-3032,Industrial-organizational psychologists,True,1,19-3032.00
+pair_matched,19-3039,19-3039,"Psychologists, all other",True,2,19-3039.02;19-3039.03
+pair_matched,19-3093,19-3093,Historians,True,1,19-3093.00
+pair_matched,19-4021,19-4021,Biological technicians,True,1,19-4021.00
+pair_matched,19-4031,19-4031,Chemical technicians,True,1,19-4031.00
+pair_matched,19-4091,19-4042,"Environmental science and protection technicians, including health",True,1,19-4042.00
+pair_matched,19-4092,19-4092,Forensic science technicians,True,1,19-4092.00
+pair_matched,21-1011,21-1011,Substance abuse and behavioral disorder counselors,True,1,21-1011.00
+pair_matched,21-1012,21-1012,"Educational, guidance, school, and vocational counselors",True,1,21-1012.00
+pair_matched,21-1013,21-1013,Marriage and family therapists,True,1,21-1013.00
+pair_matched,21-1014,21-1014,Mental health counselors,True,1,21-1014.00
+pair_matched,21-1021,21-1021,"Child, family, and school social workers",True,1,21-1021.00
+pair_matched,21-1022,21-1022,Healthcare social workers,True,1,21-1022.00
+pair_matched,21-1023,21-1023,Mental health and substance abuse social workers,True,1,21-1023.00
+pair_matched,21-1091,21-1091,Health educators,True,1,21-1091.00
+pair_matched,21-1092,21-1092,Probation officers and correctional treatment specialists,True,1,21-1092.00
+pair_matched,21-1093,21-1093,Social and human service assistants,True,1,21-1093.00
+pair_matched,21-1094,21-1094,Community health workers,True,1,21-1094.00
+pair_matched,21-2021,21-2021,"Directors, religious activities and education",True,1,21-2021.00
+pair_matched,23-1011,23-1011,Lawyers,True,1,23-1011.00
+pair_matched,23-1021,23-1021,"Administrative law judges, adjudicators, and hearing officers",True,1,23-1021.00
+pair_matched,23-2011,23-2011,Paralegals and legal assistants,True,1,23-2011.00
+pair_matched,23-2091,27-3092,Court reporters,True,1,27-3092.00
+pair_matched,23-2093,23-2093,"Title examiners, abstractors, and searchers",True,1,23-2093.00
+pair_matched,25-1071,25-1071,"Health specialties teachers, postsecondary",True,1,25-1071.00
+pair_matched,25-1072,25-1072,"Nursing instructors and teachers, postsecondary",True,1,25-1072.00
+pair_matched,25-1081,25-1081,"Education teachers, postsecondary",True,1,25-1081.00
+pair_matched,25-1191,25-9044,Graduate teaching assistants,True,1,25-9044.00
+pair_matched,25-1194,25-1194,"Vocational education teachers, postsecondary",True,1,25-1194.00
+pair_matched,25-2011,25-2011,"Preschool teachers, except special education",True,1,25-2011.00
+pair_matched,25-2012,25-2012,"Kindergarten teachers, except special education",True,1,25-2012.00
+pair_matched,25-2021,25-2021,"Elementary school teachers, except special education",True,1,25-2021.00
+pair_matched,25-2022,25-2022,"Middle school teachers, except special and career/technical education",True,1,25-2022.00
+pair_matched,25-2032,25-2032,"Career/technical education teachers, secondary school",True,1,25-2032.00
+pair_matched,25-2051,25-2051,"Special education teachers, preschool",True,1,25-2051.00
+pair_matched,25-2053,25-2057,"Special education teachers, middle school",True,1,25-2057.00
+pair_matched,25-3021,25-3021,Self-enrichment education teachers,True,1,25-3021.00
+pair_matched,25-9031,25-9031,Instructional coordinators,True,1,25-9031.00
+pair_matched,27-1013,27-1013,"Fine artists, including painters, sculptors, and illustrators",True,1,27-1013.00
+pair_matched,27-1014,27-1014,Multimedia artists and animators,True,1,27-1014.00
+pair_matched,27-1021,27-1021,Commercial and industrial designers,True,1,27-1021.00
+pair_matched,27-1022,27-1022,Fashion designers,True,1,27-1022.00
+pair_matched,27-1023,27-1023,Floral designers,True,1,27-1023.00
+pair_matched,27-1024,27-1024,Graphic designers,True,1,27-1024.00
+pair_matched,27-1026,27-1026,Merchandise displayers and window trimmers,True,1,27-1026.00
+pair_matched,27-2012,27-2012,Producers and directors,True,1,27-2012.00
+pair_matched,27-2022,27-2022,Coaches and scouts,True,1,27-2022.00
+pair_matched,27-3031,27-3031,Public relations specialists,True,1,27-3031.00
+pair_matched,27-3042,27-3042,Technical writers,True,1,27-3042.00
+pair_matched,27-3091,27-3091,Interpreters and translators,True,1,27-3091.00
+pair_matched,27-4011,27-4011,Audio and video equipment technicians,True,1,27-4011.00
+pair_matched,27-4012,27-4012,Broadcast technicians,True,1,27-4012.00
+pair_matched,29-1011,29-1011,Chiropractors,True,1,29-1011.00
+pair_matched,29-1021,29-1021,"Dentists, general",True,1,29-1021.00
+pair_matched,29-1024,29-1024,Prosthodontists,False,1,29-1024.00
+pair_matched,29-1031,29-1031,Dietitians and nutritionists,True,1,29-1031.00
+pair_matched,29-1041,29-1041,Optometrists,True,1,29-1041.00
+pair_matched,29-1051,29-1051,Pharmacists,True,1,29-1051.00
+pair_matched,29-1061,29-1211,Anesthesiologists,True,1,29-1211.00
+pair_matched,29-1062,29-1215,Family and general practitioners,True,1,29-1215.00
+pair_matched,29-1063,29-1216,"Internists, general",True,1,29-1216.00
+pair_matched,29-1071,29-1071,Physician assistants,True,2,29-1071.00;29-1071.01
+pair_matched,29-1122,29-1122,Occupational therapists,True,2,29-1122.00;29-1122.01
+pair_matched,29-1123,29-1123,Physical therapists,True,1,29-1123.00
+pair_matched,29-1124,29-1124,Radiation therapists,True,1,29-1124.00
+pair_matched,29-1126,29-1126,Respiratory therapists,True,1,29-1126.00
+pair_matched,29-1127,29-1127,Speech-language pathologists,True,1,29-1127.00
+pair_matched,29-1131,29-1131,Veterinarians,True,1,29-1131.00
+pair_matched,29-1141,29-1141,Registered nurses,True,5,29-1141.00;29-1141.01;29-1141.02;29-1141.03;29-1141.04
+pair_matched,29-1151,29-1151,Nurse anesthetists,True,1,29-1151.00
+pair_matched,29-1161,29-1161,Nurse midwives,False,1,29-1161.00
+pair_matched,29-1171,29-1171,Nurse practitioners,True,1,29-1171.00
+pair_matched,29-1181,29-1181,Audiologists,True,1,29-1181.00
+pair_matched,29-2021,29-1292,Dental hygienists,True,1,29-1292.00
+pair_matched,29-2031,29-2031,Cardiovascular technologists and technicians,True,1,29-2031.00
+pair_matched,29-2032,29-2032,Diagnostic medical sonographers,True,1,29-2032.00
+pair_matched,29-2033,29-2033,Nuclear medicine technologists,True,1,29-2033.00
+pair_matched,29-2035,29-2035,Magnetic resonance imaging technologists,True,1,29-2035.00
+pair_matched,29-2051,29-2051,Dietetic technicians,True,1,29-2051.00
+pair_matched,29-2052,29-2052,Pharmacy technicians,True,1,29-2052.00
+pair_matched,29-2053,29-2053,Psychiatric technicians,True,1,29-2053.00
+pair_matched,29-2055,29-2055,Surgical technologists,True,1,29-2055.00
+pair_matched,29-2056,29-2056,Veterinary technologists and technicians,True,1,29-2056.00
+pair_matched,29-2057,29-2057,Ophthalmic medical technicians,True,1,29-2057.00
+pair_matched,29-2061,29-2061,Licensed practical and licensed vocational nurses,True,1,29-2061.00
+pair_matched,29-2081,29-2081,"Opticians, dispensing",True,1,29-2081.00
+pair_matched,29-9011,19-5011,Occupational health and safety specialists,True,1,19-5011.00
+pair_matched,29-9012,19-5012,Occupational health and safety technicians,True,1,19-5012.00
+pair_matched,29-9091,29-9091,Athletic trainers,True,1,29-9091.00
+pair_matched,29-9092,29-9092,Genetic counselors,False,1,29-9092.00
+pair_matched,31-1011,31-1121,Home health aides,True,1,31-1121.00
+pair_matched,31-1013,31-1133,Psychiatric aides,True,1,31-1133.00
+pair_matched,31-1014,31-1131,Nursing assistants,True,1,31-1131.00
+pair_matched,31-1015,31-1132,Orderlies,True,1,31-1132.00
+pair_matched,31-2011,31-2011,Occupational therapy assistants,True,1,31-2011.00
+pair_matched,31-2012,31-2012,Occupational therapy aides,True,1,31-2012.00
+pair_matched,31-2021,31-2021,Physical therapist assistants,True,1,31-2021.00
+pair_matched,31-2022,31-2022,Physical therapist aides,True,1,31-2022.00
+pair_matched,31-9011,31-9011,Massage therapists,True,1,31-9011.00
+pair_matched,31-9091,31-9091,Dental assistants,True,1,31-9091.00
+pair_matched,31-9092,31-9092,Medical assistants,True,1,31-9092.00
+pair_matched,31-9093,31-9093,Medical equipment preparers,True,1,31-9093.00
+pair_matched,31-9095,31-9095,Pharmacy aides,True,1,31-9095.00
+pair_matched,31-9097,31-9097,Phlebotomists,True,1,31-9097.00
+pair_matched,31-9099,31-9099,"Healthcare support workers, all other",True,1,31-9099.02
+pair_matched,33-2011,33-2011,Firefighters,True,1,33-2011.00
+pair_matched,33-2021,33-2021,Fire inspectors and investigators,True,1,33-2021.00
+pair_matched,33-3011,33-3011,Bailiffs,True,1,33-3011.00
+pair_matched,33-3012,33-3012,Correctional officers and jailers,True,1,33-3012.00
+pair_matched,33-9021,33-9021,Private detectives and investigators,True,1,33-9021.00
+pair_matched,33-9032,33-9032,Security guards,True,1,33-9032.00
+pair_matched,33-9091,33-9091,Crossing guards,True,1,33-9091.00
+pair_matched,33-9092,33-9092,"Lifeguards, ski patrol, and other recreational protective service workers",True,1,33-9092.00
+pair_matched,33-9093,33-9093,Transportation security screeners,True,1,33-9093.00
+pair_matched,35-1011,35-1011,Chefs and head cooks,True,1,35-1011.00
+pair_matched,35-1012,35-1012,First-line supervisors of food preparation and serving workers,True,1,35-1012.00
+pair_matched,35-2011,35-2011,"Cooks, fast food",True,1,35-2011.00
+pair_matched,35-2012,35-2012,"Cooks, institution and cafeteria",True,1,35-2012.00
+pair_matched,35-2013,35-2013,"Cooks, private household",True,1,35-2013.00
+pair_matched,35-2014,35-2014,"Cooks, restaurant",True,1,35-2014.00
+pair_matched,35-2015,35-2015,"Cooks, short order",True,1,35-2015.00
+pair_matched,35-2021,35-2021,Food preparation workers,True,1,35-2021.00
+pair_matched,35-3011,35-3011,Bartenders,True,1,35-3011.00
+pair_matched,35-3031,35-3031,Waiters and waitresses,True,1,35-3031.00
+pair_matched,35-3041,35-3041,"Food servers, nonrestaurant",True,1,35-3041.00
+pair_matched,35-9011,35-9011,Dining room and cafeteria attendants and bartender helpers,True,1,35-9011.00
+pair_matched,35-9021,35-9021,Dishwashers,True,1,35-9021.00
+pair_matched,35-9031,35-9031,"Hosts and hostesses, restaurant, lounge, and coffee shop",True,1,35-9031.00
+pair_matched,37-1011,37-1011,First-line supervisors of housekeeping and janitorial workers,True,1,37-1011.00
+pair_matched,37-1012,37-1012,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",True,1,37-1012.00
+pair_matched,37-2011,37-2011,"Janitors and cleaners, except maids and housekeeping cleaners",True,1,37-2011.00
+pair_matched,37-2012,37-2012,Maids and housekeeping cleaners,True,1,37-2012.00
+pair_matched,37-2021,37-2021,Pest control workers,True,1,37-2021.00
+pair_matched,37-3011,37-3011,Landscaping and groundskeeping workers,True,1,37-3011.00
+pair_matched,37-3012,37-3012,"Pesticide handlers, sprayers, and applicators, vegetation",True,1,37-3012.00
+pair_matched,37-3013,37-3013,Tree trimmers and pruners,True,1,37-3013.00
+pair_matched,39-2011,39-2011,Animal trainers,True,1,39-2011.00
+pair_matched,39-2021,39-2021,Nonfarm animal caretakers,True,1,39-2021.00
+pair_matched,39-3031,39-3031,"Ushers, lobby attendants, and ticket takers",True,1,39-3031.00
+pair_matched,39-3091,39-3091,Amusement and recreation attendants,True,1,39-3091.00
+pair_matched,39-3092,39-3092,Costume attendants,True,1,39-3092.00
+pair_matched,39-3093,39-3093,"Locker room, coatroom, and dressing room attendants",True,1,39-3093.00
+pair_matched,39-4011,39-4011,Embalmers,False,1,39-4011.00
+pair_matched,39-4021,39-4021,Funeral attendants,True,1,39-4021.00
+pair_matched,39-4031,39-4031,"Morticians, undertakers, and funeral directors",True,1,39-4031.00
+pair_matched,39-5011,39-5011,Barbers,True,1,39-5011.00
+pair_matched,39-5012,39-5012,"Hairdressers, hairstylists, and cosmetologists",True,1,39-5012.00
+pair_matched,39-6011,39-6011,Baggage porters and bellhops,True,1,39-6011.00
+pair_matched,39-6012,39-6012,Concierges,True,1,39-6012.00
+pair_matched,39-7011,39-7011,Tour guides and escorts,True,1,39-7011.00
+pair_matched,39-7012,39-7012,Travel guides,True,1,39-7012.00
+pair_matched,39-9011,39-9011,Childcare workers,True,1,39-9011.00
+pair_matched,39-9021,31-1122,Personal care aides,True,1,31-1122.00
+pair_matched,39-9031,39-9031,Fitness trainers and aerobics instructors,True,1,39-9031.00
+pair_matched,39-9032,39-9032,Recreation workers,True,1,39-9032.00
+pair_matched,39-9041,39-9041,Residential advisors,True,1,39-9041.00
+pair_matched,41-1011,41-1011,First-line supervisors of retail sales workers,True,1,41-1011.00
+pair_matched,41-1012,41-1012,First-line supervisors of non-retail sales workers,True,1,41-1012.00
+pair_matched,41-2011,41-2011,Cashiers,True,1,41-2011.00
+pair_matched,41-2021,41-2021,Counter and rental clerks,True,1,41-2021.00
+pair_matched,41-2022,41-2022,Parts salespersons,True,1,41-2022.00
+pair_matched,41-2031,41-2031,Retail salespersons,True,1,41-2031.00
+pair_matched,41-3011,41-3011,Advertising sales agents,True,1,41-3011.00
+pair_matched,41-3021,41-3021,Insurance sales agents,True,1,41-3021.00
+pair_matched,41-3041,41-3041,Travel agents,True,1,41-3041.00
+pair_matched,41-4011,41-4011,"Sales representatives, wholesale and manufacturing, technical and scientific products",True,2,41-4011.00;41-4011.07
+pair_matched,41-4012,41-4012,"Sales representatives, wholesale and manufacturing, except technical and scientific products",True,1,41-4012.00
+pair_matched,41-9011,41-9011,Demonstrators and product promoters,True,1,41-9011.00
+pair_matched,41-9021,41-9021,Real estate brokers,True,1,41-9021.00
+pair_matched,41-9022,41-9022,Real estate sales agents,True,1,41-9022.00
+pair_matched,41-9031,41-9031,Sales engineers,True,1,41-9031.00
+pair_matched,41-9041,41-9041,Telemarketers,True,1,41-9041.00
+pair_matched,43-1011,43-1011,First-line supervisors of office and administrative support workers,True,1,43-1011.00
+pair_matched,43-3011,43-3011,Bill and account collectors,True,1,43-3011.00
+pair_matched,43-3021,43-3021,Billing and posting clerks,True,1,43-3021.00
+pair_matched,43-3031,43-3031,"Bookkeeping, accounting, and auditing clerks",True,1,43-3031.00
+pair_matched,43-3041,43-3041,Gaming cage workers,True,1,43-3041.00
+pair_matched,43-3051,43-3051,Payroll and timekeeping clerks,True,1,43-3051.00
+pair_matched,43-3071,43-3071,Tellers,True,1,43-3071.00
+pair_matched,43-4011,43-4011,Brokerage clerks,True,1,43-4011.00
+pair_matched,43-4031,43-4031,"Court, municipal, and license clerks",True,1,43-4031.00
+pair_matched,43-4041,43-4041,"Credit authorizers, checkers, and clerks",True,1,43-4041.00
+pair_matched,43-4061,43-4061,"Eligibility interviewers, government programs",True,1,43-4061.00
+pair_matched,43-4071,43-4071,File clerks,True,1,43-4071.00
+pair_matched,43-4081,43-4081,"Hotel, motel, and resort desk clerks",True,1,43-4081.00
+pair_matched,43-4111,43-4111,"Interviewers, except eligibility and loan",True,1,43-4111.00
+pair_matched,43-4121,43-4121,"Library assistants, clerical",True,1,43-4121.00
+pair_matched,43-4131,43-4131,Loan interviewers and clerks,True,1,43-4131.00
+pair_matched,43-4141,43-4141,New accounts clerks,True,1,43-4141.00
+pair_matched,43-4151,43-4151,Order clerks,True,1,43-4151.00
+pair_matched,43-4161,43-4161,"Human resources assistants, except payroll and timekeeping",True,1,43-4161.00
+pair_matched,43-4171,43-4171,Receptionists and information clerks,True,1,43-4171.00
+pair_matched,43-4181,43-4181,Reservation and transportation ticket agents and travel clerks,True,1,43-4181.00
+pair_matched,43-5011,43-5011,Cargo and freight agents,True,1,43-5011.01
+pair_matched,43-5021,43-5021,Couriers and messengers,True,1,43-5021.00
+pair_matched,43-5031,43-5031,"Police, fire, and ambulance dispatchers",True,1,43-5031.00
+pair_matched,43-5032,43-5032,"Dispatchers, except police, fire, and ambulance",True,1,43-5032.00
+pair_matched,43-5041,43-5041,"Meter readers, utilities",True,1,43-5041.00
+pair_matched,43-5052,43-5052,Postal service mail carriers,True,1,43-5052.00
+pair_matched,43-5061,43-5061,"Production, planning, and expediting clerks",True,1,43-5061.00
+pair_matched,43-5071,43-5071,"Shipping, receiving, and traffic clerks",True,1,43-5071.00
+pair_matched,43-5081,53-7065,Stock clerks and order fillers,True,1,53-7065.00
+pair_matched,43-5111,43-5111,"Weighers, measurers, checkers, and samplers, recordkeeping",True,1,43-5111.00
+pair_matched,43-6011,43-6011,Executive secretaries and executive administrative assistants,True,1,43-6011.00
+pair_matched,43-6013,43-6013,Medical secretaries,True,1,43-6013.00
+pair_matched,43-6014,43-6014,"Secretaries and administrative assistants, except legal, medical, and executive",True,1,43-6014.00
+pair_matched,43-9021,43-9021,Data entry keyers,True,1,43-9021.00
+pair_matched,43-9041,43-9041,Insurance claims and policy processing clerks,True,1,43-9041.00
+pair_matched,43-9051,43-9051,"Mail clerks and mail machine operators, except postal service",True,1,43-9051.00
+pair_matched,43-9061,43-9061,"Office clerks, general",True,1,43-9061.00
+pair_matched,45-1011,45-1011,"First-line supervisors of farming, fishing, and forestry workers",True,1,45-1011.00
+pair_matched,45-2091,45-2091,Agricultural equipment operators,True,1,45-2091.00
+pair_matched,45-2092,45-2092,"Farmworkers and laborers, crop, nursery, and greenhouse",True,1,45-2092.00
+pair_matched,45-2093,45-2093,"Farmworkers, farm, ranch, and aquacultural animals",True,1,45-2093.00
+pair_matched,45-4021,45-4021,Fallers,True,1,45-4021.00
+pair_matched,47-1011,47-1011,First-line supervisors of construction trades and extraction workers,True,2,47-1011.00;47-1011.03
+pair_matched,47-2031,47-2031,Carpenters,True,1,47-2031.00
+pair_matched,47-2041,47-2041,Carpet installers,True,1,47-2041.00
+pair_matched,47-2042,47-2042,"Floor layers, except carpet, wood, and hard tiles",True,1,47-2042.00
+pair_matched,47-2051,47-2051,Cement masons and concrete finishers,True,1,47-2051.00
+pair_matched,47-2061,47-2061,Construction laborers,True,1,47-2061.00
+pair_matched,47-2073,47-2073,Operating engineers and other construction equipment operators,True,1,47-2073.00
+pair_matched,47-2111,47-2111,Electricians,True,1,47-2111.00
+pair_matched,47-2121,47-2121,Glaziers,True,1,47-2121.00
+pair_matched,47-2131,47-2131,"Insulation workers, floor, ceiling, and wall",True,1,47-2131.00
+pair_matched,47-2132,47-2132,"Insulation workers, mechanical",False,1,47-2132.00
+pair_matched,47-2181,47-2181,Roofers,True,1,47-2181.00
+pair_matched,47-2211,47-2211,Sheet metal workers,True,1,47-2211.00
+pair_matched,47-2221,47-2221,Structural iron and steel workers,True,1,47-2221.00
+pair_matched,47-2231,47-2231,Solar photovoltaic installers,True,1,47-2231.00
+pair_matched,47-3013,47-3013,Helpers--electricians,True,1,47-3013.00
+pair_matched,47-3014,47-3014,"Helpers--painters, paperhangers, plasterers, and stucco masons",False,1,47-3014.00
+pair_matched,47-3015,47-3015,"Helpers--pipelayers, plumbers, pipefitters, and steamfitters",True,1,47-3015.00
+pair_matched,47-4021,47-4021,Elevator installers and repairers,True,1,47-4021.00
+pair_matched,47-4041,47-4041,Hazardous materials removal workers,True,1,47-4041.00
+pair_matched,47-4051,47-4051,Highway maintenance workers,True,1,47-4051.00
+pair_matched,47-5071,47-5071,"Roustabouts, oil and gas",True,1,47-5071.00
+pair_matched,47-5081,47-5081,Helpers--extraction workers,False,1,47-5081.00
+pair_matched,49-1011,49-1011,"First-line supervisors of mechanics, installers, and repairers",True,1,49-1011.00
+pair_matched,49-2011,49-2011,"Computer, automated teller, and office machine repairers",True,1,49-2011.00
+pair_matched,49-2021,49-2021,"Radio, cellular, and tower equipment installers and repairs",True,1,49-2021.00
+pair_matched,49-2022,49-2022,"Telecommunications equipment installers and repairers, except line installers",True,1,49-2022.00
+pair_matched,49-2092,49-2092,"Electric motor, power tool, and related repairers",True,1,49-2092.00
+pair_matched,49-2093,49-2093,"Electrical and electronics installers and repairers, transportation equipment",False,1,49-2093.00
+pair_matched,49-2094,49-2094,"Electrical and electronics repairers, commercial and industrial equipment",True,1,49-2094.00
+pair_matched,49-2096,49-2096,"Electronic equipment installers and repairers, motor vehicles",True,1,49-2096.00
+pair_matched,49-2098,49-2098,Security and fire alarm systems installers,True,1,49-2098.00
+pair_matched,49-3011,49-3011,Aircraft mechanics and service technicians,True,1,49-3011.00
+pair_matched,49-3021,49-3021,Automotive body and related repairers,True,1,49-3021.00
+pair_matched,49-3023,49-3023,Automotive service technicians and mechanics,True,1,49-3023.00
+pair_matched,49-3031,49-3031,Bus and truck mechanics and diesel engine specialists,True,1,49-3031.00
+pair_matched,49-3042,49-3042,"Mobile heavy equipment mechanics, except engines",True,1,49-3042.00
+pair_matched,49-3052,49-3052,Motorcycle mechanics,True,1,49-3052.00
+pair_matched,49-3091,49-3091,Bicycle repairers,True,1,49-3091.00
+pair_matched,49-3092,49-3092,Recreational vehicle service technicians,True,1,49-3092.00
+pair_matched,49-3093,49-3093,Tire repairers and changers,True,1,49-3093.00
+pair_matched,49-9011,49-9011,Mechanical door repairers,True,1,49-9011.00
+pair_matched,49-9012,49-9012,"Control and valve installers and repairers, except mechanical door",True,1,49-9012.00
+pair_matched,49-9021,49-9021,"Heating, air conditioning, and refrigeration mechanics and installers",True,1,49-9021.00
+pair_matched,49-9031,49-9031,Home appliance repairers,True,1,49-9031.00
+pair_matched,49-9041,49-9041,Industrial machinery mechanics,True,1,49-9041.00
+pair_matched,49-9043,49-9043,"Maintenance workers, machinery",True,1,49-9043.00
+pair_matched,49-9044,49-9044,Millwrights,True,1,49-9044.00
+pair_matched,49-9051,49-9051,Electrical power-line installers and repairers,True,1,49-9051.00
+pair_matched,49-9052,49-9052,Telecommunications line installers and repairers,True,1,49-9052.00
+pair_matched,49-9064,49-9064,Watch repairers,False,1,49-9064.00
+pair_matched,49-9071,49-9071,"Maintenance and repair workers, general",True,1,49-9071.00
+pair_matched,49-9081,49-9081,Wind turbine service technicians,True,1,49-9081.00
+pair_matched,49-9091,49-9091,"Coin, vending, and amusement machine servicers and repairers",True,1,49-9091.00
+pair_matched,49-9095,49-9095,Manufactured building and mobile home installers,True,1,49-9095.00
+pair_matched,49-9096,49-9096,Riggers,True,1,49-9096.00
+pair_matched,51-1011,51-1011,First-line supervisors of production and operating workers,True,1,51-1011.00
+pair_matched,51-2011,51-2011,"Aircraft structure, surfaces, rigging, and systems assemblers",True,1,51-2011.00
+pair_matched,51-2022,51-2022,Electrical and electronic equipment assemblers,True,1,51-2022.00
+pair_matched,51-2092,51-2092,Team assemblers,True,1,51-2092.00
+pair_matched,51-3011,51-3011,Bakers,True,1,51-3011.00
+pair_matched,51-3021,51-3021,Butchers and meat cutters,True,1,51-3021.00
+pair_matched,51-3022,51-3022,"Meat, poultry, and fish cutters and trimmers",True,1,51-3022.00
+pair_matched,51-3091,51-3091,"Food and tobacco roasting, baking, and drying machine operators and tenders",False,1,51-3091.00
+pair_matched,51-3092,51-3092,Food batchmakers,True,1,51-3092.00
+pair_matched,51-4031,51-4031,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",True,1,51-4031.00
+pair_matched,51-4032,51-4032,"Drilling and boring machine tool setters, operators, and tenders, metal and plastic",True,1,51-4032.00
+pair_matched,51-4041,51-4041,Machinists,True,1,51-4041.00
+pair_matched,51-4051,51-4051,Metal-refining furnace operators and tenders,True,1,51-4051.00
+pair_matched,51-4072,51-4072,"Molding, coremaking, and casting machine setters, operators, and tenders, metal and plastic",True,1,51-4072.00
+pair_matched,51-4081,51-4081,"Multiple machine tool setters, operators, and tenders, metal and plastic",True,1,51-4081.00
+pair_matched,51-4121,51-4121,"Welders, cutters, solderers, and brazers",True,1,51-4121.00
+pair_matched,51-6011,51-6011,Laundry and dry-cleaning workers,True,1,51-6011.00
+pair_matched,51-6021,51-6021,"Pressers, textile, garment, and related materials",False,1,51-6021.00
+pair_matched,51-6041,51-6041,Shoe and leather workers and repairers,False,1,51-6041.00
+pair_matched,51-6042,51-6042,Shoe machine operators and tenders,True,1,51-6042.00
+pair_matched,51-6052,51-6052,"Tailors, dressmakers, and custom sewers",True,1,51-6052.00
+pair_matched,51-6061,51-6061,Textile bleaching and dyeing machine operators and tenders,True,1,51-6061.00
+pair_matched,51-6064,51-6064,"Textile winding, twisting, and drawing out machine setters, operators, and tenders",True,1,51-6064.00
+pair_matched,51-8031,51-8031,Water and wastewater treatment plant and system operators,True,1,51-8031.00
+pair_matched,51-8092,51-8092,Gas plant operators,True,1,51-8092.00
+pair_matched,51-9012,51-9012,"Separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders",True,1,51-9012.00
+pair_matched,51-9021,51-9021,"Crushing, grinding, and polishing machine setters, operators, and tenders",True,1,51-9021.00
+pair_matched,51-9051,51-9051,"Furnace, kiln, oven, drier, and kettle operators and tenders",True,1,51-9051.00
+pair_matched,51-9061,51-9061,"Inspectors, testers, sorters, samplers, and weighers",True,1,51-9061.00
+pair_matched,51-9081,51-9081,Dental laboratory technicians,True,1,51-9081.00
+pair_matched,51-9111,51-9111,Packaging and filling machine operators and tenders,True,1,51-9111.00
+pair_matched,51-9123,51-9123,"Painting, coating, and decorating workers",True,1,51-9123.00
+pair_matched,51-9192,51-9192,"Cleaning, washing, and metal pickling equipment operators and tenders",False,1,51-9192.00
+pair_matched,51-9198,51-9198,Helpers--production workers,True,1,51-9198.00
+pair_matched,53-1021,53-1042,"First-line supervisors of helpers, laborers, and material movers, hand",True,1,53-1042.00
+pair_matched,53-2011,53-2011,"Airline pilots, copilots, and flight engineers",True,1,53-2011.00
+pair_matched,53-2021,53-2021,Air traffic controllers,True,1,53-2021.00
+pair_matched,53-3011,53-3011,"Ambulance drivers and attendants, except emergency medical technicians",True,1,53-3011.00
+pair_matched,53-3021,53-3052,"Bus drivers, transit and intercity",True,1,53-3052.00
+pair_matched,53-3031,53-3031,Driver/sales workers,True,1,53-3031.00
+pair_matched,53-3032,53-3032,Heavy and tractor-trailer truck drivers,True,1,53-3032.00
+pair_matched,53-3033,53-3033,Light truck or delivery services drivers,True,1,53-3033.00
+pair_matched,53-4013,53-4013,"Rail yard engineers, dinkey operators, and hostlers",False,1,53-4013.00
+pair_matched,53-4041,53-4041,Subway and streetcar operators,True,1,53-4041.00
+pair_matched,53-5031,53-5031,Ship engineers,True,1,53-5031.00
+pair_matched,53-6021,53-6021,Parking lot attendants,True,1,53-6021.00
+pair_matched,53-6031,53-6031,Automotive and watercraft service attendants,True,1,53-6031.00
+pair_matched,53-6061,53-6061,"Transportation attendants, except flight attendants",True,1,53-6061.00
+pair_matched,53-7021,53-7021,Crane and tower operators,True,1,53-7021.00
+pair_matched,53-7031,53-7031,Dredge operators,False,1,53-7031.00
+pair_matched,53-7051,53-7051,Industrial truck and tractor operators,True,1,53-7051.00
+pair_matched,53-7061,53-7061,Cleaners of vehicles and equipment,True,1,53-7061.00
+pair_matched,53-7063,53-7063,Machine feeders and offbearers,True,1,53-7063.00
+pair_matched,53-7121,53-7121,"Tank car, truck, and ship loaders",True,1,53-7121.00

@@ -1,0 +1,39 @@
+{
+  "provenance": "User recovered CSVs using Wayback Machine",
+  "archive_snapshot_url": null,
+  "snapshot_date": null,
+  "received_date": "2026-09-22",
+  "official_catalog": "https://www.dol.gov/agencies/oasp/evaluation/data-repo/career-pathways-da-data",
+  "files": {
+    "Copy of Copy_of_Emsi_Codebook_508c.xlsx": {
+      "bytes": 26548,
+      "sha256": "5bf9afd5074c31174b56942f055aac8253ee308f2102b7c04f605bb6ba230626"
+    },
+    "Emsi_dataset.csv": {
+      "bytes": 71250802,
+      "sha256": "29534756d3fbe234b0c89551b4c7407293d653cc4577ff567f0bbeb1e97eb2fb"
+    },
+    "Copy of Copy_of_Dashboard_trajectories_Codebook_508c.xlsx": {
+      "bytes": 21392,
+      "sha256": "27364d89be7fbbb2a4fd9ba58f6f8d105535ecaeb0906b19bef811bfc276782a"
+    },
+    "Dashboard_transitions_Codebook.xlsx": {
+      "bytes": 20783,
+      "sha256": "12021d9c1828f32e8b90a0e192f3892d2b792d4b362623e977ad0e4df114c6ae"
+    },
+    "Emsi_Codebook.xlsx": {
+      "bytes": 26548,
+      "sha256": "5bf9afd5074c31174b56942f055aac8253ee308f2102b7c04f605bb6ba230626"
+    },
+    "Dashboard_transitions_dataset.csv": {
+      "bytes": 2579757,
+      "sha256": "c8b94f53377f36fbaecfe0e21c5b59be6fed9c8ffe927ca9fce81098ae37212b"
+    }
+  },
+  "source_rows": 256831,
+  "source_origins": 458,
+  "source_destinations": 781,
+  "dashboard_named_pairs": 13740,
+  "dashboard_other_rows": 458,
+  "analysis": "../../analysis/relatedness_refresh_20260922/transition_validation/dol/index.html"
+}

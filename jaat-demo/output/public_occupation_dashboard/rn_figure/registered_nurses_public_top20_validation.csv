@@ -1,0 +1,17 @@
+benchmark,population,method,value,origins,origin,status
+SST,All occupations,task,0.19002237109829,604,,available
+SST,Focal occupation,task,0.274962877437,1,29-1141,available
+SST,All occupations,onet_published,0.112165704620785,604,,available
+SST,Focal occupation,onet_published,0.094591491024,1,29-1141,available
+EMSI,All occupations,task,0.302913752913753,429,,available
+EMSI,Focal occupation,task,0.3,1,29-1141,available
+EMSI,All occupations,onet_published,0.177505827505828,429,,available
+EMSI,Focal occupation,onet_published,0.2,1,29-1141,available
+CPS + SIPP,All occupations,task,0.254455397941298,109,,available
+CPS + SIPP,Focal occupation,task,0.389420466921723,1,3255,available
+CPS + SIPP,All occupations,onet_published,0.19219165523123,109,,available
+CPS + SIPP,Focal occupation,onet_published,0.274509137423424,1,3255,available
+NLSY + PSID · 3y,All occupations,task,0.186921061652643,77,,available
+NLSY + PSID · 3y,Focal occupation,task,,0,,not mapped
+NLSY + PSID · 3y,All occupations,onet_published,0.123086078273017,77,,available
+NLSY + PSID · 3y,Focal occupation,onet_published,,0,,not mapped

@@ -1,0 +1,124 @@
+{
+  "status": "PASS",
+  "real_pipeline": {
+    "status": "PASS",
+    "verified_release_files": 62,
+    "specialties": 1016,
+    "fresh_lists": 2720,
+    "ranking_rows": 48641,
+    "dataset_origins": 1360,
+    "observed_pairs": 260491,
+    "datasets": 6,
+    "scope": "Rebuild rankings and outcomes from released matrix, public O*NET lists and frozen candidate mappings; not NLx profile fitting or raw-source reconstruction.",
+    "matrix_sha256": "165545e75a13b5402b5b5c27e6be407ba1c519b653e3d03b3b5978d368c61eac"
+  },
+  "crosswalk": {
+    "status": "PASS",
+    "candidate_counts": {
+      "2010": 401,
+      "2002": 325
+    },
+    "scope": "Exact Census mapping regenerated from public source spreadsheets and frozen comparison universe; no survey persons used."
+  },
+  "synthetic": {
+    "label": "SYNTHETIC DEMONSTRATION \u2014 not paper estimates",
+    "status": "PASS",
+    "postings": 48,
+    "deduplicated_task_assignments": 120,
+    "retained_pairs": 8,
+    "actual_production_representation_matches": true,
+    "unmapped_weight_preserved": 60,
+    "survey_original_denominator": 120.0,
+    "survey_changed_record_support": 60,
+    "top_one_recovery": 0.3333333333333333,
+    "minimum_support_rule": 40,
+    "canonical_census_crosswalk": "Real crosswalk policy/code is in production_source; fake A/B/C groups only demonstrate specialty averaging."
+  },
+  "public_figure": {
+    "status": "PASS",
+    "input_sha256": {
+      "figure/registered_nurses_public.xlsx": "c75f0a30eb2e31a09e1543183d1aca7ea8af0a5b8424efbafe94acbf0b0d1764",
+      "figure/public_figure_from_excel.py": "2b2e7863b3b88c4c5059470ecdd4290178c7f1b60598df01ce7abf11cfaabd87",
+      "figure/figure_rendering.py": "7260b20faf9c103a701856d10982a320486959b511e05a1ef7b7edcbe60c7921",
+      "figure/validation_replication.py": "976ae462a4abc3a6e9acd53924205055a52b6bab25e25ee6134b05ff2b94d131"
+    },
+    "scope": "Public RN workbook illustration; no stale private case-hash override."
+  },
+  "checks": {
+    "python_sources_parse": true,
+    "modified_input_rejected": true,
+    "figure_visual_review": "PNG inspected; complete panels and text in bounds. Reproduces existing public figure.",
+    "credentials_scan": "Only YOUR_PASSWORD/YOUR_USERNAME database placeholders in allowlisted sources; no literal API credentials found.",
+    "zip_contents_verified": true,
+    "review_protocol_tests": "10 original review-code unit tests passed, no external API calls",
+    "synthetic_sampling": "PASS: original allocation function, annual floor, small census and inverse probability expansion",
+    "bundled_emsi_source": "Lossless gzip of original public occupation-pair aggregate; uncompressed SHA256 matches recorded source. No resumes or person records.",
+    "canonical_review_exception": "20 canonical ledger pairs have at least one NO verdict but retain canonical status before support filtering."
+  },
+  "not_run": [
+    "External source downloads",
+    "Licensed source text-to-task extraction",
+    "Raw survey or resume source reconstruction"
+  ],
+  "source_benchmark_data": {
+    "status": "PASS",
+    "observed_pairs": 260491,
+    "dataset_origins": 1360,
+    "datasets": 6,
+    "source_sha256": {
+      "occupation_transitions_public_data_set.csv.zip": "a619ba3f2a08a7762506bf855b3c1e0cfef7b5917c8c08756c35ab3a02d0caff",
+      "Emsi_dataset.csv": "29534756d3fbe234b0c89551b4c7407293d653cc4577ff567f0bbeb1e97eb2fb",
+      "CPS-SIPP_dataset.csv": "47116e01929948dac0c9cb9876343a986de4a626e99a5077184116308376c165",
+      "Trajectories_(3_years)_dataset.csv": "dedb1a254298e77901234aad9a04f1e793fe3ff859c790c43865217b2b304a90",
+      "Trajectories-5-years-dataset.dta": "df53cabf6889ee085e17d70cea12318f327074cb6efc8e8f66c9b637ffa7127b",
+      "Trajectories-10-years-dataset.dta": "f60d93eb613deefc54437582210b2287389561d4fdf787cd1fee7f0982083a54"
+    },
+    "scope": "Original public released source files -> benchmark outcomes/denominators; exact parity. Source raw survey preprocessing and licensed resume construction remain upstream."
+  },
+  "source_to_results": {
+    "status": "PASS",
+    "verified_release_files": 62,
+    "specialties": 1016,
+    "fresh_lists": 2720,
+    "ranking_rows": 48641,
+    "dataset_origins": 1360,
+    "observed_pairs": 260491,
+    "datasets": 6,
+    "scope": "Rebuild rankings and outcomes from released matrix, public O*NET lists and frozen candidate mappings; not NLx profile fitting or raw-source reconstruction.",
+    "matrix_sha256": "165545e75a13b5402b5b5c27e6be407ba1c519b653e3d03b3b5978d368c61eac",
+    "outcomes_used": "newly rebuilt source outcomes",
+    "outcome_input_sha256": {
+      "observed.csv": "92e802fa642d3d1831900261aba11884a9b68063550cb3a9b049ffaae1e33f0c",
+      "origins.csv": "3f37c133941a7b845d495095022ea843229aeda4ff64b9ecdf44169ec5d76b5f"
+    }
+  },
+  "licensed_aggregate_model": {
+    "status": "PASS",
+    "max_abs_difference": 2.886579864025407e-15,
+    "input_sha256": "9714170d597cb9b835b6723a9647a83eea98b1be7a3157535ea2237712b85709",
+    "scope": "Executed locally against authorized occupation-task marginals; no restricted marginals or task coordinates distributed. Production similarity matches within numerical tolerance."
+  },
+  "sampling": {
+    "status": "PASS",
+    "allocation_cells": 12161,
+    "frame_codes": 1015,
+    "floor_increased_codes": 186,
+    "floor_increased_eligible": 135,
+    "allocation_differs_from_model_frame": {
+      "sample_only": [
+        "__CONFLICT__",
+        "__UNASSIGNED__"
+      ],
+      "model_only": [
+        "29-1249.00",
+        "39-3099.00",
+        "53-1049.00"
+      ]
+    },
+    "checks": [
+      "all occupation-month allocations exactly match production allocate()",
+      "pi=n/N",
+      "w=N/n"
+    ]
+  }
+}

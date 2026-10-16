@@ -1,0 +1,20 @@
+{
+  "source": "Released posting-task rankings",
+  "occupations": 790,
+  "unique_displayed_edges": 653,
+  "geometry": "SOC code order, not similarity distance",
+  "RN": [
+    {
+      "destination": "29-1171",
+      "score": 0.4615615939629461
+    },
+    {
+      "destination": "29-2061",
+      "score": 0.40353060777099814
+    },
+    {
+      "destination": "11-9111",
+      "score": 0.32547556181982923
+    }
+  ]
+}

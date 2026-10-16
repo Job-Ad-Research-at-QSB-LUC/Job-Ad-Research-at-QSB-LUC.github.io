@@ -1,0 +1,30 @@
+model,rank,destination,occupation,observed_transition_share,included_at_equal_length
+task,1,3258,Nurse practitioners,0.042161770510098694,True
+onet_published,1,3258,Nurse practitioners,0.042161770510098694,True
+task,2,3500,Licensed practical and licensed vocational nurses,0.036750952785498454,True
+onet_published,2,3257,Nurse midwives,0.0,True
+task,3,350,Medical and health services managers,0.03881841484044072,True
+onet_published,3,3500,Licensed practical and licensed vocational nurses,0.036750952785498454,True
+task,4,3645,Medical assistants,0.006416598524988917,True
+onet_published,4,3220,Respiratory therapists,0.036195260564129896,True
+task,5,3050,Pharmacists,0.0,True
+onet_published,5,3256,Nurse anesthetists,0.005042138174397071,True
+task,6,3600,"Nursing, psychiatric, and home health aides",0.09666057977931261,True
+onet_published,6,3110,Physician assistants,0.01005149617263892,True
+task,7,3110,Physician assistants,0.01005149617263892,True
+onet_published,7,3600,"Nursing, psychiatric, and home health aides",0.09666057977931261,True
+task,8,3160,Physical therapists,0.047646939437348455,True
+onet_published,8,1006,Computer systems analysts,0.0,True
+onet_published,9,3160,Physical therapists,0.047646939437348455,True
+task,9,3257,Nurse midwives,0.0,True
+task,10,3220,Respiratory therapists,0.036195260564129896,False
+task,11,420,Social and community service managers,0.0,False
+task,12,4610,Personal care aides,0.019729430511545742,False
+task,13,20,General and operations managers,0.00500935799824185,False
+task,14,3610,Occupational therapy assistants and aides,0.0,False
+task,15,4760,Retail salespersons,0.002037232778514258,False
+task,16,2016,Social and human service assistants,0.0,False
+task,17,4700,First-line supervisors of retail sales workers,0.0019186047241568998,False
+task,18,3230,Speech-language pathologists,0.03298431163206817,False
+task,19,5000,First-line supervisors of office and administrative support workers,0.01303951666273945,False
+task,20,3620,Physical therapist assistants and aides,0.0,False

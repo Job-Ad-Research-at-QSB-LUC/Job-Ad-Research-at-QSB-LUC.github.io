@@ -1,0 +1,19 @@
+{
+  "investigations": 111109,
+  "investigations_with_matches": 60508,
+  "distinct_task_ids": 6187,
+  "review_inventory_task_ids": 6060,
+  "raw_task_ids_outside_review_inventory": 127,
+  "sentence_task_matches": 143077,
+  "source_sha256": "d6dd1d15885d95bfbd5c0a3fc8d307420f64326b758188e70640f725ccfe42d5",
+  "files": {
+    "full_corpus_task_matches.csv.gz": {
+      "bytes": 6020914,
+      "sha256": "7f251ee3640a6087059596dd2fc913e27c8ae53579c3846105913b0b598277ca"
+    },
+    "full_corpus_investigation_counts.csv.gz": {
+      "bytes": 371362,
+      "sha256": "1b6281780dca2e6b3669543342dc62cc84e455a4399f9d6da613898959b73943"
+    }
+  }
+}

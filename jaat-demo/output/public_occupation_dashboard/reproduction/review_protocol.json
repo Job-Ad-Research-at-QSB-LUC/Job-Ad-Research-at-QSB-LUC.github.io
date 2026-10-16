@@ -1,0 +1,14 @@
+{
+  "models": {
+    "anthropic": "claude-sonnet-4-6",
+    "openai": "gpt-4o"
+  },
+  "expected_returned_models": {
+    "anthropic": "claude-sonnet-4-6",
+    "openai": "gpt-4o-2024-08-06"
+  },
+  "prompt_version": "v2_temp_zero_2026_05_18",
+  "temperature": 0,
+  "max_tokens": 16,
+  "prompt_template": "Occupation: {soc_title} ({occ8})\nOccupation description: {soc_description}\n\nTask: {task_text}\n\nDoes this task plausibly belong to this occupation? Answer with one word: YES or NO."
+}

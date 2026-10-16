@@ -1,0 +1,43 @@
+OSHA EXTENSION: COMPUTATIONAL AUDIT AND INTERPRETATION
+OpenAI Codex (AI), 9 October 2026. Not independent human validation.
+
+Checked against frozen inputs:
+- 111,109 distinct investigation IDs; all 610 displayed task match/report counts.
+- All released evidence quotations and narrative hashes; all 610 O*NET 27.2 IDs/texts.
+- 527,378 retained research links, including 498,928 never-reviewed links.
+- Published source cells: 47 CFOI 2024 occupation groups and 546 SOII overall rates.
+- All 33 displayed nonfatal category correlations, reproduced from public CSVs.
+- Every displayed occupation-task identity obeys the occupation explorer's coordinated disclosure policy.
+
+Corrections:
+The historical extraction field pct_investigations used match occurrences divided
+by reports. Here report percentages deduplicate investigation IDs. Historical
+counts remain unvalidated retrieval counts, even for tasks whose membership was
+subsequently reviewed. The evidence export also contains 93 context-only tasks;
+these are labeled and excluded from the 610-task benchmark bundle.
+
+Interpretation:
+TaskMatch inference and AI judgments were not rerun. Review used purposive
+retrieval and shared-family AI judgments, not representative expert validation.
+The 610 tasks match O*NET 27.2; later taxonomy changes do not delete their evidence.
+CFOI incorporates OSHA reports, so source independence is incomplete. Six CFOI
+groups have incomplete constituent profile coverage. The weighted CFOI correlation
+is 0.515 overall but 0.015 after removing SOC2 family mean ranks. Category samples
+vary with BLS publication; categories can overlap. No causal task-injury links,
+individual injury probabilities, or validated danger ranking are estimated.
+The full research-profile bundle score includes identities that cannot be shown
+publicly. Displayed top-ten task shares need not sum to that bundle score.
+
+Sources and reproduction:
+CFOI: Census of Fatal Occupational Injuries, BLS, 2024.
+https://www.bls.gov/opub/hom/cfoi/home.htm
+SOII: Survey of Occupational Injuries and Illnesses, BLS, 2023-24 private industry.
+https://www.bls.gov/opub/hom/soii/home.htm
+Run reproduce_injury_correlations.py beside the downloadable CSVs to reproduce
+reported associations without NLx inputs. Source-construction scripts document
+the research checkout and require authorized restricted profile inputs. They are
+not standalone reruns from the public CSVs. Full original AI review is not
+reproduced by the public aggregate replication script.
+
+
+Current disclosure rule (updated October 15, 2026): the dangerous-task demonstration releases up to five occupations per task in task_occupation_examples.json, ordered by design-weighted prevalence. The separate main occupation explorer retains its own disclosure limits. Display limits do not change the 610-task bundle or benchmark scores.

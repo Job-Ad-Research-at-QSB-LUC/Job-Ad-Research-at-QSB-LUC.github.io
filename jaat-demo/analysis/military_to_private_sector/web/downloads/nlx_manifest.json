@@ -1,0 +1,23 @@
+{
+  "method": "NLx employer-demand profiles; private-only ownership unverified. Six-digit profiles pool specialty weighted task incidences after the existing review exclusion mask and five-job task-support floor; destination SOCs require 200 postings and nonzero tasks. Military profiles use binary accepted task presence and the same NLx reference RCA weights as civilian profiles: reciprocal positive task shares (zero weight for reference-absent tasks) of pooled retained support-five NLx weighted incidences across 1,016 reference specialties (912 eligible comparison candidates), sqrt(q * rca_weight), then L2 normalization and cosine. No military crosswalk codes enter the task ranking. All positive top-20 results retained; zero-similarity destinations are not recommendations. Shared field/rating duties are included; general Naval Standards remain separate by paygrade. Summary compares non-future individual source entries (versions can repeat) with nonempty reference sets; grouped, future and general-standard entries remain in all outputs. Hit@k is the fraction with at least one reference SOC recovered; ties are averaged exactly. References outside NLx remain in denominators. DMDC reference status is from July 2024, not current 2026 status.",
+  "input_hashes": {
+    "nlx_marginals": "9714170d597cb9b835b6723a9647a83eea98b1be7a3157535ea2237712b85709",
+    "nlx_totals": "090228193eacd90086694ec7d76e3eb50aa5a1c79a7ec50da12e44b375a7b92a",
+    "exclusion_mask": "49335939eedb514daead5d86e20b23bc2361d2d323ba0c5e0dba77dc5804556d",
+    "rca_weights": "e89cdd1a31d6d79ff6f6ef9a0288206e2acd9f13c3fad06becf4287c42a1423a",
+    "columns": "ddd8e22753dc2233342b8c5c1a0f7c56b628ef00c64faaa31572c8118373e694",
+    "military_inputs": "57c758a8b57524933f2742f37154d8c9af3f605fc00983dca27dbc1ecc0b4324",
+    "military_coding": "a42dd0ee1f9402815aa9f79c8ad5d1bdf94eac3399e6b1f586befda8b5de340c",
+    "dmdc_crosswalk": "ee7381411644fd39adaf93e7f3a8814773b28f4e8a5b2c00c7ad6b775b01d747",
+    "representation_code": "ee8cdc9e8185613754519c0b629dc689ab225a2ea37cc6a146439dfaf3ab2302",
+    "occupation_labels": "d2f8ad81a554143676c4259c1df23bdfab4bc04bf38a5f302938f6ef916a767a"
+  },
+  "task_review_sha256": "6d8b8cba318fd18da99d8310b9fe72cb1cd3262ab9f7ad6926f44842999afb15",
+  "reference_mapping_sha256": "16aee185264584124acf610274c2c5294e9e7ae186d36b5cc5c2bafb72a3e5f0",
+  "script_sha256": "a1b61337c596149d3b7ba0f417b8ec711294209139c88e58ea604f8b87c5183c",
+  "n_destinations": {
+    "6": 840,
+    "8": 983
+  },
+  "n_records": 1387
+}

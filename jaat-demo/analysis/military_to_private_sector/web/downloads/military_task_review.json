@@ -1,0 +1,968 @@
+[
+  {
+    "doc_id": "army_15R_0060",
+    "task_id": "10573",
+    "task": "Coordinate flight activities with ground crews and air traffic control and inform crew members of flight and test procedures.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Participate in maintenance test flights."
+    ]
+  },
+  {
+    "doc_id": "army_15R_0060",
+    "task_id": "10728",
+    "task": "Inspect work of aircraft mechanics performing maintenance, modification, or repair and overhaul of aircraft and aircraft mechanical systems to ensure adherence to standards and procedures.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Performs maintenance trend analysis and applies production control, quality control and other maintenance management principles and procedures to airplane maintenance operations.",
+      "Plans, conducts and supervises aircraft technical inspections.",
+      "Supervises aircraft maintenance and technical inspection activities.",
+      "Instructs subordinates in aircraft repair and technical inspection techniques and procedures according to directives, technical manuals, work standards and operational policies."
+    ]
+  },
+  {
+    "doc_id": "army_15R_0060",
+    "task_id": "10735",
+    "task": "Recommend replacement, repair, or modification of aircraft equipment.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "AH-64 Attack Helicopter Repairer (AH-64 Attack Hel Rep), CMF 15 a."
+    ]
+  },
+  {
+    "doc_id": "army_15R_0060",
+    "task_id": "10774",
+    "task": "Weigh bundles, using floor scales, and record weights for company records.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Compute basic weight and balance records."
+    ]
+  },
+  {
+    "doc_id": "army_15R_0060",
+    "task_id": "10881",
+    "task": "Inspect, diagnose, maintain, and operate test setups and equipment to detect malfunctions.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Tests, troubleshoots and repairs test sets and diagnostic equipment.",
+      "Performs limited maintenance operational checks and assists in diagnosing and troubleshooting aircraft subsystems using special tools and equipment as required."
+    ]
+  },
+  {
+    "doc_id": "army_15R_0060",
+    "task_id": "14286",
+    "task": "Monitor transportation and storage of flammable and other potentially dangerous products to ensure that safety guidelines are followed.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Monitor hazardous material control and storage."
+    ]
+  },
+  {
+    "doc_id": "army_15R_0060",
+    "task_id": "14902",
+    "task": "Conduct pre-operational checks on equipment to ensure proper functioning.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Performs operational checks and scheduled inspections."
+    ]
+  },
+  {
+    "doc_id": "army_15R_0060",
+    "task_id": "14930",
+    "task": "Maintain tools and equipment.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Uses and performs operator maintenance on common and special tools.",
+      "Uses and performs operator maintenance on tools, special tools and aircraft ground support equipment."
+    ]
+  },
+  {
+    "doc_id": "army_15R_0060",
+    "task_id": "20797",
+    "task": "Prepare hazardous material for removal or storage.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Maintains facilities for storage of flammable and hazardous materials."
+    ]
+  },
+  {
+    "doc_id": "army_15R_0060",
+    "task_id": "21316",
+    "task": "Oversee training programs.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Supervises the technical training program."
+    ]
+  },
+  {
+    "doc_id": "army_15R_0060",
+    "task_id": "23939",
+    "task": "Inspect airfield conditions to ensure compliance with federal regulatory requirements.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Ensure compliance with aircraft configuration control, Army Oil Analysis Program and test measuring diagnostic calibration."
+    ]
+  },
+  {
+    "doc_id": "army_15R_0060",
+    "task_id": "2927",
+    "task": "Develop, implement, or evaluate maintenance policies and procedures.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Evaluate maintenance operations and facilities for compliance with directives, technical manuals, work standards, safety procedures and operational policies."
+    ]
+  },
+  {
+    "doc_id": "army_15R_0060",
+    "task_id": "3076",
+    "task": "Supervise or advise subordinate personnel.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Performs duties described in paragraph (1) and provides technical guidance to subordinate personnel.",
+      "Supervises and provides technical guidance to subordinate personnel performing duties described in paragraphs (1, 2) and evaluates the technical training program."
+    ]
+  },
+  {
+    "doc_id": "army_15R_0060",
+    "task_id": "5005",
+    "task": "Maintain inventories of supplies.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Maintains supply economy and discipline."
+    ]
+  },
+  {
+    "doc_id": "army_15R_0060",
+    "task_id": "5177",
+    "task": "Maintain equipment, making repairs or modifications when necessary.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Requisitions and maintains shop and bench stock for repair of aircraft systems and equipment."
+    ]
+  },
+  {
+    "doc_id": "army_15R_0060",
+    "task_id": "5522",
+    "task": "Evaluate programs and policies, and make related recommendations to institutions and organizations.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Recommends and administers plans and policies."
+    ]
+  },
+  {
+    "doc_id": "army_15R_0060",
+    "task_id": "9910",
+    "task": "Compile and keep gun and explosives records in compliance with local and federal laws.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Maintains records on weapons and subsystems."
+    ]
+  },
+  {
+    "doc_id": "army_15R_0060",
+    "task_id": "9936",
+    "task": "Coordinate work with that of engineers, technicians, and other aircraft maintenance personnel.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Typically assigned to Aviation Field or Sustainment maintenance units."
+    ]
+  },
+  {
+    "doc_id": "army_15R_0060",
+    "task_id": "9937",
+    "task": "Interpret flight test data to diagnose malfunctions and systemic performance problems.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Diagnoses and troubleshoots malfunctions in aircraft subsystems."
+    ]
+  },
+  {
+    "doc_id": "army_15R_0060",
+    "task_id": "9947",
+    "task": "Inspect completed work to certify that maintenance meets standards and that aircraft are ready for operation.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Prepares aircraft for inspections and maintenance checks."
+    ]
+  },
+  {
+    "doc_id": "army_15R_0060",
+    "task_id": "9948",
+    "task": "Maintain repair logs, documenting all preventive and corrective aircraft maintenance.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Prepares aircraft related maintenance forms and records.",
+      "Prepares forms and records related to aircraft maintenance.",
+      "Prepares evaluations, special reports and records pertaining to aircraft maintenance repair and related activities."
+    ]
+  },
+  {
+    "doc_id": "army_15R_0060",
+    "task_id": "9949",
+    "task": "Conduct routine and special inspections as required by regulations.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Performs scheduled inspections and assists in performing special inspections."
+    ]
+  },
+  {
+    "doc_id": "army_15R_0060",
+    "task_id": "9952",
+    "task": "Maintain, repair, and rebuild aircraft structures, functional components, and parts, such as wings and fuselage, rigging, hydraulic units, oxygen systems, fuel systems, electrical systems, gaskets, or seals.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Determine man-hours, personnel, parts and facility requirements to repair aircraft and associated equipment.",
+      "Plans aircraft maintenance areas, component repair shops and facilities."
+    ]
+  },
+  {
+    "doc_id": "army_15R_0060",
+    "task_id": "9967",
+    "task": "Remove or install aircraft engines, using hoists or forklift trucks.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Removes and installs aircraft subsystem assemblies such as engines, rotors, gearboxes, transmissions, mechanical flight controls and their components."
+    ]
+  },
+  {
+    "doc_id": "army_15R_0060",
+    "task_id": "9971",
+    "task": "Clean, refuel, and change oil in line service aircraft.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Services and lubricates aircraft and subsystems."
+    ]
+  },
+  {
+    "doc_id": "marines_4422_0629",
+    "task_id": "22890",
+    "task": "Review records for completeness, accuracy, and compliance with regulations.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "and review records of proceedings for administrative completeness and technical accuracy."
+    ]
+  },
+  {
+    "doc_id": "marines_4422_0629",
+    "task_id": "3282",
+    "task": "Represent organization at personnel-related hearings and investigations.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Personnel in this PMOS provide administrative support, research and investigation, client relations, technical and logistical support, and courts-martial reporting/transcribing necessary for the proper functioning of a Law Center or staff judge advocate office."
+    ]
+  },
+  {
+    "doc_id": "marines_4422_0629",
+    "task_id": "6526",
+    "task": "Prepare for assigned classes and show written evidence of preparation upon request of immediate supervisors.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "prepare or supervise preparation and assembly of typewritten, summarized or verbatim, transcripts;"
+    ]
+  },
+  {
+    "doc_id": "marines_4422_0629",
+    "task_id": "8654",
+    "task": "Provide transcripts of proceedings upon request of judges, lawyers, or the public.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Legal Services Court Reporters are responsible for the closed mask capture, transcription, and distribution of legal proceedings and assembly of typewritten, summarized or verbatim, transcripts."
+    ]
+  },
+  {
+    "doc_id": "marines_4422_0629",
+    "task_id": "8655",
+    "task": "Record verbatim proceedings of courts, legislative assemblies, committee meetings, and other proceedings, using computerized recording equipment, electronic stenograph machines, or stenomasks.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Reporters record the proceedings of special and general courts-martial, formal investigations, administrative boards, and other similar bodies;"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "100",
+    "task": "Coordinate recruitment and placement of training program participants.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Coordinate training evolutions (e.g., Combat Systems Training Team (CSTT), Command Readiness Training Team (CRTT), etc.).\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "10423",
+    "task": "Mix solutions such as developing solutions and colored coating solutions.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Maintain cross-domain solutions (e.g., Radiant Mercury, NOVA, etc.).\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "10627",
+    "task": "Collaborate with others to plan flight schedules and air crew assignments.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Draft Continuity of Operations Program (COOP).\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "11658",
+    "task": "Request support from technical service centers when on-site procedures fail to solve installation or maintenance problems.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Coordinate with off-site technical support (e.g., restoral, installs, parts, etc.).\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "1301",
+    "task": "Plan, coordinate, and implement security measures to safeguard information in computer files against accidental or unauthorized damage, modification or disclosure.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "and ensure the development of System Security Plans (SSP) for systems that contain sensitive information.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "1319",
+    "task": "Plan, coordinate, and implement network security measures to protect data, software, and hardware.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Cybersecurity (i.e., plan, manage, secure, implement security controls to protect and defend networks to include IS across platforms, fleets, and services);",
+      "Manage intranet/Department of Defense Information Network (DODIN) security policies.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "14457",
+    "task": "Maintain government-issued certifications, as required.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Maintain Information Systems Security (ISS) certification and accreditation documentation (e.g., Authority to Operate (ATO), Interim Approval to Operate (IATO), etc.).\n",
+      "Maintain system certificates and licenses.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "14648",
+    "task": "Document test procedures to ensure replicability and compliance with standards.",
+    "decision": "exclude from sensitivity",
+    "reason": "Verifying execution and documentation of tests does not establish authoring test procedures for replicability and standards compliance.",
+    "quotes": [
+      "verify proper execution and documentation of security tests;"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "14848",
+    "task": "Verify that transportation and handling procedures meet regulatory requirements.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Verify Information Systems (IS) equipment and media disposition requirements (e.g., destruction, disposal, transfer, etc."
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "15465",
+    "task": "Monitor and operate communications systems, such as mobile radios.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Communications Operations (i.e., establish, monitor, and maintain Radio Frequency (RF) communications systems, perform spectrum management to support Joint, Fleet, and tactical communications and handle, store, transmit, and retrieve Naval messages);"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "15649",
+    "task": "Monitor compliance systems to ensure their effectiveness.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "ensure that Information System (IS) users are monitored to verify compliance with security policies and procedures;"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "15677",
+    "task": "Analyze acquisitions to ensure conformance with strategic goals or regulatory requirements.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Verify acquisitions, procurements, and outsourcing efforts of information security requirements.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "15852",
+    "task": "Design or implement plans for surface or ground water remediation.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Develop remediation plans for identified vulnerabilities.\n",
+      "Implement remediation plans for identified vulnerabilities.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "15948",
+    "task": "Maintain and update organization information technology applications and network systems blueprints.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Information Systems Technicians (IT) perform the following core and specialty functions: Information Systems (IS) Administration (i.e., build, configure, deploy, operate, maintain networks and information systems and perform tiered customer service support);"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "15967",
+    "task": "Analyze corporate intelligence data to identify trends, patterns, or warnings indicating threats to security of people, assets, information, or infrastructure.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Analyze organizational security posture trends.\n",
+      "Report organizational security posture trends.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "16075",
+    "task": "Implement controls to provide security for operating systems, software, and data.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Manage Information Systems Security (ISS) programs.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "16424",
+    "task": "Develop or implement operating methods or procedures.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Develop Information System (IS) Standard Operating Procedures (SOP).\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "17557",
+    "task": "Develop defense plans or tactics, using intelligence and other information.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Develop training evolutions (e.g., Combat Systems Training Team (CSTT), Command Readiness Training Team (CRTT), etc.).\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "17567",
+    "task": "Maintain documentation or reports on security-related incidents or investigations.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Manage Information Security (INFOSEC) incident reporting processes.\n",
+      "Report Information Systems Security (ISS) incidents.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "17614",
+    "task": "Verify staff credentials, such as educational and certification requirements.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "confirm required personnel qualification achievement and maintenance;"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "18960",
+    "task": "Coordinate network operations, maintenance, repairs, or upgrades.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Oversee network migrations and installation.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "18965",
+    "task": "Develop and implement solutions for network problems.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Determine network migration and installation potential problems and time requirements.\n",
+      "Develop network plans and policies.\n",
+      "Manage networking solutions (e.g., Afloat Forward Staging Base (AFSB), Commercial Solutions for Classified Program (CSfC), etc.).\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "18968",
+    "task": "Develop disaster recovery plans.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Develop disaster recovery contingency plans.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "18972",
+    "task": "Develop plans or budgets for network equipment replacement.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Estimate network migration, installation or repair costs.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "18985",
+    "task": "Supervise engineers or other staff in the design or implementation of network solutions.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Supervise Local Area Network (LAN) operations.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "18992",
+    "task": "Configure wide area network (WAN) or local area network (LAN) routers or related equipment.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Manage Local Area Network (LAN) architecture.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "18993",
+    "task": "Document network support activities.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Document off-site technical support actions.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "20183",
+    "task": "Review clients' accounts and plans regularly to determine whether life changes, economic changes, environmental concerns, or financial performance indicate a need for plan reassessment.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "review the accreditation plan and reaccreditation activities;"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "20785",
+    "task": "Train and supervise subordinates and other staff.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Conduct training evolutions (e.g., Combat Systems Training Team (CSTT), Command Readiness Training Team (CRTT), etc.).\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "21087",
+    "task": "Direct documentation efforts to ensure compliance with domestic and international regulations and standards.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "confirm site accreditation support documentation is developed, maintained, and verified for an acceptable level of risk;"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "21290",
+    "task": "Create or implement security standards, policies, and procedures.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Enforce procedures, guidelines and cybersecurity policies.\n",
+      "Implement Information Systems Security (ISS) policies.\n",
+      "Implement policies and procedures to ensure protection of critical infrastructure.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "21291",
+    "task": "Develop budgets for security operations.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Manage information security budget, staffing, and contracting.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "21298",
+    "task": "Identify, investigate, or resolve security breaches.",
+    "decision": "exclude from sensitivity",
+    "reason": "Identifying security issues and validating remediation do not establish identification, investigation, or resolution of an actual security breach.",
+    "quotes": [
+      "Identify security issues (e.g., protection, aggregation, inter-connectivity, etc.).\n",
+      "Validate network security remediation actions.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "21458",
+    "task": "Identify compliance issues that require follow-up or investigation.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Determine patterns of non-compliance (e.g., risk levels, Cyber Security program effectiveness, etc.).\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "21490",
+    "task": "Inspect fire, intruder detection, or other security systems.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Inspect Information Systems (IS) (e.g., network components, system hardware, etc.).\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "21491",
+    "task": "Inspect physical security design features, installations, or programs to ensure compliance with applicable standards or regulations.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Validate baseline security safeguard installation.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "21496",
+    "task": "Perform risk analyses so that appropriate countermeasures can be developed.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Analyze Risk Management Framework (RMF) artifacts.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "21500",
+    "task": "Recommend improvements in security systems or procedures.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Evaluate security improvement actions for effectiveness.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "21505",
+    "task": "Prepare detailed reports on audit findings.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Track audit findings for mitigation actions.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "21612",
+    "task": "Develop contingency plans to deal with emergencies.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Develop Emergency Action Plans (EAP).\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "21753",
+    "task": "Discuss security solutions with information technology teams or management.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Manage Information Technology (IT) resources and security personnel.\n",
+      "Manage Information Technology (IT) resources and security personnel.\n",
+      "Manage Information Technology (IT) security priorities.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "21764",
+    "task": "Update corporate policies to improve cyber security.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Advise leadership of changes affecting the organization's cybersecurity posture.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "21767",
+    "task": "Conduct investigations of information security breaches to identify vulnerabilities and evaluate the damage.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Evaluate Information Systems Security (ISS) incidents for operational impact.\n",
+      "Identify Information Systems Security (ISS) violations and vulnerabilities.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "21770",
+    "task": "Coordinate vulnerability assessments or analysis of information security systems.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Analyze Information Systems (IS) security posture trends.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "21771",
+    "task": "Develop information security standards and best practices.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Develop Information Systems Security (ISS) plans.\n",
+      "Develop Information Systems Security (ISS) policies.\n",
+      "Manage Information Security (INFOSEC) training and awareness programs.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "21775",
+    "task": "Identify or implement solutions to information security problems.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Implement alternative Information Security (INFOSEC) strategies.\n",
+      "Report Information Systems (IS) security posture trends.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "21780",
+    "task": "Recommend information security enhancements to management.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Information Systems Security Managers serve as principal advisors to the Commanding Officer for all information security matters: ensure cybersecurity and risk management program requirement conformity;",
+      "Identify Information Technology (IT) security program implications of new technologies or technology upgrades.\n",
+      "Recommend Information Security (INFOSEC) requirements.\n",
+      "Advise senior management (e.g., Chief Information Officer (CIO) on cost/benefit analysis of information security programs, policies, processes, systems, and elements, etc.).\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "21781",
+    "task": "Review security assessments for computing environments or check for compliance with cybersecurity standards and regulations.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Complete network security assessment checklists.\n",
+      "Review Information Systems Security (ISS) requirements.\n",
+      "Validate network security assessment checklists.\n",
+      "Coordinate cybersecurity inspections, tests, and reviews.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "21794",
+    "task": "Maintain cyber defense software or hardware to support responses to cyber incidents.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "maintain an activity Cybersecurity Plan (CSP);",
+      "Identify critical cyber defense infrastructure and key resources to meet mission requirements.\n",
+      "Provide technical support to resolve cyber incidents.\n",
+      "Maintain Risk Management Framework (RMF)/Security Assessment and Authorization (SA&A) requirements for dedicated cyber defense systems.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "21798",
+    "task": "Perform web service network traffic analysis or waveform analysis to detect anomalies, such as unusual events or trends.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Identify Information Systems (IS) anomalies.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "21984",
+    "task": "Maintain system logs or manuals to document testing or operation of equipment.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Maintain network documentation (e.g., System Operational Verification Testing (SOVT), Interactive Electronic Technical Manual (IETM), Hosted Application and Connected Systems Implementation Manual (HACSIM), etc.).\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "22011",
+    "task": "Establish and maintain inventory, records, or documentation systems.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Maintain Information Systems (IS) (e.g., Program of Record (POR), authorized, system backups, etc.).\n",
+      "Perform inventory of Information System (IS) assets.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "22944",
+    "task": "Develop and document security procedures, policies, or standards.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Develop critical infrastructure protection policies and procedures.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "23006",
+    "task": "Coordinate efforts with other organizations, such as law enforcement agencies.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Provide Information Systems (IS) incident details to external organizations (e.g., law enforcement personnel, Inspector General (IG), higher authority, etc.).\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "2618",
+    "task": "Transmit and receive messages, using telephones or telephone switchboards.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Communications Security (COMSEC) (i.e., secure, handle, account for, report, and control COMSEC materials, systems, and equipment)."
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "2697",
+    "task": "Compile and prepare reports and documents pertaining to personnel activities.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Disseminate technical documents, incident reports, findings from computer examinations, summaries, and other situational awareness information to higher headquarters.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "2712",
+    "task": "Maintain access to, and security of, highly sensitive materials.",
+    "decision": "retain for sensitivity",
+    "reason": "Provisional inherited sensitivity decision, not independently re-adjudicated: compare canonical task action/domain with the attached source quotes.",
+    "quotes": [
+      "Maintain physical security of Sensitive Compartmented Information (SCI) of Information Systems (IS).\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "3483",
+    "task": "Prepare cost-benefit and return-on-investment analyses to aid in decisions on system implementation.",
+    "decision": "exclude from sensitivity",
+    "reason": "Evaluating cost-benefit/economic/risk analyses does not establish preparing cost-benefit and return-on-investment analyses.",
+    "quotes": [
+      "Evaluate cost-benefit, economic, and risk analysis for Information Systems (IS) in decision-making process.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "4474",
+    "task": "Activate emergency action plans and administer first aid, as necessary.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Conduct Emergency Action Plans (EAP).\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "4637",
+    "task": "Monitor alarm systems to ensure that secure conditions are maintained.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Validate Intrusion Detection System (IDS) alerts.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "781",
+    "task": "Maintain medical records, technical library, or correspondence files.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Maintain local media and technical libraries.\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "9662",
+    "task": "Hire, train, and evaluate personnel.",
+    "decision": "exclude from sensitivity",
+    "reason": "Core action, domain, or specificity is not sufficiently established by the attached quotes; conservative exclusion, not necessarily a definite coding error.",
+    "quotes": [
+      "Evaluate training evolutions (e.g., Combat Systems Training Team (CSTT), Command Readiness Training Team (CRTT), etc.).\n"
+    ]
+  },
+  {
+    "doc_id": "navy_002779_0212",
+    "task_id": "21774",
+    "task": "Develop response and recovery strategies for security breaches.",
+    "decision": "absent after clean native re-inference",
+    "reason": "Implementing vulnerability remediation does not establish developing response and recovery strategies for security breaches; both action and domain differ. Assignment no longer emitted by frozen native JAAT for the cleaned input; old quotations are preserved solely as pre-repair evidence.",
+    "quotes": [
+      "Implement remediation plans for identified vulnerabilities IT-21.\n"
+    ],
+    "quotes_vintage": "pre-repair; may contain footer artifacts"
+  }
+]

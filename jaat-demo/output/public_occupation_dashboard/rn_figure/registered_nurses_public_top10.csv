@@ -1,0 +1,21 @@
+method,rank,destination,display_destination,destination_title,score,sst_top10,dol_top10,sst_rank,emsi_rank,cps_sipp_census_code,cps_sipp_rank,cps_sipp_aggregate,cps_sipp_category,cps_sipp_status
+task,1,29-1171,29-1171,Nurse Practitioners,0.461561593962946,True,True,4.0,3.0,3258.0,4.0,False,Nurse practitioners,observed
+task,2,29-2061,29-2061,Licensed Practical and Licensed Vocational Nurses,0.403530607770999,True,True,7.0,4.0,3500.0,7.0,False,Licensed practical and licensed vocational nurses,observed
+task,3,11-9111,11-9111,Medical and Health Services Managers,0.325475561819829,True,True,1.0,1.0,350.0,5.0,False,Medical and health services managers,observed
+task,4,31-9092,31-9092,Medical Assistants,0.31259512303716,False,False,73.0,18.0,3645.0,37.0,False,Medical assistants,observed
+task,5,31-1131,31-1131,Nursing Assistants,0.289171374605143,False,True,15.0,9.0,3600.0,1.0,True,"Nursing, psychiatric, and home health aides",observed
+task,6,29-1216,29-1216,General Internal Medicine Physicians,0.261508083351356,False,False,128.0,102.0,,,False,,no unique audited mapping
+task,7,31-1132,31-1132,Orderlies,0.230728108049818,False,False,362.0,613.0,3600.0,1.0,True,"Nursing, psychiatric, and home health aides",observed
+task,8,29-1215,29-1215,Family Medicine Physicians,0.227965895215412,False,False,177.0,42.0,,,False,,no unique audited mapping
+task,9,29-1051,29-1051,Pharmacists,0.226344868047531,False,False,178.0,69.0,3050.0,,False,Pharmacists,not observed
+task,10,21-1022,21-1022,Healthcare Social Workers,0.2127630800557,False,False,51.0,79.0,,,False,,no unique audited mapping
+onet_published,1,29-1171,29-1171,Nurse Practitioners,0.86,True,True,4.0,3.0,3258.0,4.0,False,Nurse practitioners,observed
+onet_published,2,29-1161,29-1161,Nurse Midwives,0.62,False,False,197.0,110.0,3257.0,,False,Nurse midwives,not observed
+onet_published,3,29-2061,29-2061,Licensed Practical and Licensed Vocational Nurses,0.53,True,True,7.0,4.0,3500.0,7.0,False,Licensed practical and licensed vocational nurses,observed
+onet_published,4,29-2043,29-2043,Paramedics,0.46,False,False,,,,,False,,no unique audited mapping
+onet_published,5,29-1215,29-1215,Family Medicine Physicians,0.38,False,False,177.0,42.0,,,False,,no unique audited mapping
+onet_published,6,31-1131,31-1131,Nursing Assistants,0.34,False,True,15.0,9.0,3600.0,1.0,True,"Nursing, psychiatric, and home health aides",observed
+onet_published,7,29-1126,29-1126,Respiratory Therapists,0.29,False,False,158.0,100.0,3220.0,8.0,False,Respiratory therapists,observed
+onet_published,8,29-1151,29-1151,Nurse Anesthetists,0.25,False,False,138.0,61.0,3256.0,52.0,False,Nurse anesthetists,observed
+onet_published,9,29-1216,29-1216,General Internal Medicine Physicians,0.24,False,False,128.0,102.0,,,False,,no unique audited mapping
+onet_published,10,29-2053,29-2053,Psychiatric Technicians,0.23,False,False,79.0,89.0,,,False,,no unique audited mapping

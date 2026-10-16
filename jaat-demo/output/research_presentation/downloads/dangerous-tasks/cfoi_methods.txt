@@ -1,0 +1,16 @@
+Occupational fatality comparisons
+
+The bundle contains 610 incident-linked O*NET 27.2 task IDs. Posting task shares divide design-weighted incidences for bundle tasks by all retained task incidences in an occupation group. O*NET task shares divide distinct assigned bundle tasks by all distinct assigned task IDs. These indicators differ in occupational assignments and weighting.
+
+SI Table S13 compares task shares, distinct-DWA shares and individual work-context ratings on the same 45 occupation groups. exposure_common_sample.csv reproduces that table. The additional task-only 2024 comparison uses 47 groups with the required task scores and fatality rates; it is a different sample. Coverage and score sensitivities are in cfoi_sensitivities.csv and cfoi_coverage_sensitivity.csv.
+
+Rates are BLS Census of Fatal Occupational Injuries (CFOI) rates per 100,000 full-time-equivalent workers. They use CPS hours-worked denominators. Missing or suppressed rates are unavailable, not zero. Occupational groups must not include both a parent group and its component occupations as separate observations.
+
+Associations are Spearman rank correlations, not causal estimates or individual injury probabilities. The broad occupational pattern may differ from associations within occupational families. OSHA is one of CFOI's sources, so source independence is incomplete. Posting prevalence measures advertised work, not workers' time at risk. Narrative-evidence review uses AI judgment and purposively selected examples.
+
+Run reproduce_injury_correlations.py with the released occupation-level CSVs to recalculate task-share correlations without restricted posting records. Reconstructing the underlying posting profiles requires authorized inputs. Source versions and official workbook URLs are in cfoi_source_manifest.json.
+
+Sources:
+https://www.bls.gov/iif/fatal-injuries-tables.htm
+https://www.bls.gov/opub/hom/cfoi/calculation.htm
+https://www.bls.gov/opub/hom/cfoi/data.htm

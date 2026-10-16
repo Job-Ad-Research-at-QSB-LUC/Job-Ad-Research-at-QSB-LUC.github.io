@@ -1,0 +1,7 @@
+{
+  "scope": "Source-only annotated notebook; no execution outputs or restricted input data",
+  "canonical_source_sha256": "5beb114de17a642834d118c6a90265198322fe8c8b5638a70421d1bcd398f87a",
+  "notebook_sha256": "ae3fe47bdba97c2240369079fef3093ff0da06efe33aee6c395bdd0227a777f0",
+  "code_cells": 14,
+  "execution_outputs_included": false
+}

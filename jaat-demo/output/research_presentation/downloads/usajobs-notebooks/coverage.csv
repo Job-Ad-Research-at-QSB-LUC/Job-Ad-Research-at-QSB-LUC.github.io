@@ -1,0 +1,7 @@
+dataset,paper_origins,usajobs_origins,candidate_groups,groups_with_changed_membership
+SST,604,428,445,8
+Emsi,429,261,474,18
+CPS_SIPP,109,85,295,28
+NLSY97_PSID_3y,77,58,228,24
+NLSY97_PSID_5y,76,56,228,24
+NLSY97_PSID_10y,65,48,228,24

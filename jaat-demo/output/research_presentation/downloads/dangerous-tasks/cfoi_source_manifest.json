@@ -1,0 +1,24 @@
+{
+  "purpose": "Exploratory association, not prospective or independently sourced validation",
+  "retained_profile_cells": 527378,
+  "profile_specialties": 1012,
+  "reviewed_bundle_size": 610,
+  "compatible_exact_text_tasks": 610,
+  "original_bundle_compatible_ids": 6060,
+  "sources": {
+    "fatal-occupational-injuries-table-a-5-2024.xlsx": "https://www.bls.gov/iif/fatal-injuries-tables/fatal-occupational-injuries-table-a-5-2024.xlsx",
+    "fatal-occupational-injuries-hours-based-rates-2023.xlsx": "https://www.bls.gov/iif/fatal-injuries-tables/fatal-occupational-injuries-hours-based-rates-2023.xlsx",
+    "fatal-occupational-injuries-hours-based-rates-2024.xlsx": "https://www.bls.gov/iif/fatal-injuries-tables/fatal-occupational-injuries-hours-based-rates-2024.xlsx"
+  },
+  "sha256": {
+    "data/release/occupation_task_marginals.csv.gz": "9714170d597cb9b835b6723a9647a83eea98b1be7a3157535ea2237712b85709",
+    "analysis/relatedness_refresh_20260922/validation/reconciled_prior_decisions.csv": "6815831e43ebf46e5c0f164177c89d58b2c884b023fcddda272f555af2064fe7",
+    "crosswalks/onet_task_statements_27_2.csv": "71c56529e7616ac1abbc9a1bb6e5f4a3f9a89cbbd4d95ab1ce8dc67798e2765d",
+    "output/research_presentation/downloads/dangerous-tasks/dangerous_tasks.csv": "bd47c3d47bc4cecab5098a6fb25cd0ffb8fb15359599e77064daa4d6af9bed2f",
+    "analysis/occupation_relatedness/results/similarity_matrices.npz": "e8ce2f50eb5b9e4a12d954944812034eb40d0c4c0f4be8b9c1a9051cf0332bbc",
+    "analysis/cfoi_task_benchmark_20261008/inputs/fatal-occupational-injuries-hours-based-rates-2024.xlsx": "3722c991b2be42e4e85de2d5b3837839c256a0850408cd09e8e7d1fa9b743286",
+    "analysis/cfoi_task_benchmark_20261008/inputs/fatal-occupational-injuries-hours-based-rates-2023.xlsx": "f2347779bd556c0b5ca9ad17a9fe4f58308ef3663aa3d5757fdf2d30b3f6ba42",
+    "output/research_presentation/downloads/dangerous-tasks/inventory.csv": "29a6ee36fa828af422c870ba0f8b4a54e7816f2b6772dd2021822a30b85e2532"
+  },
+  "bootstrap": "2000 paired occupation-group resamples; seed20261008; conditional on published rates, not CFOI measurement error"
+}

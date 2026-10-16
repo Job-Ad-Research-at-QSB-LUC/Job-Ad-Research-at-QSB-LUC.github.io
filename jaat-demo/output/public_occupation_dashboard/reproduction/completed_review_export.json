@@ -1,0 +1,22 @@
+{
+  "source_ledger_sha256": "6815831e43ebf46e5c0f164177c89d58b2c884b023fcddda272f555af2064fe7",
+  "source_rows": 56856,
+  "distinct_completed_reviews": 45487,
+  "status_counts": {
+    "reviewed_yes": 24438,
+    "reviewed_not_retained": 19674,
+    "canonical_retained": 1375
+  },
+  "canonical_without_verdicts": 11361,
+  "incomplete_reviews": 8,
+  "columns": [
+    "occ8",
+    "soc_title",
+    "task_id",
+    "task_text",
+    "canonical",
+    "anthropic_verdict",
+    "openai_verdict",
+    "review_status"
+  ]
+}

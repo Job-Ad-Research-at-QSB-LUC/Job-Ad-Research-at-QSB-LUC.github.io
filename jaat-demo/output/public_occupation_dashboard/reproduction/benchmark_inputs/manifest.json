@@ -1,0 +1,12 @@
+{
+  "scope": "Frozen occupation-level prediction validation; no task identities, posting records, or person records. Does not refit models or remake crosswalks.",
+  "source_rank_sha256": "8205ba7ef60abe56ef8a697efbbef942189149c640b948a3f8abfbd5a13e5f8c",
+  "source_reader": "analysis/onet_currency_20260928/cross_group/analyze.py:getinputs",
+  "cutoff": "min(20, task returned, O*NET returned); no outcome-dependent selection",
+  "denominators": "SST: 1; EMSI: observed destination mass 1/20; surveys: all retained transition weight including unmapped destinations",
+  "input_sha256": {
+    "rankings.csv": "79e79e6bab272332bb19b6183a79162a9a558d4a267c4746d7b6d0bdd80c9ab8",
+    "observed.csv": "8e8eaaa76d6346d1c1bc82aa616d16cdb3c325e49b2ef5b2e1a7fef81dc114fa",
+    "origins.csv": "6ccec07f7037b3e7d8ebfaf8594d74107a2ec6417600828dea234f2f3fed4e3f"
+  }
+}

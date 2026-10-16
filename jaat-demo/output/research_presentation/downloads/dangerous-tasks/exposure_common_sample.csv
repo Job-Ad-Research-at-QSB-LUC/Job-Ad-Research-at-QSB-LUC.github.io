@@ -1,0 +1,15 @@
+indicator,fatalities_N45,DART_N522,contact_N417,falls_N430,lower_falls_N227
+Posting task-incidence share,0.504,0.546,0.619,0.471,0.531
+O*NET assigned-task share,0.253,0.442,0.431,0.397,0.428
+Posting distinct-DWA share,0.647,0.557,0.625,0.458,0.508
+O*NET distinct-DWA share,0.367,0.595,0.63,0.482,0.467
+Exposed to Hazardous Conditions,0.295,0.365,0.394,0.306,0.478
+Exposed to Hazardous Equipment,0.471,0.452,0.526,0.363,0.486
+Exposed to High Places,0.406,0.368,0.393,0.346,0.597
+"Spend Time Climbing Ladders, Scaffolds, or Poles",0.352,0.38,0.407,0.368,0.588
+Spend Time Keeping or Regaining Balance,0.408,0.59,0.529,0.52,0.436
+"Exposed to Minor Burns, Cuts, Bites, or Stings",0.361,0.545,0.586,0.448,0.452
+In an Open Vehicle or Equipment,0.575,0.402,0.45,0.352,0.555
+In an Enclosed Vehicle or Equipment,0.476,0.127,0.044,0.142,0.375
+Exposed to Contaminants,0.449,0.496,0.529,0.413,0.5
+Deal With Physically Aggressive People,-0.166,0.159,-0.043,0.199,-0.142

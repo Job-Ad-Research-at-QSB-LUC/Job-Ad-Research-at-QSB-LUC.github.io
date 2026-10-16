@@ -1,0 +1,611 @@
+task_id,task_description,onet_version,evidence_status
+525,"Sterilize equipment and supplies, using germicides, sterilizer, or autoclave.",27.2,ai_confirmed_incident_activity
+651,"Train or supervise other hairstylists, hairdressers, and assistants.",27.2,ai_confirmed_incident_activity
+882,"Perform scheduled preventive maintenance tasks, such as checking, cleaning, or repairing equipment, to detect and prevent problems.",27.2,ai_confirmed_incident_activity
+893,Coordinate efforts with other workers involved in installing or maintaining equipment or components.,27.2,ai_confirmed_incident_activity
+1113,Train staff members.,27.2,ai_confirmed_incident_activity
+1996,"Work as part of a team that may include psychiatrists, psychologists, psychiatric nurses, or social workers.",27.2,ai_confirmed_incident_activity
+2145,Resolve customer complaints regarding food service.,27.2,ai_confirmed_incident_activity
+2180,Coordinate and supervise work of kitchen staff.,27.2,ai_confirmed_incident_activity
+2224,Check identification of customers to verify age requirements for purchase of alcohol.,27.2,ai_confirmed_incident_activity
+2305,Operate cash registers to accept payments for food and beverages.,27.2,ai_confirmed_incident_activity
+2314,"Transfer luggage, trunks, and packages to and from rooms, loading areas, vehicles, or transportation terminals, by hand or using baggage carts.",27.2,ai_confirmed_incident_activity
+2348,"Perform housekeeping duties, such as laundry, cleaning, dish washing, and changing of linens.",27.2,ai_confirmed_incident_activity
+2395,Provide for entertainment and set up related decorations and equipment.,27.2,ai_confirmed_incident_activity
+2439,Repair parts or equipment.,27.2,ai_confirmed_incident_activity
+2653,Take action to deal with disruptive or problem patrons.,27.2,ai_confirmed_incident_activity
+2725,"Relay work orders, messages, or information to or from work crews, supervisors, or field inspectors, using telephones or two-way radios.",27.2,ai_confirmed_incident_activity
+2866,Remove and replace cracked or damaged tile.,27.2,ai_confirmed_incident_activity
+2875,"Connect wires to circuit breakers, transformers, or other components.",27.2,ai_confirmed_incident_activity
+2878,"Test electrical systems or continuity of circuits in electrical wiring, equipment, or fixtures, using testing devices, such as ohmmeters, voltmeters, or oscilloscopes, to ensure compatibility and safety of system.",27.2,ai_confirmed_incident_activity
+2884,"Install ground leads and connect power cables to equipment, such as motors.",27.2,ai_confirmed_incident_activity
+2886,"Repair or replace wiring, equipment, or fixtures, using hand tools or power tools.",27.2,ai_confirmed_incident_activity
+2887,"Work from ladders, scaffolds, or roofs to install, maintain, or repair electrical wiring, equipment, or fixtures.",27.2,ai_confirmed_incident_activity
+2891,"Perform physically demanding tasks, such as digging trenches to lay conduit or moving or lifting heavy objects.",27.2,ai_confirmed_incident_activity
+2983,"Perform routine maintenance such as changing oil, checking batteries, and lubricating equipment and machinery.",27.2,ai_confirmed_incident_activity
+2985,"Raise trucks, buses, and heavy parts or equipment using hydraulic jacks or hoists.",27.2,ai_confirmed_incident_activity
+2998,Align front ends and suspension systems.,27.2,ai_confirmed_incident_activity
+3001,Repair and replace damaged or worn parts.,27.2,ai_confirmed_incident_activity
+3016,Fabricate needed parts or items from sheet metal.,27.2,ai_confirmed_incident_activity
+3026,"Clean or lubricate shafts, bearings, gears, or other parts of machinery.",27.2,ai_confirmed_incident_activity
+3031,"Paint or repair roofs, windows, doors, floors, woodwork, plaster, drywall, or other parts of building structures.",27.2,ai_confirmed_incident_activity
+3032,Operate cutting torches or welding equipment to cut or join metal parts.,27.2,ai_confirmed_incident_activity
+3037,"Fabricate or repair counters, benches, partitions, or other wooden structures, such as sheds or outbuildings.",27.2,ai_confirmed_incident_activity
+3086,"Transfer tools, parts, equipment, and supplies to and from work stations and other areas.",27.2,ai_confirmed_incident_activity
+3126,Tend or operate machine that packages product.,27.2,ai_confirmed_incident_activity
+3128,"Regulate machine flow, speed, or temperature.",27.2,ai_confirmed_incident_activity
+3129,"Stop or reset machines when malfunctions occur, clear machine jams, and report malfunctions to a supervisor.",27.2,ai_confirmed_incident_activity
+3136,"Monitor the production line, watching for problems such as pile-ups, jams, or glue that isn't sticking properly.",27.2,ai_confirmed_incident_activity
+3138,Start machine by engaging controls.,27.2,ai_confirmed_incident_activity
+3153,Make minor repairs to vehicle and change tires.,27.2,ai_confirmed_incident_activity
+3158,"Drive trucks to deliver such items as food, medical supplies, or newspapers.",27.2,ai_confirmed_incident_activity
+3202,"Move levers or controls that operate lifting devices, such as forklifts, lift beams with swivel-hooks, hoists, or elevating platforms, to load, unload, transport, or stack material.",27.2,ai_confirmed_incident_activity
+3207,"Operate or tend automatic stacking, loading, packaging, or cutting machines.",27.2,ai_confirmed_incident_activity
+3215,"Remove completed or defective products or materials, placing them on moving equipment, such as conveyors, or in specified areas, such as loading docks.",27.2,ai_confirmed_incident_activity
+3640,"Receive, set up, test, or decontaminate equipment.",27.2,ai_confirmed_incident_activity
+3653,Assist in the cleanup of hazardous material spills.,27.2,ai_confirmed_incident_activity
+3752,Feed livestock or laboratory animals.,27.2,ai_confirmed_incident_activity
+3895,Test equipment to ensure proper operation.,27.2,ai_confirmed_incident_activity
+3934,Operate control consoles.,27.2,ai_confirmed_incident_activity
+4092,Check radiation therapy equipment to ensure proper operation.,27.2,ai_confirmed_incident_activity
+4192,"Maintain instruments, equipment, or machinery to ensure proper working condition.",27.2,ai_confirmed_incident_activity
+4297,"Examine equipment to detect leaks, worn or loose parts, or other indications of disrepair.",27.2,ai_confirmed_incident_activity
+4612,Rent properties or manage rental properties.,27.2,ai_confirmed_incident_activity
+4798,"Operate machines to spread, smooth, level, or steel-reinforce stone, concrete, or asphalt on road beds.",27.2,ai_confirmed_incident_activity
+4799,"Operate oil distributors, loaders, chip spreaders, dump trucks, and snow plows.",27.2,ai_confirmed_incident_activity
+4800,Coordinate truck dumping.,27.2,ai_confirmed_incident_activity
+4809,"Fill tanks, hoppers, or machines with paving materials.",27.2,ai_confirmed_incident_activity
+4836,"Perform semi-skilled and unskilled laboring duties related to the installation, maintenance and repair of a wide variety of electrical systems and equipment.",27.2,ai_confirmed_incident_activity
+4848,Dig trenches or holes for installation of conduit or supports.,27.2,ai_confirmed_incident_activity
+4857,Cut or drill holes in walls or floors to accommodate the passage of pipes.,27.2,ai_confirmed_incident_activity
+4865,Disassemble and remove damaged or worn pipe.,27.2,ai_confirmed_incident_activity
+4871,Flag motorists to warn them of obstacles or repair work ahead.,27.2,ai_confirmed_incident_activity
+4879,"Remove litter and debris from roadways, including debris from rock and mud slides.",27.2,ai_confirmed_incident_activity
+4880,"Clean and clear debris from culverts, catch basins, drop inlets, ditches, and other drain structures.",27.2,ai_confirmed_incident_activity
+4881,"Perform roadside landscaping work, such as clearing weeds and brush, and planting and trimming trees.",27.2,ai_confirmed_incident_activity
+4886,"Apply oil to road surfaces, using sprayers.",27.2,ai_confirmed_incident_activity
+4930,"Fill processing or cooking containers, such as kettles, rotating cookers, pressure cookers, or vats, with ingredients, by opening valves, by starting pumps or injectors, or by hand.",27.2,ai_confirmed_incident_activity
+4944,"Record production and test data, such as processing steps, temperature and steam readings, cooking time, batches processed, and test results.",27.2,ai_confirmed_incident_activity
+4951,"Tend or operate and control equipment, such as kettles, cookers, vats and tanks, and boilers, to cook ingredients or prepare products for further processing.",27.2,ai_confirmed_incident_activity
+4954,Remove cooked material or products from equipment.,27.2,ai_confirmed_incident_activity
+4960,"Operate auxiliary machines and equipment, such as grinders, canners, and molding presses, to prepare or further process products.",27.2,ai_confirmed_incident_activity
+4975,"Replace worn or defective equipment parts, using hand tools.",27.2,ai_confirmed_incident_activity
+4983,"Move or reposition hoists, winches, loads and materials, manually or using equipment and machines such as trucks, cars, and hand trucks.",27.2,ai_confirmed_incident_activity
+4993,"Scrub, scrape, or spray machine parts, equipment, or vehicles, using scrapers, brushes, clothes, cleaners, disinfectants, insecticides, acid, abrasives, vacuums, or hoses.",27.2,ai_confirmed_incident_activity
+4995,Press buttons to activate cleaning equipment or machines.,27.2,ai_confirmed_incident_activity
+4998,Drive vehicles to or from workshops or customers' workplaces or homes.,27.2,ai_confirmed_incident_activity
+5005,Maintain inventories of supplies.,27.2,ai_confirmed_incident_activity
+5007,"Turn valves or disconnect hoses to eliminate water, cleaning solutions, or vapors from machinery or tanks.",27.2,ai_confirmed_incident_activity
+5015,Perform routine maintenance on vehicles and equipment.,27.2,ai_confirmed_incident_activity
+5025,"Mix acids, chemicals, or dry cement as required for a specific job.",27.2,ai_confirmed_incident_activity
+5055,"Operate large-volume cooking equipment, such as grills, deep-fat fryers, or griddles.",27.2,ai_confirmed_incident_activity
+5111,Work with others to change advertising displays.,27.2,ai_confirmed_incident_activity
+5177,"Maintain equipment, making repairs or modifications when necessary.",27.2,ai_confirmed_incident_activity
+5540,"Perform general nursery duties, such as propagating standard varieties of plant materials, collecting and germinating seeds, maintaining cuttings of plants, or controlling environmental conditions.",27.2,ai_confirmed_incident_activity
+5541,"Operate farm machinery, including tractors, plows, mowers, combines, balers, sprayers, earthmoving equipment, or trucks.",27.2,ai_confirmed_incident_activity
+5542,"Perform crop production duties, such as tilling, hoeing, pruning, weeding, or harvesting crops.",27.2,ai_confirmed_incident_activity
+6445,Supervise and monitor students' use of tools and equipment.,27.2,ai_confirmed_incident_activity
+6569,"Perform administrative duties, such as school library assistance, hall and cafeteria monitoring, and bus loading and unloading.",27.2,ai_confirmed_incident_activity
+6952,"Aid patients in performing tasks, such as bathing or keeping beds, clothing, or living areas clean.",27.2,ai_confirmed_incident_activity
+7021,Use telephone to deliver verbal messages.,27.2,ai_confirmed_incident_activity
+7026,Check equipment to ensure that it is operating properly.,27.2,ai_confirmed_incident_activity
+7027,"Confer with other workers to discuss issues, such as safety, cutting heights, or work needs.",27.2,ai_confirmed_incident_activity
+7029,"Perform fire protection or suppression duties, such as constructing fire breaks or disposing of brush.",27.2,ai_confirmed_incident_activity
+7047,Check the forms that hold the concrete to see that they are properly constructed.,27.2,ai_confirmed_incident_activity
+7054,Operate power vibrator to compact concrete.,27.2,ai_confirmed_incident_activity
+7112,"Unscrew or tighten pipes, casing, tubing, and pump rods, using hand and power wrenches and tongs.",27.2,ai_confirmed_incident_activity
+7115,"Move pipes to and from trucks, using truck winches and motorized lifts, or by hand.",27.2,ai_confirmed_incident_activity
+7120,Supply equipment to rig floors as requested and provide assistance to roughnecks.,27.2,ai_confirmed_incident_activity
+7162,"Perform maintenance duties, such as sweeping, painting, and yard work to keep facilities clean and in order.",27.2,ai_confirmed_incident_activity
+7171,"Refuel trucks or add other fluids, such as oil or brake fluid.",27.2,ai_confirmed_incident_activity
+7175,Operate equipment that compresses collected refuse.,27.2,ai_confirmed_incident_activity
+7176,Operate automated or semi-automated hoisting devices that raise refuse bins and dump contents into openings in truck bodies.,27.2,ai_confirmed_incident_activity
+7651,Sing or dance during dramatic or comedic performances.,27.2,ai_confirmed_incident_activity
+7934,"Perform facilities maintenance work, such as constructing or repairing structures or controlling weeds or pests.",27.2,ai_confirmed_incident_activity
+7956,Assign and review the work of subordinates.,27.2,ai_confirmed_incident_activity
+7964,Clean facilities and equipment such as dog pens and animal control trucks.,27.2,ai_confirmed_incident_activity
+7976,"Spray or dust chemical solutions, powders, or gases into rooms, onto clothing, furnishings, or wood, or over marshlands, ditches, or catch basins.",27.2,ai_confirmed_incident_activity
+7984,"Dig up and burn weeds, or spray them with herbicides.",27.2,ai_confirmed_incident_activity
+8039,"Perform minor repairs, such as replacing worn sprockets, or notify maintenance personnel of the need for major repairs.",27.2,ai_confirmed_incident_activity
+8209,Maintain a supply of packing materials.,27.2,ai_confirmed_incident_activity
+8221,Clear jams in sorting equipment.,27.2,ai_confirmed_incident_activity
+8239,Exhibit animals at shows.,27.2,ai_confirmed_incident_activity
+8258,"Measure and mark guidelines on surfaces or foundations, using chalk lines and dividers.",27.2,ai_confirmed_incident_activity
+8267,"Position and hold timbers, lumber, or paneling in place for fastening or cutting.",27.2,ai_confirmed_incident_activity
+8302,Maintain and adjust machinery to ensure proper performance.,27.2,ai_confirmed_incident_activity
+8364,"Raise vehicles, using hydraulic jacks.",27.2,ai_confirmed_incident_activity
+8368,Reassemble tires onto wheels.,27.2,ai_confirmed_incident_activity
+8413,Open switches or attach grounding devices to remove electrical hazards from disturbed or fallen lines or to facilitate repairs.,27.2,ai_confirmed_incident_activity
+8414,Climb poles or use truck-mounted buckets to access equipment.,27.2,ai_confirmed_incident_activity
+8465,Set up and adjust machines and equipment.,27.2,ai_confirmed_incident_activity
+8500,"Cut, shape, and trim blanks or blocks to specified lengths or shapes, using power saws, power shears, rules, and hand tools.",27.2,ai_confirmed_incident_activity
+8511,"Monitor or operate boilers, turbines, wells, or auxiliary power plant equipment.",27.2,ai_confirmed_incident_activity
+8546,"Correct machinery malfunctions by performing actions such as removing jams, and inform supervisors of malfunctions as necessary.",27.2,ai_confirmed_incident_activity
+8549,"Scrape, dislodge, or break excess frost, ice, or frozen product from equipment to prevent accumulation, using hands and hand tools.",27.2,ai_confirmed_incident_activity
+8606,"Drive ambulances or assist ambulance drivers in transporting sick, injured, or convalescent persons.",27.2,ai_confirmed_incident_activity
+8785,Prepare special cuts of meat ordered by customers.,27.2,ai_confirmed_incident_activity
+8795,"Use knives, cleavers, meat saws, bandsaws, or other equipment to perform meat cutting and trimming.",27.2,ai_confirmed_incident_activity
+9248,"Cut, shape, fit, join, mold, or otherwise process materials, using hand tools, power tools, or machinery.",27.2,ai_confirmed_incident_activity
+9353,Perform maintenance tasks necessary to keep equipment working properly.,27.2,ai_confirmed_incident_activity
+9491,"Wash pots, pans, dishes, utensils, or other cooking equipment.",27.2,ai_confirmed_incident_activity
+9515,Perform or assist with cleaning duties as necessary.,27.2,ai_confirmed_incident_activity
+9546,"Clean windows, glass partitions, or mirrors, using soapy water or other cleaners, sponges, or squeegees.",27.2,ai_confirmed_incident_activity
+9550,"Dust furniture, walls, machines, or equipment.",27.2,ai_confirmed_incident_activity
+9551,"Move heavy furniture, equipment, or supplies, either manually or with hand trucks.",27.2,ai_confirmed_incident_activity
+9555,"Make adjustments or minor repairs to heating, cooling, ventilating, plumbing, or electrical systems.",27.2,ai_confirmed_incident_activity
+9566,"Sweep, scrub, wax, or polish floors, using brooms, mops, or powered scrubbing and waxing machines.",27.2,ai_confirmed_incident_activity
+9574,"Remove debris from driveways, garages, and swimming pool areas.",27.2,ai_confirmed_incident_activity
+9582,Replace light bulbs.,27.2,ai_confirmed_incident_activity
+9589,"Mow or edge lawns, using power mowers or edgers.",27.2,ai_confirmed_incident_activity
+9730,"Coordinate or perform activities associated with shipping, receiving, distribution, or transportation.",27.2,ai_confirmed_incident_activity
+9821,Saw felled trees into lengths.,27.2,ai_confirmed_incident_activity
+9850,"Take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects.",27.2,ai_confirmed_incident_activity
+9856,"Load and move dirt, rocks, equipment, or other materials, using trucks, crawler tractors, power cranes, shovels, graders, or related equipment.",27.2,ai_confirmed_incident_activity
+9859,"Operate tractors or bulldozers to perform such tasks as clearing land, mixing sludge, trimming backfills, or building roadways or parking lots.",27.2,ai_confirmed_incident_activity
+9862,"Connect hydraulic hoses, belts, mechanical linkages, or power takeoff shafts to tractors.",27.2,ai_confirmed_incident_activity
+9863,"Operate loaders to pull out stumps, rip asphalt or concrete, rough-grade properties, bury refuse, or perform general cleanup.",27.2,ai_confirmed_incident_activity
+9870,"Perform specialized work, using equipment, such as pile drivers, dredging rigs, drillers, or concrete pumpers.",27.2,ai_confirmed_incident_activity
+9875,"Operate equipment to demolish or remove debris or to remove snow from streets, roads, or parking lots.",27.2,ai_confirmed_incident_activity
+9879,Mix mortar and plaster to desired consistency or direct workers who perform mixing.,27.2,ai_confirmed_incident_activity
+9883,"Clean and prepare surfaces for applications of plaster, cement, stucco, or similar materials, such as by drywall taping.",27.2,ai_confirmed_incident_activity
+9885,"Apply weatherproof, decorative coverings to exterior surfaces of buildings, such as by troweling or spraying on coats of stucco.",27.2,ai_confirmed_incident_activity
+9907,"Place explosive charges in holes or other spots; then detonate explosives to demolish structures or to loosen, remove, or displace earth, rock, or other materials.",27.2,ai_confirmed_incident_activity
+9987,"Remove locomotives, car mechanical units, or other components, using pneumatic hoists and jacks, pinch bars, hand tools, and cutting torches.",27.2,ai_confirmed_incident_activity
+9991,"Perform scheduled maintenance, and clean units and components.",27.2,ai_confirmed_incident_activity
+9994,"Disassemble units such as water pumps, control valves, and compressors so that repairs can be made.",27.2,ai_confirmed_incident_activity
+10001,"Paint car exteriors, interiors, and fixtures.",27.2,ai_confirmed_incident_activity
+10024,"Position, align, or adjust workpieces or electrical parts to facilitate wiring or assembly.",27.2,ai_confirmed_incident_activity
+10032,"Paint structures as specified, using paint sprayers.",27.2,ai_confirmed_incident_activity
+10037,Tack-weld fitted parts together.,27.2,ai_confirmed_incident_activity
+10039,"Align and fit parts according to specifications, using jacks, turnbuckles, wedges, drift pins, pry bars, and hammers.",27.2,ai_confirmed_incident_activity
+10043,"Move parts into position, manually or with hoists or cranes.",27.2,ai_confirmed_incident_activity
+10053,"Lift or move materials and finished products, using large cranes.",27.2,ai_confirmed_incident_activity
+10064,"Weigh or measure products, using scale hoppers or scale conveyors.",27.2,ai_confirmed_incident_activity
+10066,Take product samples during or after processing for laboratory analyses.,27.2,ai_confirmed_incident_activity
+10067,"Fill or remove product from trays, carts, hoppers, or equipment, using scoops, peels, or shovels, or by hand.",27.2,ai_confirmed_incident_activity
+10113,"Load workpieces, plastic material, or chemical solutions into machines.",27.2,ai_confirmed_incident_activity
+10114,"Set up, operate, or tend machines to saw, cut, shear, slit, punch, crimp, notch, bend, or straighten metal or plastic material.",27.2,ai_confirmed_incident_activity
+10123,"Place workpieces on cutting tables, manually or using hoists, cranes, or sledges.",27.2,ai_confirmed_incident_activity
+10133,"Hand-form, cut, or finish workpieces, using tools such as table saws, hand sledges, or anvils.",27.2,ai_confirmed_incident_activity
+10143,"Observe machine operations to detect any problems, making necessary adjustments to correct problems.",27.2,ai_confirmed_incident_activity
+10154,Thread and hand-feed materials through machine cutters or abraders.,27.2,ai_confirmed_incident_activity
+10165,"Observe air and temperature gauges or metal color and fluidity, and turn fuel valves or adjust controls to maintain required temperatures.",27.2,ai_confirmed_incident_activity
+10175,"Set up, operate, or tend metal or plastic molding, casting, or coremaking machines to mold or cast metal or thermoplastic parts or products.",27.2,ai_confirmed_incident_activity
+10188,"Remove parts, such as dies, from machines after production runs are finished.",27.2,ai_confirmed_incident_activity
+10190,"Pour or load metal or sand into melting pots, furnaces, molds, or hoppers, using shovels, ladles, or machines.",27.2,ai_confirmed_incident_activity
+10197,Perform maintenance work such as cleaning and oiling machines.,27.2,ai_confirmed_incident_activity
+10207,"Observe machine operation to detect workpiece defects or machine malfunctions, adjusting machines as necessary.",27.2,ai_confirmed_incident_activity
+10217,"Remove burrs, sharp edges, rust, or scale from workpieces, using files, hand grinders, wire brushes, or power tools.",27.2,ai_confirmed_incident_activity
+10220,"Extract or lift jammed pieces from machines, using fingers, wire hooks, or lift bars.",27.2,ai_confirmed_incident_activity
+10268,Load or feed workpieces into welding machines to join or bond components.,27.2,ai_confirmed_incident_activity
+10270,Correct problems by adjusting controls or by stopping machines and opening holding devices.,27.2,ai_confirmed_incident_activity
+10290,"Transfer components, metal products, or assemblies, using moving equipment.",27.2,ai_confirmed_incident_activity
+10297,"Lay out and fabricate metal structural parts such as plates, bulkheads, and frames.",27.2,ai_confirmed_incident_activity
+10313,"Position and feed materials into processing machines, by hand or by using automated equipment.",27.2,ai_confirmed_incident_activity
+10321,"Perform equipment maintenance, such as cleaning tanks and lubricating moving parts of conveyors.",27.2,ai_confirmed_incident_activity
+10342,"Remove excess materials or impurities from objects, using air hoses or grinding machines.",27.2,ai_confirmed_incident_activity
+10346,"Cut metal or other materials, using shears or band saws.",27.2,ai_confirmed_incident_activity
+10353,"File or finish surfaces of workpieces, using prescribed hand tools.",27.2,ai_confirmed_incident_activity
+10481,"Perform or arrange for repairs, such as complete overhauls, replacement of defective valves, gaskets, or bearings, or fabrication of new parts.",27.2,ai_confirmed_incident_activity
+10486,"Test electrical systems to determine voltages, using voltage meters.",27.2,ai_confirmed_incident_activity
+10495,"Control or operate chemical processes or systems of machines, using panelboards, control boards, or semi-automatic equipment.",27.2,ai_confirmed_incident_activity
+10506,"Turn valves to regulate flow of products or byproducts through agitator tanks, storage drums, or neutralizer tanks.",27.2,ai_confirmed_incident_activity
+10509,Repair or replace damaged equipment.,27.2,ai_confirmed_incident_activity
+10641,"Drive trucks with capacities greater than 3 tons, including tractor-trailer combinations, to transport and deliver products, livestock, or other materials.",27.2,ai_confirmed_incident_activity
+10642,"Secure cargo for transport, using ropes, blocks, chain, binders, or covers.",27.2,ai_confirmed_incident_activity
+10668,"Drive engines within railroad yards or other establishments to couple, uncouple, or switch railroad cars.",27.2,ai_confirmed_incident_activity
+10674,Spot cars for loading and unloading at customer locations.,27.2,ai_confirmed_incident_activity
+10687,Operate flatcars equipped with derricks or railcars to transport personnel or equipment.,27.2,ai_confirmed_incident_activity
+10715,"Clean parking areas, offices, restrooms, or equipment, and remove trash.",27.2,ai_confirmed_incident_activity
+10727,Operate car washes.,27.2,ai_confirmed_incident_activity
+10746,"Manipulate controls, levers, and valves to start pumps, auxiliary equipment, or conveyors, and to adjust equipment positions, speeds, timing, and material flows.",27.2,ai_confirmed_incident_activity
+10755,"Stop equipment or machinery and clear jams, using poles, bars, and hand tools, or remove damaged materials from conveyors.",27.2,ai_confirmed_incident_activity
+10757,"Load, unload, or adjust materials or products on conveyors by hand, by using lifts, hoists, and scoops, or by opening gates, chutes, or hoppers.",27.2,ai_confirmed_incident_activity
+10768,"Move levers, depress foot pedals, or turn dials to operate cranes, cherry pickers, electromagnets, or other moving equipment for lifting, moving, or placing loads.",27.2,ai_confirmed_incident_activity
+10773,"Load or unload bundles from trucks, or move containers to storage bins, using moving equipment.",27.2,ai_confirmed_incident_activity
+10781,"Move freight, stock, or other materials to and from storage or production areas, loading docks, delivery vehicles, ships, or containers, by hand or using trucks, tractors, or other equipment.",27.2,ai_confirmed_incident_activity
+10791,"Carry out general yard duties, such as performing shunting on railway lines.",27.2,ai_confirmed_incident_activity
+10792,"Adjust controls to guide, position, or move equipment, such as cranes, booms, or cameras.",27.2,ai_confirmed_incident_activity
+10794,"Adjust or replace equipment parts, such as rollers, belts, plugs, or caps, using hand tools.",27.2,ai_confirmed_incident_activity
+10798,"Bundle and band material such as fodder or tobacco leaves, using banding machines.",27.2,ai_confirmed_incident_activity
+10804,Wash out cargo containers or storage areas.,27.2,ai_confirmed_incident_activity
+11122,"Direct traffic movement or warn of hazards, using signs, flags, lanterns, and hand signals.",27.2,ai_confirmed_incident_activity
+11177,Replenish supplies of food or equipment at steam tables or service bars.,27.2,ai_confirmed_incident_activity
+11190,Sweep or scrub floors.,27.2,ai_confirmed_incident_activity
+11198,Load or unload trucks that deliver or pick up food or supplies.,27.2,ai_confirmed_incident_activity
+11210,"Direct or perform mixing or application of fertilizers, insecticides, herbicides, or fungicides.",27.2,ai_confirmed_incident_activity
+11231,"Start motors and engage machinery, such as sprayer agitators or pumps or portable spray equipment.",27.2,ai_confirmed_incident_activity
+11387,Unload or unpack incoming shipments.,27.2,ai_confirmed_incident_activity
+11398,"Transport materials, products, or samples to processing, shipping, or storage areas, manually or using conveyors, pumps, or hand trucks.",27.2,ai_confirmed_incident_activity
+11433,"Provide assistance to workers engaged in construction or extraction activities, using hand tools or other equipment.",27.2,ai_confirmed_incident_activity
+11438,"Examine boilers, pressure vessels, tanks, or vats to locate defects, such as leaks, weak spots, or defective sections, so that they can be repaired.",27.2,ai_confirmed_incident_activity
+11439,"Bolt or arc weld pressure vessel structures and parts together, using wrenches or welding equipment.",27.2,ai_confirmed_incident_activity
+11442,Attach rigging and signal crane or hoist operators to lift heavy frame and plate sections or other parts into place.,27.2,ai_confirmed_incident_activity
+11455,Clean or prepare construction sites to eliminate possible hazards.,27.2,ai_confirmed_incident_activity
+11457,"Control traffic passing near, in, or around work zones.",27.2,ai_confirmed_incident_activity
+11460,"Position, join, align, or seal structural components, such as concrete wall sections or pipes.",27.2,ai_confirmed_incident_activity
+11466,Operate jackhammers or drills to break up concrete or pavement.,27.2,ai_confirmed_incident_activity
+11467,"Smooth or finish freshly poured cement or concrete, using floats, trowels, screeds, or powered cement finishing tools.",27.2,ai_confirmed_incident_activity
+11472,"Tend pumps, compressors, or generators to provide power for tools, machinery, or equipment or to heat or move materials, such as asphalt.",27.2,ai_confirmed_incident_activity
+11474,"Place, consolidate, or protect case-in-place concrete or masonry structures.",27.2,ai_confirmed_incident_activity
+11475,"Identify, pack, or transport hazardous or radioactive materials.",27.2,ai_confirmed_incident_activity
+11479,"Tend machines that pump concrete, grout, cement, sand, plaster, or stucco through spray guns for application to ceilings or walls.",27.2,ai_confirmed_incident_activity
+11481,Raze buildings or salvage useful materials.,27.2,ai_confirmed_incident_activity
+11482,"Spray materials, such as water, sand, steam, vinyl, paint, or stucco, through hoses to clean, coat, or seal surfaces.",27.2,ai_confirmed_incident_activity
+11498,"Assemble, erect, or dismantle scaffolds, rigging, or hoisting equipment.",27.2,ai_confirmed_incident_activity
+11511,Cover surfaces with dropcloths or masking tape and paper to protect surfaces during painting.,27.2,ai_confirmed_incident_activity
+11514,"Apply paint, stain, varnish, enamel, or other finishes to equipment, buildings, bridges, or other structures, using brushes, spray guns, or rollers.",27.2,ai_confirmed_incident_activity
+11517,"Erect scaffolding or swing gates, or set up ladders, to work above ground level.",27.2,ai_confirmed_incident_activity
+11523,"Smooth surfaces, using sandpaper, scrapers, brushes, steel wool, or sanding machines.",27.2,ai_confirmed_incident_activity
+11526,"Waterproof buildings, using waterproofers or caulking.",27.2,ai_confirmed_incident_activity
+11532,"Connect pipe pieces and seal joints, using welding equipment, cement, or glue.",27.2,ai_confirmed_incident_activity
+11534,Install or repair sanitary or stormwater sewer structures or pipe systems.,27.2,ai_confirmed_incident_activity
+11538,Align and position pipes to prepare them for welding or sealing.,27.2,ai_confirmed_incident_activity
+11539,"Dig trenches to desired or required depths, by hand or using trenching tools.",27.2,ai_confirmed_incident_activity
+11540,"Operate mechanized equipment, such as pickup trucks, rollers, tandem dump trucks, front-end loaders, or backhoes.",27.2,ai_confirmed_incident_activity
+11552,"Cut, bend, or weld steel pieces, using metal shears, torches, or welding equipment.",27.2,ai_confirmed_incident_activity
+11556,"Erect metal or precast concrete components for structures, such as buildings, bridges, dams, towers, storage tanks, fences, or highway guard rails.",27.2,ai_confirmed_incident_activity
+11559,Dismantle structures or equipment.,27.2,ai_confirmed_incident_activity
+11587,"Operate machines or equipment to remove, package, store, or transport loads of waste materials.",27.2,ai_confirmed_incident_activity
+11588,"Load or unload materials into containers or onto trucks, using hoists or forklifts.",27.2,ai_confirmed_incident_activity
+11589,"Clean contaminated equipment or areas for reuse, using detergents or solvents, sandblasters, filter pumps, or steam cleaners.",27.2,ai_confirmed_incident_activity
+11630,Operate machines to test functioning of parts or mechanisms.,27.2,ai_confirmed_incident_activity
+11640,"Clean, oil, or adjust mechanical parts to maintain machines' operating efficiency and to prevent breakdowns.",27.2,ai_confirmed_incident_activity
+11657,Adjust or modify equipment to enhance equipment performance or to respond to customer requests.,27.2,ai_confirmed_incident_activity
+11662,Collaborate with other workers to locate and correct malfunctions.,27.2,ai_confirmed_incident_activity
+11699,Lubricate moving parts.,27.2,ai_confirmed_incident_activity
+11702,"Lift units or parts such as motors or generators, using cranes or chain hoists, or signal crane operators to lift heavy parts or subassemblies.",27.2,ai_confirmed_incident_activity
+11730,"Install new fuses, electrical cables, or power sources as required.",27.2,ai_confirmed_incident_activity
+11731,Locate and remove or repair circuit defects such as blown fuses or malfunctioning transistors.,27.2,ai_confirmed_incident_activity
+11737,"Install electrical equipment such as air-conditioning, heating, or ignition systems and components such as generator brushes and commutators, using hand tools.",27.2,ai_confirmed_incident_activity
+11758,"Examine systems to locate problems, such as loose connections or broken insulation.",27.2,ai_confirmed_incident_activity
+11766,"Drill holes for wiring in wall studs, joists, ceilings, or floors.",27.2,ai_confirmed_incident_activity
+11829,Start machines and observe mechanical operation to determine efficiency and to detect problems.,27.2,ai_confirmed_incident_activity
+11837,"Collaborate with other workers to repair or move machines, machine parts, or equipment.",27.2,ai_confirmed_incident_activity
+11841,"Clean machines and machine parts, using cleaning solvents, cloths, air guns, hoses, vacuums, or other equipment.",27.2,ai_confirmed_incident_activity
+11850,"Set up service for customers, installing, connecting, testing, or adjusting equipment.",27.2,ai_confirmed_incident_activity
+11861,Dig trenches for underground wires or cables.,27.2,ai_confirmed_incident_activity
+11864,Participate in the construction or removal of telecommunication towers or associated support structures.,27.2,ai_confirmed_incident_activity
+11917,"Combine measured ingredients in bowls of mixing, blending, or cooking machinery.",27.2,ai_confirmed_incident_activity
+11919,"Roll, knead, cut, or shape dough to form sweet rolls, pie crusts, tarts, cookies, or other products.",27.2,ai_confirmed_incident_activity
+11930,Operate slicing or wrapping machines.,27.2,ai_confirmed_incident_activity
+11935,"Listen to machines during operation to detect sounds such as those made by dull cutting tools or excessive vibration, and adjust machines to compensate for problems.",27.2,ai_confirmed_incident_activity
+11950,"Stack or load finished items, or place items on conveyor systems.",27.2,ai_confirmed_incident_activity
+11954,Set up future jobs while machines are operating.,27.2,ai_confirmed_incident_activity
+12031,"Align, fit, and join parts, using bolts and screws or by welding or gluing.",27.2,ai_confirmed_incident_activity
+12051,"Move and position workpieces, such as mold sections, patterns, and bottom boards, using cranes, or signal others to move workpieces.",27.2,ai_confirmed_incident_activity
+12060,"Pour molten metal into molds, manually or with crane ladles.",27.2,ai_confirmed_incident_activity
+12159,Cut excess material or thread from finished products.,27.2,ai_confirmed_incident_activity
+12212,"Set up or operate machines, including power saws, jointers, mortisers, tenoners, molders, or shapers, to cut, mold, or shape woodstock or wood substitutes.",27.2,ai_confirmed_incident_activity
+12219,"Trim, sand, or scrape surfaces or joints to prepare articles for finishing.",27.2,ai_confirmed_incident_activity
+12226,"Repair or alter wooden furniture, cabinetry, fixtures, paneling, or other pieces.",27.2,ai_confirmed_incident_activity
+12256,Mount and bolt sawing blades or attachments to machine shafts.,27.2,ai_confirmed_incident_activity
+12259,"Guide workpieces against saws, saw over workpieces by hand, or operate automatic feeding devices to guide cuts.",27.2,ai_confirmed_incident_activity
+12263,"Lubricate or clean machines, using wrenches, grease guns, or solvents.",27.2,ai_confirmed_incident_activity
+12284,"Push or hold workpieces against, under, or through cutting, boring, or shaping mechanisms.",27.2,ai_confirmed_incident_activity
+12289,"Clean or maintain products, machines, or work areas.",27.2,ai_confirmed_incident_activity
+12293,"Operate gluing machines to glue pieces of wood together, or to press and affix wood veneer to wood surfaces.",27.2,ai_confirmed_incident_activity
+12307,Manipulate controls to adjust or activate power distribution equipment or machines.,27.2,ai_confirmed_incident_activity
+12327,"Make adjustments or minor repairs, such as tightening leaking gland or pipe joints.",27.2,ai_confirmed_incident_activity
+12331,"Examine and test electrical power distribution machinery and equipment, using testing devices.",27.2,ai_confirmed_incident_activity
+12345,"Open valves or start pumps, agitators, reactors, blowers, or automatic feed of materials.",27.2,ai_confirmed_incident_activity
+12349,"Flush or clean equipment, using steam hoses or mechanical reamers.",27.2,ai_confirmed_incident_activity
+12352,"Dump or scoop prescribed solid, granular, or powdered materials into equipment.",27.2,ai_confirmed_incident_activity
+12364,"Clean or sterilize tanks, screens, inflow pipes, production areas, or equipment, using hoses, brushes, scrapers, or chemical solutions.",27.2,ai_confirmed_incident_activity
+12369,"Remove clogs, defects, or impurities from machines, tanks, conveyors, screens, or other processing equipment.",27.2,ai_confirmed_incident_activity
+12372,Turn valves to pump sterilizing solutions or rinse water through pipes or equipment or to spray vats with atomizers.,27.2,ai_confirmed_incident_activity
+12373,Remove full containers from discharge outlets and replace them with empty containers.,27.2,ai_confirmed_incident_activity
+12389,"Tend accessory equipment, such as pumps and conveyors, to move materials or ingredients through production processes.",27.2,ai_confirmed_incident_activity
+12400,"Operate or tend machines to mix or blend any of a wide variety of materials, such as spices, dough batter, tobacco, fruit juices, chemicals, livestock feed, food products, color pigments, or explosive ingredients.",27.2,ai_confirmed_incident_activity
+12405,"Add or mix chemicals or ingredients for processing, using hand tools or other devices.",27.2,ai_confirmed_incident_activity
+12422,"Press buttons, pull levers, or depress pedals to start and operate cutting and slicing machines.",27.2,ai_confirmed_incident_activity
+12425,Monitor operation of cutting or slicing machines to detect malfunctions or to determine whether supplies need replenishment.,27.2,ai_confirmed_incident_activity
+12429,"Move stock or scrap to and from machines manually, or by using carts, handtrucks, or lift trucks.",27.2,ai_confirmed_incident_activity
+12432,"Feed stock into cutting machines, onto conveyors, or under cutting blades, by threading, guiding, pushing, or turning handwheels.",27.2,ai_confirmed_incident_activity
+12447,Press control buttons to activate machinery and equipment.,27.2,ai_confirmed_incident_activity
+12454,Feed products into machines by hand or conveyor.,27.2,ai_confirmed_incident_activity
+12456,"Move materials, supplies, components, and finished products between storage and work areas, using work aids such as racks, hoists, and handtrucks.",27.2,ai_confirmed_incident_activity
+12465,"Ignite burners to preheat products, or use torches to apply heat.",27.2,ai_confirmed_incident_activity
+12486,Read dials or meters to verify that equipment is functioning at specified levels.,27.2,ai_confirmed_incident_activity
+12512,Operate auxiliary machines or equipment used in coating or painting processes.,27.2,ai_confirmed_incident_activity
+12599,Monitor machine operations to detect malfunctions and report or resolve problems.,27.2,ai_confirmed_incident_activity
+12606,Remove jammed materials from machines and readjust components as necessary to resume normal operations.,27.2,ai_confirmed_incident_activity
+12645,"Cut lengths of tubing to specified sizes, using files or cutting wheels.",27.2,ai_confirmed_incident_activity
+12683,"Observe operation of various machines to detect and correct machine malfunctions such as improper forming, glue flow, or pasteboard tension.",27.2,ai_confirmed_incident_activity
+12693,"Operate machinery used in the production process, or assist machine operators.",27.2,ai_confirmed_incident_activity
+12699,"Load and unload items from machines, conveyors, and conveyances.",27.2,ai_confirmed_incident_activity
+12701,Clean and lubricate equipment.,27.2,ai_confirmed_incident_activity
+12703,Start machines or equipment to begin production processes.,27.2,ai_confirmed_incident_activity
+12707,"Remove products, machine attachments, or waste material from machines.",27.2,ai_confirmed_incident_activity
+12719,"Wash work areas, machines, equipment, vehicles, or products.",27.2,ai_confirmed_incident_activity
+12726,"Attach slings, ropes, or cables to objects such as pipes, hoses, or bundles.",27.2,ai_confirmed_incident_activity
+12744,"Inspect, adjust, or control radio equipment or airport lights.",27.2,ai_confirmed_incident_activity
+12778,Set up or inspect equipment prior to operation.,27.2,ai_confirmed_incident_activity
+12781,"Operate machinery to perform activities such as backfilling excavations, vibrating or breaking rock or concrete, or making winter roads.",27.2,ai_confirmed_incident_activity
+12784,"Move materials over short distances, such as around a construction site, factory, or warehouse.",27.2,ai_confirmed_incident_activity
+12789,"Perform manual labor to prepare or finish sites, such as shoveling materials by hand.",27.2,ai_confirmed_incident_activity
+12794,"Operate ship loading and unloading equipment, conveyors, hoists, and other specialized material handling equipment such as railroad tank car unloading equipment.",27.2,ai_confirmed_incident_activity
+12798,"Operate industrial trucks, tractors, loaders, and other equipment to transport materials to and from transportation vehicles and loading docks, and to store and retrieve materials in warehouses.",27.2,ai_confirmed_incident_activity
+12805,Operate conveyors and equipment to transfer grain or other materials from transportation vehicles.,27.2,ai_confirmed_incident_activity
+12810,"Perform general warehouse activities, such as opening containers and crates, filling warehouse orders, assisting in taking inventory, and weighing and checking materials.",27.2,ai_confirmed_incident_activity
+13033,Attend scheduled practice or training sessions.,27.2,ai_confirmed_incident_activity
+13114,"Climb trees, using climbing hooks and belts, or climb ladders to gain access to work areas.",27.2,ai_confirmed_incident_activity
+13116,"Cut away dead and excess branches from trees, or clear branches around power lines, using climbing equipment or buckets of extended truck booms, or chainsaws, hooks, handsaws, shears, and clippers.",27.2,ai_confirmed_incident_activity
+13129,"Transplant and remove trees and shrubs, and prepare trees for moving.",27.2,ai_confirmed_incident_activity
+13177,Signal transportation operators to stop or to proceed.,27.2,ai_confirmed_incident_activity
+13211,Stock shelves with products.,27.2,ai_confirmed_incident_activity
+13242,Stock carts or stands.,27.2,ai_confirmed_incident_activity
+13294,"Monitor machine operation, and make adjustments as necessary to ensure proper operation.",27.2,ai_confirmed_incident_activity
+13295,Load machines with materials such as blank paper or film.,27.2,ai_confirmed_incident_activity
+13299,"Operate auxiliary machines such as collators, pad and tablet making machines, staplers, and paper punching, folding, cutting, and perforating machines.",27.2,ai_confirmed_incident_activity
+13356,Observe and listen to machinery operation to detect equipment malfunctions.,27.2,ai_confirmed_incident_activity
+13362,"Load hoppers, containers, or conveyors to feed machines with products, using forklifts, transfer augers, suction gates, shovels, or pitchforks.",27.2,ai_confirmed_incident_activity
+13416,"Move equipment, poultry, or livestock from one location to another, manually or using trucks or carts.",27.2,ai_confirmed_incident_activity
+13423,"Milk animals such as cows and goats, by hand or using milking machines.",27.2,ai_confirmed_incident_activity
+13498,"Load logs or wood onto trucks, trailers, or railroad cars, by hand or using loaders or winches.",27.2,ai_confirmed_incident_activity
+13510,Coordinate work with drywall finishers who cover the seams between drywall panels.,27.2,ai_confirmed_incident_activity
+13528,"Remove existing plaster, drywall, or paneling, using crowbars and hammers.",27.2,ai_confirmed_incident_activity
+13537,Apply additional coats to fill in holes and make surfaces smooth.,27.2,ai_confirmed_incident_activity
+13552,"Prepare surfaces for insulation application by brushing or spreading on adhesives, cement, or asphalt, or by attaching metal pins to surfaces.",27.2,ai_confirmed_incident_activity
+13586,"Remove snow, water, or debris from roofs prior to applying roofing materials.",27.2,ai_confirmed_incident_activity
+13592,"Apply plastic coatings, membranes, fiberglass, or felt over sloped roofs before applying shingles.",27.2,ai_confirmed_incident_activity
+13598,Erect scaffolding or other installation structures.,27.2,ai_confirmed_incident_activity
+13604,"Provide assistance in the preparation, installation, repair, or rebuilding of tile, brick, or stone surfaces.",27.2,ai_confirmed_incident_activity
+13606,"Transport materials, tools, or machines to installation sites, manually or using conveyance equipment.",27.2,ai_confirmed_incident_activity
+13607,"Move or position materials such as marble slabs, using cranes, hoists, or dollies.",27.2,ai_confirmed_incident_activity
+13610,"Arrange or store materials, machines, tools, or equipment.",27.2,ai_confirmed_incident_activity
+13614,"Apply protective coverings, such as masking tape, to articles or areas that could be damaged or stained by work processes.",27.2,ai_confirmed_incident_activity
+13615,Erect scaffolding.,27.2,ai_confirmed_incident_activity
+13617,Supply or hold tools and materials.,27.2,ai_confirmed_incident_activity
+13626,"Dig postholes, using spades, posthole diggers, or power-driven augers.",27.2,ai_confirmed_incident_activity
+13657,Clean or make minor repairs to machines or equipment.,27.2,ai_confirmed_incident_activity
+13675,"Drill or bore holes in rock for blasting, grouting, anchoring, or building foundations.",27.2,ai_confirmed_incident_activity
+13684,"Operate water-well drilling rigs and other equipment to drill, bore, and dig for water wells or for environmental assessment purposes.",27.2,ai_confirmed_incident_activity
+13685,Perform pumping tests to assess well performance.,27.2,ai_confirmed_incident_activity
+13694,Signal crane operators to move equipment.,27.2,ai_confirmed_incident_activity
+13699,Observe and monitor equipment operation during the extraction process to detect any problems.,27.2,ai_confirmed_incident_activity
+13707,Signal workers to start geological material extraction or boring.,27.2,ai_confirmed_incident_activity
+13711,Dig trenches.,27.2,ai_confirmed_incident_activity
+13732,"Cut openings and drill holes for fixtures and equipment, using electric drills and routers.",27.2,ai_confirmed_incident_activity
+13770,"Repair engine mechanical equipment, such as power tilts, bilge pumps, or power take-offs.",27.2,ai_confirmed_incident_activity
+13785,Replace motors.,27.2,ai_confirmed_incident_activity
+13792,"Replace worn and defective parts such as switches, bearings, transmissions, belts, gears, circuit boards, or defective wiring.",27.2,ai_confirmed_incident_activity
+13794,"Reassemble units after repairs are made, making adjustments and cleaning and lubricating parts as needed.",27.2,ai_confirmed_incident_activity
+13807,"Set appliance thermostats, and check to ensure that they are functioning properly.",27.2,ai_confirmed_incident_activity
+13838,Make service calls to maintain and repair machines.,27.2,ai_confirmed_incident_activity
+13840,Test machines to determine proper functioning.,27.2,ai_confirmed_incident_activity
+13853,Prepare repair cost estimates.,27.2,ai_confirmed_incident_activity
+13857,"Descend into water with the aid of diver helpers, using scuba gear or diving suits.",27.2,ai_confirmed_incident_activity
+13865,"Install, inspect, clean, or repair piping or valves.",27.2,ai_confirmed_incident_activity
+13879,Move and set up mobile homes or prefabricated buildings on owners' lots or at mobile home parks.,27.2,ai_confirmed_incident_activity
+13890,Connect electrical systems to outside power sources and activate switches to test the operation of appliances and light fixtures.,27.2,ai_confirmed_incident_activity
+13892,Signal or verbally direct workers engaged in hoisting and moving loads to ensure safety of workers and materials.,27.2,ai_confirmed_incident_activity
+13935,"Set up or operate machines or systems to crimp, cut, bend, form, swage, flare, bead, burr, or straighten tubing, according to specifications.",27.2,ai_confirmed_incident_activity
+13936,"Weld tubing and fittings or solder cable ends, using tack welders, induction brazing chambers, or other equipment.",27.2,ai_confirmed_incident_activity
+13956,"Operate or tend automated assembling equipment, such as robotics and fixed automation equipment.",27.2,ai_confirmed_incident_activity
+13961,"Rework, repair, or replace damaged parts or assemblies.",27.2,ai_confirmed_incident_activity
+13963,Maintain and lubricate parts or components.,27.2,ai_confirmed_incident_activity
+14005,"Move controls to set cutting specifications, to position cutting tools and workpieces in relation to each other, and to start machines.",27.2,ai_confirmed_incident_activity
+14009,"Move cutters or material manually or by turning handwheels, or engage automatic feeding mechanisms to mill workpieces to specifications.",27.2,ai_confirmed_incident_activity
+14036,"Lower irons, rams, or pressing heads of machines into position over material to be pressed.",27.2,ai_confirmed_incident_activity
+14043,"Straighten, smooth, or shape materials to prepare them for pressing.",27.2,ai_confirmed_incident_activity
+14099,Test machinery to ensure proper functioning before beginning production.,27.2,ai_confirmed_incident_activity
+14127,"Start and control machines and equipment to wash, bleach, dye, or otherwise process and finish fabric, yarn, thread, or other textile goods.",27.2,ai_confirmed_incident_activity
+14134,Inspect machinery to determine necessary adjustments and repairs.,27.2,ai_confirmed_incident_activity
+14140,"Mount rolls of cloth on machines, using hoists, or place textile goods in machines or pieces of equipment.",27.2,ai_confirmed_incident_activity
+14149,Inspect machinery to determine whether repairs are needed.,27.2,ai_confirmed_incident_activity
+14184,"Start machines, monitor operation, and make adjustments as needed.",27.2,ai_confirmed_incident_activity
+14207,"Remove excess, entangled, or completed filaments from machines, using hand tools.",27.2,ai_confirmed_incident_activity
+14220,"Clean and maintain extruding and forming machines, using hand tools.",27.2,ai_confirmed_incident_activity
+14293,Collaborate with other operators to solve unit problems.,27.2,ai_confirmed_incident_activity
+14303,Signal or direct workers who tend auxiliary equipment.,27.2,ai_confirmed_incident_activity
+14320,"Inspect pipelines, tightening connections and lubricating valves as necessary.",27.2,ai_confirmed_incident_activity
+14321,"Conduct general housekeeping of units, including wiping up oil spills and performing general cleaning duties.",27.2,ai_confirmed_incident_activity
+14331,"Move controls to adjust, start, or stop equipment during grinding and polishing processes.",27.2,ai_confirmed_incident_activity
+14336,"Trim, scrape, or deburr objects or parts, using chisels, scrapers, and other hand tools and equipment.",27.2,ai_confirmed_incident_activity
+14366,"Transport items to work or storage areas, using carts.",27.2,ai_confirmed_incident_activity
+14367,"Operate or tend machines to wash and remove impurities from items such as barrels or kegs, glass products, tin plate surfaces, dried fruit, pulp, animal stock, coal, manufactured articles, plastic, or rubber.",27.2,ai_confirmed_incident_activity
+14380,"Position and clamp workpieces, plates, or rollers in holding fixtures.",27.2,ai_confirmed_incident_activity
+14543,Service motors by performing tasks such as changing oil and lubricating parts.,27.2,ai_confirmed_incident_activity
+14550,Perform general labor duties such as repairing booms.,27.2,ai_confirmed_incident_activity
+14554,"Maintain electrical power, heating, ventilation, refrigeration, water, or sewerage systems.",27.2,ai_confirmed_incident_activity
+14560,"Maintain or repair engines, electric motors, pumps, winches, or other mechanical or electrical equipment, or assist other crew members with maintenance or repair duties.",27.2,ai_confirmed_incident_activity
+14561,"Perform general marine vessel maintenance or repair work, such as repairing leaks, finishing interiors, refueling, or maintaining decks.",27.2,ai_confirmed_incident_activity
+14585,"Push dual control buttons and move controls to start, stop, or adjust machinery and equipment.",27.2,ai_confirmed_incident_activity
+14587,"Load materials and products into machines and equipment, or onto conveyors, using hand tools and moving devices.",27.2,ai_confirmed_incident_activity
+14592,"Add chemicals, solutions, or ingredients to machines or equipment as required by the manufacturing process.",27.2,ai_confirmed_incident_activity
+14597,Adjust valves and equipment to obtain specified performance.,27.2,ai_confirmed_incident_activity
+14599,"Operate power-driven pumps that transfer liquids, semi-liquids, gases, or powdered materials.",27.2,ai_confirmed_incident_activity
+14604,"Take samples of gases and conduct chemical tests to determine gas quality and sulfur or moisture content, or send samples to laboratories for analysis.",27.2,ai_confirmed_incident_activity
+14608,"Maintain each station by performing general housekeeping duties such as painting, washing, and cleaning.",27.2,ai_confirmed_incident_activity
+14620,Add chemicals and solutions to tanks to ensure that specifications are met.,27.2,ai_confirmed_incident_activity
+14675,Monitor system operation to detect potential problems.,27.2,ai_confirmed_incident_activity
+14903,"Drive pilings to provide support for buildings or other structures, using heavy equipment with a pile driver head.",27.2,ai_confirmed_incident_activity
+14930,Maintain tools and equipment.,27.2,ai_confirmed_incident_activity
+14932,Remove old roofing materials.,27.2,ai_confirmed_incident_activity
+14936,"Provide assistance to skilled roofers installing and repairing roofs, flashings, and surfaces.",27.2,ai_confirmed_incident_activity
+14971,Set charges of explosives to split rock.,27.2,ai_confirmed_incident_activity
+15258,Participate in required job training.,27.2,ai_confirmed_incident_activity
+15266,"Manually or mechanically load or unload materials from pallets, skids, platforms, cars, lifting devices, or other transport vehicles.",27.2,ai_confirmed_incident_activity
+15478,"Supervise biomass plant or substation operations, maintenance, repair, or testing activities.",27.2,ai_confirmed_incident_activity
+15849,Identify environmental contamination sources.,27.2,ai_confirmed_incident_activity
+15937,Monitor or trace the location of goods.,27.2,ai_confirmed_incident_activity
+16074,"Implement or perform preventive maintenance, backup, or recovery procedures.",27.2,ai_confirmed_incident_activity
+16438,Conduct or direct system-level automotive testing.,27.2,ai_confirmed_incident_activity
+16519,Investigate mechanical failures or unexpected maintenance problems.,27.2,ai_confirmed_incident_activity
+16520,"Install, calibrate, operate, or maintain robots.",27.2,ai_confirmed_incident_activity
+16580,"Fabricate housings, jigs, fittings, or fixtures, using metalworking machines.",27.2,ai_confirmed_incident_activity
+16583,Inspect installation sites.,27.2,ai_confirmed_incident_activity
+16596,Build or assemble robotic devices or systems.,27.2,ai_confirmed_incident_activity
+17067,Conduct physical examinations of patients.,27.2,ai_confirmed_incident_activity
+17539,"Perform support duties, such as preparing materials, keeping records, maintaining supplies, and scheduling activities.",27.2,ai_confirmed_incident_activity
+17582,"Clean or sanitize work areas, utensils, or equipment.",27.2,ai_confirmed_incident_activity
+17592,Take out garbage.,27.2,ai_confirmed_incident_activity
+17599,"Slice fruits, vegetables, desserts, or meats for use in food service.",27.2,ai_confirmed_incident_activity
+17761,"Test operating voltages to ensure operation within acceptable limits for power conditioning equipment, such as inverters and controllers.",27.2,ai_confirmed_incident_activity
+17775,"Install copper or plastic plumbing using pipes, fittings, pipe cutters, acetylene torches, solder, wire brushes, sand cloths, flux, plastic pipe cleaners, or plastic glue.",27.2,ai_confirmed_incident_activity
+17790,"Apply insulation materials, such as loose, blanket, board, and foam insulation to attics, crawl spaces, basements, or walls.",27.2,ai_confirmed_incident_activity
+17799,"Apply spackling, compounding, or other materials to repair holes in walls.",27.2,ai_confirmed_incident_activity
+17807,"Climb wind turbine towers to inspect, maintain, or repair equipment.",27.2,ai_confirmed_incident_activity
+17876,Operate automated refuse or manual recycling collection vehicles.,27.2,ai_confirmed_incident_activity
+17877,Operate balers to compress recyclable materials into bundles or bales.,27.2,ai_confirmed_incident_activity
+17879,"Operate processing equipment, such as fiber-sorters and grinders, to sort, crush, or grind recyclable materials.",27.2,ai_confirmed_incident_activity
+17882,"Sort metals to separate high-grade metals, such as copper, brass, and aluminum, for recycling.",27.2,ai_confirmed_incident_activity
+17900,"Operate fork lifts, skid loaders, or trucks to move or store recyclable materials.",27.2,ai_confirmed_incident_activity
+17923,"Test and repair or replace electrical equipment, such as circuit breakers, station batteries, cable trays, conduits, or control devices.",27.2,ai_confirmed_incident_activity
+17954,"Operate equipment, such as excavators, backhoes, rock hammers, trench compactors, pavement saws, grout mixers or pumps, geothermal loop reels, and coil tubing units (CTU).",27.2,ai_confirmed_incident_activity
+18181,"Troubleshoot new or existing product problems involving designs, materials, or processes.",27.2,ai_confirmed_incident_activity
+18475,Conduct quality control tests.,27.2,ai_confirmed_incident_activity
+18698,"Complete administrative tasks, such as entering orders into computer, answering telephone calls, or maintaining medical or facility information.",27.2,ai_confirmed_incident_activity
+18747,"Perform cleaning duties, such as sweeping and mopping floors, vacuuming carpet, tidying up server station, taking out trash, or checking and cleaning bathroom.",27.2,ai_confirmed_incident_activity
+18768,Supervise others and provide on-the-job training.,27.2,ai_confirmed_incident_activity
+18785,"Conduct preventative maintenance and repair, and lubricate machines and equipment.",27.2,ai_confirmed_incident_activity
+18788,"Troubleshoot equipment, electrical components, hydraulics, or other mechanical systems.",27.2,ai_confirmed_incident_activity
+18799,Maintain cleanliness of bus or motor coach.,27.2,ai_confirmed_incident_activity
+18999,"Install or repair network cables, including fiber optic cables.",27.2,ai_confirmed_incident_activity
+19311,Operate sterilizing devices.,27.2,ai_confirmed_incident_activity
+19321,"Clean and sanitize patient rooms, bathrooms, examination rooms, or other patient areas.",27.2,ai_confirmed_incident_activity
+19330,Prepare or serve food trays.,27.2,ai_confirmed_incident_activity
+19355,Collect soiled linen or trash.,27.2,ai_confirmed_incident_activity
+19360,Restrain patients to prevent violence or injury or to assist physicians or nurses to administer treatments.,27.2,ai_confirmed_incident_activity
+19361,Serve or collect food trays.,27.2,ai_confirmed_incident_activity
+19384,"Calibrate or maintain machines, such as those used for plasma collection.",27.2,ai_confirmed_incident_activity
+19400,"Climb communication towers to install, replace, or repair antennas or auxiliary equipment used to transmit and receive radio waves.",27.2,ai_confirmed_incident_activity
+19405,"Lift equipment into position, using cranes and rigging tools or equipment, such as gin poles.",27.2,ai_confirmed_incident_activity
+19408,Replace existing antennas with new antennas as directed.,27.2,ai_confirmed_incident_activity
+19417,Adjust ink fountain flow rates.,27.2,ai_confirmed_incident_activity
+19420,"Clean or oil presses or make minor repairs, using hand tools.",27.2,ai_confirmed_incident_activity
+19433,Direct or monitor work of press crews.,27.2,ai_confirmed_incident_activity
+19836,"Perform building weatherization tasks, such as repairing windows, adding insulation, or applying weather-stripping materials.",27.2,ai_confirmed_incident_activity
+19872,Remove or limit contamination following emergencies involving hazardous substances.,27.2,ai_confirmed_incident_activity
+19899,"Perform routine maintenance on boilers, such as replacing burners or hoses, installing replacement parts, or reinforcing structural weaknesses to ensure optimal boiler efficiency.",27.2,ai_confirmed_incident_activity
+19921,"Drive electric or hybrid-electric powered trucks or alternative fuel-powered trucks to transport and deliver products, livestock, or other materials.",27.2,ai_confirmed_incident_activity
+19932,"Make special pickups of recyclable materials, such as food scraps, used oil, discarded computers, or other electronic items.",27.2,ai_confirmed_incident_activity
+20131,"Perform grounds maintenance tasks, such as removing snow and mowing the lawn.",27.2,ai_confirmed_incident_activity
+20143,Control traffic.,27.2,ai_confirmed_incident_activity
+20157,Perform quality checks on products and parts.,27.2,ai_confirmed_incident_activity
+20159,"Shovel, sweep, or otherwise clean work areas.",27.2,ai_confirmed_incident_activity
+20162,Maintain production equipment and machinery.,27.2,ai_confirmed_incident_activity
+20164,"Operate machinery and heavy equipment, such as forklifts.",27.2,ai_confirmed_incident_activity
+20304,"Position products, components, or parts for testing.",27.2,ai_confirmed_incident_activity
+20310,"Disassemble defective parts or components, such as inaccurate or worn gauges or measuring instruments.",27.2,ai_confirmed_incident_activity
+20313,Dump refuse or recyclable materials at disposal sites.,27.2,ai_confirmed_incident_activity
+20335,"Implement new or modified plans in response to delays, bad weather, or construction site emergencies.",27.2,ai_confirmed_incident_activity
+20422,Restrain animals during exams or procedures.,27.2,ai_confirmed_incident_activity
+20434,Supervise or train other staff members.,27.2,ai_confirmed_incident_activity
+20443,Drill holes in timbers or lumber.,27.2,ai_confirmed_incident_activity
+20444,"Cut timbers, lumber, or paneling to specified dimensions.",27.2,ai_confirmed_incident_activity
+20459,"Handle slides, mud, or pit cleanings or maintenance.",27.2,ai_confirmed_incident_activity
+20530,Collect animal or crop samples.,27.2,ai_confirmed_incident_activity
+20577,Bathe patients.,27.2,ai_confirmed_incident_activity
+20589,Participate in firefighting efforts.,27.2,ai_confirmed_incident_activity
+20641,Maneuver completed roofing units into position for installation.,27.2,ai_confirmed_incident_activity
+20651,"Mount, balance, change, or check condition or pressure of tires.",27.2,ai_confirmed_incident_activity
+20656,"Assist mechanics and perform various mechanical duties, such as changing oil or checking and replacing batteries.",27.2,ai_confirmed_incident_activity
+20671,"Perform routine maintenance, such as inspecting drives, motors, or belts, checking fluid levels, replacing filters, or doing other preventive maintenance actions.",27.2,ai_confirmed_incident_activity
+20675,Perform general cleaning of buildings or properties.,27.2,ai_confirmed_incident_activity
+20677,"Provide groundskeeping services, such as landscaping or snow removal.",27.2,ai_confirmed_incident_activity
+20692,Inspect loads to ensure that cargo is secure.,27.2,ai_confirmed_incident_activity
+20754,"Assemble or set up displays, furniture, or products in store space, using colors, lights, pictures, or other accessories to display the product.",27.2,ai_confirmed_incident_activity
+20776,"Assist customers, such as responding to customer complaints and updating them about back-ordered parts.",27.2,ai_confirmed_incident_activity
+20788,"Work on high ceilings, using scaffolding or other tools, such as stilts.",27.2,ai_confirmed_incident_activity
+20790,Clean job sites.,27.2,ai_confirmed_incident_activity
+20791,Set up scaffolds.,27.2,ai_confirmed_incident_activity
+20795,"Hoist steel beams, girders, or columns into place, using cranes or signaling hoisting equipment operators to lift and position structural steel members.",27.2,ai_confirmed_incident_activity
+20803,"Inspect, repair, or replace brake systems.",27.2,ai_confirmed_incident_activity
+20804,Diagnose and repair furnace or air conditioning systems.,27.2,ai_confirmed_incident_activity
+20812,"Adjust, repair, rework, or replace parts or assemblies to ensure proper operation.",27.2,ai_confirmed_incident_activity
+20820,Clean work area.,27.2,ai_confirmed_incident_activity
+20918,Install new tires and tubes.,27.2,ai_confirmed_incident_activity
+20922,Perform preventative maintenance or minor repairs on machines.,27.2,ai_confirmed_incident_activity
+20934,"Load or unload materials, vehicles, or passengers from vessels.",27.2,ai_confirmed_incident_activity
+21029,"Clean and wash rigs, ambulances, or equipment.",27.2,ai_confirmed_incident_activity
+21115,Clean laboratory facilities.,27.2,ai_confirmed_incident_activity
+21194,Perform therapeutic wound care.,27.2,ai_confirmed_incident_activity
+21198,"Provide assistance to the public, such as directions to court offices.",27.2,ai_confirmed_incident_activity
+21206,Load machines onto trucks to prepare for transportation.,27.2,ai_confirmed_incident_activity
+21209,"Operate heavy equipment, such as bulldozers and front-end loaders.",27.2,ai_confirmed_incident_activity
+21339,Supervise subordinate employees.,27.2,ai_confirmed_incident_activity
+21412,"Talk to coworkers using electronic devices, such as computers and radios.",27.2,ai_confirmed_incident_activity
+21973,"Supervise or train other technologists, technicians, or drafters.",27.2,ai_confirmed_incident_activity
+21979,"Identify and resolve equipment malfunctions, working with manufacturers or field representatives as necessary to procure replacement parts.",27.2,ai_confirmed_incident_activity
+22012,"Fabricate or assemble mechanical, electrical, or electronic components or assemblies.",27.2,ai_confirmed_incident_activity
+22037,Oversee or inspect production processes.,27.2,ai_confirmed_incident_activity
+22040,Provide advice or training to other technicians.,27.2,ai_confirmed_incident_activity
+22042,"Select cleaning materials, tools, or equipment.",27.2,ai_confirmed_incident_activity
+22263,Collect or prepare solid or fluid samples for analysis.,27.2,ai_confirmed_incident_activity
+22268,"Adjust or repair testing, electrical, or mechanical equipment or devices.",27.2,ai_confirmed_incident_activity
+22311,Test plant equipment to ensure it is operating properly.,27.2,ai_confirmed_incident_activity
+22312,Apply safety tags to equipment needing maintenance.,27.2,ai_confirmed_incident_activity
+22433,Assemble and arrange display materials.,27.2,ai_confirmed_incident_activity
+22677,Install electrical cables or wire fixtures.,27.2,ai_confirmed_incident_activity
+22678,"Load, unload, or position lighting equipment.",27.2,ai_confirmed_incident_activity
+22683,"Perform minor repairs or routine maintenance on lighting equipment, such as replacing lamps or damaged color filters.",27.2,ai_confirmed_incident_activity
+22797,Freeze tissue specimens.,27.2,ai_confirmed_incident_activity
+22824,"Perform general administrative tasks, such as answering phones, scheduling patient appointments, or pulling and filing films.",27.2,ai_confirmed_incident_activity
+22864,"Administer drugs, orally or by injection, or perform intravenous procedures.",27.2,ai_confirmed_incident_activity
+22972,Collaborate with other firefighters as a member of a firefighting crew.,27.2,ai_confirmed_incident_activity
+22978,Participate in physical training activities to maintain a high level of physical fitness.,27.2,ai_confirmed_incident_activity
+22985,"Take action to contain any hazardous chemicals that could catch fire, leak, or spill.",27.2,ai_confirmed_incident_activity
+23060,Monitor traffic to ensure motorists observe traffic regulations and exhibit safe driving procedures.,27.2,ai_confirmed_incident_activity
+23087,Escort young children across roads or highways.,27.2,ai_confirmed_incident_activity
+23111,Collect and return dirty dishes to the kitchen for washing.,27.2,ai_confirmed_incident_activity
+23112,"Wash dishes, glassware, and silverware after meals.",27.2,ai_confirmed_incident_activity
+23169,Provide staff with assistance in performing difficult or complicated duties.,27.2,ai_confirmed_incident_activity
+23177,"Direct or coordinate the activities of workers, such as hotel staff or hair stylists.",27.2,ai_confirmed_incident_activity
+23248,Monitor equipment to ensure proper operation.,27.2,ai_confirmed_incident_activity
+23355,"Drive or operate farm machinery, such as trucks, tractors, or self-propelled harvesters, to transport workers or supplies or to cultivate or harvest fields.",27.2,ai_confirmed_incident_activity
+23367,Direct or assist with the adjustment or repair of equipment or machinery.,27.2,ai_confirmed_incident_activity
+23373,"Repair and maintain farm vehicles, implements, and mechanical equipment.",27.2,ai_confirmed_incident_activity
+23374,Harvest fruits and vegetables by hand.,27.2,ai_confirmed_incident_activity
+23375,"Clean work areas, and maintain grounds and landscaping.",27.2,ai_confirmed_incident_activity
+23385,Maintain and repair irrigation and climate control systems.,27.2,ai_confirmed_incident_activity
+23389,"Maintain inventory, ordering materials as required.",27.2,ai_confirmed_incident_activity
+23416,"Attach nets, slings, hooks, blades, or lifting devices to cables, booms, hoists, or dredges.",27.2,ai_confirmed_incident_activity
+23427,"Harvest marine life for human or animal consumption, using diving or dredging equipment, traps, barges, rods, reels, or tackle.",27.2,ai_confirmed_incident_activity
+23439,"Build or repair cabinets, doors, frameworks, floors, or other wooden fixtures used in buildings, using woodworking machines, carpenter's hand tools, or power tools.",27.2,ai_confirmed_incident_activity
+23441,"Anchor and brace forms and other structures in place, using nails, bolts, anchor rods, steel cables, planks, wedges, and timbers.",27.2,ai_confirmed_incident_activity
+23447,"Install rough door and window frames, subflooring, fixtures, or temporary supports in structures undergoing construction or repair.",27.2,ai_confirmed_incident_activity
+23455,Construct forms or chutes for pouring concrete.,27.2,ai_confirmed_incident_activity
+23457,Work with or remove hazardous material.,27.2,ai_confirmed_incident_activity
+23459,"Cut, thread, or hammer pipes to specifications, using tools such as saws, cutting torches, pipe threaders, or pipe benders.",27.2,ai_confirmed_incident_activity
+23461,"Inspect, examine, or test installed systems or pipe lines, using pressure gauge, hydrostatic testing, observation, or other methods.",27.2,ai_confirmed_incident_activity
+23473,"Maintain or repair plumbing by replacing defective washers, replacing or mending broken pipes, or opening clogged drains.",27.2,ai_confirmed_incident_activity
+23478,"Install underground storm, sanitary, or water piping systems, extending piping as needed to connect fixtures and plumbing.",27.2,ai_confirmed_incident_activity
+23487,Repair hydraulic or air pumps.,27.2,ai_confirmed_incident_activity
+23497,"Direct other workers to move stakes, place blocks, position anchors or cables, or move materials.",27.2,ai_confirmed_incident_activity
+23536,Maintain cleanliness of work area.,27.2,ai_confirmed_incident_activity
+23539,"Repair, replace, or adjust defective fuel injectors, carburetor parts, and gasoline filters.",27.2,ai_confirmed_incident_activity
+23543,"Overhaul or replace carburetors, blowers, generators, distributors, starters, and pumps.",27.2,ai_confirmed_incident_activity
+23553,"Repair or replace defective equipment, components, or wiring.",27.2,ai_confirmed_incident_activity
+23555,"Connect heating or air conditioning equipment to fuel, water, or refrigerant source to form complete circuit.",27.2,ai_confirmed_incident_activity
+23559,"Install auxiliary components to heating or cooling equipment, such as expansion or discharge valves, air ducts, pipes, blowers, dampers, flues, or stokers.",27.2,ai_confirmed_incident_activity
+23569,"Cut or drill holes in floors, walls, or roof to install equipment, using power saws or drills.",27.2,ai_confirmed_incident_activity
+23571,"Measure, cut, thread, or bend pipe or tubing, using pipe fitter's tools.",27.2,ai_confirmed_incident_activity
+23578,"Lift and align components into position, using hoist or block and tackle.",27.2,ai_confirmed_incident_activity
+23580,"Repair or service heating, ventilating, and air conditioning (HVAC) systems to improve efficiency, such as by changing filters, cleaning ducts, and refilling non-toxic refrigerants.",27.2,ai_confirmed_incident_activity
+23581,"Test pipes, lines, components, and connections for leaks.",27.2,ai_confirmed_incident_activity
+23582,"Weld components in flat, vertical, or overhead positions.",27.2,ai_confirmed_incident_activity
+23583,Operate safety equipment and use safe work habits.,27.2,ai_confirmed_incident_activity
+23585,"Recognize, set up, and operate hand and power tools common to the welding trade, such as shielded metal arc and gas metal arc welding equipment.",27.2,ai_confirmed_incident_activity
+23586,"Weld separately or in combination, using aluminum, stainless steel, cast iron, and other alloys.",27.2,ai_confirmed_incident_activity
+23593,"Chip or grind off excess weld, slag, or spatter, using hand scrapers or power chippers, portable grinders, or arc-cutting equipment.",27.2,ai_confirmed_incident_activity
+23596,"Align and clamp workpieces together, using rules, squares, or hand tools, or position items in fixtures, jigs, or vises.",27.2,ai_confirmed_incident_activity
+23606,"Operate metal shaping, straightening, and bending machines, such as brakes and shears.",27.2,ai_confirmed_incident_activity
+23610,Use fire suppression methods in industrial emergencies.,27.2,ai_confirmed_incident_activity
+23617,Repair or replace gas piping.,27.2,ai_confirmed_incident_activity
+23636,"Plate articles such as jewelry pieces and watch dials, using silver, gold, nickel, or other metals.",27.2,ai_confirmed_incident_activity
+23661,"Remove grease, dirt, paint, or rust from surfaces in preparation for paint application, using abrasives, solvents, brushes, blowtorches, washing tanks, or sandblasters.",27.2,ai_confirmed_incident_activity
+23680,"Repair mold defects, such as cracks or broken edges, using patterns, mold boxes, or hand tools.",27.2,ai_confirmed_incident_activity
+23693,"Assist workers in tasks, such as loading vehicles.",27.2,ai_confirmed_incident_activity
+23803,Prevent ships under navigational control from engaging in unsafe operations.,27.2,ai_confirmed_incident_activity
+23827,Tow and maneuver barges or signal tugboats to tow barges to destinations.,27.2,ai_confirmed_incident_activity
+23831,Conduct safety drills such as man overboard or fire drills.,27.2,ai_confirmed_incident_activity
+23841,Load baggage or cargo for crew or passengers.,27.2,ai_confirmed_incident_activity
+23842,Mix cleaning compounds or solutions.,27.2,ai_confirmed_incident_activity
+23872,Obtain merchandise from bins or shelves.,27.2,ai_confirmed_incident_activity
+23887,"Provide assistance or direction to other stockroom, warehouse, or storage yard workers.",27.2,ai_confirmed_incident_activity
+23890,Pack customer purchases in bags or cartons.,27.2,ai_confirmed_incident_activity
+23899,Operate equipment such as forklifts.,27.2,ai_confirmed_incident_activity
+23900,"Receive, unload, open, unpack, or issue sales floor merchandise.",27.2,ai_confirmed_incident_activity
+23944,"Monitor, inspect, or test mechanical equipment.",27.2,ai_confirmed_incident_activity

@@ -1,0 +1,44 @@
+{
+  "status": "PASS",
+  "task_ids": [
+    17098,
+    4175,
+    17165,
+    18306,
+    18699
+  ],
+  "permitted_in_both": true,
+  "full_pair_score": 0.32547556181982923,
+  "displayed_contribution_share": 0.011041329308433684,
+  "public_release_sha256": "2be3d1c4953db7a9c36ac801743f80303b6cbeb31bdfe916883342bc837c0b02",
+  "files": {
+    "registered_nurses_public_top10.csv": "6fa784a73f24dd9793f6863c3b46712f623f83f35edea93c0e0041d0cdf9defa",
+    "registered_nurses_public.png": "118e9caae4e6faa755e7df77ef96d581a4bad422290b56c9d4189f315da6416a",
+    "index.html": "8b1c3f2fed98ac292a1588a4bf79122fdee6f3e4e59ad407388d67a942051ff1",
+    "public_figure_data.json": "2d112c564c90cff57dd3aa6f08e6672ce6141e24b1ab9e5f7068fbc72fc56d44",
+    "requirements.txt": "b9a4c339d3d85b177da7710d7e47d662a8a9d570cd39e13a73f38f2e26a551f6",
+    "registered_nurses_public.pdf": "e0ea0f520262527d585049a550e7d1a65b95e02dec4fb4b73a6937023fecf68d",
+    "registered_nurses_public_top20_validation.csv": "25ba13660a2c5c371e8bce3c9dcec772f49d37cf72bfa303cae72f71d7b7eee3",
+    "registered_nurses_public.svg": "0afc56255c57009462c6e7e8da157cdee1db87c5a4b82e1e7de60676af88b7b0",
+    "public_figure_from_excel.py": "2b2e7863b3b88c4c5059470ecdd4290178c7f1b60598df01ce7abf11cfaabd87",
+    "registered_nurses_public.xlsx": "7b2bb2da12cd81c83c9a3263f1a1a917a15727d3bc65c837467d5583ec491627",
+    "README.txt": "69f088c3a5671e5effdf2549283936725fee371bb6cf741287e0ba827102ff8e",
+    "registered_nurses_public_equal_length_summary.csv": "361b54539e0ad4de33845b9223854cd8207cb740f5c17a81dbd9e8fc4aa6fc39",
+    "registered_nurses_public_shared_tasks.csv": "215dc05b256154990bc53ef28576b6d9e505bebc1f627e1db163a0e95b1dca70",
+    "figure_rendering.py": "9d91ce08e42c0de26ff193363b1fe030034f9389f247515923ee7ca688bd8171",
+    "figure_representation_summary.csv": "b95957cf46732d3d0a09ce9e2c68339029c3543ebfb36a772a646a5d0c19bfa3"
+  },
+  "figure_displayed_task_count": 3,
+  "figure_benchmarks": [
+    "SST",
+    "Emsi"
+  ],
+  "figure_representations": [
+    "published O*NET lists",
+    "posting tasks",
+    "posting tasks to DWA",
+    "posting tasks to random groups (mean of 99)"
+  ],
+  "panel_F": "fractional DWA incidence outside native occupation assignments; pre-filter",
+  "figure_updated": "2026-10-16"
+}

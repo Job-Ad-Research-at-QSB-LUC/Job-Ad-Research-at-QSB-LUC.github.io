@@ -1,0 +1,6 @@
+task_id,task_text,similarity_contribution,focal_posting_frequency,canonical_in_focal,share_of_pair_similarity
+17098,"Direct, coordinate, or supervise the patient care activities of nursing or support staff.",0.000910117322774,0.093104764525592,False,0.002796269304169
+4175,Refer patients to other relevant services to provide continuity of care.,0.000840101791014,0.020736094629761,False,0.002581151673312
+17165,Collaborate with multidisciplinary teams of health professionals to provide optimal patient care.,0.000754816386369,0.043269153949471,False,0.002319118468214
+18306,"Collaborate with members of multidisciplinary health care teams to plan, manage, or assess patient treatments.",0.000694777952029,0.070971054645512,True,0.002134654743799
+18699,Communicate and collaborate with other healthcare professionals involved with the care of a patient.,0.000393869407715,0.120325735767175,False,0.001210135118939

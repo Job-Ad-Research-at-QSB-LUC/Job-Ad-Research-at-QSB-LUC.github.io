@@ -1,0 +1,22 @@
+{
+  "source_ledger_sha256": "6815831e43ebf46e5c0f164177c89d58b2c884b023fcddda272f555af2064fe7",
+  "ledger_rows": 56856,
+  "excluded_rows": 19682,
+  "status_counts": {
+    "reviewed_not_retained": 19674,
+    "review_incomplete": 8
+  },
+  "canonical_excluded": 0,
+  "columns": [
+    "occ8",
+    "soc_title",
+    "task_id",
+    "task_text",
+    "canonical",
+    "metadata_ready",
+    "anthropic_verdict",
+    "openai_verdict",
+    "review_status"
+  ],
+  "scope": "Selected reviewed pairs only. Both excluded statuses are dropped from model at raw support >=5. Unreviewed links otherwise remain; canonical statuses follow ledger, not an extra exception in model filtering."
+}

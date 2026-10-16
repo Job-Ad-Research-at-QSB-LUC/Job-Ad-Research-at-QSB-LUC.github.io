@@ -1,0 +1,288 @@
+{
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    },
+    "language_info": {
+      "codemirror_mode": {
+        "name": "ipython",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.13.7"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": "# From job-month task aggregates to occupational transitions\n\nAn executable audit of the analysis and RN comparison figure. **Run all cells in order, starting at Step 0.** Source-level database extraction requires authorized access; this notebook starts from frozen released research aggregates. The unit is a job-month, not an annual unique vacancy. Frozen comparator inputs and source limitations are documented in `analysis/research_reset/METHODS.md`.\n\nThe research workbook contains one universal Figure_data table, all mapped transition pairs in its declared population, a numerical worked example and review annotations. It is authorized-research-only because task assignments are uncensored. A separate minimal public workbook and figure use only coordinated disclosure-permitted tasks, with unchanged aggregate rankings and validation values.\n\nInstall the pinned publicly available Python packages in requirements.txt. Python/XlsxWriter is the default export backend and requires no Codex or Node runtime. An optional Artifact Tool backend is available to users with that bundled runtime. Workbook-only figures need numpy, pandas, openpyxl and matplotlib; copy the local renderer and drawing module beside the workbook.\n\n## Reading guide: what this notebook establishes\n\nThe main question is whether occupations with similar employer-described task profiles recover observed occupational transitions. Follow the chain **retained task counts → RCA coordinates → occupation similarity → benchmark recovery → Excel → figure**. Steps 0–7 build and check the workbook; Step 9 renders it; Step 10 assembles the publication artifacts. Step 8 contains supplementary task-demand/exposure summaries and is not the relatedness formula. Run every code cell in order for a complete production build.\n\nThis notebook is an annotated pipeline, not raw posting microdata. It reconstructs the current task matrix and checks it against the saved production matrix. Published O*NET relations and some benchmark/survey results are declared frozen inputs: loading them is not the same as re-estimating those external sources. The full run needs the research checkout and authorized input files. The public source-only notebook does not supply those restricted inputs or execution outputs.\n\n## Three distinct representations\n\n1. **Occupational task-frequency profiles** supply the principal similarity analysis.\n2. **Within-posting task-pair counts**, pooled by occupation, supply the separate compact job-task bundle illustration. They do not enter the main similarity calculation.\n3. **Observed worker transitions** supply external evaluation outcomes; they are not task co-occurrence counts.\n\nSource-level choices, assignment errors, and source coverage can affect all downstream results. Retrospective selection of RCA limits claims about performance on new data.",
+      "metadata": {},
+      "id": "60b4886c"
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## Step 0 — Import packages, locate the project, and load source data\nThe posting source is `data/release/occupation_task_marginals.csv.gz`, covering October 2024–September 2025. `n_jobs_with_task` is sampled job-month incidence; `weighted_jobs_with_task` is design-weighted incidence. These are task incidences, not mutually exclusive worker counts. We preserve the fixed 1,016-specialty construction population (912 common eligible specialties) and task-ID order. The review ledger and pooled retained-task RCA weights are explicit construction inputs.\n\nSST's ZIP contains the original occupation-pair shares. DOL's Emsi file contains the original ordered occupation pairs; it supplies no transition probabilities or counts. We retain all released rows, including destinations outside the benchmark candidate population.\n\n**What this step produces:** named input tables plus fixed occupation and task indexes. Later steps transform these objects but do not overwrite the source files. Printed row counts are the first completeness check.\n\n**Inputs and units.** A task may be detected once per sampled posting in a month; a posting observed in multiple months can contribute multiple job-months. Raw support counts these observations. Design-weighted incidence sums their sampling weights. Neither is an annual count of unique vacancies. File hashes and source paths recorded below make the run traceable; they do not validate task assignments semantically.",
+      "metadata": {},
+      "id": "8ed690a5"
+    },
+    {
+      "cell_type": "code",
+      "source": "import os\nos.environ.update(OPENBLAS_NUM_THREADS=\"1\", OMP_NUM_THREADS=\"1\", VECLIB_MAXIMUM_THREADS=\"1\")\nfrom pathlib import Path\nimport sys, json, zipfile, hashlib, subprocess, importlib.util, gc, shutil\nimport numpy as np\nimport pandas as pd\nfrom scipy import sparse\nimport matplotlib\nmatplotlib.use(\"Agg\")\nimport matplotlib.pyplot as plt\nfrom IPython.display import display, Image\nimport openpyxl  # read-only workbook verification, not authoring\n\nROOT = next(p for p in [Path.cwd(), *Path.cwd().parents] if (p/'data/release/occupation_task_marginals.csv.gz').exists())\nBASE = ROOT/'analysis/research_reset'\nOUT = ROOT/'output/reproducible_analysis'\nOUT.mkdir(parents=True, exist_ok=True)\nV = ROOT/'analysis/relatedness_refresh_20260922/transition_validation'\nsys.path.insert(0, str(BASE))\n\ndef sha(p):\n    h=hashlib.sha256()\n    with Path(p).open('rb') as f:\n        for b in iter(lambda:f.read(1024*1024), b''): h.update(b)\n    return h.hexdigest()\ninputs = {}\ndef track(p):\n    p=Path(p); inputs[str(p.relative_to(ROOT)) if p.is_relative_to(ROOT) else str(p)]=sha(p); return p\n\nraw=pd.read_csv(track(ROOT/'data/release/occupation_task_marginals.csv.gz'),\n                usecols=['occupational_code','task_id','n_jobs_with_task','weighted_jobs_with_task'])\nledger=pd.read_csv(track(ROOT/'analysis/relatedness_refresh_20260922/validation/reconciled_decisions.csv'),\n                   usecols=['occ8','task_id','review_status'])\ncodes=np.load(track(ROOT/'analysis/relatedness_refresh_20260922/results/task_filtered_similarity.npz'))['codes'].astype(str)\nfeatures=pd.read_csv(track(BASE/'alternative_profiles/features/task_columns.csv'))\nfeatures['feature_id']=features.feature_id.astype(int)\nwith zipfile.ZipFile(track(ROOT/'crosswalks/occupational_transitions_sst_2020/occupation_transitions_public_data_set.csv.zip')) as z:\n    sst=pd.read_csv(z.open('occupation_transitions_public_data_set.csv'))\ndol=pd.read_csv(track(ROOT/'crosswalks/dol_career_pathways_ctot/Emsi_dataset.csv'),\n                usecols=['oesCode_origin','oesCode_dest','occ_title_origin','occ_title_dest','order'])\nprint('Loaded:',len(raw),'occupation-task rows;',len(sst),'SST pairs;',len(dol),'DOL pairs')\nprint('Python',sys.version.split()[0], 'numpy',np.__version__, 'pandas',pd.__version__)\n\nrca_table=pd.read_csv(track(ROOT/\"analysis/relatedness_refresh_20260922/results/task_rca_feature_weights.csv\")).set_index(\"unit_id\")\nfeatures[\"rca_weight\"]=features.feature_id.map(rca_table.rca_weight)\nassert features.rca_weight.notna().all()\n",
+      "metadata": {
+        "execution": {
+          "iopub.execute_input": "2026-09-26T14:06:11.760016Z",
+          "iopub.status.busy": "2026-09-26T14:06:11.759910Z",
+          "iopub.status.idle": "2026-09-26T14:06:14.844090Z",
+          "shell.execute_reply": "2026-09-26T14:06:14.842405Z"
+        }
+      },
+      "id": "46d62378"
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## Step 1 — Apply support and review rules\nKeep raw support ≥5, drop `reviewed_not_retained` and `review_incomplete`, and retain unreviewed assignments. Retention is not proof of human review. The reference multipliers are inverse pooled design-weighted retained task shares across the fixed 1,016-specialty construction population (912 common eligible specialties): `w_t = 1 / p_t`; occupation-task RCA is `RCA_ot = q_ot / p_t`. Weights use the full support-five retained matrix before choosing occupations or displayed tasks. No transition outcomes enter filtering or normalization. The switch to RCA follows exploratory benchmark comparison and is not preregistered.\n\n**Two thresholds with different purposes.** Raw support ≥5 defines the current model inputs. The public display rule (O*NET-linked, accepted review, or retained support >200, with parent/specialty protection) limits disclosed explanations. Public display filtering does not refit rankings or change benchmark scores. The reference population has 1,016 construction specialties; the fixed comparison frame has 912 specialties, aggregated into 790 six-digit groups. Navigator coverage is broader.",
+      "metadata": {},
+      "id": "85354d94"
+    },
+    {
+      "cell_type": "code",
+      "source": "assert len(codes)==1016 and not ledger.duplicated(['occ8','task_id']).any()\nf=raw.rename(columns={'occupational_code':'occ8','n_jobs_with_task':'raw_support','weighted_jobs_with_task':'mass'})\nf=f[f.occ8.isin(codes)&f.task_id.isin(features.feature_id)].merge(ledger,on=['occ8','task_id'],how='left',validate='one_to_one')\nf['review_status']=f.review_status.fillna('unreviewed')\nassert np.isfinite(f[['raw_support','mass']]).all().all() and (f[['raw_support','mass']]>=0).all().all()\nkeep=~f.review_status.isin(['reviewed_not_retained','review_incomplete'])\nretained=f[keep & f.raw_support.ge(5)].copy()\ndisplay(f.groupby('review_status').agg(pairs=('task_id','size'),weighted_incidence=('mass','sum')))\nprint('Retained pairs:',len(retained))\n",
+      "metadata": {
+        "execution": {
+          "iopub.execute_input": "2026-09-26T14:06:14.846279Z",
+          "iopub.status.busy": "2026-09-26T14:06:14.846100Z",
+          "iopub.status.idle": "2026-09-26T14:06:15.494769Z",
+          "shell.execute_reply": "2026-09-26T14:06:15.494007Z"
+        }
+      },
+      "id": "6ad93787"
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## Step 2 — Construct complete task profiles and pairwise cosine\nFor occupation o and task t, let w be retained weighted incidence and `Z_o = Σ_t w_ot × w_t`. The normalized coordinate is `v_ot = sqrt(w_ot × w_t / Z_o)`. This is algebraically identical to taking the square root of RCA and then applying L2 normalization: the initial sum of task incidence cancels.\n\n`S(o,d) = Σ_t v_ot v_dt`. Zero profiles abstain. Each task's product is an additive contribution, not a transition probability. All task IDs remain separate, including similarly worded payroll tasks.\n\n**What the code does:** it creates an occupation-by-task sparse matrix, applies pooled retained-task RCA weights, square-roots weighted coordinates, normalizes each occupation to length one, and multiplies the profile matrix by its transpose. **Interpretation:** a larger cosine means two occupations emphasize more of the same weighted tasks; it is not a transition probability.\n\n### Formula, variable by variable\n\nLet `m[o,t]` be retained design-weighted incidence of task t in occupation o. Let `q[o,t] = m[o,t] / sum_u m[o,u]` and `p[t] = sum_o m[o,t] / sum_o,u m[o,u]`, using the full construction frame for p.\n\n```text\nRCA[o,t] = q[o,t] / p[t]\nx[o,t]   = sqrt(RCA[o,t])\nv[o,t]   = x[o,t] / sqrt(sum_u x[o,u]^2)\nS[o,d]   = sum_t v[o,t] * v[d,t]\n```\n\nThe code implements the equivalent expression `v[o,t] = sqrt((m[o,t]/p[t]) / sum_u(m[o,u]/p[u]))`. Taking the square root occurs **after dividing by pooled task share**. This is not raw RCA and not RCA multiplied by IDF. Zero-reference features receive no positive coordinate; zero profiles abstain.\n\n`q` is a share of task incidence and sums to one across tasks. The dashboard’s “% of postings” instead divides incidence by occupation posting weight. Those posting percentages can sum above 100% because one posting can contain many tasks.\n\n**Six-digit groups.** For group G, `vbar[G,t] = sum_o_in_G v[o,t] / |G|`. The group score is `sum_t vbar[G,t]*vbar[H,t]`, equal to the average specialty-pair cosine. The group vectors are not normalized again: this is not the cosine of renormalized SOC6 vectors. Benchmark-specific mappings preserve their declared constituent denominators.\n\n**Checks below:** unit diagonal for nonempty specialty profiles, matrix symmetry, finite values, exact agreement with the production matrix, and reconstruction of reciprocal pooled shares.",
+      "metadata": {},
+      "id": "e2871e3a"
+    },
+    {
+      "cell_type": "code",
+      "source": "oi=pd.Index(codes); ti=pd.Index(features.feature_id); rca_weight=features.rca_weight.to_numpy()\ndef make_profile(frame):\n    mass=sparse.csr_matrix((frame.mass,(oi.get_indexer(frame.occ8),ti.get_indexer(frame.task_id))),shape=(len(codes),len(ti)))\n    Z=np.asarray(mass@rca_weight).ravel()\n    vector=mass.multiply(rca_weight).tocsr(); vector.data=np.sqrt(vector.data)\n    vector=sparse.diags(np.divide(1,np.sqrt(Z),out=np.zeros_like(Z),where=Z>0))@vector\n    similarity=(vector@vector.T).toarray()\n    assert np.isfinite(similarity).all() and np.allclose(similarity,similarity.T)\n    assert np.allclose(similarity.diagonal()[Z>0],1)\n    return mass,Z,vector,np.clip(similarity,0,1)\nM,Z,vector,similarity=make_profile(retained)\nreference=np.load(track(ROOT/'analysis/relatedness_refresh_20260922/results/task_filtered_similarity.npz'))\nassert np.array_equal(codes,reference['codes'].astype(str))\nnp.testing.assert_allclose(similarity,reference['similarity'],atol=1e-12)\npool=np.asarray(M.sum(axis=0)).ravel(); pool=pool/pool.sum()\nnp.testing.assert_allclose(rca_weight[pool>0],1/pool[pool>0],rtol=1e-12)\nprint('Support-five RCA reconstruction matches production matrix and pooled weights to 1e-12.')\n",
+      "metadata": {
+        "execution": {
+          "iopub.execute_input": "2026-09-26T14:06:15.497253Z",
+          "iopub.status.busy": "2026-09-26T14:06:15.497134Z",
+          "iopub.status.idle": "2026-09-26T14:06:18.040888Z",
+          "shell.execute_reply": "2026-09-26T14:06:18.040285Z"
+        }
+      },
+      "id": "c50e6fab"
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## Step 3 — Work one occupation-to-occupation example numerically\nUse the previously requested bookkeeping-clerk → office-supervisor link, not an outcome-selected high-performing case. Select its three largest task products, breaking ties by task ID. Part A will work through the invoice task's weighted inputs, full-profile normalizers, two coordinates, and product. Part B will connect both occupations through three tasks and show the unpictured residual.\n\nThe Excel sheet includes **every nonzero task coordinate for this pair**, so both normalizers, the full cosine and the selection of displayed tasks can be independently recomputed from the workbook. Review statuses explain which assignments remain unreviewed.\n\n**Why this example is separate from the final figure:** this pair exposes the arithmetic row by row. The final Registered Nurses figure applies the same profile logic at SOC6 and displays five task contributions. Separating the examples avoids choosing the arithmetic demonstration because it predicts observed transitions well.\n\n**Reading the arithmetic.** Each shared task contributes `v[o,t]*v[d,t]`. Contributions sum to the full pair score. The figure’s percentage for a displayed task is `100 * contribution / full_pair_score`; the denominator is not the sum of the five displayed tasks. Showing a handful of tasks explains only their portion of the connection, especially in the public figure, which withholds undisclosed task identities.",
+      "metadata": {},
+      "id": "a92dabb9"
+    },
+    {
+      "cell_type": "code",
+      "source": "origin='43-3031.00'; destination='43-1011.00'\na,b=oi.get_indexer([origin,destination])\ncase=pd.DataFrame({'task_id':ti,'rca_weight':rca_weight,'origin_mass':M[a].toarray().ravel(),'destination_mass':M[b].toarray().ravel()})\ncase=case[(case.origin_mass>0)|(case.destination_mass>0)].copy()\ncase['origin_Z']=Z[a];case['destination_Z']=Z[b]\ncase['origin_v']=np.sqrt(case.origin_mass*case.rca_weight/case.origin_Z)\ncase['destination_v']=np.sqrt(case.destination_mass*case.rca_weight/case.destination_Z)\ncase['contribution']=case.origin_v*case.destination_v\ncase['task_label']=case.task_id.map(features.set_index('feature_id').feature_title)\nstatus=f.set_index(['occ8','task_id']).review_status\nfor role,c in [('origin',origin),('destination',destination)]:\n    case[role+'_review']=[status.get((c,t),'not present') for t in case.task_id]\ncase=case.sort_values(['contribution','task_id'],ascending=[False,True]).reset_index(drop=True)\ncase.insert(0,'display_rank',np.arange(1,len(case)+1))\nnp.testing.assert_allclose(case.contribution.sum(),similarity[a,b],atol=1e-12)\ndisplay(case.head(3))\nprint('Full cosine:',case.contribution.sum(),'shown:',case.head(3).contribution.sum(),'residual:',case.iloc[3:].contribution.sum())\n",
+      "metadata": {
+        "execution": {
+          "iopub.execute_input": "2026-09-26T14:06:18.042607Z",
+          "iopub.status.busy": "2026-09-26T14:06:18.042480Z",
+          "iopub.status.idle": "2026-09-26T14:06:18.303587Z",
+          "shell.execute_reply": "2026-09-26T14:06:18.302973Z"
+        }
+      },
+      "id": "1f406c79"
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## Step 4 — Prepare observed transition tables and unchanged candidate universes\nSST shares sum to one within origin, conditional on a recorded move to another occupation. `total_obs` is an effective age-weighted origin total, not necessarily an integer count of people; store it once per origin. DOL's `order` is a supplied rank. No shares or volumes are invented for DOL.\n\nThe source-specific candidate contracts define 604 SST origins/671 destinations and 429 DOL origins/697 destinations. Projection averages over every listed specialty pair with weights `1 / original group size`; missing specialties contribute zero rather than changing the denominator. The self-destination is excluded. Outcomes outside the candidate universe remain in the original recall/volume denominator.\n\n**Interpretation:** this step fixes what can be recommended and what counts as observed evidence before evaluation. SST is evaluated with transition share; DOL is evaluated with rank recovery. A missing DOL share is unavailable, not zero.\n\n### Evaluation formulas\n\n```text\nShare recovery[o,k] = sum_d_in_recommended_top_k observed_share[o,d]\nDestination recovery[o,k] = |recommended_top_k ∩ observed_top_20| / 20\nOverall recovery = mean of origin-level recovery over eligible origins\n```\n\nSST supplies transition shares and ranked destinations; EMSI supplies ranked destinations rather than worker-flow shares. Overall means give origins equal weight. Recommendations are evaluated within each benchmark’s fixed candidate set; outcomes outside that set remain in the original denominator. Published O*NET may return fewer than k destinations. Missing benchmark evidence is not zero recovery. Survey results use their audited Census mappings, supplied weights, minimum 40 changes per origin, and specified horizons. Their frozen inputs are handled by the figure/dashboard builders; they are not recomputed from person-level records in this notebook.",
+      "metadata": {},
+      "id": "a72848ce"
+    },
+    {
+      "cell_type": "code",
+      "source": "sst=sst.rename(columns={'soc1':'origin_code','soc2':'destination_code','soc1_name':'origin_title','soc2_name':'destination_title','total_obs':'effective_observations'})\ndol=dol.rename(columns={'oesCode_origin':'origin_code','oesCode_dest':'destination_code','occ_title_origin':'origin_title','occ_title_dest':'destination_title','order':'observed_rank'})\nassert np.allclose(sst.groupby('origin_code').transition_share.sum(),1,atol=1e-6)\nassert sst.groupby('origin_code').effective_observations.nunique().eq(1).all()\ncontracts={}; occupation_rows=[]\nfor dataset,table in [('sst',sst),('dol',dol)]:\n    assert not table.duplicated(['origin_code','destination_code']).any()\n    assert not table.origin_code.eq(table.destination_code).any()\n    cp=V/('candidate_occupations.csv' if dataset=='sst' else 'dol/candidate_occupations.csv')\n    c=pd.read_csv(track(cp)).query(\"universe=='principal'\").rename(columns={'soc2010':'code'})\n    contracts[dataset]=c\n    names=pd.concat([table[['origin_code','origin_title']].rename(columns={'origin_code':'code','origin_title':'title'}),table[['destination_code','destination_title']].rename(columns={'destination_code':'code','destination_title':'title'}),c[['code','title']]]).drop_duplicates('code')\n    names.insert(0,'dataset',dataset)\n    names['is_origin']=names.code.isin(c.loc[c.is_origin,'code']);names['is_candidate']=names.code.isin(c.code)\n    names['effective_observations']=names.code.map(sst.groupby('origin_code').effective_observations.first()) if dataset=='sst' else np.nan\n    occupation_rows.append(names)\noccupations=pd.concat(occupation_rows,ignore_index=True)\nprint('Full transition rows retained:',len(sst),len(dol))\n",
+      "metadata": {
+        "execution": {
+          "iopub.execute_input": "2026-09-26T14:06:18.305269Z",
+          "iopub.status.busy": "2026-09-26T14:06:18.305174Z",
+          "iopub.status.idle": "2026-09-26T14:06:18.423299Z",
+          "shell.execute_reply": "2026-09-26T14:06:18.422610Z"
+        }
+      },
+      "id": "9403d702"
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "id": "equal-length-explanation",
+      "source": "### Step 4.1 — Recalculate equal-length benchmark validation\nFor each origin and benchmark, retain the first **min(20, posting-task list length, published O*NET list length)** destinations from each frozen ranking. The cutoff uses no observed outcomes. Keep the original outcome denominator: SST released transition shares; EMSI recovery of the original twenty observed destinations; surveys all retained supplied transition weight, including unmapped destinations. Survey origins require at least 40 valid changes and the fixed candidate mapping.\n\nAverage recovery equally across origins. Count differences greater than 1e-12 as greater recovery; ties remain in the denominator. Exclude zero-common-length pairs only from the equal-length comparison. Preserve the up-to-20 calculation as a labeled diagnostic.\n\nThis step evaluates **frozen predictions**; it does not refit task models or reconstruct historical crosswalk decisions. The research input builder reads source outcomes and frozen rankings. The portable calculation is also downloadable with aggregate inputs from **validation_replication/index.html** on the public site. It requires no private task or person records. Python and Stata independently reproduce the headline statistics.\n\nFive workbook sheets retain the predictions, outcomes, denominators, origin-level scores and summaries. The renderer recalculates validation from these input sheets and checks the saved summary before drawing the equal-length panels. The older `Figure_data.validation_top20` records remain explicitly labeled historical up-to-20 diagnostics; they are not the primary headline results.\n"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "id": "equal-length-calculation",
+      "source": "# Explicit validation stage: source outcomes + frozen benchmark predictions.\n# Rebuild the audited reference, then independently calculate the export tables.\nsubprocess.run([sys.executable,str(ROOT/'analysis/equal_length_20261002/analyze.py')],cwd=ROOT,check=True)\nsys.path.insert(0,str(ROOT/'analysis/validation_replication'))\nfrom build_inputs import build as build_validation_inputs\ntrack(ROOT/'analysis/validation_replication/build_inputs.py')\ntrack(ROOT/'analysis/validation_replication/replicate.py')\nvalidation_tables=build_validation_inputs()\n# Ship the same calculation beside the portable workbook renderer.\nshutil.copy2(ROOT/'analysis/validation_replication/replicate.py',OUT/'validation_replication.py')\ndisplay(validation_tables['Validation_summary'].query(\"mode=='equal_length'\"))\n"
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## Step 5 — Build one uncensored, universal figure-data table\nThe workbook stores the source records from which the figure is calculated rather than a precomputed top-ten snapshot. `task_profile` rows contain every nonzero SOC6 task coordinate retained by the figure construction. These coordinates are sufficient to calculate Posting-Task cosine scores against every other available occupation. `onet_relation` rows contain every positive published O*NET related-occupation link after aggregation to 2018 SOC6. `sst_transition` and `dol_transition` contain every mapped transition pair available for the figure population, not only their first ten rows.\n\n`occupation` rows provide the complete available origin list. `overall_metric` contains the all-occupation top-10 and top-20 validation bars. `source` rows contain citations and source locations. Each row has `applicable_fields`, which explicitly lists the columns that should be populated for that record type; blanks in other columns mean “not applicable,” not missing data.\n\nAt render time, the selected origin's task coordinates are joined to all destination profiles to calculate every Posting-Task score and rank. O*NET relations are ranked independently. SST shares and DOL ranks are then used to attach original observed-rank badges and read the saved benchmark validation values. The top ten is therefore a visualization choice made after the complete inputs are loaded, not an Excel export cutoff.\n\n**Figure versus evaluation.** The upper figure lists illustrate the broader SOC6 ranking population. The lower panels use source-specific evaluation populations, so badges in the illustrated lists need not sum to chart values. SSTN and EMSIN badges use the original observed rank when it is ≤20; the displayed recommendation list remains top ten. The figure recalculates equal-length benchmark recovery from the dedicated Validation_* input sheets, using benchmark-specific rankings rather than the ten illustrative destinations. Historical validation_top20 rows remain diagnostic only.",
+      "metadata": {},
+      "id": "e3d55f6f"
+    },
+    {
+      "cell_type": "code",
+      "source": "FIGURE_DIR=ROOT/'analysis/onet_relatedness_comparison_figure'\nsys.path.insert(0,str(FIGURE_DIR))\nfrom universal_figure_data import build_figure_data\ntrack(FIGURE_DIR/'universal_figure_data.py');track(FIGURE_DIR/'build_case_series.py')\nfigure_data=build_figure_data()\nexpected={'task_profile','occupation','onet_relation','sst_transition','dol_transition','overall_metric','source','validation_top20'}\nassert set(figure_data.record_type)==expected\nassert len(figure_data)<1_048_576  # Excel worksheet row limit, including header\nassert not figure_data.query(\"record_type=='task_profile'\").duplicated(['origin_code','task_id']).any()\nassert not figure_data.query(\"record_type=='onet_relation'\").duplicated(['origin_code','destination_code']).any()\nassert not figure_data.query(\"record_type=='sst_transition'\").duplicated(['origin_code','destination_code']).any()\nassert not figure_data.query(\"record_type=='dol_transition'\").duplicated(['origin_code','destination_code']).any()\nquality=figure_data.groupby('record_type').agg(rows=('record_type','size'),origins=('origin_code','nunique'),destinations=('destination_code','nunique'),tasks=('task_id','nunique')).reset_index()\ndisplay(quality)\ndisplay(figure_data.head(10))",
+      "metadata": {
+        "execution": {
+          "iopub.execute_input": "2026-09-26T14:06:18.424652Z",
+          "iopub.status.busy": "2026-09-26T14:06:18.424546Z",
+          "iopub.status.idle": "2026-09-26T14:06:24.026834Z",
+          "shell.execute_reply": "2026-09-26T14:06:24.025989Z"
+        }
+      },
+      "id": "8b1e34a2"
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## Step 6 — Export the transparent Excel snapshot\nThe workbook includes the original three sheets plus five Validation_* sheets containing the inputs and results for equal-length validation. `README` defines construction choices and every variable. `Figure_data` is the single universal table needed by the final renderer. `Case_tasks` preserves the complete numerical bookkeeping example so readers can inspect the coordinate equation with Excel formulas.\n\n`Figure_data` deliberately excludes the former `Performance`, `Fixed_comparisons`, and `Recommendations` tables. Their procedures (`best_work`, `popularity`, and related model-selection variants) answer a broader research question and do not appear in the final figure. Keeping them here obscured the path from source data to visualization.\n\nThe Python/XlsxWriter writer formats the workbook and independently calculates numeric formula caches. Because Figure_data is large, a streaming OOXML step fills that one data-only sheet after the writer creates its header and workbook structure. The next step reads the completed workbook back and checks its contents.\n\nThe default workbook backend is publicly installable Python/XlsxWriter. Install requirements.txt; no Codex or proprietary Node package is needed. WORKBOOK_BACKEND=artifact optionally uses the bundled Node exporter with NODE/NODE_MODULES overrides.\n\n**What the spreadsheet lets a reader audit.** Inspect the worked-example coordinates and contribution formulas in `Case_tasks`; inspect the typed input records and saved outcomes in `Figure_data`; use the standalone renderer to recompute rankings and task contributions from those coordinates. The workbook is sufficient for figure reproduction, but it is not a replacement for the source aggregates needed to reconstruct task assignments and profile coordinates. Later production adds quality-review annotations without changing benchmark outcomes. Public exports are separately filtered and must not be confused with this full research workbook.",
+      "metadata": {},
+      "id": "ec6fdd5c"
+    },
+    {
+      "cell_type": "code",
+      "source": "case_export=case[['task_id','task_label','rca_weight','origin_mass','destination_mass','origin_Z','destination_Z','origin_v','destination_v','contribution','origin_review','destination_review']].copy()\ntables={'Case_tasks':case_export,'Figure_data':figure_data,**validation_tables}\ndefinitions={\n 'population':'All occupations or focal occupation in the matched benchmark evaluation.', 'status':'Available, not mapped, or below threshold; unavailable results are not zero.', 'origins':'Number of eligible origins contributing to this result.', 'validation_origin':'Original benchmark occupation code (may be SOC2010 or Census), before current-SOC display mapping.',\n 'task_id':'O*NET task identifier; similarly worded task IDs remain distinct.', 'task_label':'Full task statement.',\n 'rca_weight':'Inverse pooled retained task share (RCA weight); zero for absent tasks.', 'origin_mass':'Retained weighted task incidence for the worked-example origin.',\n 'destination_mass':'Retained weighted task incidence for the worked-example destination.',\n 'origin_Z':'Sum of origin_mass times rca_weight over all Case_tasks rows.', 'destination_Z':'Sum of destination_mass times rca_weight over all Case_tasks rows.',\n 'origin_v':'Square root of origin_mass times rca_weight divided by origin_Z.', 'destination_v':'Square root of destination_mass times rca_weight divided by destination_Z.',\n 'contribution':'origin_v times destination_v; summing all rows gives the full cosine.',\n 'origin_review':'Review-ledger status for the worked-example origin assignment.', 'destination_review':'Review-ledger status for the worked-example destination assignment.',\n 'record_type':'occupation, task_profile, onet_relation, sst_transition, dol_transition, overall_metric, validation_top20, or source.',\n 'applicable_fields':'Semicolon-separated columns that apply to this record type; other blanks are intentionally not applicable.',\n 'source_id':'POSTING, ONET31, SST, or DOL; join conceptually to source rows for citation details.',\n 'origin_code':'Origin or profile occupation as 2018 SOC6.', 'origin_title':'2018 SOC6 occupation title.',\n 'destination_code':'Destination occupation as 2018 SOC6.', 'destination_title':'Destination occupation title.',\n 'rank':'Complete within-origin source rank for SST or DOL; not a top-ten export cutoff.',\n 'relatedness_score':'Positive published O*NET related-occupation score aggregated to SOC6.',\n 'transition_share':'SST destination share conditional on an observed occupational move.',\n 'profile_coordinate':'Mean normalized task coordinate across eligible O*NET specialties; pairwise products sum to Posting-Task cosine.',\n 'posting_frequency':'Design-weighted share of origin postings containing the task.',\n 'canonical_in_origin':'True when O*NET assigns the task to an eligible specialty represented by the origin SOC6.',\n 'metric':'Measure or benchmark label; validation_top20 contains frozen SST, EMSI, CPS + SIPP and NLSY + PSID panels.',\n 'k':'Recommendation-list length for an all-occupation metric: 10 or 20.',\n 'method':'Posting-task, O*NET, SST, or DOL depending on record type.', 'value':'All-occupation metric value as a fraction.',\n 'citation':'Human-readable source citation, populated on source rows.', 'source_location':'Local source path or public source URL, populated on source rows.'}\nreadme=[\n ['validation','primary','Validation_* sheets contain reproducible equal-length inputs and results; Figure_data validation_top20 is the historical up-to-20 diagnostic.'],\n ['scope','purpose','Uncensored source records for the Posting-Task versus published O*NET figure for any available 2018 SOC6 origin.'],\n ['figure','default','The notebook renders Registered Nurses (29-1141); pass --origin and optionally --destination to figure_from_excel.py for another case.'],\n ['construction','task profiles','Minimum raw support 5; apply the audited exclusion mask; square-root RCA coordinates normalized at O*NET specialty level, then averaged to 2018 SOC6.'],\n ['construction','retention','Excluded reviewed links are omitted. A retained link means included by the stated rule; it does not imply two-model review.'],\n ['construction','ranking','Posting-Task ranks SOC6 destinations by cosine. O*NET ranks by the aggregated published Related Occupations ordering, which includes expert review.'],\n ['validation','SST','SST shares and top-ten flags use only bijective SOC6 links from the audited 2010-to-2018 crosswalk.'],\n ['validation','DOL','DOL top-ten flags use direct 2018-SOC mappings. DOL supplies ranks, not transition shares.'],\n ['interpretation','limits','Relatedness and retrospective validation are not causal estimates of individual transition feasibility or success.'],\n ['reproduction','command','python3 figure_from_excel.py occupation_transitions.xlsx OUTPUT_DIRECTORY --origin 29-1141; top ten is computed by the renderer from complete inputs.'],\n ['worked example','occupations','43-3031.00 Bookkeeping clerks to 43-1011.00 office supervisors; separate from the figure case so the arithmetic example is not outcome-selected.']]\nfor sheet,df in tables.items():\n    for col in df.columns: readme.append([sheet,col,definitions.get(col, 'Validation field; see Step 4.1 and the validation replication README for definition and denominator.')])\ntables={'README':pd.DataFrame(readme,columns=['sheet_or_topic','variable_or_label','definition']),**tables}\nspec=[]\nfor name,df in tables.items():\n    rows=[df.columns.tolist()]+json.loads(df.to_json(orient='values',double_precision=15))\n    fn=name+'.json';(OUT/fn).write_text(json.dumps(rows,ensure_ascii=False));spec.append({'sheet':name,'file':fn})\n(OUT/'workbook_spec.json').write_text(json.dumps(spec))\n# Public reproduction uses pip-installable Python packages by default.\nbackend=os.environ.get('WORKBOOK_BACKEND','python')\nif backend=='python':\n    track(OUT/'write_workbook_portable.py')\n    subprocess.run([sys.executable,str(OUT/'write_workbook_portable.py'),str(OUT)],check=True)\nelif backend=='artifact':\n    NODE=os.environ.get('NODE',str(Path.home()/'.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node'))\n    NODE_MODULES=Path(os.environ.get('NODE_MODULES',str(Path.home()/'.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules')))\n    link=OUT/'node_modules'\n    if link.is_symlink() and link.resolve()!=NODE_MODULES.resolve():link.unlink()\n    if not link.exists():link.symlink_to(NODE_MODULES,target_is_directory=True)\n    subprocess.run([NODE,'--max-old-space-size=6144',str(OUT/'write_workbook.mjs'),str(OUT)],check=True)\nelse:raise ValueError('WORKBOOK_BACKEND must be python or artifact')\nsubprocess.run([sys.executable,str(OUT/'stream_transition_sheets.py'),str(OUT)],check=True)\n(OUT/'run_manifest.json').write_text(json.dumps({'inputs_sha256':inputs,'versions':{'python':sys.version,'numpy':np.__version__,'pandas':pd.__version__},'rows':{k:len(v) for k,v in tables.items()},'workbook_backend':backend,'workbook_sha256':sha(OUT/'occupation_transitions.xlsx')},indent=2))",
+      "metadata": {
+        "execution": {
+          "iopub.execute_input": "2026-09-26T14:06:24.029347Z",
+          "iopub.status.busy": "2026-09-26T14:06:24.029211Z",
+          "iopub.status.idle": "2026-09-26T14:06:59.894582Z",
+          "shell.execute_reply": "2026-09-26T14:06:59.893518Z"
+        }
+      },
+      "id": "a2dee43f"
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## Step 7 — Verify the exported workbook\nRead the completed workbook back. Check the numerical example formulas, the total number of universal figure records, the required record types, and the complete set of Registered Nurses ranking and focal-metric rows.\n\nThe renderer is tested in the final step using only a copied workbook. Passing that isolated reproduction check shows that the figure does not depend on an RN-specific worksheet or reopen research data.",
+      "metadata": {},
+      "id": "d05e4288"
+    },
+    {
+      "cell_type": "code",
+      "source": "wb=openpyxl.load_workbook(OUT/'occupation_transitions.xlsx',read_only=True,data_only=True)\nassert wb.sheetnames[:3]==['README','Case_tasks','Figure_data']\nassert set(validation_tables)<=set(wb.sheetnames)\nfrom validation_replication import workbook_summary\nrecalculated=workbook_summary(OUT/'occupation_transitions.xlsx')\nassert len(recalculated)==6\nrows=list(wb['Case_tasks'].iter_rows(min_row=2,values_only=True));np.testing.assert_allclose([r[9] for r in rows],case_export.contribution,atol=1e-12)\nws=wb['Figure_data'];header=[c.value for c in next(ws.iter_rows(min_row=1,max_row=1))];counts={};nonblank={k:0 for k in header};sources={}\nfor values in ws.iter_rows(min_row=2,values_only=True):\n values=values+(None,)*(len(header)-len(values));row=dict(zip(header,values));kind=row['record_type'];counts[kind]=counts.get(kind,0)+1\n for k,v in row.items():nonblank[k]+=v is not None\n if kind=='source':sources[row['source_id']]={'citation':row['citation'],'source_location':row['source_location']}\nwb.close()\nassert counts==figure_data.record_type.value_counts().to_dict();assert set(sources)=={'POSTING','ONET31','SST','DOL'}\nfor column in ['task_id','task_label','profile_coordinate','posting_frequency','canonical_in_origin','metric','value']:\n assert nonblank[column]>0,column\nverification={'status':'PASS','figure_data_rows':len(figure_data),'record_counts':counts,'nonblank_counts':nonblank,'source_records':sources,'excel_formula_parity':True}\n(OUT/'verification.json').write_text(json.dumps(verification,indent=2));display(pd.DataFrame({'nonblank_cells':nonblank}));print('Verified uncensored Figure_data and citations.')",
+      "metadata": {
+        "execution": {
+          "iopub.execute_input": "2026-09-26T14:06:59.897242Z",
+          "iopub.status.busy": "2026-09-26T14:06:59.897080Z",
+          "iopub.status.idle": "2026-09-26T14:08:42.478615Z",
+          "shell.execute_reply": "2026-09-26T14:08:42.478144Z"
+        }
+      },
+      "id": "ad92c072"
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## Step 8 — Summarize task demand, O*NET alignment, and Eloundou exposure\nThis section keeps three empirical questions separate. Monthly `bundle_signatures` preserve within-ad task composition and therefore identify tasks per ad and exact beta combinations. `occupation_task_marginals.csv.gz` contains occupation-task incidence and therefore identifies alignment with canonical O*NET task homes. It cannot recover task co-occurrence within ads.\n\nNational estimates use inverse occupation-month inclusion weights. Raw counts remain support diagnostics. Eloundou beta is computed over rated tasks only. Incidence-pooled beta weights task incidences; equal-ad beta weights ads with at least one rated task. These are descriptive exposure measures, not transition outcomes.",
+      "metadata": {},
+      "id": "fd6a9382"
+    },
+    {
+      "cell_type": "code",
+      "source": "manifest=json.loads((ROOT/'data/release/manifest.json').read_text());months=manifest['config']['months']\nbundle=pd.concat([pd.read_csv(track(ROOT/f'data/release/bundle_signatures_{m}.csv.gz'),dtype={'occupational_code':str,'sector2':str}) for m in months],ignore_index=True)\ntask_lookup=pd.read_csv(track(ROOT/'analysis/occupation_first_results/case_selection/task_lookup.csv'),usecols=['task_id','canonical_home','beta'])\nmarginals=pd.read_csv(track(ROOT/'data/release/occupation_task_marginals.csv.gz'),usecols=['occupational_code','task_id','n_jobs_with_task','weighted_jobs_with_task'])\nassert bundle.n_rated.eq(bundle.n_beta0+bundle.n_beta05+bundle.n_beta1).all()\nassert bundle.n_tasks.eq(bundle.n_rated+bundle.n_unrated).all()\ndisplay(pd.DataFrame([\n {'claim':'Tasks per job ad','identifying aggregate':'monthly bundle signatures','marginal file role':'not used; co-occurrence was collapsed'},\n {'claim':'O*NET task alignment','identifying aggregate':'occupation-task marginals + task lookup','marginal file role':'primary incidence source'},\n {'claim':'Job-month-level Eloundou beta','identifying aggregate':'monthly bundle signatures','marginal file role':'cannot identify ad means'}]))",
+      "metadata": {
+        "execution": {
+          "iopub.execute_input": "2026-09-26T14:08:42.480163Z",
+          "iopub.status.busy": "2026-09-26T14:08:42.480058Z",
+          "iopub.status.idle": "2026-09-26T14:08:44.378600Z",
+          "shell.execute_reply": "2026-09-26T14:08:44.378089Z"
+        }
+      },
+      "id": "7f50d6d4"
+    },
+    {
+      "cell_type": "markdown",
+      "source": "### Step 8.1 — Posting-level summaries and exact beta combinations\nEach signature row represents ads sharing occupation, sector, month, and task composition. Calculations expand those groups analytically with `weighted_jobs`; no synthetic microdata are created. The eight “only” patterns are mutually exclusive and partition all postings. Inclusive “any” measures overlap by design.",
+      "metadata": {},
+      "id": "3e83b199"
+    },
+    {
+      "cell_type": "code",
+      "source": "def weighted_quantile(values,weights,probs=(.25,.5,.75)):\n    order=np.argsort(values);x=np.asarray(values)[order];ww=np.asarray(weights)[order]\n    return np.interp(probs,(np.cumsum(ww)-.5*ww)/ww.sum(),x)\nw=bundle.weighted_jobs.to_numpy();rated=bundle.n_rated.gt(0)\njob_beta=(bundle.n_beta1+.5*bundle.n_beta05)/bundle.n_rated.replace(0,np.nan)\ntask_q=weighted_quantile(bundle.n_tasks,w);beta_q=weighted_quantile(job_beta[rated],bundle.loc[rated,'weighted_jobs'])\nposting_summary=pd.DataFrame([('Design-weighted job-months',w.sum(),'job-months'),('Raw sampled job-months',bundle.n_jobs.sum(),'job-months'),\n ('Mean tasks per job-month',np.average(bundle.n_tasks,weights=w),'tasks'),('Task-count p25',task_q[0],'tasks'),('Task-count median',task_q[1],'tasks'),('Task-count p75',task_q[2],'tasks'),\n ('Job-months with at least one rated task',bundle.loc[rated,'weighted_jobs'].sum()/w.sum(),'share'),('Job-months with at least one beta=1 task',bundle.loc[bundle.n_beta1.gt(0),'weighted_jobs'].sum()/w.sum(),'share'),\n ('Job-months with at least two beta=1 tasks',bundle.loc[bundle.n_beta1.ge(2),'weighted_jobs'].sum()/w.sum(),'share'),('Job-months mixing beta=1 and beta=0 tasks',bundle.loc[bundle.n_beta1.gt(0)&bundle.n_beta0.gt(0),'weighted_jobs'].sum()/w.sum(),'share'),\n ('Incidence-pooled Eloundou beta',((bundle.n_beta1+.5*bundle.n_beta05)*bundle.weighted_jobs).sum()/(bundle.n_rated*bundle.weighted_jobs).sum(),'beta'),\n ('Equal-job-month Eloundou beta',np.average(job_beta[rated],weights=bundle.loc[rated,'weighted_jobs']),'beta'),('Job-month-level beta p25',beta_q[0],'beta'),('Job-month-level beta median',beta_q[1],'beta'),('Job-month-level beta p75',beta_q[2],'beta')],columns=['statistic','value','unit'])\nh0=bundle.n_beta0.gt(0);h5=bundle.n_beta05.gt(0);h1=bundle.n_beta1.gt(0)\npatterns=[('no_rated_task',~rated),('beta0_only',h0&~h5&~h1),('beta05_only',~h0&h5&~h1),('beta1_only',~h0&~h5&h1),('beta0_beta05_only',h0&h5&~h1),('beta0_beta1_only',h0&~h5&h1),('beta05_beta1_only',~h0&h5&h1),('all_three',h0&h5&h1)]\ninclusive=[('any_beta0',h0),('any_beta05',h5),('any_beta1',h1),('any_beta0_and_beta05',h0&h5),('any_beta0_and_beta1',h0&h1),('any_beta05_and_beta1',h5&h1)]\nraw_total=bundle.n_jobs.sum();weighted_total=bundle.weighted_jobs.sum();out=[]\nfor group,defs in [('mutually_exclusive',patterns),('inclusive',inclusive)]:\n for order,(name,mask) in enumerate(defs,1):\n  rc=int(bundle.loc[mask,'n_jobs'].sum());wc=bundle.loc[mask,'weighted_jobs'].sum()\n  out.append({'group':group,'display_order':order,'pattern':name,'raw_sample_postings':rc,'raw_sample_share':rc/raw_total,'design_weighted_postings':wc,'design_weighted_share':wc/weighted_total})\nposting_beta_pattern_summary=pd.DataFrame(out);exclusive=posting_beta_pattern_summary.query(\"group=='mutually_exclusive'\")\nassert exclusive.raw_sample_postings.sum()==raw_total and np.isclose(exclusive.design_weighted_postings.sum(),weighted_total)\ndisplay(posting_summary);display(exclusive)\nposting_summary.to_csv(OUT/'posting_exposure_summary.csv',index=False);posting_beta_pattern_summary.to_csv(OUT/'posting_beta_pattern_summary.csv',index=False)",
+      "metadata": {
+        "execution": {
+          "iopub.execute_input": "2026-09-26T14:08:44.380342Z",
+          "iopub.status.busy": "2026-09-26T14:08:44.380234Z",
+          "iopub.status.idle": "2026-09-26T14:08:44.789044Z",
+          "shell.execute_reply": "2026-09-26T14:08:44.788546Z"
+        }
+      },
+      "id": "1ce06022"
+    },
+    {
+      "cell_type": "markdown",
+      "source": "### Step 8.2 — Canonical O*NET alignment and variation across occupations\nAn incidence is “inside” when the posting occupation and task's canonical O*NET home share the stated SOC prefix. The denominator includes only evaluable incidences; missing canonical mappings are reported separately. Occupation percentiles weight supported occupations equally and require at least 200 sampled ads, so they answer a different question from posting-weighted national summaries.",
+      "metadata": {},
+      "id": "b22f5460"
+    },
+    {
+      "cell_type": "code",
+      "source": "inc=marginals.merge(task_lookup[['task_id','canonical_home']],on='task_id',how='left',validate='many_to_one');alignment=[]\nfor label,width in [('SOC 2',2),('SOC 4',5),('SOC 6',7),('SOC 8',10)]:\n known=inc.canonical_home.notna()&inc.occupational_code.str[:width].isin(task_lookup.canonical_home.dropna().str[:width]);inside=known&inc.occupational_code.str[:width].eq(inc.canonical_home.str[:width])\n den=inc.loc[known,'weighted_jobs_with_task'].sum();unknown=inc.loc[~known,'weighted_jobs_with_task'].sum()\n alignment.append({'SOC level':label,'inside share':inc.loc[inside,'weighted_jobs_with_task'].sum()/den,'outside share':inc.loc[known&~inside,'weighted_jobs_with_task'].sum()/den,'evaluable incidence':den,'non-evaluable incidence':unknown,'evaluable share':den/(den+unknown)})\nalignment=pd.DataFrame(alignment)\ndef occ_exposure(g):\n ww=g.weighted_jobs;rr=g.n_rated.gt(0)\n return pd.Series({'raw_ads':g.n_jobs.sum(),'weighted_ads':ww.sum(),'mean_tasks':np.average(g.n_tasks,weights=ww),'share_any_beta1':g.loc[g.n_beta1.gt(0),'weighted_jobs'].sum()/ww.sum(),'incidence_beta':((g.n_beta1+.5*g.n_beta05)*ww).sum()/(g.n_rated*ww).sum(),'equal_ad_beta':np.average(((g.n_beta1+.5*g.n_beta05)/g.n_rated)[rr],weights=ww[rr])})\nocc=bundle.groupby('occupational_code',sort=False).apply(occ_exposure,include_groups=False).reset_index();supported=occ[occ.raw_ads.ge(200)]\noccupation_distribution=supported[['mean_tasks','share_any_beta1','incidence_beta','equal_ad_beta']].describe(percentiles=[.1,.25,.5,.75,.9]).T.reset_index(names='measure')\ndisplay(alignment);display(occupation_distribution)\nalignment.to_csv(OUT/'onet_alignment_summary.csv',index=False);occupation_distribution.to_csv(OUT/'occupation_exposure_distribution.csv',index=False)",
+      "metadata": {
+        "execution": {
+          "iopub.execute_input": "2026-09-26T14:08:44.790486Z",
+          "iopub.status.busy": "2026-09-26T14:08:44.790397Z",
+          "iopub.status.idle": "2026-09-26T14:08:46.756481Z",
+          "shell.execute_reply": "2026-09-26T14:08:46.755929Z"
+        }
+      },
+      "id": "16c8e985"
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## Step 9 — Render any occupation figure from the universal Excel table\nThe standalone renderer reads only the workbook as data. Figure_data stores task coordinates, observed destination flags, and sixteen frozen validation_top20 records per SOC6 origin. Lower panels use matched benchmark populations, which can differ from the illustrative ranking population. Unmapped results are missing, never zero.\n\nThe default shared-task example is outcome-selected: among task-top-ten destinations outside the O*NET top ten, choose maximal SST share, with EMSI rank as fallback. It is a favorable descriptive illustration, not a representative link. Use --destination for an outcome-independent choice.\n\nThe isolation check copies only the workbook, figure_from_excel.py and the data-independent figure_rendering.py into a temporary directory and executes the copied renderer there. No repository path is used by those modules.\n\n**Reading the figure.** A identifies the origin. B explains a selected connection with task contributions. C/D compare Posting-Tasks and published O*NET destination lists. E describes the independently constructed O*NET comparator. F summarizes eligible origins; G reports the selected origin where mapped evidence exists. NLSY97/PSID remains in the overall summary but is unavailable for RN under the audited mapping. O*NET text/title/knowledge similarity is an external comparator, not the same representation as posting-task RCA.\n\n**Rendering dependencies.** `figure_from_excel.py` reads the workbook; `figure_rendering.py` draws the panels. The final RN annotation/public export passes occur in Step 10. Changing typography does not require refitting similarities. A copied-workbook rendering test verifies portability of the figure stage, not end-to-end reconstruction from raw postings.",
+      "metadata": {},
+      "id": "7a837e7d"
+    },
+    {
+      "cell_type": "code",
+      "source": "import tempfile\nrenderer=OUT/'figure_from_excel.py';figure_stem='occupation_relatedness_29_1141'\nsubprocess.run([sys.executable,str(renderer),str(OUT/'occupation_transitions.xlsx'),str(OUT),'--origin','29-1141'],check=True)\nwith tempfile.TemporaryDirectory() as td:\n    tmp=Path(td)\n    shutil.copy2(renderer,tmp/renderer.name)\n    shutil.copy2(OUT/'figure_rendering.py',tmp/'figure_rendering.py')\n    shutil.copy2(OUT/'validation_replication.py',tmp/'validation_replication.py')\n    shutil.copy2(OUT/'occupation_transitions.xlsx',tmp/'input.xlsx')\n    subprocess.run([sys.executable,str(tmp/renderer.name),str(tmp/'input.xlsx'),str(tmp/'figure'),'--origin','29-1141'],cwd=tmp,check=True)\n    assert sha(tmp/'figure'/f'{figure_stem}.png')==sha(OUT/f'{figure_stem}.png')\nverification=json.loads((OUT/'verification.json').read_text());verification['isolated_excel_only_figure_identical']=True\n(OUT/'verification.json').write_text(json.dumps(verification,indent=2))\ndisplay(Image(filename=str(OUT/f'{figure_stem}.png')))\nprint('Final workbook-only figure:',OUT/f'{figure_stem}.pdf')",
+      "metadata": {
+        "execution": {
+          "iopub.execute_input": "2026-09-26T14:08:46.757978Z",
+          "iopub.status.busy": "2026-09-26T14:08:46.757883Z",
+          "iopub.status.idle": "2026-09-26T14:12:07.448773Z",
+          "shell.execute_reply": "2026-09-26T14:12:07.448004Z"
+        }
+      },
+      "id": "784afc3d"
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## Step 10 — Build the final paper figure and both dashboard editions\nThis is the final production step. Step 9 verifies the standalone workbook illustration; the final RN annotation pass preserves its workbook-contained audited top-20 panels. The dashboard uses the same universal Figure_data rankings for the six-digit paper view and the saved benchmark-specific evaluations for validation. The eight-digit specialty view stays available. A clean page opens to six-digit Registered Nurses.\n\nThe local dashboard catalog, detailed marginal/link profiles, frozen benchmark results, and audited survey mappings are declared inputs. Group frequencies pool specialty job-month counts and fixed design-weighted denominators; task scores are dot products of mean normalized specialty task vectors, equal to mean specialty-pair task cosines; group vectors are not renormalized. Released specialty pairs are summed, with suppressed pairs explicitly unknown. No microdata reconstruction or new analytical threshold is introduced.\n\nPublic task identities require canonical membership, accepted review, or retained unreviewed raw support **greater than 200** in the selected occupation. SOC6 identities also require permission in every contributing specialty, preventing parent-minus-child reconstruction. The table leads with design-weighted posting percentages; raw support remains a tooltip. Build-time tests check RN list agreement, grouped denominators, survey values, and public disclosure. `paper_dashboard_build.json` records source/output hashes; `release.json` hashes every public asset. Browser interaction checks are documented in `analysis/dashboard_release/README.md`.\n\nThe production step also regenerates Quality_review and Transition_flags in the Excel workbook, plus dashboard warnings. These annotations screen all SOC6 groups and document targeted aggregate-content reviews, without changing the benchmark population or scores. Review decisions live in analysis/profile_quality_review/review_decisions.json; unflagged profiles are not certified.\n\n\n**Public presentation and model boundaries.** The navigator’s compact occupational job-task bundle is a separate within-posting co-occurrence illustration. Public statement tables and cloud exploration are limited to the top 20 permitted posting tasks; complete permitted aggregates remain in the public data. Neither this display limit nor network selection changes the model.\n\n**Execution provenance.** Explanatory Markdown can be updated without rerunning numerical cells. An existing executed research notebook may retain outputs from its recorded run; the public downloadable notebook and static reading page intentionally omit outputs and execution counts. A fresh full run is required to claim that every production artifact has been regenerated from the latest code.",
+      "metadata": {},
+      "id": "54f558fc"
+    },
+    {
+      "cell_type": "code",
+      "source": "pipeline=ROOT/'analysis/dashboard_release/build_paper_dashboard.py'\ntrack(pipeline)\nsubprocess.run([sys.executable,str(pipeline),\"--reuse-workbook-figure\"],cwd=ROOT,check=True)\nbuild_report=json.loads((OUT/'paper_dashboard_build.json').read_text())\nassert build_report['status']=='PASS' and build_report['default_occupation']=='29-1141'\ndisplay(Image(filename=str(OUT/'occupation_relatedness_29_1141.png')))\nprint('Final figure, six/eight-digit private dashboard, and audited public dashboard are ready.')\n",
+      "metadata": {
+        "execution": {
+          "iopub.execute_input": "2026-09-29T01:49:31.560299Z",
+          "iopub.status.busy": "2026-09-29T01:49:31.560157Z",
+          "iopub.status.idle": "2026-09-29T01:50:46.870040Z",
+          "shell.execute_reply": "2026-09-29T01:50:46.869376Z"
+        }
+      },
+      "id": "0c2f23e2"
+    }
+  ]
+}

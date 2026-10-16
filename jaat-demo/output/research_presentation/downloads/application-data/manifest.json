@@ -1,0 +1,35 @@
+{
+  "source_hashes": {
+    "output/research_presentation/us-lmi/downloads/agreement/sonnet_gpt_stem_tasks_results.xlsx": "a22e3be530812493712590ff9051c92110412968f42e2b5257f51109af9cd87d",
+    "output/research_presentation/us-lmi/downloads/agreement/sonnet_gpt_green_tasks_results.xlsx": "2f1c06471a1878a45c8c3cfaaec8c2f3978210066581ca0bb23ba9529c788726",
+    "analysis/public_source_replication/web/data/military_pathways.json": "6bb15f078d84993fd35d9846f065e648d97416ebd054d744160c30d806694048",
+    "output/public_occupation_dashboard/linked_replication.zip": "73ceeedbc6acbb66ad1f6ee7bde849dc44a7d76d9b919c93e7967392e05ebe90",
+    "output/public_occupation_dashboard/activity_replication.zip": "675f6368f110c7534d6c773367fc3d7f4bbed89c60020ea8febcb539f3d26db5",
+    "output/public_occupation_dashboard/skillmatch_replication.zip": "8311163596fe1200d0ca4c594a076246d50db369ef7bd6ade1aabb5cde21a44d"
+  },
+  "counts": {
+    "stem_tasks": 1375,
+    "stem_review_decisions": 6849,
+    "green_tasks": 1056,
+    "green_review_decisions": 5840,
+    "military_connection_rows": 150
+  },
+  "files": {
+    "README.txt": "c6796ece4a1e4d0126172bfa88100c7221fe560ccfbf9ea36a4e54a1e87b9051",
+    "activity_results.csv": "6249ffdb448859dcb9a6dbea1ecc344b3c599b8ad6afcb5a964c3b28d1af5368",
+    "alternatives.html": "01d0b8d8c3a49d42e26cec49b0499a67ceffa58060b6aae7056ee8e758329131",
+    "bundles.html": "376d361ce0f8ac3de2b56d0ec365dd5a2299e9b2b2b448fae46cd0155032d796",
+    "export_application_assets.py": "7118b0b5728b989c51f21ccbd54c05eac60513f9ea23fbd18ba976e8af9170fd",
+    "green_review_decisions.csv": "346ad9192941a45d3111f6f1d48a0506a4f5ab48b97a0e40c65ea9ed757484a8",
+    "green_tasks.csv": "d486eaded698e3c0db0ad1c5c6c57d6c7b4f359ac56c6208c508b484d485e5e9",
+    "linked_results.csv": "0fafa5736970a9c9a2d125fb9513b0b187078b9612b245478b26891bad9ff151",
+    "military.html": "4365c854a82402b6cd57963195f9eb77a3575a18b05d33819b714ef68d1ca7e4",
+    "military_connections.csv": "25964c3955ec26494c44f1cfbed6c7726eba6f8644ecc80e3f347019f8abe9c7",
+    "military_pathways.json": "9abd80b150614bc1dd4dcc5712545727660a8c793700165c132b676d82abfb88",
+    "skillmatch_results.csv": "f980e0973a77155fd1e45d03aff4396a2bc5b1a73a7110d35e4cc646be48fd74",
+    "sonnet_gpt_green_tasks_results.xlsx": "2f1c06471a1878a45c8c3cfaaec8c2f3978210066581ca0bb23ba9529c788726",
+    "sonnet_gpt_stem_tasks_results.xlsx": "a22e3be530812493712590ff9051c92110412968f42e2b5257f51109af9cd87d",
+    "stem_review_decisions.csv": "5b2da0fe0e816513886c8cb90c6345e607dcec074e75a10b26441c861bd48f03",
+    "stem_tasks.csv": "7c173c7df531d462b566bfc79e2e38ea1793ca979219fb2ed698dd0d3d05ccba"
+  }
+}

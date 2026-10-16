@@ -1,0 +1,38 @@
+{
+  "downloaded_on": "2026-09-22",
+  "repository": "https://github.com/gschubert/occ-mobility-data",
+  "commit": "db4a0c7e49fce29c61c33888bea0f0dbe7592451",
+  "files": {
+    "occupation_transitions_public_data_set.csv.zip": {
+      "url": "https://raw.githubusercontent.com/gschubert/occ-mobility-data/db4a0c7e49fce29c61c33888bea0f0dbe7592451/occupation_transitions_public_data_set.csv.zip",
+      "bytes": 7204500,
+      "sha256": "a619ba3f2a08a7762506bf855b3c1e0cfef7b5917c8c08756c35ab3a02d0caff"
+    },
+    "readme.pdf": {
+      "url": "https://raw.githubusercontent.com/gschubert/occ-mobility-data/db4a0c7e49fce29c61c33888bea0f0dbe7592451/readme.pdf",
+      "bytes": 526215,
+      "sha256": "c4169f5277a408b415aa62ca9b8381f57b28eee41f8a0cea0386b151ace53639"
+    },
+    "soc_hierarchy.csv": {
+      "url": "https://raw.githubusercontent.com/gschubert/occ-mobility-data/db4a0c7e49fce29c61c33888bea0f0dbe7592451/soc_hierarchy.csv",
+      "bytes": 156699,
+      "sha256": "a2074d8f2e1d604b883360cb2b6d7f3cd03899e2f51964841733f3955a4fcd26"
+    }
+  },
+  "rows": 277942,
+  "columns": [
+    "soc1",
+    "soc2",
+    "total_obs",
+    "transition_share",
+    "soc1_name",
+    "soc2_name"
+  ],
+  "origin_occupations": 731,
+  "destination_occupations": 819,
+  "duplicate_pairs": 0,
+  "self_pairs": 0,
+  "origin_probability_sum_min": 0.9999999394854,
+  "origin_probability_sum_max": 1.0000000560561,
+  "matched_to_project": false
+}

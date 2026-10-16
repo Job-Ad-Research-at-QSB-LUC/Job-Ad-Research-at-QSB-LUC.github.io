@@ -1,0 +1,727 @@
+system,code,title,family,specialties
+2010,10,Chief executives,11,11-1011.00;11-1011.03
+2010,20,General and operations managers,11,11-1021.00
+2010,30,Legislators,11,11-1031.00
+2010,40,Advertising and promotions managers,11,11-2011.00
+2010,50,Marketing and sales managers,11,11-2021.00;11-2022.00
+2010,110,Computer and information systems managers,11,11-3021.00
+2010,135,Compensation and benefits managers,11,11-3111.00
+2010,136,Human resources managers,11,11-3121.00
+2010,137,Training and development managers,11,11-3131.00
+2010,140,Industrial production managers,11,11-3051.00;11-3051.01;11-3051.02;11-3051.03;11-3051.04;11-3051.06
+2010,150,Purchasing managers,11,11-3061.00
+2010,205,"Farmers, ranchers, and other agricultural managers",11,11-9013.00
+2010,220,Construction managers,11,11-9021.00
+2010,300,Architectural and engineering managers,11,11-9041.00;11-9041.01
+2010,310,Food service managers,11,11-9051.00
+2010,325,Funeral service managers,11,11-9171.00
+2010,330,Gaming managers,11,11-9071.00
+2010,340,Lodging managers,11,11-9081.00
+2010,350,Medical and health services managers,11,11-9111.00
+2010,360,Natural sciences managers,11,11-9121.00;11-9121.01;11-9121.02
+2010,400,Postmasters and mail superintendents,11,11-9131.00
+2010,410,"Property, real estate, and community association managers",11,11-9141.00
+2010,420,Social and community service managers,11,11-9151.00
+2010,425,Emergency management directors,11,11-9161.00
+2010,500,"Agents and business managers of artists, performers, and athletes",13,13-1011.00
+2010,510,"Buyers and purchasing agents, farm products",13,13-1021.00
+2010,520,"Wholesale and retail buyers, except farm products",13,13-1022.00
+2010,530,"Purchasing agents, except wholesale, retail, and farm products",13,13-1023.00
+2010,540,"Claims adjusters, appraisers, examiners, and investigators",13,13-1031.00;13-1032.00
+2010,600,Cost estimators,13,13-1051.00
+2010,630,Human resources workers,13,13-1071.00;13-1074.00;13-1075.00
+2010,640,"Compensation, benefits, and job analysis specialists",13,13-1141.00
+2010,650,Training and development specialists,13,13-1151.00
+2010,700,Logisticians,13,13-1081.00;13-1081.01;13-1081.02
+2010,710,Management analysts,13,13-1111.00
+2010,725,"Meeting, convention, and event planners",13,13-1121.00
+2010,726,Fundraisers,13,13-1131.00
+2010,800,Accountants and auditors,13,13-2011.00
+2010,820,Budget analysts,13,13-2031.00
+2010,830,Credit analysts,13,13-2041.00
+2010,850,Personal financial advisors,13,13-2052.00
+2010,860,Insurance underwriters,13,13-2053.00
+2010,900,Financial examiners,13,13-2061.00
+2010,930,"Tax examiners and collectors, and revenue agents",13,13-2081.00
+2010,940,Tax preparers,13,13-2082.00
+2010,1005,Computer and information research scientists,15,15-1221.00
+2010,1006,Computer systems analysts,15,15-1211.00;15-1211.01
+2010,1007,Information security analysts,15,15-1212.00
+2010,1010,Computer programmers,15,15-1251.00
+2010,1050,Computer support specialists,15,15-1231.00;15-1232.00
+2010,1105,Network and computer systems administrators,15,15-1244.00
+2010,1106,Computer network architects ,15,15-1241.00;15-1241.01
+2010,1200,Actuaries,15,15-2011.00
+2010,1210,Mathematicians,15,15-2021.00
+2010,1220,Operations research analysts,15,15-2031.00
+2010,1300,"Architects, except naval",17,17-1011.00;17-1012.00
+2010,1310,"Surveyors, cartographers, and photogrammetrists",17,17-1021.00;17-1022.00;17-1022.01
+2010,1320,Aerospace engineers,17,17-2011.00
+2010,1330,Agricultural engineers,17,17-2021.00
+2010,1350,Chemical engineers,17,17-2041.00
+2010,1400,Computer hardware engineers,17,17-2061.00
+2010,1410,Electrical and electronics engineers,17,17-2071.00;17-2072.00;17-2072.01
+2010,1440,Marine engineers and naval architects,17,17-2121.00
+2010,1450,Materials engineers,17,17-2131.00
+2010,1460,Mechanical engineers,17,17-2141.00;17-2141.01;17-2141.02
+2010,1500,"Mining and geological engineers, including mining safety engineers",17,17-2151.00
+2010,1510,Nuclear engineers,17,17-2161.00
+2010,1520,Petroleum engineers,17,17-2171.00
+2010,1560,Surveying and mapping technicians,17,17-3031.00
+2010,1600,Agricultural and food scientists,19,19-1011.00;19-1012.00;19-1013.00
+2010,1640,Conservation scientists and foresters,19,19-1031.00;19-1031.02;19-1031.03;19-1032.00
+2010,1650,Medical scientists,19,19-1041.00;19-1042.00
+2010,1700,Astronomers and physicists,19,19-2011.00;19-2012.00
+2010,1710,Atmospheric and space scientists,19,19-2021.00
+2010,1720,Chemists and materials scientists,19,19-2031.00;19-2032.00
+2010,1740,Environmental scientists and geoscientists,19,19-2041.00;19-2041.01;19-2041.02;19-2041.03;19-2042.00;19-2043.00
+2010,1800,Economists,19,19-3011.00;19-3011.01
+2010,1815,Survey researchers,19,19-3022.00
+2010,1830,Sociologists,19,19-3041.00
+2010,1910,Biological technicians,19,19-4021.00
+2010,1920,Chemical technicians,19,19-4031.00
+2010,1940,Nuclear technicians,19,19-4051.00;19-4051.02
+2010,2015,Probation officers and correctional treatment specialists,21,21-1092.00
+2010,2016,Social and human service assistants,21,21-1093.00
+2010,2040,Clergy,21,21-2011.00
+2010,2050,"Directors, religious activities and education",21,21-2021.00
+2010,2100,Lawyers,23,23-1011.00
+2010,2105,Judicial law clerks,23,23-1012.00
+2010,2110,"Judges, magistrates, and other judicial workers",23,23-1021.00;23-1022.00;23-1023.00
+2010,2145,Paralegals and legal assistants,23,23-2011.00
+2010,2300,Preschool and kindergarten teachers,25,25-2011.00;25-2012.00
+2010,2310,Elementary and middle school teachers,25,25-2021.00;25-2022.00;25-2023.00
+2010,2320,Secondary school teachers,25,25-2031.00;25-2032.00
+2010,2400,"Archivists, curators, and museum technicians",25,25-4011.00;25-4012.00;25-4013.00
+2010,2440,Library technicians,25,25-4031.00
+2010,2700,Actors,27,27-2011.00
+2010,2710,Producers and directors,27,27-2012.00;27-2012.03;27-2012.04;27-2012.05
+2010,2720,"Athletes, coaches, umpires, and related workers",27,27-2021.00;27-2022.00;27-2023.00
+2010,2750,"Musicians, singers, and related workers",27,27-2041.00;27-2042.00
+2010,2825,Public relations specialists,27,27-3031.00
+2010,2830,Editors,27,27-3041.00
+2010,2840,Technical writers,27,27-3042.00
+2010,2850,Writers and authors,27,27-3043.00;27-3043.05
+2010,2910,Photographers,27,27-4021.00
+2010,2920,"Television, video, and motion picture camera operators and editors",27,27-4031.00;27-4032.00
+2010,3000,Chiropractors,29,29-1011.00
+2010,3030,Dietitians and nutritionists,29,29-1031.00
+2010,3040,Optometrists,29,29-1041.00
+2010,3050,Pharmacists,29,29-1051.00
+2010,3110,Physician assistants,29,29-1071.00;29-1071.01
+2010,3120,Podiatrists,29,29-1081.00
+2010,3140,Audiologists,29,29-1181.00
+2010,3150,Occupational therapists,29,29-1122.00;29-1122.01
+2010,3160,Physical therapists,29,29-1123.00
+2010,3200,Radiation therapists,29,29-1124.00
+2010,3220,Respiratory therapists,29,29-1126.00
+2010,3230,Speech-language pathologists,29,29-1127.00
+2010,3235,Exercise physiologists,29,29-1128.00
+2010,3250,Veterinarians,29,29-1131.00
+2010,3255,Registered nurses,29,29-1141.00;29-1141.01;29-1141.02;29-1141.03;29-1141.04
+2010,3256,Nurse anesthetists,29,29-1151.00
+2010,3257,Nurse midwives,29,29-1161.00
+2010,3258,Nurse practitioners,29,29-1171.00
+2010,3310,Dental hygienists,29,29-1292.00
+2010,3500,Licensed practical and licensed vocational nurses,29,29-2061.00
+2010,3520,"Opticians, dispensing",29,29-2081.00
+2010,3600,"Nursing, psychiatric, and home health aides",31,31-1121.00;31-1131.00;31-1132.00;31-1133.00
+2010,3610,Occupational therapy assistants and aides,31,31-2011.00;31-2012.00
+2010,3620,Physical therapist assistants and aides,31,31-2021.00;31-2022.00
+2010,3630,Massage therapists,31,31-9011.00
+2010,3640,Dental assistants,31,31-9091.00
+2010,3645,Medical assistants,31,31-9092.00
+2010,3646,Medical transcriptionists,31,31-9094.00
+2010,3647,Pharmacy aides,31,31-9095.00
+2010,3648,Veterinary assistants and laboratory animal caretakers,31,31-9096.00
+2010,3649,Phlebotomists,31,31-9097.00
+2010,3700,First-line supervisors of correctional officers,33,33-1011.00
+2010,3710,First-line supervisors of police and detectives,33,33-1012.00
+2010,3720,First-line supervisors of fire fighting and prevention workers,33,33-1021.00
+2010,3740,Firefighters,33,33-2011.00
+2010,3750,Fire inspectors,33,33-2021.00;33-2022.00
+2010,3800,"Bailiffs, correctional officers, and jailers",33,33-3011.00;33-3012.00
+2010,3830,Fish and game wardens,33,33-3031.00
+2010,3840,Parking enforcement workers,33,33-3041.00
+2010,3860,Transit and railroad police,33,33-3052.00
+2010,3900,Animal control workers,33,33-9011.00
+2010,3910,Private detectives and investigators,33,33-9021.00
+2010,3930,Security guards and gaming surveillance officers,33,33-9031.00;33-9032.00
+2010,3940,Crossing guards,33,33-9091.00
+2010,3945,Transportation security screeners,33,33-9093.00
+2010,4000,Chefs and head cooks,35,35-1011.00
+2010,4010,First-line supervisors of food preparation and serving workers,35,35-1012.00
+2010,4030,Food preparation workers,35,35-2021.00
+2010,4040,Bartenders,35,35-3011.00
+2010,4110,Waiters and waitresses,35,35-3031.00
+2010,4120,"Food servers, nonrestaurant",35,35-3041.00
+2010,4130,Dining room and cafeteria attendants and bartender helpers,35,35-9011.00
+2010,4140,Dishwashers,35,35-9021.00
+2010,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",35,35-9031.00
+2010,4200,First-line supervisors of housekeeping and janitorial workers,37,37-1011.00
+2010,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",37,37-1012.00
+2010,4230,Maids and housekeeping cleaners,37,37-2012.00
+2010,4240,Pest control workers,37,37-2021.00
+2010,4340,Animal trainers,39,39-2011.00
+2010,4350,Nonfarm animal caretakers,39,39-2021.00
+2010,4410,Motion picture projectionists,39,39-3021.00
+2010,4420,"Ushers, lobby attendants, and ticket takers",39,39-3031.00
+2010,4460,Embalmers and funeral attendants,39,39-4011.00;39-4021.00
+2010,4465,"Morticians, undertakers, and funeral directors",39,39-4031.00
+2010,4500,Barbers,39,39-5011.00
+2010,4510,"Hairdressers, hairstylists, and cosmetologists",39,39-5012.00
+2010,4520,Miscellaneous personal appearance workers,39,39-5091.00;39-5092.00;39-5093.00;39-5094.00
+2010,4530,"Baggage porters, bellhops, and concierges",39,39-6011.00;39-6012.00
+2010,4540,Tour and travel guides,39,39-7011.00;39-7012.00
+2010,4600,Childcare workers,39,39-9011.00;39-9011.01
+2010,4610,Personal care aides,39,31-1122.00
+2010,4620,Recreation and fitness workers,39,39-9031.00;39-9032.00
+2010,4640,Residential advisors,39,39-9041.00
+2010,4700,First-line supervisors of retail sales workers,41,41-1011.00
+2010,4710,First-line supervisors of non-retail sales workers,41,41-1012.00
+2010,4720,Cashiers,41,41-2011.00;41-2012.00
+2010,4740,Counter and rental clerks,41,41-2021.00
+2010,4750,Parts salespersons,41,41-2022.00
+2010,4760,Retail salespersons,41,41-2031.00
+2010,4800,Advertising sales agents,41,41-3011.00
+2010,4810,Insurance sales agents,41,41-3021.00
+2010,4830,Travel agents,41,41-3041.00
+2010,4850,"Sales representatives, wholesale and manufacturing",41,41-4011.00;41-4011.07;41-4012.00
+2010,4900,"Models, demonstrators, and product promoters",41,41-9011.00;41-9012.00
+2010,4920,Real estate brokers and sales agents,41,41-9021.00;41-9022.00
+2010,4930,Sales engineers,41,41-9031.00
+2010,4940,Telemarketers,41,41-9041.00
+2010,4950,"Door-to-door sales workers, news and street vendors, and related workers",41,41-9091.00
+2010,5000,First-line supervisors of office and administrative support workers,43,43-1011.00
+2010,5010,"Switchboard operators, including answering service",43,43-2011.00
+2010,5020,Telephone operators,43,43-2021.00
+2010,5100,Bill and account collectors,43,43-3011.00
+2010,5110,Billing and posting clerks ,43,43-3021.00
+2010,5120,"Bookkeeping, accounting, and auditing clerks",43,43-3031.00
+2010,5130,Gaming cage workers,43,43-3041.00
+2010,5140,Payroll and timekeeping clerks,43,43-3051.00
+2010,5150,Procurement clerks,43,43-3061.00
+2010,5160,Tellers,43,43-3071.00
+2010,5200,Brokerage clerks,43,43-4011.00
+2010,5210,Correspondence clerks,43,43-4021.00
+2010,5220,"Court, municipal, and license clerks",43,43-4031.00
+2010,5230,"Credit authorizers, checkers, and clerks",43,43-4041.00
+2010,5250,"Eligibility interviewers, government programs",43,43-4061.00
+2010,5260,File clerks,43,43-4071.00
+2010,5300,"Hotel, motel, and resort desk clerks",43,43-4081.00
+2010,5310,"Interviewers, except eligibility and loan",43,43-4111.00
+2010,5320,"Library assistants, clerical",43,43-4121.00
+2010,5330,Loan interviewers and clerks,43,43-4131.00
+2010,5340,New accounts clerks,43,43-4141.00
+2010,5350,Order clerks,43,43-4151.00
+2010,5360,"Human resources assistants, except payroll and timekeeping",43,43-4161.00
+2010,5400,Receptionists and information clerks,43,43-4171.00
+2010,5410,Reservation and transportation ticket agents and travel clerks,43,43-4181.00
+2010,5500,Cargo and freight agents,43,43-5011.00;43-5011.01
+2010,5510,Couriers and messengers,43,43-5021.00
+2010,5520,Dispatchers,43,43-5031.00;43-5032.00
+2010,5530,"Meter readers, utilities",43,43-5041.00
+2010,5540,Postal service clerks,43,43-5051.00
+2010,5550,Postal service mail carriers,43,43-5052.00
+2010,5560,"Postal service mail sorters, processors, and processing machine operators",43,43-5053.00
+2010,5600,"Production, planning, and expediting clerks",43,43-5061.00
+2010,5610,"Shipping, receiving, and traffic clerks",43,43-5071.00
+2010,5620,Stock clerks and order fillers,43,53-7065.00
+2010,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",43,43-5111.00
+2010,5700,Secretaries and administrative assistants,43,43-6011.00;43-6012.00;43-6013.00;43-6014.00
+2010,5810,Data entry keyers,43,43-9021.00
+2010,5820,Word processors and typists,43,43-9022.00
+2010,5830,Desktop publishers,43,43-9031.00
+2010,5840,Insurance claims and policy processing clerks,43,43-9041.00
+2010,5850,"Mail clerks and mail machine operators, except postal service",43,43-9051.00
+2010,5860,"Office clerks, general",43,43-9061.00
+2010,5900,"Office machine operators, except computer",43,43-9071.00
+2010,5910,Proofreaders and copy markers,43,43-9081.00
+2010,6005,"First-line supervisors of farming, fishing, and forestry workers",45,45-1011.00
+2010,6010,Agricultural inspectors,45,45-2011.00
+2010,6020,Animal breeders,45,45-2021.00
+2010,6040,"Graders and sorters, agricultural products",45,45-2041.00
+2010,6120,Forest and conservation workers,45,45-4011.00
+2010,6200,First-line supervisors of construction trades and extraction workers,47,47-1011.00;47-1011.03
+2010,6210,Boilermakers,47,47-2011.00
+2010,6220,"Brickmasons, blockmasons, and stonemasons",47,47-2021.00;47-2022.00
+2010,6230,Carpenters,47,47-2031.00
+2010,6240,"Carpet, floor, and tile installers and finishers",47,47-2041.00;47-2042.00;47-2043.00;47-2044.00
+2010,6250,"Cement masons, concrete finishers, and terrazzo workers",47,47-2051.00;47-2053.00
+2010,6260,Construction laborers,47,47-2061.00
+2010,6300,"Paving, surfacing, and tamping equipment operators",47,47-2071.00
+2010,6310,Pile-driver operators,47,47-2072.00
+2010,6320,Operating engineers and other construction equipment operators,47,47-2073.00
+2010,6355,Electricians,47,47-2111.00
+2010,6360,Glaziers,47,47-2121.00
+2010,6400,Insulation workers,47,47-2131.00;47-2132.00
+2010,6420,"Painters, construction and maintenance",47,47-2141.00
+2010,6430,Paperhangers,47,47-2142.00
+2010,6460,Plasterers and stucco masons,47,47-2161.00
+2010,6500,Reinforcing iron and rebar workers,47,47-2171.00
+2010,6515,Roofers,47,47-2181.00
+2010,6520,Sheet metal workers,47,47-2211.00
+2010,6530,Structural iron and steel workers,47,47-2221.00
+2010,6540,Solar photovoltaic installers,47,47-2231.00
+2010,6700,Elevator installers and repairers,47,47-4021.00
+2010,6710,Fence erectors,47,47-4031.00
+2010,6720,Hazardous materials removal workers,47,47-4041.00
+2010,6730,Highway maintenance workers,47,47-4051.00
+2010,6740,Rail-track laying and maintenance equipment operators,47,47-4061.00
+2010,6750,Septic tank servicers and sewer pipe cleaners,47,47-4071.00
+2010,6800,"Derrick, rotary drill, and service unit operators, oil, gas, and mining",47,47-5011.00;47-5012.00;47-5013.00
+2010,6910,"Roof bolters, mining",47,47-5043.00
+2010,6920,"Roustabouts, oil and gas",47,47-5071.00
+2010,6930,Helpers--extraction workers,47,47-5081.00
+2010,7000,"First-line supervisors of mechanics, installers, and repairers",49,49-1011.00
+2010,7010,"Computer, automated teller, and office machine repairers",49,49-2011.00
+2010,7020,Radio and telecommunications equipment installers and repairers,49,49-2021.00;49-2022.00
+2010,7030,Avionics technicians,49,49-2091.00
+2010,7040,"Electric motor, power tool, and related repairers",49,49-2092.00
+2010,7050,"Electrical and electronics installers and repairers, transportation equipment",49,49-2093.00
+2010,7100,"Electrical and electronics repairers, industrial and utility",49,49-2094.00;49-2095.00
+2010,7110,"Electronic equipment installers and repairers, motor vehicles",49,49-2096.00
+2010,7120,Electronic home entertainment equipment installers and repairers,49,49-2097.00
+2010,7130,Security and fire alarm systems installers,49,49-2098.00
+2010,7140,Aircraft mechanics and service technicians,49,49-3011.00
+2010,7150,Automotive body and related repairers,49,49-3021.00
+2010,7160,Automotive glass installers and repairers,49,49-3022.00
+2010,7200,Automotive service technicians and mechanics,49,49-3023.00
+2010,7210,Bus and truck mechanics and diesel engine specialists,49,49-3031.00
+2010,7220,Heavy vehicle and mobile equipment service technicians and mechanics,49,49-3041.00;49-3042.00;49-3043.00
+2010,7240,Small engine mechanics,49,49-3051.00;49-3052.00;49-3053.00
+2010,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",49,49-3091.00;49-3092.00;49-3093.00
+2010,7300,Control and valve installers and repairers,49,49-9011.00;49-9012.00
+2010,7315,"Heating, air conditioning, and refrigeration mechanics and installers",49,49-9021.00
+2010,7320,Home appliance repairers,49,49-9031.00
+2010,7330,Industrial and refractory machinery mechanics,49,49-9041.00;49-9045.00
+2010,7340,"Maintenance and repair workers, general",49,49-9071.00
+2010,7350,"Maintenance workers, machinery",49,49-9043.00
+2010,7360,Millwrights,49,49-9044.00
+2010,7410,Electrical power-line installers and repairers,49,49-9051.00
+2010,7420,Telecommunications line installers and repairers,49,49-9052.00
+2010,7440,Wind turbine service technicians,49,49-9081.00
+2010,7510,"Coin, vending, and amusement machine servicers and repairers",49,49-9091.00
+2010,7520,Commercial divers,49,49-9092.00
+2010,7540,Locksmiths and safe repairers,49,49-9094.00
+2010,7550,Manufactured building and mobile home installers,49,49-9095.00
+2010,7560,Riggers,49,49-9096.00
+2010,7600,Signal and track switch repairers,49,49-9097.00
+2010,7610,"Helpers--installation, maintenance, and repair workers ",49,49-9098.00
+2010,7700,First-line supervisors of production and operating workers,51,51-1011.00
+2010,7710,"Aircraft structure, surfaces, rigging, and systems assemblers",51,51-2011.00
+2010,7720,"Electrical, electronics, and electromechanical assemblers",51,51-2021.00;51-2022.00;51-2023.00
+2010,7730,Engine and other machine assemblers,51,51-2031.00
+2010,7740,Structural metal fabricators and fitters,51,51-2041.00
+2010,7800,Bakers,51,51-3011.00
+2010,7810,"Butchers and other meat, poultry, and fish processing workers",51,51-3021.00;51-3022.00;51-3023.00
+2010,7830,"Food and tobacco roasting, baking, and drying machine operators and tenders",51,51-3091.00
+2010,7840,Food batchmakers,51,51-3092.00
+2010,7850,Food cooking machine operators and tenders,51,51-3093.00
+2010,7920,"Extruding and drawing machine setters, operators, and tenders, metal and plastic",51,51-4021.00
+2010,7930,"Forging machine setters, operators, and tenders, metal and plastic",51,51-4022.00
+2010,7940,"Rolling machine setters, operators, and tenders, metal and plastic",51,51-4023.00
+2010,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",51,51-4031.00
+2010,7960,"Drilling and boring machine tool setters, operators, and tenders, metal and plastic ",51,51-4032.00
+2010,8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",51,51-4033.00
+2010,8010,"Lathe and turning machine tool setters, operators, and tenders, metal and plastic",51,51-4034.00
+2010,8020,"Milling and planing machine setters, operators, and tenders, metal and plastic",51,51-4035.00
+2010,8030,Machinists,51,51-4041.00
+2010,8040,"Metal furnace operators, tenders, pourers, and casters",51,51-4051.00;51-4052.00
+2010,8060,"Model makers and patternmakers, metal and plastic",51,51-4061.00;51-4062.00
+2010,8100,"Molders and molding machine setters, operators, and tenders, metal and plastic",51,51-4071.00;51-4072.00
+2010,8120,"Multiple machine tool setters, operators, and tenders, metal and plastic ",51,51-4081.00
+2010,8130,Tool and die makers,51,51-4111.00
+2010,8140,"Welding, soldering, and brazing workers",51,51-4121.00;51-4122.00
+2010,8150,"Heat treating equipment setters, operators, and tenders, metal and plastic",51,51-4191.00
+2010,8160,"Layout workers, metal and plastic",51,51-4192.00
+2010,8200,"Plating and coating machine setters, operators, and tenders, metal and plastic",51,51-4193.00
+2010,8210,"Tool grinders, filers, and sharpeners",51,51-4194.00
+2010,8250,Prepress technicians and workers,51,51-5111.00
+2010,8255,Printing press operators,51,51-5112.00
+2010,8256,Print binding and finishing workers,51,51-5113.00
+2010,8300,Laundry and dry-cleaning workers,51,51-6011.00
+2010,8310,"Pressers, textile, garment, and related materials",51,51-6021.00
+2010,8320,Sewing machine operators,51,51-6031.00
+2010,8330,Shoe and leather workers and repairers,51,51-6041.00
+2010,8340,Shoe machine operators and tenders,51,51-6042.00
+2010,8350,"Tailors, dressmakers, and sewers",51,51-6051.00;51-6052.00
+2010,8360,Textile bleaching and dyeing machine operators and tenders,51,51-6061.00
+2010,8400,"Textile cutting machine setters, operators, and tenders",51,51-6062.00
+2010,8410,"Textile knitting and weaving machine setters, operators, and tenders",51,51-6063.00
+2010,8420,"Textile winding, twisting, and drawing out machine setters, operators, and tenders",51,51-6064.00
+2010,8430,"Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers",51,51-6091.00
+2010,8440,Fabric and apparel patternmakers,51,51-6092.00
+2010,8450,Upholsterers,51,51-6093.00
+2010,8500,Cabinetmakers and bench carpenters,51,51-7011.00
+2010,8510,Furniture finishers,51,51-7021.00
+2010,8530,"Sawing machine setters, operators, and tenders, wood",51,51-7041.00
+2010,8540,"Woodworking machine setters, operators, and tenders, except sawing",51,51-7042.00
+2010,8610,Stationary engineers and boiler operators,51,51-8021.00
+2010,8620,Water and wastewater treatment plant and system operators,51,51-8031.00
+2010,8640,"Chemical processing machine setters, operators, and tenders",51,51-9011.00;51-9012.00
+2010,8650,"Crushing, grinding, polishing, mixing, and blending workers",51,51-9021.00;51-9022.00;51-9023.00
+2010,8710,Cutting workers,51,51-9031.00;51-9032.00
+2010,8720,"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",51,51-9041.00
+2010,8730,"Furnace, kiln, oven, drier, and kettle operators and tenders",51,51-9051.00
+2010,8740,"Inspectors, testers, sorters, samplers, and weighers",51,51-9061.00
+2010,8760,"Medical, dental, and ophthalmic laboratory technicians",51,51-9081.00;51-9082.00;51-9083.00
+2010,8800,Packaging and filling machine operators and tenders,51,51-9111.00
+2010,8830,Photographic process workers and processing machine operators,51,51-9151.00
+2010,8840,Semiconductor processors,51,51-9141.00
+2010,8850,Adhesive bonding machine operators and tenders,51,51-9191.00
+2010,8860,"Cleaning, washing, and metal pickling equipment operators and tenders",51,51-9192.00
+2010,8900,Cooling and freezing equipment operators and tenders,51,51-9193.00
+2010,8910,Etchers and engravers,51,51-9194.00
+2010,8930,"Paper goods machine setters, operators, and tenders",51,51-9196.00
+2010,8940,Tire builders,51,51-9197.00
+2010,8950,Helpers--production workers,51,51-9198.00
+2010,9030,Aircraft pilots and flight engineers,53,53-2011.00;53-2012.00
+2010,9040,Air traffic controllers and airfield operations specialists,53,53-2021.00;53-2022.00
+2010,9050,Flight attendants,53,53-2031.00
+2010,9110,"Ambulance drivers and attendants, except emergency medical technicians",53,53-3011.00
+2010,9130,Driver/sales workers and truck drivers,53,53-3031.00;53-3032.00;53-3033.00
+2010,9240,Railroad conductors and yardmasters,53,53-4031.00
+2010,9300,Sailors and marine oilers,53,53-5011.00
+2010,9310,Ship and boat captains and operators,53,53-5021.00;53-5022.00
+2010,9330,Ship engineers,53,53-5031.00
+2010,9340,Bridge and lock tenders,53,53-6011.00
+2010,9350,Parking lot attendants,53,53-6021.00
+2010,9360,Automotive and watercraft service attendants   ,53,53-6031.00
+2010,9410,Transportation inspectors,53,53-6051.00;53-6051.01;53-6051.07
+2010,9415,"Transportation attendants, except flight attendants",53,53-6061.00
+2010,9500,Conveyor operators and tenders,53,53-7011.00
+2010,9510,Crane and tower operators,53,53-7021.00
+2010,9560,Hoist and winch operators,53,53-7041.00
+2010,9600,Industrial truck and tractor operators,53,53-7051.00
+2010,9610,Cleaners of vehicles and equipment,53,53-7061.00
+2010,9630,Machine feeders and offbearers,53,53-7063.00
+2010,9640,"Packers and packagers, hand",53,53-7064.00
+2010,9650,Pumping station operators,53,53-7071.00;53-7072.00;53-7073.00
+2010,9720,Refuse and recyclable material collectors,53,53-7081.00
+2010,9740,"Tank car, truck, and ship loaders",53,53-7121.00
+2002,10,Chief executives,11,11-1011.00;11-1011.03
+2002,20,General and operations managers,11,11-1021.00
+2002,30,Legislators,11,11-1031.00
+2002,40,Advertising and promotions managers,11,11-2011.00
+2002,50,Marketing and sales managers,11,11-2021.00;11-2022.00
+2002,110,Computer and information systems managers,11,11-3021.00
+2002,140,Industrial production managers,11,11-3051.00;11-3051.01;11-3051.02;11-3051.03;11-3051.04;11-3051.06
+2002,150,Purchasing managers,11,11-3061.00
+2002,220,Construction managers,11,11-9021.00
+2002,310,Food service managers,11,11-9051.00
+2002,330,Gaming managers,11,11-9071.00
+2002,340,Lodging managers,11,11-9081.00
+2002,350,Medical and health services managers,11,11-9111.00
+2002,360,Natural sciences managers,11,11-9121.00;11-9121.01;11-9121.02
+2002,400,Postmasters and mail superintendents,11,11-9131.00
+2002,410,"Property, real estate, and community association managers",11,11-9141.00
+2002,420,Social and community service managers,11,11-9151.00
+2002,500,"Agents and business managers of artists, performers, and athletes",13,13-1011.00
+2002,520,"Wholesale and retail buyers, except farm products",13,13-1022.00
+2002,530,"Purchasing agents, except wholesale, retail, and farm products",13,13-1023.00
+2002,540,"Claims adjusters, appraisers, examiners, and investigators",13,13-1031.00;13-1032.00
+2002,600,Cost estimators,13,13-1051.00
+2002,700,Logisticians,13,13-1081.00;13-1081.01;13-1081.02
+2002,710,Management analysts,13,13-1111.00
+2002,800,Accountants and auditors,13,13-2011.00
+2002,820,Budget analysts,13,13-2031.00
+2002,830,Credit analysts,13,13-2041.00
+2002,850,Personal financial advisors,13,13-2052.00
+2002,860,Insurance underwriters,13,13-2053.00
+2002,900,Financial examiners,13,13-2061.00
+2002,940,Tax preparers,13,13-2082.00
+2002,1200,Actuaries,15,15-2011.00
+2002,1210,Mathematicians,15,15-2021.00
+2002,1220,Operations research analysts,15,15-2031.00
+2002,1300,"Architects, except naval",17,17-1011.00;17-1012.00
+2002,1310,"Surveyors, cartographers, and photogrammetrists",17,17-1021.00;17-1022.00;17-1022.01
+2002,1320,Aerospace engineers,17,17-2011.00
+2002,1330,Agricultural engineers,17,17-2021.00
+2002,1350,Chemical engineers,17,17-2041.00
+2002,1400,Computer hardware engineers,17,17-2061.00
+2002,1410,Electrical and electronics engineers,17,17-2071.00;17-2072.00;17-2072.01
+2002,1440,Marine engineers and naval architects,17,17-2121.00
+2002,1450,Materials engineers,17,17-2131.00
+2002,1460,Mechanical engineers,17,17-2141.00;17-2141.01;17-2141.02
+2002,1500,"Mining and geological engineers, including mining safety engineers",17,17-2151.00
+2002,1510,Nuclear engineers,17,17-2161.00
+2002,1520,Petroleum engineers,17,17-2171.00
+2002,1560,Surveying and mapping technicians,17,17-3031.00
+2002,1600,Agricultural and food scientists,19,19-1011.00;19-1012.00;19-1013.00
+2002,1640,Conservation scientists and foresters,19,19-1031.00;19-1031.02;19-1031.03;19-1032.00
+2002,1650,Medical scientists,19,19-1041.00;19-1042.00
+2002,1700,Astronomers and physicists,19,19-2011.00;19-2012.00
+2002,1710,Atmospheric and space scientists,19,19-2021.00
+2002,1720,Chemists and materials scientists,19,19-2031.00;19-2032.00
+2002,1740,Environmental scientists and geoscientists,19,19-2041.00;19-2041.01;19-2041.02;19-2041.03;19-2042.00;19-2043.00
+2002,1800,Economists,19,19-3011.00;19-3011.01
+2002,1830,Sociologists,19,19-3041.00
+2002,1910,Biological technicians,19,19-4021.00
+2002,1920,Chemical technicians,19,19-4031.00
+2002,1940,Nuclear technicians,19,19-4051.00;19-4051.02
+2002,2040,Clergy,21,21-2011.00
+2002,2050,"Directors, religious activities and education",21,21-2021.00
+2002,2110,"Judges, magistrates, and other judicial workers",23,23-1021.00;23-1022.00;23-1023.00
+2002,2300,Preschool and kindergarten teachers,25,25-2011.00;25-2012.00
+2002,2310,Elementary and middle school teachers,25,25-2021.00;25-2022.00;25-2023.00
+2002,2320,Secondary school teachers,25,25-2031.00;25-2032.00
+2002,2400,"Archivists, curators, and museum technicians",25,25-4011.00;25-4012.00;25-4013.00
+2002,2440,Library technicians,25,25-4031.00
+2002,2700,Actors,27,27-2011.00
+2002,2710,Producers and directors,27,27-2012.00;27-2012.03;27-2012.04;27-2012.05
+2002,2720,"Athletes, coaches, umpires, and related workers",27,27-2021.00;27-2022.00;27-2023.00
+2002,2750,"Musicians, singers, and related workers",27,27-2041.00;27-2042.00
+2002,2830,Editors,27,27-3041.00
+2002,2840,Technical writers,27,27-3042.00
+2002,2850,Writers and authors,27,27-3043.00;27-3043.05
+2002,2910,Photographers,27,27-4021.00
+2002,2920,"Television, video, and motion picture camera operators and editors",27,27-4031.00;27-4032.00
+2002,3000,Chiropractors,29,29-1011.00
+2002,3030,Dietitians and nutritionists,29,29-1031.00
+2002,3040,Optometrists,29,29-1041.00
+2002,3050,Pharmacists,29,29-1051.00
+2002,3110,Physician assistants,29,29-1071.00;29-1071.01
+2002,3120,Podiatrists,29,29-1081.00
+2002,3150,Occupational therapists,29,29-1122.00;29-1122.01
+2002,3160,Physical therapists,29,29-1123.00
+2002,3200,Radiation therapists,29,29-1124.00
+2002,3220,Respiratory therapists,29,29-1126.00
+2002,3230,Speech-language pathologists,29,29-1127.00
+2002,3250,Veterinarians,29,29-1131.00
+2002,3310,Dental hygienists,29,29-1292.00
+2002,3500,Licensed practical and licensed vocational nurses,29,29-2061.00
+2002,3520,"Opticians, dispensing",29,29-2081.00
+2002,3600,"Nursing, psychiatric, and home health aides",31,31-1121.00;31-1131.00;31-1132.00;31-1133.00
+2002,3620,Physical therapist assistants and aides,31,31-2021.00;31-2022.00
+2002,3630,Massage therapists,31,31-9011.00
+2002,3640,Dental assistants,31,31-9091.00
+2002,3740,Firefighters,33,33-2011.00
+2002,3750,Fire inspectors,33,33-2021.00;33-2022.00
+2002,3800,"Bailiffs, correctional officers, and jailers",33,33-3011.00;33-3012.00
+2002,3830,Fish and game wardens,33,33-3031.00
+2002,3840,Parking enforcement workers,33,33-3041.00
+2002,3860,Transit and railroad police,33,33-3052.00
+2002,3900,Animal control workers,33,33-9011.00
+2002,3910,Private detectives and investigators,33,33-9021.00
+2002,3940,Crossing guards,33,33-9091.00
+2002,4000,Chefs and head cooks,35,35-1011.00
+2002,4030,Food preparation workers,35,35-2021.00
+2002,4040,Bartenders,35,35-3011.00
+2002,4110,Waiters and waitresses,35,35-3031.00
+2002,4120,"Food servers, nonrestaurant",35,35-3041.00
+2002,4130,Dining room and cafeteria attendants and bartender helpers,35,35-9011.00
+2002,4140,Dishwashers,35,35-9021.00
+2002,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",35,35-9031.00
+2002,4230,Maids and housekeeping cleaners,37,37-2012.00
+2002,4240,Pest control workers,37,37-2021.00
+2002,4340,Animal trainers,39,39-2011.00
+2002,4350,Nonfarm animal caretakers,39,39-2021.00
+2002,4410,Motion picture projectionists,39,39-3021.00
+2002,4420,"Ushers, lobby attendants, and ticket takers",39,39-3031.00
+2002,4500,Barbers,39,39-5011.00
+2002,4510,"Hairdressers, hairstylists, and cosmetologists",39,39-5012.00
+2002,4520,Miscellaneous personal appearance workers,39,39-5091.00;39-5092.00;39-5093.00;39-5094.00
+2002,4530,"Baggage porters, bellhops, and concierges",39,39-6011.00;39-6012.00
+2002,4600,Childcare workers,39,39-9011.00;39-9011.01
+2002,4620,Recreation and fitness workers,39,39-9031.00;39-9032.00
+2002,4640,Residential advisors,39,39-9041.00
+2002,4720,Cashiers,41,41-2011.00;41-2012.00
+2002,4740,Counter and rental clerks,41,41-2021.00
+2002,4750,Parts salespersons,41,41-2022.00
+2002,4760,Retail salespersons,41,41-2031.00
+2002,4800,Advertising sales agents,41,41-3011.00
+2002,4810,Insurance sales agents,41,41-3021.00
+2002,4830,Travel agents,41,41-3041.00
+2002,4850,"Sales representatives, wholesale and manufacturing",41,41-4011.00;41-4011.07;41-4012.00
+2002,4900,"Models, demonstrators, and product promoters",41,41-9011.00;41-9012.00
+2002,4920,Real estate brokers and sales agents,41,41-9021.00;41-9022.00
+2002,4930,Sales engineers,41,41-9031.00
+2002,4940,Telemarketers,41,41-9041.00
+2002,4950,"Door-to-door sales workers, news and street vendors, and related workers",41,41-9091.00
+2002,5010,"Switchboard operators, including answering service",43,43-2011.00
+2002,5020,Telephone operators,43,43-2021.00
+2002,5100,Bill and account collectors,43,43-3011.00
+2002,5120,"Bookkeeping, accounting, and auditing clerks",43,43-3031.00
+2002,5130,Gaming cage workers,43,43-3041.00
+2002,5140,Payroll and timekeeping clerks,43,43-3051.00
+2002,5150,Procurement clerks,43,43-3061.00
+2002,5160,Tellers,43,43-3071.00
+2002,5200,Brokerage clerks,43,43-4011.00
+2002,5210,Correspondence clerks,43,43-4021.00
+2002,5220,"Court, municipal, and license clerks",43,43-4031.00
+2002,5230,"Credit authorizers, checkers, and clerks",43,43-4041.00
+2002,5250,"Eligibility interviewers, government programs",43,43-4061.00
+2002,5260,File clerks,43,43-4071.00
+2002,5300,"Hotel, motel, and resort desk clerks",43,43-4081.00
+2002,5310,"Interviewers, except eligibility and loan",43,43-4111.00
+2002,5320,"Library assistants, clerical",43,43-4121.00
+2002,5330,Loan interviewers and clerks,43,43-4131.00
+2002,5340,New accounts clerks,43,43-4141.00
+2002,5350,Order clerks,43,43-4151.00
+2002,5360,"Human resources assistants, except payroll and timekeeping",43,43-4161.00
+2002,5400,Receptionists and information clerks,43,43-4171.00
+2002,5410,Reservation and transportation ticket agents and travel clerks,43,43-4181.00
+2002,5500,Cargo and freight agents,43,43-5011.00;43-5011.01
+2002,5510,Couriers and messengers,43,43-5021.00
+2002,5520,Dispatchers,43,43-5031.00;43-5032.00
+2002,5530,"Meter readers, utilities",43,43-5041.00
+2002,5540,Postal service clerks,43,43-5051.00
+2002,5550,Postal service mail carriers,43,43-5052.00
+2002,5560,"Postal service mail sorters, processors, and processing machine operators",43,43-5053.00
+2002,5600,"Production, planning, and expediting clerks",43,43-5061.00
+2002,5610,"Shipping, receiving, and traffic clerks",43,43-5071.00
+2002,5620,Stock clerks and order fillers,43,53-7065.00
+2002,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",43,43-5111.00
+2002,5700,Secretaries and administrative assistants,43,43-6011.00;43-6012.00;43-6013.00;43-6014.00
+2002,5810,Data entry keyers,43,43-9021.00
+2002,5820,Word processors and typists,43,43-9022.00
+2002,5830,Desktop publishers,43,43-9031.00
+2002,5840,Insurance claims and policy processing clerks,43,43-9041.00
+2002,5850,"Mail clerks and mail machine operators, except postal service",43,43-9051.00
+2002,5860,"Office clerks, general",43,43-9061.00
+2002,5900,"Office machine operators, except computer",43,43-9071.00
+2002,5910,Proofreaders and copy markers,43,43-9081.00
+2002,6010,Agricultural inspectors,45,45-2011.00
+2002,6020,Animal breeders,45,45-2021.00
+2002,6040,"Graders and sorters, agricultural products",45,45-2041.00
+2002,6120,Forest and conservation workers,45,45-4011.00
+2002,6210,Boilermakers,47,47-2011.00
+2002,6220,"Brickmasons, blockmasons, and stonemasons",47,47-2021.00;47-2022.00
+2002,6230,Carpenters,47,47-2031.00
+2002,6240,"Carpet, floor, and tile installers and finishers",47,47-2041.00;47-2042.00;47-2043.00;47-2044.00
+2002,6250,"Cement masons, concrete finishers, and terrazzo workers",47,47-2051.00;47-2053.00
+2002,6260,Construction laborers,47,47-2061.00
+2002,6300,"Paving, surfacing, and tamping equipment operators",47,47-2071.00
+2002,6310,Pile-driver operators,47,47-2072.00
+2002,6320,Operating engineers and other construction equipment operators,47,47-2073.00
+2002,6360,Glaziers,47,47-2121.00
+2002,6400,Insulation workers,47,47-2131.00;47-2132.00
+2002,6420,"Painters, construction and maintenance",47,47-2141.00
+2002,6430,Paperhangers,47,47-2142.00
+2002,6460,Plasterers and stucco masons,47,47-2161.00
+2002,6500,Reinforcing iron and rebar workers,47,47-2171.00
+2002,6520,Sheet metal workers,47,47-2211.00
+2002,6530,Structural iron and steel workers,47,47-2221.00
+2002,6700,Elevator installers and repairers,47,47-4021.00
+2002,6710,Fence erectors,47,47-4031.00
+2002,6720,Hazardous materials removal workers,47,47-4041.00
+2002,6730,Highway maintenance workers,47,47-4051.00
+2002,6740,Rail-track laying and maintenance equipment operators,47,47-4061.00
+2002,6750,Septic tank servicers and sewer pipe cleaners,47,47-4071.00
+2002,6800,"Derrick, rotary drill, and service unit operators, oil, gas, and mining",47,47-5011.00;47-5012.00;47-5013.00
+2002,6910,"Roof bolters, mining",47,47-5043.00
+2002,6920,"Roustabouts, oil and gas",47,47-5071.00
+2002,6930,Helpers--extraction workers,47,47-5081.00
+2002,7010,"Computer, automated teller, and office machine repairers",49,49-2011.00
+2002,7020,Radio and telecommunications equipment installers and repairers,49,49-2021.00;49-2022.00
+2002,7030,Avionics technicians,49,49-2091.00
+2002,7040,"Electric motor, power tool, and related repairers",49,49-2092.00
+2002,7050,"Electrical and electronics installers and repairers, transportation equipment",49,49-2093.00
+2002,7100,"Electrical and electronics repairers, industrial and utility",49,49-2094.00;49-2095.00
+2002,7110,"Electronic equipment installers and repairers, motor vehicles",49,49-2096.00
+2002,7120,Electronic home entertainment equipment installers and repairers,49,49-2097.00
+2002,7130,Security and fire alarm systems installers,49,49-2098.00
+2002,7140,Aircraft mechanics and service technicians,49,49-3011.00
+2002,7150,Automotive body and related repairers,49,49-3021.00
+2002,7160,Automotive glass installers and repairers,49,49-3022.00
+2002,7200,Automotive service technicians and mechanics,49,49-3023.00
+2002,7210,Bus and truck mechanics and diesel engine specialists,49,49-3031.00
+2002,7220,Heavy vehicle and mobile equipment service technicians and mechanics,49,49-3041.00;49-3042.00;49-3043.00
+2002,7240,Small engine mechanics,49,49-3051.00;49-3052.00;49-3053.00
+2002,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",49,49-3091.00;49-3092.00;49-3093.00
+2002,7300,Control and valve installers and repairers,49,49-9011.00;49-9012.00
+2002,7320,Home appliance repairers,49,49-9031.00
+2002,7330,Industrial and refractory machinery mechanics,49,49-9041.00;49-9045.00
+2002,7350,"Maintenance workers, machinery",49,49-9043.00
+2002,7360,Millwrights,49,49-9044.00
+2002,7410,Electrical power-line installers and repairers,49,49-9051.00
+2002,7420,Telecommunications line installers and repairers,49,49-9052.00
+2002,7510,"Coin, vending, and amusement machine servicers and repairers",49,49-9091.00
+2002,7520,Commercial divers,49,49-9092.00
+2002,7540,Locksmiths and safe repairers,49,49-9094.00
+2002,7550,Manufactured building and mobile home installers,49,49-9095.00
+2002,7560,Riggers,49,49-9096.00
+2002,7600,Signal and track switch repairers,49,49-9097.00
+2002,7610,"Helpers--installation, maintenance, and repair workers ",49,49-9098.00
+2002,7710,"Aircraft structure, surfaces, rigging, and systems assemblers",51,51-2011.00
+2002,7720,"Electrical, electronics, and electromechanical assemblers",51,51-2021.00;51-2022.00;51-2023.00
+2002,7730,Engine and other machine assemblers,51,51-2031.00
+2002,7740,Structural metal fabricators and fitters,51,51-2041.00
+2002,7800,Bakers,51,51-3011.00
+2002,7810,"Butchers and other meat, poultry, and fish processing workers",51,51-3021.00;51-3022.00;51-3023.00
+2002,7830,"Food and tobacco roasting, baking, and drying machine operators and tenders",51,51-3091.00
+2002,7840,Food batchmakers,51,51-3092.00
+2002,7850,Food cooking machine operators and tenders,51,51-3093.00
+2002,7920,"Extruding and drawing machine setters, operators, and tenders, metal and plastic",51,51-4021.00
+2002,7930,"Forging machine setters, operators, and tenders, metal and plastic",51,51-4022.00
+2002,7940,"Rolling machine setters, operators, and tenders, metal and plastic",51,51-4023.00
+2002,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",51,51-4031.00
+2002,7960,"Drilling and boring machine tool setters, operators, and tenders, metal and plastic ",51,51-4032.00
+2002,8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",51,51-4033.00
+2002,8010,"Lathe and turning machine tool setters, operators, and tenders, metal and plastic",51,51-4034.00
+2002,8020,"Milling and planing machine setters, operators, and tenders, metal and plastic",51,51-4035.00
+2002,8030,Machinists,51,51-4041.00
+2002,8060,"Model makers and patternmakers, metal and plastic",51,51-4061.00;51-4062.00
+2002,8100,"Molders and molding machine setters, operators, and tenders, metal and plastic",51,51-4071.00;51-4072.00
+2002,8120,"Multiple machine tool setters, operators, and tenders, metal and plastic ",51,51-4081.00
+2002,8130,Tool and die makers,51,51-4111.00
+2002,8140,"Welding, soldering, and brazing workers",51,51-4121.00;51-4122.00
+2002,8150,"Heat treating equipment setters, operators, and tenders, metal and plastic",51,51-4191.00
+2002,8160,"Layout workers, metal and plastic",51,51-4192.00
+2002,8200,"Plating and coating machine setters, operators, and tenders, metal and plastic",51,51-4193.00
+2002,8210,"Tool grinders, filers, and sharpeners",51,51-4194.00
+2002,8300,Laundry and dry-cleaning workers,51,51-6011.00
+2002,8310,"Pressers, textile, garment, and related materials",51,51-6021.00
+2002,8320,Sewing machine operators,51,51-6031.00
+2002,8330,Shoe and leather workers and repairers,51,51-6041.00
+2002,8340,Shoe machine operators and tenders,51,51-6042.00
+2002,8350,"Tailors, dressmakers, and sewers",51,51-6051.00;51-6052.00
+2002,8360,Textile bleaching and dyeing machine operators and tenders,51,51-6061.00
+2002,8400,"Textile cutting machine setters, operators, and tenders",51,51-6062.00
+2002,8410,"Textile knitting and weaving machine setters, operators, and tenders",51,51-6063.00
+2002,8420,"Textile winding, twisting, and drawing out machine setters, operators, and tenders",51,51-6064.00
+2002,8430,"Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers",51,51-6091.00
+2002,8440,Fabric and apparel patternmakers,51,51-6092.00
+2002,8450,Upholsterers,51,51-6093.00
+2002,8500,Cabinetmakers and bench carpenters,51,51-7011.00
+2002,8510,Furniture finishers,51,51-7021.00
+2002,8530,"Sawing machine setters, operators, and tenders, wood",51,51-7041.00
+2002,8540,"Woodworking machine setters, operators, and tenders, except sawing",51,51-7042.00
+2002,8610,Stationary engineers and boiler operators,51,51-8021.00
+2002,8640,"Chemical processing machine setters, operators, and tenders",51,51-9011.00;51-9012.00
+2002,8650,"Crushing, grinding, polishing, mixing, and blending workers",51,51-9021.00;51-9022.00;51-9023.00
+2002,8710,Cutting workers,51,51-9031.00;51-9032.00
+2002,8720,"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",51,51-9041.00
+2002,8730,"Furnace, kiln, oven, drier, and kettle operators and tenders",51,51-9051.00
+2002,8740,"Inspectors, testers, sorters, samplers, and weighers",51,51-9061.00
+2002,8760,"Medical, dental, and ophthalmic laboratory technicians",51,51-9081.00;51-9082.00;51-9083.00
+2002,8800,Packaging and filling machine operators and tenders,51,51-9111.00
+2002,8840,Semiconductor processors,51,51-9141.00
+2002,8860,"Cleaning, washing, and metal pickling equipment operators and tenders",51,51-9192.00
+2002,8900,Cooling and freezing equipment operators and tenders,51,51-9193.00
+2002,8910,Etchers and engravers,51,51-9194.00
+2002,8930,"Paper goods machine setters, operators, and tenders",51,51-9196.00
+2002,8940,Tire builders,51,51-9197.00
+2002,8950,Helpers--production workers,51,51-9198.00
+2002,9030,Aircraft pilots and flight engineers,53,53-2011.00;53-2012.00
+2002,9040,Air traffic controllers and airfield operations specialists,53,53-2021.00;53-2022.00
+2002,9110,"Ambulance drivers and attendants, except emergency medical technicians",53,53-3011.00
+2002,9130,Driver/sales workers and truck drivers,53,53-3031.00;53-3032.00;53-3033.00
+2002,9240,Railroad conductors and yardmasters,53,53-4031.00
+2002,9300,Sailors and marine oilers,53,53-5011.00
+2002,9310,Ship and boat captains and operators,53,53-5021.00;53-5022.00
+2002,9330,Ship engineers,53,53-5031.00
+2002,9340,Bridge and lock tenders,53,53-6011.00
+2002,9350,Parking lot attendants,53,53-6021.00
+2002,9410,Transportation inspectors,53,53-6051.00;53-6051.01;53-6051.07
+2002,9500,Conveyor operators and tenders,53,53-7011.00
+2002,9510,Crane and tower operators,53,53-7021.00
+2002,9560,Hoist and winch operators,53,53-7041.00
+2002,9600,Industrial truck and tractor operators,53,53-7051.00
+2002,9610,Cleaners of vehicles and equipment,53,53-7061.00
+2002,9630,Machine feeders and offbearers,53,53-7063.00
+2002,9640,"Packers and packagers, hand",53,53-7064.00
+2002,9650,Pumping station operators,53,53-7071.00;53-7072.00;53-7073.00
+2002,9720,Refuse and recyclable material collectors,53,53-7081.00
+2002,9740,"Tank car, truck, and ship loaders",53,53-7121.00

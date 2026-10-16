@@ -1,0 +1,3662 @@
+[
+  {
+    "task_id": "525",
+    "task_description": "Sterilize equipment and supplies, using germicides, sterilizer, or autoclave.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "651",
+    "task_description": "Train or supervise other hairstylists, hairdressers, and assistants.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "882",
+    "task_description": "Perform scheduled preventive maintenance tasks, such as checking, cleaning, or repairing equipment, to detect and prevent problems.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "893",
+    "task_description": "Coordinate efforts with other workers involved in installing or maintaining equipment or components.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "1113",
+    "task_description": "Train staff members.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "1996",
+    "task_description": "Work as part of a team that may include psychiatrists, psychologists, psychiatric nurses, or social workers.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "2145",
+    "task_description": "Resolve customer complaints regarding food service.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "2180",
+    "task_description": "Coordinate and supervise work of kitchen staff.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "2224",
+    "task_description": "Check identification of customers to verify age requirements for purchase of alcohol.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "2305",
+    "task_description": "Operate cash registers to accept payments for food and beverages.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "2314",
+    "task_description": "Transfer luggage, trunks, and packages to and from rooms, loading areas, vehicles, or transportation terminals, by hand or using baggage carts.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "2348",
+    "task_description": "Perform housekeeping duties, such as laundry, cleaning, dish washing, and changing of linens.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "2395",
+    "task_description": "Provide for entertainment and set up related decorations and equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "2439",
+    "task_description": "Repair parts or equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "2653",
+    "task_description": "Take action to deal with disruptive or problem patrons.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "2725",
+    "task_description": "Relay work orders, messages, or information to or from work crews, supervisors, or field inspectors, using telephones or two-way radios.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "2866",
+    "task_description": "Remove and replace cracked or damaged tile.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "2875",
+    "task_description": "Connect wires to circuit breakers, transformers, or other components.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "2878",
+    "task_description": "Test electrical systems or continuity of circuits in electrical wiring, equipment, or fixtures, using testing devices, such as ohmmeters, voltmeters, or oscilloscopes, to ensure compatibility and safety of system.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "2884",
+    "task_description": "Install ground leads and connect power cables to equipment, such as motors.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "2886",
+    "task_description": "Repair or replace wiring, equipment, or fixtures, using hand tools or power tools.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "2887",
+    "task_description": "Work from ladders, scaffolds, or roofs to install, maintain, or repair electrical wiring, equipment, or fixtures.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "2891",
+    "task_description": "Perform physically demanding tasks, such as digging trenches to lay conduit or moving or lifting heavy objects.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "2983",
+    "task_description": "Perform routine maintenance such as changing oil, checking batteries, and lubricating equipment and machinery.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "2985",
+    "task_description": "Raise trucks, buses, and heavy parts or equipment using hydraulic jacks or hoists.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "2998",
+    "task_description": "Align front ends and suspension systems.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "3001",
+    "task_description": "Repair and replace damaged or worn parts.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "3016",
+    "task_description": "Fabricate needed parts or items from sheet metal.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "3026",
+    "task_description": "Clean or lubricate shafts, bearings, gears, or other parts of machinery.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "3031",
+    "task_description": "Paint or repair roofs, windows, doors, floors, woodwork, plaster, drywall, or other parts of building structures.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "3032",
+    "task_description": "Operate cutting torches or welding equipment to cut or join metal parts.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "3037",
+    "task_description": "Fabricate or repair counters, benches, partitions, or other wooden structures, such as sheds or outbuildings.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "3086",
+    "task_description": "Transfer tools, parts, equipment, and supplies to and from work stations and other areas.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "3126",
+    "task_description": "Tend or operate machine that packages product.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "3128",
+    "task_description": "Regulate machine flow, speed, or temperature.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "3129",
+    "task_description": "Stop or reset machines when malfunctions occur, clear machine jams, and report malfunctions to a supervisor.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "3136",
+    "task_description": "Monitor the production line, watching for problems such as pile-ups, jams, or glue that isn't sticking properly.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "3138",
+    "task_description": "Start machine by engaging controls.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "3153",
+    "task_description": "Make minor repairs to vehicle and change tires.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "3158",
+    "task_description": "Drive trucks to deliver such items as food, medical supplies, or newspapers.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "3202",
+    "task_description": "Move levers or controls that operate lifting devices, such as forklifts, lift beams with swivel-hooks, hoists, or elevating platforms, to load, unload, transport, or stack material.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "3207",
+    "task_description": "Operate or tend automatic stacking, loading, packaging, or cutting machines.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "3215",
+    "task_description": "Remove completed or defective products or materials, placing them on moving equipment, such as conveyors, or in specified areas, such as loading docks.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "3640",
+    "task_description": "Receive, set up, test, or decontaminate equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "3653",
+    "task_description": "Assist in the cleanup of hazardous material spills.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "3752",
+    "task_description": "Feed livestock or laboratory animals.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "3895",
+    "task_description": "Test equipment to ensure proper operation.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "3934",
+    "task_description": "Operate control consoles.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "4092",
+    "task_description": "Check radiation therapy equipment to ensure proper operation.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "4192",
+    "task_description": "Maintain instruments, equipment, or machinery to ensure proper working condition.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "4297",
+    "task_description": "Examine equipment to detect leaks, worn or loose parts, or other indications of disrepair.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "4612",
+    "task_description": "Rent properties or manage rental properties.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "4798",
+    "task_description": "Operate machines to spread, smooth, level, or steel-reinforce stone, concrete, or asphalt on road beds.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "4799",
+    "task_description": "Operate oil distributors, loaders, chip spreaders, dump trucks, and snow plows.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "4800",
+    "task_description": "Coordinate truck dumping.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "4809",
+    "task_description": "Fill tanks, hoppers, or machines with paving materials.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "4836",
+    "task_description": "Perform semi-skilled and unskilled laboring duties related to the installation, maintenance and repair of a wide variety of electrical systems and equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "4848",
+    "task_description": "Dig trenches or holes for installation of conduit or supports.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "4857",
+    "task_description": "Cut or drill holes in walls or floors to accommodate the passage of pipes.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "4865",
+    "task_description": "Disassemble and remove damaged or worn pipe.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "4871",
+    "task_description": "Flag motorists to warn them of obstacles or repair work ahead.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "4879",
+    "task_description": "Remove litter and debris from roadways, including debris from rock and mud slides.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "4880",
+    "task_description": "Clean and clear debris from culverts, catch basins, drop inlets, ditches, and other drain structures.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "4881",
+    "task_description": "Perform roadside landscaping work, such as clearing weeds and brush, and planting and trimming trees.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "4886",
+    "task_description": "Apply oil to road surfaces, using sprayers.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "4930",
+    "task_description": "Fill processing or cooking containers, such as kettles, rotating cookers, pressure cookers, or vats, with ingredients, by opening valves, by starting pumps or injectors, or by hand.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "4944",
+    "task_description": "Record production and test data, such as processing steps, temperature and steam readings, cooking time, batches processed, and test results.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "4951",
+    "task_description": "Tend or operate and control equipment, such as kettles, cookers, vats and tanks, and boilers, to cook ingredients or prepare products for further processing.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "4954",
+    "task_description": "Remove cooked material or products from equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "4960",
+    "task_description": "Operate auxiliary machines and equipment, such as grinders, canners, and molding presses, to prepare or further process products.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "4975",
+    "task_description": "Replace worn or defective equipment parts, using hand tools.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "4983",
+    "task_description": "Move or reposition hoists, winches, loads and materials, manually or using equipment and machines such as trucks, cars, and hand trucks.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "4993",
+    "task_description": "Scrub, scrape, or spray machine parts, equipment, or vehicles, using scrapers, brushes, clothes, cleaners, disinfectants, insecticides, acid, abrasives, vacuums, or hoses.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "4995",
+    "task_description": "Press buttons to activate cleaning equipment or machines.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "4998",
+    "task_description": "Drive vehicles to or from workshops or customers' workplaces or homes.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "5005",
+    "task_description": "Maintain inventories of supplies.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "5007",
+    "task_description": "Turn valves or disconnect hoses to eliminate water, cleaning solutions, or vapors from machinery or tanks.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "5015",
+    "task_description": "Perform routine maintenance on vehicles and equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "5025",
+    "task_description": "Mix acids, chemicals, or dry cement as required for a specific job.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "5055",
+    "task_description": "Operate large-volume cooking equipment, such as grills, deep-fat fryers, or griddles.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "5111",
+    "task_description": "Work with others to change advertising displays.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "5177",
+    "task_description": "Maintain equipment, making repairs or modifications when necessary.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "5540",
+    "task_description": "Perform general nursery duties, such as propagating standard varieties of plant materials, collecting and germinating seeds, maintaining cuttings of plants, or controlling environmental conditions.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "5541",
+    "task_description": "Operate farm machinery, including tractors, plows, mowers, combines, balers, sprayers, earthmoving equipment, or trucks.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "5542",
+    "task_description": "Perform crop production duties, such as tilling, hoeing, pruning, weeding, or harvesting crops.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "6445",
+    "task_description": "Supervise and monitor students' use of tools and equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "6569",
+    "task_description": "Perform administrative duties, such as school library assistance, hall and cafeteria monitoring, and bus loading and unloading.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "6952",
+    "task_description": "Aid patients in performing tasks, such as bathing or keeping beds, clothing, or living areas clean.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "7021",
+    "task_description": "Use telephone to deliver verbal messages.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "7026",
+    "task_description": "Check equipment to ensure that it is operating properly.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "7027",
+    "task_description": "Confer with other workers to discuss issues, such as safety, cutting heights, or work needs.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "7029",
+    "task_description": "Perform fire protection or suppression duties, such as constructing fire breaks or disposing of brush.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "7047",
+    "task_description": "Check the forms that hold the concrete to see that they are properly constructed.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "7054",
+    "task_description": "Operate power vibrator to compact concrete.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "7112",
+    "task_description": "Unscrew or tighten pipes, casing, tubing, and pump rods, using hand and power wrenches and tongs.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "7115",
+    "task_description": "Move pipes to and from trucks, using truck winches and motorized lifts, or by hand.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "7120",
+    "task_description": "Supply equipment to rig floors as requested and provide assistance to roughnecks.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "7162",
+    "task_description": "Perform maintenance duties, such as sweeping, painting, and yard work to keep facilities clean and in order.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "7171",
+    "task_description": "Refuel trucks or add other fluids, such as oil or brake fluid.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "7175",
+    "task_description": "Operate equipment that compresses collected refuse.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "7176",
+    "task_description": "Operate automated or semi-automated hoisting devices that raise refuse bins and dump contents into openings in truck bodies.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "7651",
+    "task_description": "Sing or dance during dramatic or comedic performances.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "7934",
+    "task_description": "Perform facilities maintenance work, such as constructing or repairing structures or controlling weeds or pests.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "7956",
+    "task_description": "Assign and review the work of subordinates.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "7964",
+    "task_description": "Clean facilities and equipment such as dog pens and animal control trucks.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "7976",
+    "task_description": "Spray or dust chemical solutions, powders, or gases into rooms, onto clothing, furnishings, or wood, or over marshlands, ditches, or catch basins.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "7984",
+    "task_description": "Dig up and burn weeds, or spray them with herbicides.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "8039",
+    "task_description": "Perform minor repairs, such as replacing worn sprockets, or notify maintenance personnel of the need for major repairs.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "8209",
+    "task_description": "Maintain a supply of packing materials.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "8221",
+    "task_description": "Clear jams in sorting equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "8239",
+    "task_description": "Exhibit animals at shows.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "8258",
+    "task_description": "Measure and mark guidelines on surfaces or foundations, using chalk lines and dividers.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "8267",
+    "task_description": "Position and hold timbers, lumber, or paneling in place for fastening or cutting.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "8302",
+    "task_description": "Maintain and adjust machinery to ensure proper performance.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "8364",
+    "task_description": "Raise vehicles, using hydraulic jacks.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "8368",
+    "task_description": "Reassemble tires onto wheels.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "8413",
+    "task_description": "Open switches or attach grounding devices to remove electrical hazards from disturbed or fallen lines or to facilitate repairs.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "8414",
+    "task_description": "Climb poles or use truck-mounted buckets to access equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "8465",
+    "task_description": "Set up and adjust machines and equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "8500",
+    "task_description": "Cut, shape, and trim blanks or blocks to specified lengths or shapes, using power saws, power shears, rules, and hand tools.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "8511",
+    "task_description": "Monitor or operate boilers, turbines, wells, or auxiliary power plant equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "8546",
+    "task_description": "Correct machinery malfunctions by performing actions such as removing jams, and inform supervisors of malfunctions as necessary.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "8549",
+    "task_description": "Scrape, dislodge, or break excess frost, ice, or frozen product from equipment to prevent accumulation, using hands and hand tools.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "8606",
+    "task_description": "Drive ambulances or assist ambulance drivers in transporting sick, injured, or convalescent persons.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "8785",
+    "task_description": "Prepare special cuts of meat ordered by customers.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "8795",
+    "task_description": "Use knives, cleavers, meat saws, bandsaws, or other equipment to perform meat cutting and trimming.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9248",
+    "task_description": "Cut, shape, fit, join, mold, or otherwise process materials, using hand tools, power tools, or machinery.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9353",
+    "task_description": "Perform maintenance tasks necessary to keep equipment working properly.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9491",
+    "task_description": "Wash pots, pans, dishes, utensils, or other cooking equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9515",
+    "task_description": "Perform or assist with cleaning duties as necessary.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9546",
+    "task_description": "Clean windows, glass partitions, or mirrors, using soapy water or other cleaners, sponges, or squeegees.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9550",
+    "task_description": "Dust furniture, walls, machines, or equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9551",
+    "task_description": "Move heavy furniture, equipment, or supplies, either manually or with hand trucks.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9555",
+    "task_description": "Make adjustments or minor repairs to heating, cooling, ventilating, plumbing, or electrical systems.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9566",
+    "task_description": "Sweep, scrub, wax, or polish floors, using brooms, mops, or powered scrubbing and waxing machines.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9574",
+    "task_description": "Remove debris from driveways, garages, and swimming pool areas.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9582",
+    "task_description": "Replace light bulbs.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9589",
+    "task_description": "Mow or edge lawns, using power mowers or edgers.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9730",
+    "task_description": "Coordinate or perform activities associated with shipping, receiving, distribution, or transportation.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9821",
+    "task_description": "Saw felled trees into lengths.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9850",
+    "task_description": "Take actions to avoid potential hazards or obstructions, such as utility lines, other equipment, other workers, or falling objects.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9856",
+    "task_description": "Load and move dirt, rocks, equipment, or other materials, using trucks, crawler tractors, power cranes, shovels, graders, or related equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9859",
+    "task_description": "Operate tractors or bulldozers to perform such tasks as clearing land, mixing sludge, trimming backfills, or building roadways or parking lots.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9862",
+    "task_description": "Connect hydraulic hoses, belts, mechanical linkages, or power takeoff shafts to tractors.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9863",
+    "task_description": "Operate loaders to pull out stumps, rip asphalt or concrete, rough-grade properties, bury refuse, or perform general cleanup.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9870",
+    "task_description": "Perform specialized work, using equipment, such as pile drivers, dredging rigs, drillers, or concrete pumpers.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9875",
+    "task_description": "Operate equipment to demolish or remove debris or to remove snow from streets, roads, or parking lots.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9879",
+    "task_description": "Mix mortar and plaster to desired consistency or direct workers who perform mixing.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9883",
+    "task_description": "Clean and prepare surfaces for applications of plaster, cement, stucco, or similar materials, such as by drywall taping.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9885",
+    "task_description": "Apply weatherproof, decorative coverings to exterior surfaces of buildings, such as by troweling or spraying on coats of stucco.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9907",
+    "task_description": "Place explosive charges in holes or other spots; then detonate explosives to demolish structures or to loosen, remove, or displace earth, rock, or other materials.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9987",
+    "task_description": "Remove locomotives, car mechanical units, or other components, using pneumatic hoists and jacks, pinch bars, hand tools, and cutting torches.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9991",
+    "task_description": "Perform scheduled maintenance, and clean units and components.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "9994",
+    "task_description": "Disassemble units such as water pumps, control valves, and compressors so that repairs can be made.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10001",
+    "task_description": "Paint car exteriors, interiors, and fixtures.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10024",
+    "task_description": "Position, align, or adjust workpieces or electrical parts to facilitate wiring or assembly.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10032",
+    "task_description": "Paint structures as specified, using paint sprayers.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10037",
+    "task_description": "Tack-weld fitted parts together.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10039",
+    "task_description": "Align and fit parts according to specifications, using jacks, turnbuckles, wedges, drift pins, pry bars, and hammers.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10043",
+    "task_description": "Move parts into position, manually or with hoists or cranes.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10053",
+    "task_description": "Lift or move materials and finished products, using large cranes.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10064",
+    "task_description": "Weigh or measure products, using scale hoppers or scale conveyors.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10066",
+    "task_description": "Take product samples during or after processing for laboratory analyses.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10067",
+    "task_description": "Fill or remove product from trays, carts, hoppers, or equipment, using scoops, peels, or shovels, or by hand.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10113",
+    "task_description": "Load workpieces, plastic material, or chemical solutions into machines.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10114",
+    "task_description": "Set up, operate, or tend machines to saw, cut, shear, slit, punch, crimp, notch, bend, or straighten metal or plastic material.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10123",
+    "task_description": "Place workpieces on cutting tables, manually or using hoists, cranes, or sledges.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10133",
+    "task_description": "Hand-form, cut, or finish workpieces, using tools such as table saws, hand sledges, or anvils.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10143",
+    "task_description": "Observe machine operations to detect any problems, making necessary adjustments to correct problems.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10154",
+    "task_description": "Thread and hand-feed materials through machine cutters or abraders.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10165",
+    "task_description": "Observe air and temperature gauges or metal color and fluidity, and turn fuel valves or adjust controls to maintain required temperatures.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10175",
+    "task_description": "Set up, operate, or tend metal or plastic molding, casting, or coremaking machines to mold or cast metal or thermoplastic parts or products.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10188",
+    "task_description": "Remove parts, such as dies, from machines after production runs are finished.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10190",
+    "task_description": "Pour or load metal or sand into melting pots, furnaces, molds, or hoppers, using shovels, ladles, or machines.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10197",
+    "task_description": "Perform maintenance work such as cleaning and oiling machines.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10207",
+    "task_description": "Observe machine operation to detect workpiece defects or machine malfunctions, adjusting machines as necessary.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10217",
+    "task_description": "Remove burrs, sharp edges, rust, or scale from workpieces, using files, hand grinders, wire brushes, or power tools.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10220",
+    "task_description": "Extract or lift jammed pieces from machines, using fingers, wire hooks, or lift bars.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10268",
+    "task_description": "Load or feed workpieces into welding machines to join or bond components.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10270",
+    "task_description": "Correct problems by adjusting controls or by stopping machines and opening holding devices.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10290",
+    "task_description": "Transfer components, metal products, or assemblies, using moving equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10297",
+    "task_description": "Lay out and fabricate metal structural parts such as plates, bulkheads, and frames.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10313",
+    "task_description": "Position and feed materials into processing machines, by hand or by using automated equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10321",
+    "task_description": "Perform equipment maintenance, such as cleaning tanks and lubricating moving parts of conveyors.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10342",
+    "task_description": "Remove excess materials or impurities from objects, using air hoses or grinding machines.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10346",
+    "task_description": "Cut metal or other materials, using shears or band saws.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10353",
+    "task_description": "File or finish surfaces of workpieces, using prescribed hand tools.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10481",
+    "task_description": "Perform or arrange for repairs, such as complete overhauls, replacement of defective valves, gaskets, or bearings, or fabrication of new parts.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10486",
+    "task_description": "Test electrical systems to determine voltages, using voltage meters.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10495",
+    "task_description": "Control or operate chemical processes or systems of machines, using panelboards, control boards, or semi-automatic equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10506",
+    "task_description": "Turn valves to regulate flow of products or byproducts through agitator tanks, storage drums, or neutralizer tanks.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10509",
+    "task_description": "Repair or replace damaged equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10641",
+    "task_description": "Drive trucks with capacities greater than 3 tons, including tractor-trailer combinations, to transport and deliver products, livestock, or other materials.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10642",
+    "task_description": "Secure cargo for transport, using ropes, blocks, chain, binders, or covers.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10668",
+    "task_description": "Drive engines within railroad yards or other establishments to couple, uncouple, or switch railroad cars.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10674",
+    "task_description": "Spot cars for loading and unloading at customer locations.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10687",
+    "task_description": "Operate flatcars equipped with derricks or railcars to transport personnel or equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10715",
+    "task_description": "Clean parking areas, offices, restrooms, or equipment, and remove trash.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10727",
+    "task_description": "Operate car washes.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10746",
+    "task_description": "Manipulate controls, levers, and valves to start pumps, auxiliary equipment, or conveyors, and to adjust equipment positions, speeds, timing, and material flows.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10755",
+    "task_description": "Stop equipment or machinery and clear jams, using poles, bars, and hand tools, or remove damaged materials from conveyors.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10757",
+    "task_description": "Load, unload, or adjust materials or products on conveyors by hand, by using lifts, hoists, and scoops, or by opening gates, chutes, or hoppers.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10768",
+    "task_description": "Move levers, depress foot pedals, or turn dials to operate cranes, cherry pickers, electromagnets, or other moving equipment for lifting, moving, or placing loads.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10773",
+    "task_description": "Load or unload bundles from trucks, or move containers to storage bins, using moving equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10781",
+    "task_description": "Move freight, stock, or other materials to and from storage or production areas, loading docks, delivery vehicles, ships, or containers, by hand or using trucks, tractors, or other equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10791",
+    "task_description": "Carry out general yard duties, such as performing shunting on railway lines.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10792",
+    "task_description": "Adjust controls to guide, position, or move equipment, such as cranes, booms, or cameras.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10794",
+    "task_description": "Adjust or replace equipment parts, such as rollers, belts, plugs, or caps, using hand tools.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10798",
+    "task_description": "Bundle and band material such as fodder or tobacco leaves, using banding machines.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "10804",
+    "task_description": "Wash out cargo containers or storage areas.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11122",
+    "task_description": "Direct traffic movement or warn of hazards, using signs, flags, lanterns, and hand signals.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11177",
+    "task_description": "Replenish supplies of food or equipment at steam tables or service bars.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11190",
+    "task_description": "Sweep or scrub floors.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11198",
+    "task_description": "Load or unload trucks that deliver or pick up food or supplies.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11210",
+    "task_description": "Direct or perform mixing or application of fertilizers, insecticides, herbicides, or fungicides.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11231",
+    "task_description": "Start motors and engage machinery, such as sprayer agitators or pumps or portable spray equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11387",
+    "task_description": "Unload or unpack incoming shipments.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11398",
+    "task_description": "Transport materials, products, or samples to processing, shipping, or storage areas, manually or using conveyors, pumps, or hand trucks.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11433",
+    "task_description": "Provide assistance to workers engaged in construction or extraction activities, using hand tools or other equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11438",
+    "task_description": "Examine boilers, pressure vessels, tanks, or vats to locate defects, such as leaks, weak spots, or defective sections, so that they can be repaired.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11439",
+    "task_description": "Bolt or arc weld pressure vessel structures and parts together, using wrenches or welding equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11442",
+    "task_description": "Attach rigging and signal crane or hoist operators to lift heavy frame and plate sections or other parts into place.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11455",
+    "task_description": "Clean or prepare construction sites to eliminate possible hazards.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11457",
+    "task_description": "Control traffic passing near, in, or around work zones.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11460",
+    "task_description": "Position, join, align, or seal structural components, such as concrete wall sections or pipes.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11466",
+    "task_description": "Operate jackhammers or drills to break up concrete or pavement.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11467",
+    "task_description": "Smooth or finish freshly poured cement or concrete, using floats, trowels, screeds, or powered cement finishing tools.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11472",
+    "task_description": "Tend pumps, compressors, or generators to provide power for tools, machinery, or equipment or to heat or move materials, such as asphalt.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11474",
+    "task_description": "Place, consolidate, or protect case-in-place concrete or masonry structures.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11475",
+    "task_description": "Identify, pack, or transport hazardous or radioactive materials.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11479",
+    "task_description": "Tend machines that pump concrete, grout, cement, sand, plaster, or stucco through spray guns for application to ceilings or walls.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11481",
+    "task_description": "Raze buildings or salvage useful materials.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11482",
+    "task_description": "Spray materials, such as water, sand, steam, vinyl, paint, or stucco, through hoses to clean, coat, or seal surfaces.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11498",
+    "task_description": "Assemble, erect, or dismantle scaffolds, rigging, or hoisting equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11511",
+    "task_description": "Cover surfaces with dropcloths or masking tape and paper to protect surfaces during painting.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11514",
+    "task_description": "Apply paint, stain, varnish, enamel, or other finishes to equipment, buildings, bridges, or other structures, using brushes, spray guns, or rollers.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11517",
+    "task_description": "Erect scaffolding or swing gates, or set up ladders, to work above ground level.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11523",
+    "task_description": "Smooth surfaces, using sandpaper, scrapers, brushes, steel wool, or sanding machines.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11526",
+    "task_description": "Waterproof buildings, using waterproofers or caulking.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11532",
+    "task_description": "Connect pipe pieces and seal joints, using welding equipment, cement, or glue.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11534",
+    "task_description": "Install or repair sanitary or stormwater sewer structures or pipe systems.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11538",
+    "task_description": "Align and position pipes to prepare them for welding or sealing.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11539",
+    "task_description": "Dig trenches to desired or required depths, by hand or using trenching tools.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11540",
+    "task_description": "Operate mechanized equipment, such as pickup trucks, rollers, tandem dump trucks, front-end loaders, or backhoes.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11552",
+    "task_description": "Cut, bend, or weld steel pieces, using metal shears, torches, or welding equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11556",
+    "task_description": "Erect metal or precast concrete components for structures, such as buildings, bridges, dams, towers, storage tanks, fences, or highway guard rails.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11559",
+    "task_description": "Dismantle structures or equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11587",
+    "task_description": "Operate machines or equipment to remove, package, store, or transport loads of waste materials.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11588",
+    "task_description": "Load or unload materials into containers or onto trucks, using hoists or forklifts.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11589",
+    "task_description": "Clean contaminated equipment or areas for reuse, using detergents or solvents, sandblasters, filter pumps, or steam cleaners.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11630",
+    "task_description": "Operate machines to test functioning of parts or mechanisms.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11640",
+    "task_description": "Clean, oil, or adjust mechanical parts to maintain machines' operating efficiency and to prevent breakdowns.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11657",
+    "task_description": "Adjust or modify equipment to enhance equipment performance or to respond to customer requests.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11662",
+    "task_description": "Collaborate with other workers to locate and correct malfunctions.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11699",
+    "task_description": "Lubricate moving parts.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11702",
+    "task_description": "Lift units or parts such as motors or generators, using cranes or chain hoists, or signal crane operators to lift heavy parts or subassemblies.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11730",
+    "task_description": "Install new fuses, electrical cables, or power sources as required.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11731",
+    "task_description": "Locate and remove or repair circuit defects such as blown fuses or malfunctioning transistors.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11737",
+    "task_description": "Install electrical equipment such as air-conditioning, heating, or ignition systems and components such as generator brushes and commutators, using hand tools.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11758",
+    "task_description": "Examine systems to locate problems, such as loose connections or broken insulation.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11766",
+    "task_description": "Drill holes for wiring in wall studs, joists, ceilings, or floors.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11829",
+    "task_description": "Start machines and observe mechanical operation to determine efficiency and to detect problems.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11837",
+    "task_description": "Collaborate with other workers to repair or move machines, machine parts, or equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11841",
+    "task_description": "Clean machines and machine parts, using cleaning solvents, cloths, air guns, hoses, vacuums, or other equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11850",
+    "task_description": "Set up service for customers, installing, connecting, testing, or adjusting equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11861",
+    "task_description": "Dig trenches for underground wires or cables.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11864",
+    "task_description": "Participate in the construction or removal of telecommunication towers or associated support structures.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11917",
+    "task_description": "Combine measured ingredients in bowls of mixing, blending, or cooking machinery.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11919",
+    "task_description": "Roll, knead, cut, or shape dough to form sweet rolls, pie crusts, tarts, cookies, or other products.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11930",
+    "task_description": "Operate slicing or wrapping machines.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11935",
+    "task_description": "Listen to machines during operation to detect sounds such as those made by dull cutting tools or excessive vibration, and adjust machines to compensate for problems.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11950",
+    "task_description": "Stack or load finished items, or place items on conveyor systems.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "11954",
+    "task_description": "Set up future jobs while machines are operating.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12031",
+    "task_description": "Align, fit, and join parts, using bolts and screws or by welding or gluing.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12051",
+    "task_description": "Move and position workpieces, such as mold sections, patterns, and bottom boards, using cranes, or signal others to move workpieces.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12060",
+    "task_description": "Pour molten metal into molds, manually or with crane ladles.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12159",
+    "task_description": "Cut excess material or thread from finished products.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12212",
+    "task_description": "Set up or operate machines, including power saws, jointers, mortisers, tenoners, molders, or shapers, to cut, mold, or shape woodstock or wood substitutes.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12219",
+    "task_description": "Trim, sand, or scrape surfaces or joints to prepare articles for finishing.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12226",
+    "task_description": "Repair or alter wooden furniture, cabinetry, fixtures, paneling, or other pieces.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12256",
+    "task_description": "Mount and bolt sawing blades or attachments to machine shafts.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12259",
+    "task_description": "Guide workpieces against saws, saw over workpieces by hand, or operate automatic feeding devices to guide cuts.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12263",
+    "task_description": "Lubricate or clean machines, using wrenches, grease guns, or solvents.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12284",
+    "task_description": "Push or hold workpieces against, under, or through cutting, boring, or shaping mechanisms.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12289",
+    "task_description": "Clean or maintain products, machines, or work areas.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12293",
+    "task_description": "Operate gluing machines to glue pieces of wood together, or to press and affix wood veneer to wood surfaces.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12307",
+    "task_description": "Manipulate controls to adjust or activate power distribution equipment or machines.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12327",
+    "task_description": "Make adjustments or minor repairs, such as tightening leaking gland or pipe joints.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12331",
+    "task_description": "Examine and test electrical power distribution machinery and equipment, using testing devices.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12345",
+    "task_description": "Open valves or start pumps, agitators, reactors, blowers, or automatic feed of materials.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12349",
+    "task_description": "Flush or clean equipment, using steam hoses or mechanical reamers.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12352",
+    "task_description": "Dump or scoop prescribed solid, granular, or powdered materials into equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12364",
+    "task_description": "Clean or sterilize tanks, screens, inflow pipes, production areas, or equipment, using hoses, brushes, scrapers, or chemical solutions.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12369",
+    "task_description": "Remove clogs, defects, or impurities from machines, tanks, conveyors, screens, or other processing equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12372",
+    "task_description": "Turn valves to pump sterilizing solutions or rinse water through pipes or equipment or to spray vats with atomizers.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12373",
+    "task_description": "Remove full containers from discharge outlets and replace them with empty containers.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12389",
+    "task_description": "Tend accessory equipment, such as pumps and conveyors, to move materials or ingredients through production processes.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12400",
+    "task_description": "Operate or tend machines to mix or blend any of a wide variety of materials, such as spices, dough batter, tobacco, fruit juices, chemicals, livestock feed, food products, color pigments, or explosive ingredients.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12405",
+    "task_description": "Add or mix chemicals or ingredients for processing, using hand tools or other devices.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12422",
+    "task_description": "Press buttons, pull levers, or depress pedals to start and operate cutting and slicing machines.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12425",
+    "task_description": "Monitor operation of cutting or slicing machines to detect malfunctions or to determine whether supplies need replenishment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12429",
+    "task_description": "Move stock or scrap to and from machines manually, or by using carts, handtrucks, or lift trucks.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12432",
+    "task_description": "Feed stock into cutting machines, onto conveyors, or under cutting blades, by threading, guiding, pushing, or turning handwheels.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12447",
+    "task_description": "Press control buttons to activate machinery and equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12454",
+    "task_description": "Feed products into machines by hand or conveyor.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12456",
+    "task_description": "Move materials, supplies, components, and finished products between storage and work areas, using work aids such as racks, hoists, and handtrucks.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12465",
+    "task_description": "Ignite burners to preheat products, or use torches to apply heat.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12486",
+    "task_description": "Read dials or meters to verify that equipment is functioning at specified levels.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12512",
+    "task_description": "Operate auxiliary machines or equipment used in coating or painting processes.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12599",
+    "task_description": "Monitor machine operations to detect malfunctions and report or resolve problems.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12606",
+    "task_description": "Remove jammed materials from machines and readjust components as necessary to resume normal operations.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12645",
+    "task_description": "Cut lengths of tubing to specified sizes, using files or cutting wheels.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12683",
+    "task_description": "Observe operation of various machines to detect and correct machine malfunctions such as improper forming, glue flow, or pasteboard tension.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12693",
+    "task_description": "Operate machinery used in the production process, or assist machine operators.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12699",
+    "task_description": "Load and unload items from machines, conveyors, and conveyances.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12701",
+    "task_description": "Clean and lubricate equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12703",
+    "task_description": "Start machines or equipment to begin production processes.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12707",
+    "task_description": "Remove products, machine attachments, or waste material from machines.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12719",
+    "task_description": "Wash work areas, machines, equipment, vehicles, or products.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12726",
+    "task_description": "Attach slings, ropes, or cables to objects such as pipes, hoses, or bundles.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12744",
+    "task_description": "Inspect, adjust, or control radio equipment or airport lights.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12778",
+    "task_description": "Set up or inspect equipment prior to operation.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12781",
+    "task_description": "Operate machinery to perform activities such as backfilling excavations, vibrating or breaking rock or concrete, or making winter roads.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12784",
+    "task_description": "Move materials over short distances, such as around a construction site, factory, or warehouse.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12789",
+    "task_description": "Perform manual labor to prepare or finish sites, such as shoveling materials by hand.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12794",
+    "task_description": "Operate ship loading and unloading equipment, conveyors, hoists, and other specialized material handling equipment such as railroad tank car unloading equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12798",
+    "task_description": "Operate industrial trucks, tractors, loaders, and other equipment to transport materials to and from transportation vehicles and loading docks, and to store and retrieve materials in warehouses.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12805",
+    "task_description": "Operate conveyors and equipment to transfer grain or other materials from transportation vehicles.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "12810",
+    "task_description": "Perform general warehouse activities, such as opening containers and crates, filling warehouse orders, assisting in taking inventory, and weighing and checking materials.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13033",
+    "task_description": "Attend scheduled practice or training sessions.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13114",
+    "task_description": "Climb trees, using climbing hooks and belts, or climb ladders to gain access to work areas.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13116",
+    "task_description": "Cut away dead and excess branches from trees, or clear branches around power lines, using climbing equipment or buckets of extended truck booms, or chainsaws, hooks, handsaws, shears, and clippers.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13129",
+    "task_description": "Transplant and remove trees and shrubs, and prepare trees for moving.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13177",
+    "task_description": "Signal transportation operators to stop or to proceed.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13211",
+    "task_description": "Stock shelves with products.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13242",
+    "task_description": "Stock carts or stands.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13294",
+    "task_description": "Monitor machine operation, and make adjustments as necessary to ensure proper operation.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13295",
+    "task_description": "Load machines with materials such as blank paper or film.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13299",
+    "task_description": "Operate auxiliary machines such as collators, pad and tablet making machines, staplers, and paper punching, folding, cutting, and perforating machines.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13356",
+    "task_description": "Observe and listen to machinery operation to detect equipment malfunctions.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13362",
+    "task_description": "Load hoppers, containers, or conveyors to feed machines with products, using forklifts, transfer augers, suction gates, shovels, or pitchforks.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13416",
+    "task_description": "Move equipment, poultry, or livestock from one location to another, manually or using trucks or carts.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13423",
+    "task_description": "Milk animals such as cows and goats, by hand or using milking machines.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13498",
+    "task_description": "Load logs or wood onto trucks, trailers, or railroad cars, by hand or using loaders or winches.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13510",
+    "task_description": "Coordinate work with drywall finishers who cover the seams between drywall panels.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13528",
+    "task_description": "Remove existing plaster, drywall, or paneling, using crowbars and hammers.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13537",
+    "task_description": "Apply additional coats to fill in holes and make surfaces smooth.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13552",
+    "task_description": "Prepare surfaces for insulation application by brushing or spreading on adhesives, cement, or asphalt, or by attaching metal pins to surfaces.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13586",
+    "task_description": "Remove snow, water, or debris from roofs prior to applying roofing materials.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13592",
+    "task_description": "Apply plastic coatings, membranes, fiberglass, or felt over sloped roofs before applying shingles.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13598",
+    "task_description": "Erect scaffolding or other installation structures.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13604",
+    "task_description": "Provide assistance in the preparation, installation, repair, or rebuilding of tile, brick, or stone surfaces.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13606",
+    "task_description": "Transport materials, tools, or machines to installation sites, manually or using conveyance equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13607",
+    "task_description": "Move or position materials such as marble slabs, using cranes, hoists, or dollies.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13610",
+    "task_description": "Arrange or store materials, machines, tools, or equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13614",
+    "task_description": "Apply protective coverings, such as masking tape, to articles or areas that could be damaged or stained by work processes.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13615",
+    "task_description": "Erect scaffolding.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13617",
+    "task_description": "Supply or hold tools and materials.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13626",
+    "task_description": "Dig postholes, using spades, posthole diggers, or power-driven augers.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13657",
+    "task_description": "Clean or make minor repairs to machines or equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13675",
+    "task_description": "Drill or bore holes in rock for blasting, grouting, anchoring, or building foundations.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13684",
+    "task_description": "Operate water-well drilling rigs and other equipment to drill, bore, and dig for water wells or for environmental assessment purposes.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13685",
+    "task_description": "Perform pumping tests to assess well performance.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13694",
+    "task_description": "Signal crane operators to move equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13699",
+    "task_description": "Observe and monitor equipment operation during the extraction process to detect any problems.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13707",
+    "task_description": "Signal workers to start geological material extraction or boring.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13711",
+    "task_description": "Dig trenches.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13732",
+    "task_description": "Cut openings and drill holes for fixtures and equipment, using electric drills and routers.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13770",
+    "task_description": "Repair engine mechanical equipment, such as power tilts, bilge pumps, or power take-offs.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13785",
+    "task_description": "Replace motors.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13792",
+    "task_description": "Replace worn and defective parts such as switches, bearings, transmissions, belts, gears, circuit boards, or defective wiring.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13794",
+    "task_description": "Reassemble units after repairs are made, making adjustments and cleaning and lubricating parts as needed.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13807",
+    "task_description": "Set appliance thermostats, and check to ensure that they are functioning properly.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13838",
+    "task_description": "Make service calls to maintain and repair machines.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13840",
+    "task_description": "Test machines to determine proper functioning.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13853",
+    "task_description": "Prepare repair cost estimates.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13857",
+    "task_description": "Descend into water with the aid of diver helpers, using scuba gear or diving suits.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13865",
+    "task_description": "Install, inspect, clean, or repair piping or valves.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13879",
+    "task_description": "Move and set up mobile homes or prefabricated buildings on owners' lots or at mobile home parks.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13890",
+    "task_description": "Connect electrical systems to outside power sources and activate switches to test the operation of appliances and light fixtures.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13892",
+    "task_description": "Signal or verbally direct workers engaged in hoisting and moving loads to ensure safety of workers and materials.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13935",
+    "task_description": "Set up or operate machines or systems to crimp, cut, bend, form, swage, flare, bead, burr, or straighten tubing, according to specifications.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13936",
+    "task_description": "Weld tubing and fittings or solder cable ends, using tack welders, induction brazing chambers, or other equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13956",
+    "task_description": "Operate or tend automated assembling equipment, such as robotics and fixed automation equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13961",
+    "task_description": "Rework, repair, or replace damaged parts or assemblies.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "13963",
+    "task_description": "Maintain and lubricate parts or components.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14005",
+    "task_description": "Move controls to set cutting specifications, to position cutting tools and workpieces in relation to each other, and to start machines.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14009",
+    "task_description": "Move cutters or material manually or by turning handwheels, or engage automatic feeding mechanisms to mill workpieces to specifications.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14036",
+    "task_description": "Lower irons, rams, or pressing heads of machines into position over material to be pressed.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14043",
+    "task_description": "Straighten, smooth, or shape materials to prepare them for pressing.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14099",
+    "task_description": "Test machinery to ensure proper functioning before beginning production.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14127",
+    "task_description": "Start and control machines and equipment to wash, bleach, dye, or otherwise process and finish fabric, yarn, thread, or other textile goods.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14134",
+    "task_description": "Inspect machinery to determine necessary adjustments and repairs.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14140",
+    "task_description": "Mount rolls of cloth on machines, using hoists, or place textile goods in machines or pieces of equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14149",
+    "task_description": "Inspect machinery to determine whether repairs are needed.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14184",
+    "task_description": "Start machines, monitor operation, and make adjustments as needed.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14207",
+    "task_description": "Remove excess, entangled, or completed filaments from machines, using hand tools.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14220",
+    "task_description": "Clean and maintain extruding and forming machines, using hand tools.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14293",
+    "task_description": "Collaborate with other operators to solve unit problems.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14303",
+    "task_description": "Signal or direct workers who tend auxiliary equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14320",
+    "task_description": "Inspect pipelines, tightening connections and lubricating valves as necessary.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14321",
+    "task_description": "Conduct general housekeeping of units, including wiping up oil spills and performing general cleaning duties.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14331",
+    "task_description": "Move controls to adjust, start, or stop equipment during grinding and polishing processes.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14336",
+    "task_description": "Trim, scrape, or deburr objects or parts, using chisels, scrapers, and other hand tools and equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14366",
+    "task_description": "Transport items to work or storage areas, using carts.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14367",
+    "task_description": "Operate or tend machines to wash and remove impurities from items such as barrels or kegs, glass products, tin plate surfaces, dried fruit, pulp, animal stock, coal, manufactured articles, plastic, or rubber.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14380",
+    "task_description": "Position and clamp workpieces, plates, or rollers in holding fixtures.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14543",
+    "task_description": "Service motors by performing tasks such as changing oil and lubricating parts.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14550",
+    "task_description": "Perform general labor duties such as repairing booms.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14554",
+    "task_description": "Maintain electrical power, heating, ventilation, refrigeration, water, or sewerage systems.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14560",
+    "task_description": "Maintain or repair engines, electric motors, pumps, winches, or other mechanical or electrical equipment, or assist other crew members with maintenance or repair duties.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14561",
+    "task_description": "Perform general marine vessel maintenance or repair work, such as repairing leaks, finishing interiors, refueling, or maintaining decks.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14585",
+    "task_description": "Push dual control buttons and move controls to start, stop, or adjust machinery and equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14587",
+    "task_description": "Load materials and products into machines and equipment, or onto conveyors, using hand tools and moving devices.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14592",
+    "task_description": "Add chemicals, solutions, or ingredients to machines or equipment as required by the manufacturing process.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14597",
+    "task_description": "Adjust valves and equipment to obtain specified performance.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14599",
+    "task_description": "Operate power-driven pumps that transfer liquids, semi-liquids, gases, or powdered materials.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14604",
+    "task_description": "Take samples of gases and conduct chemical tests to determine gas quality and sulfur or moisture content, or send samples to laboratories for analysis.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14608",
+    "task_description": "Maintain each station by performing general housekeeping duties such as painting, washing, and cleaning.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14620",
+    "task_description": "Add chemicals and solutions to tanks to ensure that specifications are met.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14675",
+    "task_description": "Monitor system operation to detect potential problems.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14903",
+    "task_description": "Drive pilings to provide support for buildings or other structures, using heavy equipment with a pile driver head.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14930",
+    "task_description": "Maintain tools and equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14932",
+    "task_description": "Remove old roofing materials.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14936",
+    "task_description": "Provide assistance to skilled roofers installing and repairing roofs, flashings, and surfaces.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "14971",
+    "task_description": "Set charges of explosives to split rock.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "15258",
+    "task_description": "Participate in required job training.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "15266",
+    "task_description": "Manually or mechanically load or unload materials from pallets, skids, platforms, cars, lifting devices, or other transport vehicles.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "15478",
+    "task_description": "Supervise biomass plant or substation operations, maintenance, repair, or testing activities.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "15849",
+    "task_description": "Identify environmental contamination sources.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "15937",
+    "task_description": "Monitor or trace the location of goods.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "16074",
+    "task_description": "Implement or perform preventive maintenance, backup, or recovery procedures.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "16438",
+    "task_description": "Conduct or direct system-level automotive testing.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "16519",
+    "task_description": "Investigate mechanical failures or unexpected maintenance problems.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "16520",
+    "task_description": "Install, calibrate, operate, or maintain robots.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "16580",
+    "task_description": "Fabricate housings, jigs, fittings, or fixtures, using metalworking machines.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "16583",
+    "task_description": "Inspect installation sites.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "16596",
+    "task_description": "Build or assemble robotic devices or systems.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "17067",
+    "task_description": "Conduct physical examinations of patients.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "17539",
+    "task_description": "Perform support duties, such as preparing materials, keeping records, maintaining supplies, and scheduling activities.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "17582",
+    "task_description": "Clean or sanitize work areas, utensils, or equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "17592",
+    "task_description": "Take out garbage.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "17599",
+    "task_description": "Slice fruits, vegetables, desserts, or meats for use in food service.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "17761",
+    "task_description": "Test operating voltages to ensure operation within acceptable limits for power conditioning equipment, such as inverters and controllers.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "17775",
+    "task_description": "Install copper or plastic plumbing using pipes, fittings, pipe cutters, acetylene torches, solder, wire brushes, sand cloths, flux, plastic pipe cleaners, or plastic glue.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "17790",
+    "task_description": "Apply insulation materials, such as loose, blanket, board, and foam insulation to attics, crawl spaces, basements, or walls.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "17799",
+    "task_description": "Apply spackling, compounding, or other materials to repair holes in walls.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "17807",
+    "task_description": "Climb wind turbine towers to inspect, maintain, or repair equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "17876",
+    "task_description": "Operate automated refuse or manual recycling collection vehicles.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "17877",
+    "task_description": "Operate balers to compress recyclable materials into bundles or bales.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "17879",
+    "task_description": "Operate processing equipment, such as fiber-sorters and grinders, to sort, crush, or grind recyclable materials.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "17882",
+    "task_description": "Sort metals to separate high-grade metals, such as copper, brass, and aluminum, for recycling.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "17900",
+    "task_description": "Operate fork lifts, skid loaders, or trucks to move or store recyclable materials.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "17923",
+    "task_description": "Test and repair or replace electrical equipment, such as circuit breakers, station batteries, cable trays, conduits, or control devices.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "17954",
+    "task_description": "Operate equipment, such as excavators, backhoes, rock hammers, trench compactors, pavement saws, grout mixers or pumps, geothermal loop reels, and coil tubing units (CTU).",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "18181",
+    "task_description": "Troubleshoot new or existing product problems involving designs, materials, or processes.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "18475",
+    "task_description": "Conduct quality control tests.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "18698",
+    "task_description": "Complete administrative tasks, such as entering orders into computer, answering telephone calls, or maintaining medical or facility information.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "18747",
+    "task_description": "Perform cleaning duties, such as sweeping and mopping floors, vacuuming carpet, tidying up server station, taking out trash, or checking and cleaning bathroom.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "18768",
+    "task_description": "Supervise others and provide on-the-job training.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "18785",
+    "task_description": "Conduct preventative maintenance and repair, and lubricate machines and equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "18788",
+    "task_description": "Troubleshoot equipment, electrical components, hydraulics, or other mechanical systems.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "18799",
+    "task_description": "Maintain cleanliness of bus or motor coach.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "18999",
+    "task_description": "Install or repair network cables, including fiber optic cables.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "19311",
+    "task_description": "Operate sterilizing devices.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "19321",
+    "task_description": "Clean and sanitize patient rooms, bathrooms, examination rooms, or other patient areas.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "19330",
+    "task_description": "Prepare or serve food trays.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "19355",
+    "task_description": "Collect soiled linen or trash.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "19360",
+    "task_description": "Restrain patients to prevent violence or injury or to assist physicians or nurses to administer treatments.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "19361",
+    "task_description": "Serve or collect food trays.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "19384",
+    "task_description": "Calibrate or maintain machines, such as those used for plasma collection.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "19400",
+    "task_description": "Climb communication towers to install, replace, or repair antennas or auxiliary equipment used to transmit and receive radio waves.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "19405",
+    "task_description": "Lift equipment into position, using cranes and rigging tools or equipment, such as gin poles.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "19408",
+    "task_description": "Replace existing antennas with new antennas as directed.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "19417",
+    "task_description": "Adjust ink fountain flow rates.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "19420",
+    "task_description": "Clean or oil presses or make minor repairs, using hand tools.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "19433",
+    "task_description": "Direct or monitor work of press crews.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "19836",
+    "task_description": "Perform building weatherization tasks, such as repairing windows, adding insulation, or applying weather-stripping materials.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "19872",
+    "task_description": "Remove or limit contamination following emergencies involving hazardous substances.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "19899",
+    "task_description": "Perform routine maintenance on boilers, such as replacing burners or hoses, installing replacement parts, or reinforcing structural weaknesses to ensure optimal boiler efficiency.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "19921",
+    "task_description": "Drive electric or hybrid-electric powered trucks or alternative fuel-powered trucks to transport and deliver products, livestock, or other materials.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "19932",
+    "task_description": "Make special pickups of recyclable materials, such as food scraps, used oil, discarded computers, or other electronic items.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20131",
+    "task_description": "Perform grounds maintenance tasks, such as removing snow and mowing the lawn.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20143",
+    "task_description": "Control traffic.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20157",
+    "task_description": "Perform quality checks on products and parts.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20159",
+    "task_description": "Shovel, sweep, or otherwise clean work areas.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20162",
+    "task_description": "Maintain production equipment and machinery.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20164",
+    "task_description": "Operate machinery and heavy equipment, such as forklifts.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20304",
+    "task_description": "Position products, components, or parts for testing.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20310",
+    "task_description": "Disassemble defective parts or components, such as inaccurate or worn gauges or measuring instruments.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20313",
+    "task_description": "Dump refuse or recyclable materials at disposal sites.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20335",
+    "task_description": "Implement new or modified plans in response to delays, bad weather, or construction site emergencies.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20422",
+    "task_description": "Restrain animals during exams or procedures.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20434",
+    "task_description": "Supervise or train other staff members.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20443",
+    "task_description": "Drill holes in timbers or lumber.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20444",
+    "task_description": "Cut timbers, lumber, or paneling to specified dimensions.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20459",
+    "task_description": "Handle slides, mud, or pit cleanings or maintenance.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20530",
+    "task_description": "Collect animal or crop samples.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20577",
+    "task_description": "Bathe patients.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20589",
+    "task_description": "Participate in firefighting efforts.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20641",
+    "task_description": "Maneuver completed roofing units into position for installation.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20651",
+    "task_description": "Mount, balance, change, or check condition or pressure of tires.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20656",
+    "task_description": "Assist mechanics and perform various mechanical duties, such as changing oil or checking and replacing batteries.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20671",
+    "task_description": "Perform routine maintenance, such as inspecting drives, motors, or belts, checking fluid levels, replacing filters, or doing other preventive maintenance actions.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20675",
+    "task_description": "Perform general cleaning of buildings or properties.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20677",
+    "task_description": "Provide groundskeeping services, such as landscaping or snow removal.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20692",
+    "task_description": "Inspect loads to ensure that cargo is secure.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20754",
+    "task_description": "Assemble or set up displays, furniture, or products in store space, using colors, lights, pictures, or other accessories to display the product.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20776",
+    "task_description": "Assist customers, such as responding to customer complaints and updating them about back-ordered parts.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20788",
+    "task_description": "Work on high ceilings, using scaffolding or other tools, such as stilts.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20790",
+    "task_description": "Clean job sites.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20791",
+    "task_description": "Set up scaffolds.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20795",
+    "task_description": "Hoist steel beams, girders, or columns into place, using cranes or signaling hoisting equipment operators to lift and position structural steel members.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20803",
+    "task_description": "Inspect, repair, or replace brake systems.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20804",
+    "task_description": "Diagnose and repair furnace or air conditioning systems.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20812",
+    "task_description": "Adjust, repair, rework, or replace parts or assemblies to ensure proper operation.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20820",
+    "task_description": "Clean work area.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20918",
+    "task_description": "Install new tires and tubes.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20922",
+    "task_description": "Perform preventative maintenance or minor repairs on machines.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "20934",
+    "task_description": "Load or unload materials, vehicles, or passengers from vessels.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "21029",
+    "task_description": "Clean and wash rigs, ambulances, or equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "21115",
+    "task_description": "Clean laboratory facilities.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "21194",
+    "task_description": "Perform therapeutic wound care.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "21198",
+    "task_description": "Provide assistance to the public, such as directions to court offices.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "21206",
+    "task_description": "Load machines onto trucks to prepare for transportation.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "21209",
+    "task_description": "Operate heavy equipment, such as bulldozers and front-end loaders.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "21339",
+    "task_description": "Supervise subordinate employees.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "21412",
+    "task_description": "Talk to coworkers using electronic devices, such as computers and radios.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "21973",
+    "task_description": "Supervise or train other technologists, technicians, or drafters.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "21979",
+    "task_description": "Identify and resolve equipment malfunctions, working with manufacturers or field representatives as necessary to procure replacement parts.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "22012",
+    "task_description": "Fabricate or assemble mechanical, electrical, or electronic components or assemblies.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "22037",
+    "task_description": "Oversee or inspect production processes.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "22040",
+    "task_description": "Provide advice or training to other technicians.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "22042",
+    "task_description": "Select cleaning materials, tools, or equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "22263",
+    "task_description": "Collect or prepare solid or fluid samples for analysis.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "22268",
+    "task_description": "Adjust or repair testing, electrical, or mechanical equipment or devices.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "22311",
+    "task_description": "Test plant equipment to ensure it is operating properly.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "22312",
+    "task_description": "Apply safety tags to equipment needing maintenance.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "22433",
+    "task_description": "Assemble and arrange display materials.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "22677",
+    "task_description": "Install electrical cables or wire fixtures.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "22678",
+    "task_description": "Load, unload, or position lighting equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "22683",
+    "task_description": "Perform minor repairs or routine maintenance on lighting equipment, such as replacing lamps or damaged color filters.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "22797",
+    "task_description": "Freeze tissue specimens.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "22824",
+    "task_description": "Perform general administrative tasks, such as answering phones, scheduling patient appointments, or pulling and filing films.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "22864",
+    "task_description": "Administer drugs, orally or by injection, or perform intravenous procedures.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "22972",
+    "task_description": "Collaborate with other firefighters as a member of a firefighting crew.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "22978",
+    "task_description": "Participate in physical training activities to maintain a high level of physical fitness.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "22985",
+    "task_description": "Take action to contain any hazardous chemicals that could catch fire, leak, or spill.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23060",
+    "task_description": "Monitor traffic to ensure motorists observe traffic regulations and exhibit safe driving procedures.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23087",
+    "task_description": "Escort young children across roads or highways.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23111",
+    "task_description": "Collect and return dirty dishes to the kitchen for washing.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23112",
+    "task_description": "Wash dishes, glassware, and silverware after meals.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23169",
+    "task_description": "Provide staff with assistance in performing difficult or complicated duties.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23177",
+    "task_description": "Direct or coordinate the activities of workers, such as hotel staff or hair stylists.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23248",
+    "task_description": "Monitor equipment to ensure proper operation.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23355",
+    "task_description": "Drive or operate farm machinery, such as trucks, tractors, or self-propelled harvesters, to transport workers or supplies or to cultivate or harvest fields.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23367",
+    "task_description": "Direct or assist with the adjustment or repair of equipment or machinery.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23373",
+    "task_description": "Repair and maintain farm vehicles, implements, and mechanical equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23374",
+    "task_description": "Harvest fruits and vegetables by hand.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23375",
+    "task_description": "Clean work areas, and maintain grounds and landscaping.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23385",
+    "task_description": "Maintain and repair irrigation and climate control systems.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23389",
+    "task_description": "Maintain inventory, ordering materials as required.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23416",
+    "task_description": "Attach nets, slings, hooks, blades, or lifting devices to cables, booms, hoists, or dredges.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23427",
+    "task_description": "Harvest marine life for human or animal consumption, using diving or dredging equipment, traps, barges, rods, reels, or tackle.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23439",
+    "task_description": "Build or repair cabinets, doors, frameworks, floors, or other wooden fixtures used in buildings, using woodworking machines, carpenter's hand tools, or power tools.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23441",
+    "task_description": "Anchor and brace forms and other structures in place, using nails, bolts, anchor rods, steel cables, planks, wedges, and timbers.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23447",
+    "task_description": "Install rough door and window frames, subflooring, fixtures, or temporary supports in structures undergoing construction or repair.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23455",
+    "task_description": "Construct forms or chutes for pouring concrete.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23457",
+    "task_description": "Work with or remove hazardous material.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23459",
+    "task_description": "Cut, thread, or hammer pipes to specifications, using tools such as saws, cutting torches, pipe threaders, or pipe benders.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23461",
+    "task_description": "Inspect, examine, or test installed systems or pipe lines, using pressure gauge, hydrostatic testing, observation, or other methods.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23473",
+    "task_description": "Maintain or repair plumbing by replacing defective washers, replacing or mending broken pipes, or opening clogged drains.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23478",
+    "task_description": "Install underground storm, sanitary, or water piping systems, extending piping as needed to connect fixtures and plumbing.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23487",
+    "task_description": "Repair hydraulic or air pumps.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23497",
+    "task_description": "Direct other workers to move stakes, place blocks, position anchors or cables, or move materials.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23536",
+    "task_description": "Maintain cleanliness of work area.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23539",
+    "task_description": "Repair, replace, or adjust defective fuel injectors, carburetor parts, and gasoline filters.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23543",
+    "task_description": "Overhaul or replace carburetors, blowers, generators, distributors, starters, and pumps.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23553",
+    "task_description": "Repair or replace defective equipment, components, or wiring.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23555",
+    "task_description": "Connect heating or air conditioning equipment to fuel, water, or refrigerant source to form complete circuit.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23559",
+    "task_description": "Install auxiliary components to heating or cooling equipment, such as expansion or discharge valves, air ducts, pipes, blowers, dampers, flues, or stokers.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23569",
+    "task_description": "Cut or drill holes in floors, walls, or roof to install equipment, using power saws or drills.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23571",
+    "task_description": "Measure, cut, thread, or bend pipe or tubing, using pipe fitter's tools.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23578",
+    "task_description": "Lift and align components into position, using hoist or block and tackle.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23580",
+    "task_description": "Repair or service heating, ventilating, and air conditioning (HVAC) systems to improve efficiency, such as by changing filters, cleaning ducts, and refilling non-toxic refrigerants.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23581",
+    "task_description": "Test pipes, lines, components, and connections for leaks.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23582",
+    "task_description": "Weld components in flat, vertical, or overhead positions.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23583",
+    "task_description": "Operate safety equipment and use safe work habits.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23585",
+    "task_description": "Recognize, set up, and operate hand and power tools common to the welding trade, such as shielded metal arc and gas metal arc welding equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23586",
+    "task_description": "Weld separately or in combination, using aluminum, stainless steel, cast iron, and other alloys.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23593",
+    "task_description": "Chip or grind off excess weld, slag, or spatter, using hand scrapers or power chippers, portable grinders, or arc-cutting equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23596",
+    "task_description": "Align and clamp workpieces together, using rules, squares, or hand tools, or position items in fixtures, jigs, or vises.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23606",
+    "task_description": "Operate metal shaping, straightening, and bending machines, such as brakes and shears.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23610",
+    "task_description": "Use fire suppression methods in industrial emergencies.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23617",
+    "task_description": "Repair or replace gas piping.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23636",
+    "task_description": "Plate articles such as jewelry pieces and watch dials, using silver, gold, nickel, or other metals.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23661",
+    "task_description": "Remove grease, dirt, paint, or rust from surfaces in preparation for paint application, using abrasives, solvents, brushes, blowtorches, washing tanks, or sandblasters.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23680",
+    "task_description": "Repair mold defects, such as cracks or broken edges, using patterns, mold boxes, or hand tools.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23693",
+    "task_description": "Assist workers in tasks, such as loading vehicles.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23803",
+    "task_description": "Prevent ships under navigational control from engaging in unsafe operations.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23827",
+    "task_description": "Tow and maneuver barges or signal tugboats to tow barges to destinations.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23831",
+    "task_description": "Conduct safety drills such as man overboard or fire drills.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23841",
+    "task_description": "Load baggage or cargo for crew or passengers.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23842",
+    "task_description": "Mix cleaning compounds or solutions.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23872",
+    "task_description": "Obtain merchandise from bins or shelves.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23887",
+    "task_description": "Provide assistance or direction to other stockroom, warehouse, or storage yard workers.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23890",
+    "task_description": "Pack customer purchases in bags or cartons.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23899",
+    "task_description": "Operate equipment such as forklifts.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23900",
+    "task_description": "Receive, unload, open, unpack, or issue sales floor merchandise.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  },
+  {
+    "task_id": "23944",
+    "task_description": "Monitor, inspect, or test mechanical equipment.",
+    "onet_version": "27.2",
+    "evidence_status": "ai_confirmed_incident_activity"
+  }
+]

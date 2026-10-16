@@ -1,0 +1,7 @@
+outcome,model,n,intercept,slope,r_squared,estimation
+rate,posting_weighted,546,88.7643086130682,743.4708843764201,0.03936782530027205,"Unweighted OLS across occupations, intercept plus one bundle-share predictor; in-sample descriptive association"
+rate,posting_unique,546,79.99603407029032,977.665401618897,0.0379987669467039,"Unweighted OLS across occupations, intercept plus one bundle-share predictor; in-sample descriptive association"
+rate,onet_unique,546,132.0395258860935,810.7659910031631,0.03443874169428773,"Unweighted OLS across occupations, intercept plus one bundle-share predictor; in-sample descriptive association"
+log_rate,posting_weighted,546,3.3999331517073443,8.384691613576875,0.2288581320718729,"Unweighted OLS across occupations, intercept plus one bundle-share predictor; in-sample descriptive association"
+log_rate,posting_unique,546,3.3492443966023546,10.492476653319644,0.20004315781270798,"Unweighted OLS across occupations, intercept plus one bundle-share predictor; in-sample descriptive association"
+log_rate,onet_unique,546,3.9669469356338842,7.379764013213328,0.1304126874028978,"Unweighted OLS across occupations, intercept plus one bundle-share predictor; in-sample descriptive association"
