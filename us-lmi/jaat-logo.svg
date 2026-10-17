@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="4in" height="1.5in"
+     viewBox="0 0 400 150">
+  <rect x="0" y="0" width="400" height="150" fill="white"/>
+  <g transform="translate(25 4) scale(1.5)">
+    <!-- Handle (behind lens; pill via stroke-linecap) -->
+    <line x1="55" y1="55" x2="85" y2="85"
+          stroke="black" stroke-width="11" stroke-linecap="round"/>
+    <!-- Lens ring (white fill hides handle behind it) -->
+    <circle cx="38" cy="38" r="24"
+            fill="white" stroke="black" stroke-width="7"/>
+    <!-- Briefcase handle (U-shape above body) -->
+    <path d="M 33 34 V 29 Q 33 27 35 27 L 41 27 Q 43 27 43 29 V 34"
+          fill="none" stroke="black" stroke-width="2"/>
+    <!-- Briefcase body -->
+    <rect x="27" y="34" width="22" height="15" rx="1.5" fill="black"/>
+    <!-- Clasp/latch -->
+    <rect x="34" y="40" width="8" height="2.5" fill="white"/>
+  </g>
+  <text x="170" y="82"
+        font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-weight="700"
+        font-size="64"
+        fill="black">JAAT</text>
+  <text x="172" y="115"
+        font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-weight="400"
+        font-size="19"
+        fill="black">Job Ad Analysis Toolkit</text>
+</svg>
